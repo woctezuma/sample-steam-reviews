@@ -47,16 +47,16 @@ TODO
 TODO
 
 
-[build]: <https://travis-ci.org/woctezuma/sample-steam-banners>
-[build-image]: <https://travis-ci.org/woctezuma/sample-steam-banners.svg?branch=master>
+[build]: <https://travis-ci.org/woctezuma/sample-steam-reviews>
+[build-image]: <https://travis-ci.org/woctezuma/sample-steam-reviews.svg?branch=master>
 
-[pyup]: <https://pyup.io/repos/github/woctezuma/sample-steam-banners/>
-[dependency-image]: <https://pyup.io/repos/github/woctezuma/sample-steam-banners/shield.svg>
-[python3-image]: <https://pyup.io/repos/github/woctezuma/sample-steam-banners/python-3-shield.svg>
+[pyup]: <https://pyup.io/repos/github/woctezuma/sample-steam-reviews/>
+[dependency-image]: <https://pyup.io/repos/github/woctezuma/sample-steam-reviews/shield.svg>
+[python3-image]: <https://pyup.io/repos/github/woctezuma/sample-steam-reviews/python-3-shield.svg>
 
-[codecov]: <https://codecov.io/gh/woctezuma/sample-steam-banners>
-[codecov-image]: <https://codecov.io/gh/woctezuma/sample-steam-banners/branch/master/graph/badge.svg>
+[codecov]: <https://codecov.io/gh/woctezuma/sample-steam-reviews>
+[codecov-image]: <https://codecov.io/gh/woctezuma/sample-steam-reviews/branch/master/graph/badge.svg>
 
-[codacy]: <https://www.codacy.com/app/woctezuma/sample-steam-banners>
-[codacy-image]: <https://api.codacy.com/project/badge/Grade/TODO>
+[codacy]: <https://www.codacy.com/app/woctezuma/sample-steam-reviews>
+[codacy-image]: <https://api.codacy.com/project/badge/Grade/1f8b420b27344e48bfa54dee59d76f62>
 
