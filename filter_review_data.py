@@ -31,9 +31,13 @@ def load_english_reviews(language_str='english', verbose=True):
     english_review_dict = dict()
     for is_upvote in [True, False]:
         for review_id in languages[language_str][is_upvote]:
+            review_text = review_dict['reviews'][review_id]['review']
+            review_usefulness = float(review_dict['reviews'][review_id]['weighted_vote_score'])
+
             english_review_dict[review_id] = dict()
-            english_review_dict[review_id]['review'] = review_dict['reviews'][review_id]['review']
+            english_review_dict[review_id]['review'] = review_text
             english_review_dict[review_id]['voted_up'] = is_upvote
+            english_review_dict[review_id]['usefulness'] = review_usefulness
 
     if verbose:
         print('Loading {} English reviews.'.format(len(english_review_dict)))
@@ -41,5 +45,44 @@ def load_english_reviews(language_str='english', verbose=True):
     return english_review_dict
 
 
+def get_useful_reviews(english_review_dict, num_reviews=5, voted_up=None, length_threshold=150):
+    review_ids = english_review_dict.keys()
+
+    review_ids = filter(lambda x: len(english_review_dict[x]['review']) > length_threshold, review_ids)
+
+    if voted_up is None:
+        pass
+    elif voted_up:
+        review_ids = filter(lambda x: english_review_dict[x]['voted_up'], review_ids)
+    else:
+        review_ids = filter(lambda x: not english_review_dict[x]['voted_up'], review_ids)
+
+    useful_review_ids = sorted(review_ids,
+                               key=lambda x: english_review_dict[x]['usefulness'],
+                               reverse=True)
+
+    the_most_useful_review_ids = useful_review_ids[:num_reviews]
+
+    return the_most_useful_review_ids
+
+
+def print_useful_reviews(english_review_dict, verbose=True):
+    useful_positive_review_ids = get_useful_reviews(english_review_dict, voted_up=True)
+    useful_negative_review_ids = get_useful_reviews(english_review_dict, voted_up=False)
+
+    the_most_useful_positive_review = english_review_dict[useful_positive_review_ids[0]]['review']
+    print('\nThe most useful positive review: {} characters\n'.format(len(the_most_useful_positive_review)))
+    if verbose:
+        print(the_most_useful_positive_review)
+
+    the_most_useful_negative_review = english_review_dict[useful_negative_review_ids[0]]['review']
+    print('\nThe most useful negative review: {} characters\n'.format(len(the_most_useful_negative_review)))
+    if verbose:
+        print(the_most_useful_negative_review)
+
+    return
+
+
 if __name__ == '__main__':
     english_review_dict = load_english_reviews()
+    print_useful_reviews(english_review_dict)
