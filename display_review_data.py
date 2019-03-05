@@ -41,7 +41,7 @@ def print_regional_summary(review_dict):
     return
 
 
-def plot_regional_review_lenght(review_dict, language='english'):
+def plot_regional_review_length(review_dict, language='english'):
     languages = cluster_reviews_by_language(review_dict)
 
     selected_reviews = []
@@ -60,4 +60,4 @@ if __name__ == '__main__':
     review_dict = load_reviews()
     print_global_summary(review_dict)
     print_regional_summary(review_dict)
-    plot_regional_review_lenght(review_dict)
+    plot_regional_review_length(review_dict)
