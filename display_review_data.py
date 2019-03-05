@@ -1,3 +1,7 @@
+import matplotlib.pyplot as plt
+import seaborn as sns
+from scipy import stats
+
 from download_review_data import load_reviews
 from filter_review_data import cluster_reviews_by_language
 
@@ -37,7 +41,23 @@ def print_regional_summary(review_dict):
     return
 
 
+def plot_regional_review_lenght(review_dict, language='english'):
+    languages = cluster_reviews_by_language(review_dict)
+
+    selected_reviews = []
+    for is_upvote in [True, False]:
+        selected_reviews += languages[language][is_upvote]
+
+    x = [len(review_dict['reviews'][review_id]['review']) for review_id in selected_reviews]
+    sns.distplot(x, kde=False, fit=stats.gamma)
+    plt.title('Length of ' + language.title() + ' reviews')
+    plt.show()
+
+    return
+
+
 if __name__ == '__main__':
     review_dict = load_reviews()
     print_global_summary(review_dict)
     print_regional_summary(review_dict)
+    plot_regional_review_lenght(review_dict)
