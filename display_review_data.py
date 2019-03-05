@@ -33,10 +33,19 @@ def print_regional_summary(review_dict):
         positive = language_stats[True]
         negative = language_stats[False]
         num_reviews = len(positive) + len(negative)
+        ratio_num_reviews = len(positive) / num_reviews
 
-        print('Language = {} ; #reviews = {} ({:.0%} positive)'.format(language,
-                                                                       num_reviews,
-                                                                       len(positive) / num_reviews))
+        positive_length = sum(map(len, [review_dict['reviews'][review_id]['review'] for review_id in positive]))
+        negative_length = sum(map(len, [review_dict['reviews'][review_id]['review'] for review_id in negative]))
+        total_length = positive_length + negative_length
+        ratio_length = positive_length / total_length
+
+        print('Language = {:10} #reviews = {:5} ({:.0%} positive) ; #characters = {:10} ({:.0%} positive)'.format(
+            language.title(),
+            num_reviews,
+            ratio_num_reviews,
+            total_length,
+            ratio_length))
 
     return
 
