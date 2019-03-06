@@ -45,7 +45,7 @@ def load_english_reviews(language_str='english', verbose=True):
     return english_review_dict
 
 
-def get_useful_reviews(english_review_dict, num_reviews=5, voted_up=None, length_threshold=150):
+def get_useful_reviews(english_review_dict, voted_up=None, length_threshold=150):
     review_ids = english_review_dict.keys()
 
     review_ids = filter(lambda x: len(english_review_dict[x]['review']) > length_threshold, review_ids)
@@ -61,9 +61,7 @@ def get_useful_reviews(english_review_dict, num_reviews=5, voted_up=None, length
                                key=lambda x: english_review_dict[x]['usefulness'],
                                reverse=True)
 
-    the_most_useful_review_ids = useful_review_ids[:num_reviews]
-
-    return the_most_useful_review_ids
+    return useful_review_ids
 
 
 def print_useful_reviews(english_review_dict, verbose=True):
