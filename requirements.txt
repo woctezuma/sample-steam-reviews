@@ -1,2 +1,2 @@
-steamreviews==0.6.0
+steamreviews==0.7.0
 langdetect==1.0.7
