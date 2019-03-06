@@ -48,7 +48,8 @@ def load_english_reviews(language_str='english', verbose=True):
 def get_useful_reviews(english_review_dict, voted_up=None, length_threshold=150):
     review_ids = english_review_dict.keys()
 
-    review_ids = filter(lambda x: len(english_review_dict[x]['review']) > length_threshold, review_ids)
+    print('Filtering out reviews with strictly fewer than {} characters.'.format(length_threshold))
+    review_ids = filter(lambda x: len(english_review_dict[x]['review']) >= length_threshold, review_ids)
 
     if voted_up is None:
         pass
