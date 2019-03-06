@@ -37,7 +37,7 @@ def load_english_reviews(language_str='english', verbose=True):
             english_review_dict[review_id] = dict()
             english_review_dict[review_id]['review'] = review_text
             english_review_dict[review_id]['voted_up'] = is_upvote
-            english_review_dict[review_id]['usefulness'] = review_usefulness
+            english_review_dict[review_id]['weighted_vote_score'] = review_usefulness
 
     if verbose:
         print('Loading {} English reviews.'.format(len(english_review_dict)))
@@ -45,10 +45,11 @@ def load_english_reviews(language_str='english', verbose=True):
     return english_review_dict
 
 
-def get_useful_reviews(english_review_dict, num_reviews=5, voted_up=None, length_threshold=150):
+def get_useful_reviews(english_review_dict, voted_up=None, length_threshold=150):
     review_ids = english_review_dict.keys()
 
-    review_ids = filter(lambda x: len(english_review_dict[x]['review']) > length_threshold, review_ids)
+    print('Filtering out reviews with strictly fewer than {} characters.'.format(length_threshold))
+    review_ids = filter(lambda x: len(english_review_dict[x]['review']) >= length_threshold, review_ids)
 
     if voted_up is None:
         pass
@@ -58,12 +59,10 @@ def get_useful_reviews(english_review_dict, num_reviews=5, voted_up=None, length
         review_ids = filter(lambda x: not english_review_dict[x]['voted_up'], review_ids)
 
     useful_review_ids = sorted(review_ids,
-                               key=lambda x: english_review_dict[x]['usefulness'],
+                               key=lambda x: english_review_dict[x]['weighted_vote_score'],
                                reverse=True)
 
-    the_most_useful_review_ids = useful_review_ids[:num_reviews]
-
-    return the_most_useful_review_ids
+    return useful_review_ids
 
 
 def print_useful_reviews(english_review_dict, verbose=True):

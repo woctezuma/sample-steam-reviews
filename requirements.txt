@@ -1,2 +1,4 @@
+steampi
+steamspypi
 steamreviews==0.7.0
 langdetect==1.0.7

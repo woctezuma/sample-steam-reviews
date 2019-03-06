@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Download Steam reviews for Artifact
+### Download Steam reviews for Artifact and for the top 100 most played games in the past 4 weeks
 
 ```
 python download_review_data.py
@@ -37,6 +37,14 @@ python filter_review_data.py
 ```
 python display_review_data.py
 ```
+
+
+### Download app details for Artifact and for the top 100 most played games in the past 4 weeks
+
+```
+python download_app_data.py
+```
+
 
 ## Results
 

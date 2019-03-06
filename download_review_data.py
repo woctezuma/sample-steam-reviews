@@ -1,4 +1,5 @@
 import steamreviews
+import steamspypi
 
 
 def get_artifact_app_id():
@@ -10,6 +11,8 @@ def get_artifact_app_id():
 
 
 def dowload_reviews(app_id=None):
+    # For app_id, download all the reviews
+
     if app_id is None:
         app_id = get_artifact_app_id()
 
@@ -27,5 +30,34 @@ def load_reviews(app_id=None):
     return review_dict
 
 
-if __name__ == '__main__':
+def download_reviews_for_top_100():
+    # For each of the top 100 most played games, download English reviews, sorted by helpfulness, for the past 4 weeks
+
+    data_request = dict()
+    data_request['request'] = 'top100in2weeks'
+    data = steamspypi.download(data_request)
+
+    app_ids = list(data.keys())
+
+    request_params = dict()
+    request_params['language'] = 'english'
+    request_params['filter'] = 'all'  # reviews are sorted by helpfulness instead of chronology
+    request_params['day_range'] = '28'  # focus on reviews which were published during the past four weeks
+
+    steamreviews.download_reviews_for_app_id_batch(app_ids, chosen_request_params=request_params)
+
+    return
+
+
+def main():
+    # Artifact
     review_dict = dowload_reviews()
+
+    # Top 100
+    download_reviews_for_top_100()
+
+    return
+
+
+if __name__ == '__main__':
+    main()
