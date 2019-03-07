@@ -108,7 +108,7 @@ def train(path, maxlen=30):
 
 
 def generate_from_word_level_rnn(path, maxlen=30, diversity=1.0, min_sent_len=10, max_sent_len=65):
-    with open(path, "r") as f:
+    with open(path, "r", encoding='utf-8') as f:
         text = f.read().lower().split()[:4940]
     words = set(text)
     start_index = random.randint(0, len(text) - maxlen - 1)
