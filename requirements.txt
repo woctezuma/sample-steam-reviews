@@ -3,5 +3,5 @@ steamspypi==1.0.0
 steamreviews==0.7.0
 langdetect==1.0.7
 keras
-numpy
+numpy==1.16.2
 cntk
