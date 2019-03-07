@@ -157,7 +157,7 @@ if __name__ == '__main__':
 
     params = get_params(text)
 
-    maxlen = 40
+    maxlen = 20
     model = train_model(text, maxlen)
 
     start_index = random.randint(0, len(text) - maxlen - 1)
