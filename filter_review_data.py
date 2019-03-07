@@ -178,6 +178,9 @@ def filter_out_reviews_not_detected_as_english(english_review_dict, detected_lan
 
 
 def filter_reviews(app_id=None):
+    if app_id is None:
+        app_id = get_artifact_app_id()
+
     english_review_dict = load_english_reviews(app_id)
 
     english_review_dict = filter_out_short_reviews(english_review_dict, length_threshold=150)
@@ -191,12 +194,11 @@ def filter_reviews(app_id=None):
 
 
 def main():
-    # Pre-processing
+    # Pre-processing (only required once)
     apply_language_detector()
 
     # Processing: Artifact
     app_id = get_artifact_app_id()
-
     english_review_dict = filter_reviews(app_id)
 
     return
