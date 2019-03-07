@@ -51,7 +51,8 @@ python sort_review_data.py
 # Char-level n-grams:
 python char_level_ngrams.py
 
-# Char-level RNN: either run this script, or the `char_level_rnn.ipynb` notebook on Google Colab. 
+# Char-level RNN: either run this script,
+# or the `char_level_rnn.ipynb` notebook on Google Colab. 
 python char_level_rnn.py
 ```
 
@@ -60,14 +61,16 @@ python char_level_rnn.py
 **Caveat**: this does not work for now (too much RAM used due to one-hot encoding of words).
 
 ```
-# Word-level RNN: either run this script, or the `word_level_rnn.ipynb` notebook on Google Colab. 
+# Word-level RNN: either run this script,
+# or the `word_level_rnn.ipynb` notebook on Google Colab. 
 python word_level_rnn.py
 ```
 
 ### Learn word-level models with GloVe embeddings
 
 ```
-# Word-level RNN with embeddings: either run this script, or `word_level_rnn_with_embeddings.ipynb` on Google Colab. 
+# Word-level RNN with embeddings: either run this script,
+# or the `word_level_rnn_with_embeddings.ipynb` notebook on Google Colab. 
 python word_level_rnn_with_embeddings.py
 ```
 
