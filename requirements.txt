@@ -4,4 +4,4 @@ steamreviews==0.7.0
 langdetect==1.0.7
 keras
 numpy
-cntk
+cntk==2.6
