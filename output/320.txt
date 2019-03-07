@@ -1,0 +1,401 @@
+Are you seeing this because you are intrested to buy it on a sale? Don't even read further and get it right away for these few $ it is worth. Still curious? Let me explain why my hours for this game are so high.
+
+This game has a very active modding scene who created a variety of different gamemodes. Unlike the name deathmatch tells you there is plenty of other things to do making it fun for everybody. The community is great and in many places very helpfull. They will sort out bugs you have or simply teach you how to play the game. You should definately buy this game! Expand the review to learn about its gamemodes.
+
+[B](Team) Deathmatch[/B]
+Servers : Common
+Sub Types : 1v1 , Matches , Bots , Variety of gravity's , KillBox
+
+As the name of the game indicates this is the original gamemode of the game. There are many different kinds of maps. Killbox is mainly a box where you can hit about everyone with some stuff for you to mess with. Other maps can involve a variety of sceneries (Mappers like to use there own themes instead of just City 17). There is still an active competitive scene so if your up for 1v1 matches dig around and you can surely find them. Some servers often killbox like to turn the gravity down for some low gravity fun.
+
+The gunplay is what i call "Unbalanced". This means that some guns are clearly superior over other guns and you will have to focus on getting better weapons from the moment you spawn (Quake style but not as extreme). If this is not your thing just continue reading because there are plenty of modes for you to find.
+
+The most populair frag video from a well known clan : http://www.youtube.com/watch?v=OtJgwl0EfgU
+
+[B] Cooperative [/B]
+Servers : Common
+Sub Types : Exclusive maps to some servers, Multiple gravities, Exclusive Weapons to some servers, Dual Coop
+
+This is my personal favorite mode. Infact i like this mode so much i built an entire [url=http://www.bouncyball.eu/play]server[/url] around it.
+
+In cooperative maps you work together with your team to destroy the aliens of the singleplayer game (Combines are broken). Additionaly some of the maps give you challenges similair to the physics puzzles in the original game or allow 2 teams to mix cooperative with the deathmatching (Both examples are rare as most maps are normal cooperative).
+
+Here is some uncut gameplay from my server to give an incidation of what the gamemode is like : http://www.youtube.com/watch?v=OxjxStzUAv4
+
+
+[B] Puzzle [/B]
+Servers : Common
+
+The name says it all. You are put in a map where you have to complete a set of puzzles in order to beat the map.
+The puzzles you get a very varied and can involve anything from finding a path in a minefield , driving airboats along a track , building your way to the exit or hitting targets with a specified gun. Puzzle map creators are very creative in the challenges they think up so each map will have its own unique challenges to beat.
+
+Puzzle map gameplay : http://www.youtube.com/watch?v=HUVN46I_TYw
+
+
+[B] Roleplay [/B]
+Servers : Common
+
+Roleplay is another fan favorite for many people of the game. It is cops and robbers style gameplay where you buy and sell your items and on alot of servers you can even buy and decorate your own house. Personally i did not play it much so my review would probabbly fall short of the possibility's in these servers.
+
+Probabbly not the best vid : http://www.youtube.com/watch?v=o54-ZKvVP8A
+
+[B] Surf [/B]
+Servers : Rare
+Sub Types : With or without weapons (With is more common)
+
+Surf is something adopted from the counterstrike community. It all involves trying to surf down a track of slidey walls and not falling of the sides. On most maps depending on where you failed you get placed in a deathmatch box with a better weapon then those who failed before you.
+
+Surf Gameplay : http://www.youtube.com/watch?v=GuexNobUAS0
+
+[B] Trick Jumping [/B]
+Servers : Medium Rare
+
+These maps are similair to Surf in the way that you are trying to get from A to B. They mostly do not involve gunplay of any kind. Instead of sliding along walls you have to beat jumps of increasing difficulty. While fun on its own this is also often used to train for better movement in the deathmatches.
+
+Hard Trickjump Gameplay : http://www.youtube.com/watch?v=dEeuAHpI9l8
+
+[B] Zombiemod [/B]
+Servers : Rare
+Sub Types : Hybrd with zombie survival , Straight up killing
+
+While there are zombiemod servers they are not always around as these servers run different modes and the type of zombiemod also depends strongly on the server you play it on. Other servers usually have a bigger deathmatch focus and no npc's but since i only play it on mine i will tell you how it goes on our server.
+
+The round starts with everyone as a survivor where you fight unlimited npc zombies in a set time. Once someone fails and greats beaten he will join the other team and only have a crowbar. Zombies are slower then survivors by default but are the only team that can use the spint ability. Survivors win by surviving long enough while zombies win by making sure all humans are dead.
+
+In case you want to play it and no other servers are running zombiemod you can join our server [url=http://bouncyball.eu/play]bouncyball[/url] and vote for one of the zombiemod maps using !jb.
+
+[B] Deathrun [/B]
+Servers : Rare
+
+In deathrun one team tries to run from A to B and the other sets off traps to stop them. There are a vareity of maps all with there own set of traps.
+
+Gameplay from the most populair deathrun server : http://www.youtube.com/watch?v=UYEpKmfEAz8
+
+[B] Scripting / Cheating / Building [/B]
+Servers : Rare
+Sub Types : Cheating , Building using server commands only
+Wait what? Cheating? Hacking? o.O
+Why would anyone want to do this?
+
+The answer is simple. Using cheats and "Hacks" very cool stuff can be done in the engine. Do not expect these servers to be overrun with aimbotters (although some people will kill your godmode protection off). This is all about creating great things with the cheats in the game or your own custom addons.
+
+Sadly all good videos of this have been removed but a quick summery of some stuff i saw : Giant Mechs (Working) , Space invaders remade , Dokuman attack , gm_flatgrass turned into a forest , Gigantic volcano jump challenge that will explode in a cool manner when beaten.
+
+The possiblity's are HUGE!
+
+[B] Conclusion [/B]
+I probabbly missed alot of gamemodes as these are server experiments. Think about FreezeTag or extremely modified servers.
+
+The server in this video has been remade entirely and most of the things shown are no longer there but it is a good indication of how crazy the game can get : http://www.youtube.com/watch?v=kCmgRmg92Yo.
+
+It is also worth mentioning that as you can see in the above vid servers have a lot of control over the gameplay as they can program new features themselfs using the addon support for the game. Think about things such as statistics , jetpacks ropes and hooks , teleports , midget mode and many more.
+
+I hope my insiders view gave you a good insight in why this game is so well loved as the steam store page simply does not cut its job. The game has its drawbacks that in the past it has been ruined by valve quite a bit (And then fixed by valve and the community for the most part). Because valve does not look at this game very often the description and screenshots on the storepage are simply acient and you can experience some bugs and crashes. The more populair servers will do anything they can to provide a sollid gameplay experience so no worries.
+This game is a hidden gem among the deep heart of steam's heart.
+Half Life 2 Deathmatch throws all the HL2 weapons and throws you in an amazing selection of maps to fight in.
+This game is the lovely old deathmatch styled games. You either kill, or be killed! No hiding like games nowdays. You are the man, the badass, the Shit. Skill is everything, not some weapon you need to buy for 5 dollars.
+Half Life 2 Deathmatch takes the badassness to the next level. You get to throw toilet bowls at each other with the gravity gun and get to time frags like a boss.
+Sadly, the fans of deathmatches aren't as popular as the past. So recommend this piece of badassery to your friends.
+10/10 Can shoot toilet bowls
+Have you ever been playing Half-Life 2 and wished you could shoot Rebels instead of Combine? (I know I did.) Well now you can thanks to the online-only Half-Life 2 Death Match. Released all the way back in 2004 for the PC, it only recently come to Mac courtesy of Valve's Steam service.
+I actually don't like Half-Life 2 as much as Half-Life 1. I recognize it as a great game, just one that doesn't appeal to me. I like the story, the characters and setting. But there is one thing I can't stand: The combat. Something about it just feels really stilted and awkward. I could never quite be sure why, I just knew I didn't like it. So I was a little hesitant to pick up HL2 Death Match, but what did I find? It's not only good - it's ridiculously fun. Placing the game in a fast paced frag-fest somehow transformed it from being unplayable, to immensely enjoyable.
+
+The premise here is simple: Get on a team or a Free For All (FFA) Map and start shooting. There's no multiple game types, complicated maps or weapons. But the game's simplicity is also in its favor. It's easy to learn and jump right into and have a good time without having a learning curve. Unless of course you are completely new to shooters online, you will be having fun right away.
+
+Maps are diverse without being confusing. There are a number of larger outdoor settings in which to get around or several indoor settings where hallways are narrow confines that define the combat arena. One map has a control room which launches a missile after a few minutes that kills everyone outside. Once you hit the button an alarm goes off and everyone scrambles to get inside as the blast doors close. It's thrilling to slip under them just as they shut, but then you are locked indoors for a minute with everyone else trying to survive until the doors open again.
+
+Half-Life 2's excellent physics are on full display here as crates and objects break, glass shatters, and the ragdoll of your dead enemy crumbles oh-so satisfyingly to the ground after a shotgun blast to the head. Explosions of any kind also cause hilarious results, with bodies flying through the air, and bouncing off walls due to a well placed grenade or rocket blast.
+
+If you haven't played HL2, then the weapon load-out is also simple, but unique enough to keep things interesting. Everyone starts with a melee weapon, a pistol, a submachine gun and two grenades. So when you spawn you aren't helpless. In standard death match fashion, better weapons, ammo, armor and health are strewn about the maps for you to pickup. Learning the spawn locations of the superior weaponry will certainly help you get a leg up over the competition. My personal favorites are the shotgun, and the crossbow which serves as the game's sniper weapon. You also get an energy machine gun, and laser-mines which can be set on walls or the ground for the unsuspecting passer-by.
+
+I found the rocket-launcher to be a little unwieldy as it's laser-guided only, so you can't just shoot and forget. If you move your aimer, the rocket follows. This works for and against you, I found. Suffice to say if you see a red laser dot near you or on a teammate, get out or the next thing you see will be your limp body flying through the air.
+
+Most guns also have an alternate fire. The shotgun can fire two shells at once, the submachine gun can pickup grenades for an underhand launcher, and the energy gun can also get an insta-kill ball of plasma that fries your opponents into little bits. But most unique of all is that everyone also starts with a Gravity Gun which allows you to push or pickup objects and then shoot them at other players. Almost anything you pickup serves as an instant death, whether it's a crate, table, shovel or toilet you launch. High-use gravity gun matches are humorous as all manner of objects fly around the map in an attempt to crush the opposing team or players.
+
+The game is of course built on Valve's own Source engine, and despite being a little dated the game still looks great. It's not going to win any awards these days, but it's still visually pleasing and it certainly doesn't detract from the experience. Since it doesn't have the fanciest eye-candy around, the game should easily run on just about any computer, unless you have one that is more than several years old. I encountered the occasional odd spawning glitch, or visual bug but it was rare, and the game was smooth and never crashed.
+
+Sound also remains minimal with no music. What you will be hearing is the patter of footsteps, the constant chatter of gunfire, muffled explosions or the sound of dying. I personally like to put on some iTunes to blast away to, but the minimalistic approach to sound doesn't take away from the gameplay at all. What is there stands out sharply and clearly with no interference and allows you to easily identify what is going on. Voice chat is also present, which is easy to use with the press of a button, and is crisp and clear.
+
+At only $5, and a few cents when on sale, Half-Life 2 Death Match is a no-brainer. Whether you are a Half-Life fan to begin with, or just a fan of online shooters, the game is simple, outrageous fun. It's easy to jump into, but remains entertaining even after hours of play. The player-base is great, and there's always several matches available to hop into for Team play or FFA. Buy it and start launching toilets and barrels at your friends today.
+Main attaction here is the gravity gun. Pick up whatever you please, and throw it at the enemy.
+
+I just hope you don't buy the title for itself. Get it in a pack, so things are a little understable. Servers aren't common, as a few hours of thowing things around is good enough.
+
+I don't really feel like giving this title a rating, as it should be purchased in a pack with HL2...
+
+7/10 - Solid game for being a "chuck that object at that" simulator.
+Since you're reading this review ill tell you a quick summary about the game and what it has brought to me.
+
+[STORY]
+I first started playing this game back in 2010 first game I ever bought I didnt think it would take 
+all my time, but WOW is this game still much fun packed! When i first joined and played there were
+many and many fun servers to join some deathmatch, puzzles,coop, and TDM. I met the majority of my steam friends here... and enemies. 
+The noob i was helplessly getting killed over and over wanted me to just leave the game but something inside of me some power hidden
+told me not to quit and keep playing and boy was it right!
+
+[Quick Game Summary as of 2016 Feb 5th]
+
+As of now this game still has plenty of servers to join and are still much fun to play make sure you filter in the settings to Users playing in servers to have a better chance of finding Actual People in servers playing. The community of this game is very small now but everyone is nice, and helpful if you stick around long enough you will get to meet everyone , and become a regular  and make new friends. The type of game modes which are still around are Team-Deathmatch, Co-op, Puzzles,Deathrun, and Role-Play. HL2:DM still has much potential in it but the Developers just left it in the dust luckily we have very talented modders in the community who still make Beautiful maps, and amazing Pluggins for your enjoynment. For the Price of $5 this is a get right away game and play! You will need all Skills for this bad boy game no hacks,  practice on servers with bots and you will improve much more speed and accuracy for Deathmatch . Just like the good there is always the BAD you have to be careful when you play on specific servers, you will have the players and the Admins who will kick and ban for being better than them at the game. The game can be very fast paced or very slow paced for you campers depending which servers you join
+some have the fast kill one shot and others have the stock settings which take a few bullets more to kill. I honestly would say i put a lot of hours into this game,  and heck? i dont think i will ever be done playing this so I urge you to buy this game and try it out for yourself It is truly a "Classic Jewl of a FPS game."
+-Update 2: 
+
+Still going hard in 2019
+
+-Update:
+
+This game has taken too much of my life away but it was worth it lols.
+
+This game is like a relationship, one day you hate it so much and get so angry and the next you love it so much and it's the best game ever.  It has flaws like any person and it has good things about it.  Dispite the bullshit, it's the best fucking game ever made
+Nice game and cheap
+
+I got it from the HL2 ep 1 pack  with HL2 EP 1 and HL dethmatch source i saved up 18$
+
+worth it 
+
+i didn't played much yet cuz i got it in 2017 but it is not dead there are lots of server to play with many people that are not noobs
+
+
+NOT WASTE OF MONEY
+I like this game. It's pretty fun, and you get it when you purchase EP1 so you can have a multiplayer experience.
+
+I don't get everyone calling this game empty; It feels somewhat empty, but theres about 20 servers to play on with real people and almost no bots. I wouldn't call it empty, I say it has one foot in the grave. The community is in great shape for 2015, just like CS 1.6. There's still people playing, and there's also a lot of English people.
+
+Also, this game is hard to master. People can kill you with radiators, tooth brushes, rubber ducks (yes) and other objects you can pick up with the gravity gun. Once you get it, you'll have lots of fun. 
+
+[b]Also, DO NOT BUY IT HERE. Go buy HL2 EP1. It comes with EP1, Deathmatch and Deathmatch Source. You'll truly get a bang for your buck.[/b]
+Barely anyone on your friends list will be seen playing this untouched gem but theres plenty of players and many great mods. Death match at bare bones.
+Overview
+
+Half-life 2: Deathmatch is a 3D multiplayer first-person shooter developed and released by Valve for the PC (via Steam) on November 30, 2004. Set in the Half-Life 2 universe, the game uses many of the original game's assets and pits players together in simple deathmatch.
+
+In addition, the game includes a themed "team deathmatch" variant based on the factions in the game's story (the Combine forces against the human resistance).
+
+Weapons
+
+Most of the weapons from Half-Life 2 return in this game with the same functionality (including their respective alternate firing mechanisms). New to the series is a stun baton (the Stunstick) and a satchel charge (the S.L.A.M.).
+
+-Gravity Gun - Formally known as the Zero Point Energy Field Manipulator, the Gravity Gun is the game's default weapon and is automatically given to all players. Players can use it to pick up and throw objects (including filing cabinets, toilets, and enemy grenades) at other players. Primary fire sends a blast that knocks objects in front of the player (including one that's picked up) while alternate fire attracts objects, picks them up, or sets down picked-up objects gently.
+
+-Crowbar - A standard crowbar (Gordon Freeman's signature weapon in the Half-Life series) that is automatically given to all players in the Deathmatch mode and all Rebel players in Team Deathmatch mode.
+
+-Stunstick - A standard stun baton that is automatically given to all Combine players in Team Deathmatch mode. Has a slower swing than the Crowbar, but deals almost double damage per hit.
+
+-9mm Pistol - A standard fast-firing semi-automatic pistol that is given to all players. Despite being accurate, having a high ammo capacity, and having a fast firing speed, it deals significantly low damage (with the exception of headshots).
+
+-SMG - A standard fast-firing MP7 sub-machine gun that is given to all players. Despite its low damage-per-shot, it has the highest rate-of-fire in the game and a high ammo capacity. Alternate fire tosses a small, but powerful impact grenade (which must be collected prior to firing, with a grenade capacity of 3) from the weapon.
+
+-.357 Magnum - A powerful revolver that has a slow firing rate and very small ammo capacity. Can one-hit-kill on headshots.
+
+-Pulse Rifle - Formally known as the Overwatch Standard Issue Pulse Rifle, the Pulse Rifle is a pulse-powered Combine assault rifle that deals more damage than the SMG (despite its lower ammo capacity and firing rate). Alternate fire fires a large Energy Ball (which must be collected prior to firing, with an ammo capacity of 3) that bounces off surfaces and vaporizes enemy players before exploding.
+
+-Shotgun - A standard SPAS-12 pump-action shotgun that is powerful at short-to-medium range. Alternate fire has the weapon firing twice in quick succession.
+
+-Crossbow - A powerful bolt-firing crossbow that is very effective in distant ranges, but is very hard to use (due to its very low ammo capacity, very slow reloading speed, and slow projectile speed of the bolt). Alternate fire toggles the weapon's scope, allowing players to zoom-in on their targets.
+
+-Grenade - A standard (yet powerful) timed grenade that explodes several seconds after being thrown (via primary fire) or dropped (via alternate fire). Two grenades are given to all players as they spawn, with a maximum grenade capacity of 5.
+
+-RPG - A very powerful rocket-propelled grenade launcher with a laser-guidance system (toggled with the alternate fire button) that allows players to steer the rocket towards the laser's destination. Has a maximum rocket capacity of 3.
+
+-S.L.A.M. - A multi-purpose satchel charge (formally known as the Selectable Lightweight Attack Munition) that doubles as both a laser trip mine and a remotely-detonated explosive (which is detonated by the alternate fire button). Despite its lower blast radius than the other explosive weapons, it has the highest damage output. Has a maximum ammo capacity of 5.
+Had to launch it to get the "BLAST FROM THE PAST" trophy.
+
+Will always remember the game in which I've killed people with the gravity gun by throwing toilets at them.
+The graphics of this game are "touching" the next generation of video games today.
+This game was created back at 2004 and doesn't need a strong PC to run.
+Also, if you set all graphics/video settings "high" and "on", you will see beautiful maps.
+The optimization is good for low-end PCs.
+
+A lot of custom maps or custom content has added from people who plays this game, but mosly people plays at original maps. 
+The game still alive today, with a lot of servers has users/players who plays this game. (no bots).
+Also you won't see any cheater/hacker with aimbot or unlimited life or sh*t like that.
+
+Recommened for everyone who likes first person-shooter games and Deathmatch.
+After 10 years still a good game with nice physics engine. Slowly the community is almost dead, but some good players and servers you can still find. At deathmatch its better than CounterStrike, at teamdeathmatch not as its not so high tactical game. Maps are also many nice ones around made by the community. Some servers use funny mods or settings. The community itself could be a bit more friendly, as some players flaming around a lot. But in other games its mostly the same. About gameplay... it takes a while till you get involved with some tricks and the physcannon, but after a while you won`t miss that game. Cheaters are also some around, but not as much as in CounterStrike. Try to learn nade-throwing with physcannon and good jump techniques beside your aim, than you have a lot of fun. check out hl2dm.net, tsgk.com, half-life-gaming.net, bloodsuckers.de.
+Game has given me over 10 years of love. Done almost everything there is to do in this game as far as pub play, competitive play, built and played mods such as capture the flag, pro mod, gungame mods, ran servers, installed server mods and plugins, created maps and more. There is so much this game has to offer, it is sad that the developers never gave it the time of day, but even without the support it still found a way to many peoples hearts.
+===[ ❤ Audience: ]=== 
+☐ Kids
+☐ Everyone
+☑ Casual (CASULS) players
+☑ Pro players
+
+===[ ☼ Graphics: ]=== 
+☐ Potato
+☐ Really bad
+☐ Bad
+☐ OK
+☑ Good 
+☐ Beautiful 
+☐ Masterpiece
+
+===[ $ Price/quality: ]=== 
+☐ Full price
+☑ Wait for sale
+☑ Average
+☐ Refund it if you can
+☐ Don't do it
+
+===[ ☣ Requirments: ]=== 
+☐ 90' PC
+☐ Minimum
+☑ Medium 
+☐ Fast
+☐ High end 
+☐ NASA computer
+
+===[ ☼ Difficulty: ]=== 
+☐ You just need 2 arms 
+☐ Ez
+☑ Easy to learn / Hard to master 
+☐ Hard (first few hours)
+☐ Almost impossible!
+
+
+===[ ۞ Game time/length ]=== 
+☐ Really short ( 0 - 2 hours)
+☐ Short ( 2 - 8 hours)
+☐ Few hours ( 8 - 12 hours)
+☑ Long ( 12+ hours)
+☐ Endless
+
+===[ ♬ Story] === 
+☑ It doesn't have
+☐ Still better than Twilight
+☐ Average
+☐Good
+☐ Fantastic
+
+===[ § Bugs ]=== 
+☐ Game itself is one big BUG
+☐ Bugs destroying the game
+☐ Lot of bugs (But it sometimes makes the game even more fun!)
+☐Few Bugs
+☐ You can use them for speedrun
+☑ Nothing from what i know
+
+===[ ✦ Others: ]=== 
+Multiplayer: yes
+Singleplayer: Yes :if you dont have friends:
+Lotsa fun for any type of thing you lke to do deathruns rps deathmatch etc. (-Mar 17, 2012)
+
+
+(old review just putting this new scoring card in)
+Story: X
+Gameplay: 8/10 (It is limited.)
+Presentation: 7/10 (Source. old. meh. works though.)
+Soundtrack: 8/10 (I don't remember any BGM, however the SE are superb and recognizable)
+Replayability: 7/10 (If you have garry's mod this will replace it.)
+Great game, definitely one of the better games of my childhood and still the best around. Has Fps action + the ability to "sprint" with the games physics allows it to be a fast-er point and click shooter if not the fastest and the props/objects effecting it even more make it unique requiring good senses, reflex, smart reactions, coordination with just about everything to play at a decent potential. Where else can you Yoyo a grenade to keep it from 'cooking' it's fuse out before propelling it on it's last fuse reset that you can time for distance and height in coordination with how fast you are moving and your target's speed and the force of the 'gravity gun' you use to propel it with, no where else but hl2dm. Has different kinds of unique weapons like the gravity gun propelling a object to a person to kill them with, or propelling that object against another object to move that away from a distance. And to block a path with many objects or stack objects to reach a platform. Also the crossbow is an example of unique weapons with how it fires in a arch and hard to aim with even with it's scope but can kill a player instantly and with correct positioning can bounce of the floor walls ceiling terrian etc. and with enough practice can be well aimed to kill a player half the map away behind 2 corridors and a room. That is a taste of the Uniqueness of this game, after overlooking it's default multiplayer team vs team worth, there is it's booming in vast unique options to how to play the game with it's community's modded creations, there is co-op themed maps where you can fight with teammates against hordes of aliens, zombies, monsters and cyborgs getting points with the ability to use them to unlock server abilities to costumize your character with a deferent apearence, both in model skin and size, lights that glow on your model, lights that follow your model and more, then there is puzzle maps where you may enter 1 of 12 parts of the map at a time with your team or individualy and complete tasks like finding the exit in a labyrinth or placing and freezing a pile of crates to build a terrian leading to a exit floating high above in the sky or surfing on long slides without falling into abyss to reach a exit or jumping over ditches, climbing and avoiding obstacles in a temple like area to reach another exit to collect all exits and unlock the last portion of the map to complete it. Then there is Roleplay... a blend of multiplayer fps combat with gta style like the need to Purchase weapons or health or armor. Earning money by the minute with the wage given by your level or killing others for their pocket money, then saving that money to invest in a faster method of earning money like growing drugs to sell or printing money both to us on getting more guns or to purchase a home to hide in and to keep your drugs or printer safe, from other players or other players playing as Cops... who may not only steal your illegal possessions but will also place you in jail for some time so that they too may earn the points they need to progress faster and easier in that server. You may also invest in a home to hide from all players and keep your possessions safe, and to meet with your group of friends to prepare for a war against another gang, or to meet with your gang to prepare for a war against the police in alliance with other gangs for fun or for an event to earn more $. Also events are constant and include situations where a monster is spawned in the map similar to the any/many of the ones found in co-op maps that drop money on death. Another situation would be looking all over the map to find an object or player hiden with more $ $ $ that is given to the winner that finds it first. Or when admins just decide the server is full enough for a mass money drop in the middle of the map including weapons and item drops. There are also many more mods but I just thought to name a few of the ones that have me so adicted to this game. This game is worth the very low ticket price for all the fun is has to offer and is very much Alive, if not so is still rich with creativity you never know what's next. I rate it 5 out of 5 stars * * * * *.
+Half-Life 2: Deathmatch
+
+This game is fun, really fun. You should check High-Kill servers, those offer you really coof features like llow gravity and infinite ammo. This might get you frustrated at first, but after configuring the game a bit, you will most likely start toe njoy this. I mean I did a lot. Worth picking up at sale at least.
+
+Grade for this game: 9/10
+
+
+featuring bots that can actually perform 360 noscopes with any weapon and a community that is either concerningly good at the game or clearly cheating, fun with friends but you should probably stay away from other players
+This game was released before Half-Life 2 Story came out and also released the same day as Counter-Strike Source, I would like to call this game a test by Valve to see the beautiful of VPhysics engine.
+
+But still, this game is really worth for 5$ even if there's no much people playing it nowadays. The rules of the game is just simple:
+
+"Join a server, fragging, have fun."
+This game is a classics.No doubt at all.I remember i receive this game when i was 10.i dont know why,but this game seems to be really attractive to me.when i turn on the computer,i start my hl2dm,and i just play it for a whole day.Day after day.
+
+when i grow up im still playing this game until 16,it helps me get through all the depression and sad moment in my life.when i feeling upset,i sit on the computer desk and start playing hl2dm,after a couple of hours and im just pull myself together again and i can get ready for the next test.I remember those old days on puzzle map and coop map LOL
+
+This game is surely my precious childhood memories,i hope valve can remaster this game but i know it wont come true because i know halif life 3 will never release too.So Sad.
+
+Only recommend this game if you have a friend to play with,compare to few years ago,there are many active player before,but now there are just few player left.Recommend Coop map and Puzzle map for a lot of fun
+
+ChildHood. 9/10
+The times I had with this game and people playing it...
+
+
+Sadly it's kinda dying but there is still couple servers which are barely alive. This game used to have the BEST community ever. We will see eachother in HL3:DM again lads! (If I don't die in old age before that...)
+
+
+The game has changed a lot since 2004 but is still a blast. Most servers now are CoOp and High-Kill. Check out Pirates Cove, that's all you need to know ^_^
+
+Server IP
+66.151.244.149:27016
+Half-Life 2 Deathmatch is the official multiplayer component to Half-Life 2. It released about two weeks after the singleplayer and is stand-alone. It is the successor to the immensely popular and addictive multiplayer to the original game. Although it didn't have the same legacy and lasting appeal as it. 
+
+The game includes two multiplayer gamemodes. Deathmatch and Team Deathmatch. Along with a handful of multiplayer maps that were portions of the singleplayer. When I first played Half-Life 2 Deathmatch I remember being a little disappointed since it lacked content and felt like a bit of an afterthought compared to other games at the time like Counter Strike Source and Unreal Tournament 2004. 
+
+Indeed the game is mostly known for being full of hackers. Which is unfortunate since it did improve after release with mods like CTF. Half-Life 2 Deathmatch's legacy is now seen in the modifications that were based upon it, like Garry's Mod. If you want to play it today I'd suggest downloading a mod for bots and a few custom maps. It's a relic today, but a playable one. And at 5$ it does give you what you paid for. Nothing more, and nothing less.
+[table]
+    [tr]
+        [th]Detail[/th]
+        [th]Description[/th]
+    [/tr]
+    [tr]
+        [td]Level of dexterity[/td]
+        [td]Game-play requires precise shooting[/td]
+    [/tr]
+    [tr]
+        [td]Level of self-interest[/td]
+        [td]The shooting mechanism allows repeitiveness[/td]
+    [/tr]
+    [tr]
+        [td]Player-base[/td]
+        [td]800 all-time peak[/td][/tr]
+[tr]
+        [td]Community forum(s)[/td]
+        [td]10 -15 threads per week[/td][/tr]
+Fast-paced game based on the best game ever made where you need more than an aim. Kinda hard when you're new, but as you play it longer, you're getting better and better you'll love this game. For me, personally, it's the best FPS game I ever played. 4€? 100% worth it.
+[h1]If you are looking for a good game where you can play online or LAN party, this game is for you.
+
+You will need the source engine, which you get if you have half-life 2. This is fast-paced, fun, and does not require a lot of setup or long loading times. You can start or stop playing quickly.
+[b]RIP HL2:DM[/b]
+
+What was once a crowbar slinging, barrel flinging, melon fest is now a low-tick no-bunny-hop excersise in futility. Far surpassed in creativity by the likes of Gary's Mod, Minecraft and other, actually developed, properties, Half-Life 2: Deathmach has seen better days. Of course if you want to smash someone with a gravity gun there still isn't a more satisfying option. (Thanks Valve)
+I played a lot of FPS games and this  one is easily one of the best, even dying is fun.
+The controls are great, the physics are amazing. The weapons is just the standard Half life 2 arsenal, not many but the ones that are there are great. many people say this game is death, wich isn't the case. Maybe there are less servers than other more populair games but there still are plenty with a reasnonable amount of players. Even if you don't like Half-life I still reccomend this. For me it's a 10/10
+HL2:DM isn't exactly what it used to be as in playerbase, but nevertheless the game is still really fun to play with friends or if you're just bored and want to pass the time to play on a few of the populated servers in the evening. This game is very fun and always tends to make me rage a lil because of how the game sometimes gets to you, but other than that it'll keep your attention span of a few games and is very enjoyable, and unique, in its own way. 
+
+If you have it in your library and never gave it a try, you should. :)
+No achievements, no markets, no DLCs or any other BS that is an essential part of many games these days and is fairly pointless. Pure old-school (not so old tho, but old enough) with flying toilet-bowls among other moveable objects thrown in yo face that can be used as a weapon thanks to the gravity gun. It's a shame not many play it these days, I wish it were 2004 again with hundreds of servers full.
+Absolute classic game, community is small but alive, mostly played by long running clans and people who bought the game 5 minutes ago
+
+Definitely buy on sale with some friends
+Online FPS PVP Deathmatch servers using Half-life 2 game system, game weapons and  game characters, with maps made for Deathmatches.  There is modder created maps out there.  If you are not good at FPS PVP, you will die often and lose here.
+
+for more info:
+
+https://www.youtube.com/watch?v=XHuKV9iMYeg
+
+https://en.wikipedia.org/wiki/Half-Life_2:_Deathmatch
+Half-Life 2: Deathmatch, there is a lot of things to say about this one. The game is perfect and the community, although small, is great, too. You find mostly adults who remember when this game was popular (I was in the gaming community at the time but I didn't play it often) and are actually nice. They aren't "Rekt scrub (lenny here)." The gameplay itself is fantastic and simple. You go on a map either from Half-Life 2 or a community-made map and shoot the enemy, as easy as that. It may sound a little tooo simple but players have came up with strategies on how to do your objective, my personal favorite is the gravity gun and grenade trick (probabally has some name that I dont know about :P) where you switch to your gravity gun after laying down a grenade and launch it at other players.
+
+So, you might be wondering why the game is dead if it has fantastic gameplay and community. Well, the reasons I've picked up on from playing is when Valve removed the bhopping glitch. From what I've seen, bhopping is still possible but isn't as good or efficent. Another reason is that it's old. The game came out in 2004 and according to Steam is actually released a little before HL2 which technically makes HL2 DM the first game requiring Steam, not HL2. Valve doesn't update it unless if it's something like bug fixes. No new content. To be honest, I think that's a good and a bad thing. It's good because the gameplay can't be ruined discluding the removal of bhopping. It's bad because if it's not updated it's almost abandonware.
+
+When I said the gameplay is simple and how players made a way to make it even more complex, I wasn't lieing. There is another gamemode actually that was community-made in the game. It's HL2:DM roleplay. Just imagine Gmod's DarkRP except RDM almost doesn't exist and you don't have a random 6 year old admin telling you what you can and cannot do. It's actually really fun, too, even though it's not as complex as DarkRP. Infact, I never realized how much DarkRP catered around its players until I've played the roleplay mode in HL2:DM. DarkRP is preschool compared to this.
+
+Overall, HL2:DM is an abandon game with fantastic gameplay and a fantastic community.
+
+10/10.
+Other account had like 1300 hrs.
+One word that can sum up this game for me is this: Memories
+I had some of the greatest times playing this game. Back when it 
+was a community full of the greatest gamers ive ever met, and 
+some real pros at it too. Spending hours upon hours in puzzle maps
+and roleplay servers. 
+10/10
+All of the robust movement and physics of Half Life 2, along with the gonzo combat of the gravity gun. What's not to like? This is the next level up from the classic Quake-style competitive gameplay. It can range from realistic combat to cartoony violence, with well-balanced weapons and nicely tweakable variables. I have been playing HL2DM for years, and it can still be as challenging as you want to make it.
+
+Why is there still a community around this game after years of borked updates, minimal support, and no publicity? Because it really is that fun. It might get little love from Valve, but the participants are hardcore.
+Half-Life 2: Deathmatch. Physics can be really silly, but there are great communities- both veteran and new, various aspects to open source benefits, and much fun to be had. 
+
+12 years later, and this game is still alive.
+I strongly recommend this game if you have a few friends into this game, because the server aren't very active as this game is quite old reaching its 10 year mark. This game is a very fast pasted Fps based off the widely know Half Life 2. That shares the same features Of Half Life 2 but a Player vs Player system.
+An older game, as it's essentially an extension of Half-Life 2. Even though it's aged now, it still is a blast to play with friends. The Gravity Gun is what makes it so unique to many of the other shooters out there, even today in 2014. Similiar to Quake, it doesn't have a sprawling community to it any longer as Half-Life 2 is well beyond it's years now. If you get into matches you tend to get into an older community that is generally very friendly and results in some of the best games of Deathmatch, or other matchmaking playstyles. All it takes is about 5$ when Half-Life 2 goes on sale, if that even, so I'd recommend anybody who is into shooters to buy this game. I guarantee you'll have a blast in a server that is full of 6+ people, and even less in some situations.
+I've seen reviews saying it's hard to find servers.
+[b]IGNORE THEM[/b]. It's easy to find a server. There are plenty at any one time.
+
+Anyway, this game is AMAZING. Don't know if it's 200 hours of (total) HL2 playing or what, but it's HEAPS fun.
+And then when I find I'm coming first on my first game, well, even more fun.
+
+Play this NOW.
+Valve has a history of making famous Deathmatch games, and thats beacuse they don't bother over complicating the concept of Deathmatch. Tihs game along with Day of Deafeat Source and Counter Strike Source are simple and yet have raked in players by the thousands upon millions. It's a simple Deathmatch experience but it's not anything new. 2 Teams pitted againnst each other with your usuall Team Deathmatch action, nothin to complicated but it is still fun.
+If you liked Half-life 2 I bet you will like the half life 2 deathmatch.Its a game where you can battle AI's and players in half life 2 and compete being the combine or the rebels.Its just like a background story for Half life 2  only that its just you versus people.
+Half Life Deathmatch Deserves much more publicity and is a great game, What this game has that most games dont is that you can tamper with an enviornment while having a deathmatch as of there being hidden health kits, barrels ,weapons etc.
+ever since i started playing hl2 i've always wanted a game like this. it's exactly what you'd expect, but 1000x better. i would honestly recommend this game to literally anyone who has played any fps game in the past. it's pretty fuCKIN amazing honestly! besides it's only 5 bucks just get it-

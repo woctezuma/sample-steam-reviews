@@ -1,0 +1,710 @@
+I have always hesitated to use live wallpaper applications since they used to be very performance-draining. When researching for perfomance-tests of "Wallpaper Engine" I didn't quite find a review that was useful for me so i decided to get the software and test it myself. 
+It should be noted that this review will ignore other apsects such as the content of the software.
+
+[u][b]Hardware Specs: [/b][/u]
+
+CPU...............................i5 6400 (no overclock with BCLK)
+CPU cooler......................AIO watercooling loop from NZXT
+GPU...............................GTX 980TI (MSI - no manual overclock)
+RAM...............................16GB DDR4 (GSkill - 2133MHz - dual kit)
+Motherboard.....................ASUS ROG Maximus VIII Ranger
+SSD................................Samsung 850 Evo (Only for OS, Steam and apps on HDD)
+OS..................................Windows 10 Professional
+
+[u][b]Test: [/b][/u]
+
+The software (run in non 64-bit mode) will be tested in two scenarios. Arsenal wallpaper will be used for all tests.
+
+1) Hardware usage will be observed while the System sits idle for 10 minutes without any other applications running in the background. The tool for HW monitoring is "OpenHardwareMonitor". This testing scenario will be repeated for the wallpaper presets Low, Medium and High and a standard windows desktop background as reference.
+
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=881179051] CPU temperature [/url]
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=881179234] CPU load [/url]
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=881179382] GPU temperature [/url]
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=881179458] GPU load [/url]
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=881179550] GPU memory usage[/url]
+
+[table]
+    [tr]
+        [th]Preset[/th]
+        [th]None[/th]
+        [th]Low[/th]
+        [th]Medium[/th]
+        [th]High[/th]
+    [/tr]
+    [tr]
+        [td]CPUTempAvg[/td]
+        [td]21°C[/td]
+        [td]20°C[/td]
+        [td]20°C[/td]
+        [td]20°C[/td]
+    [/tr]
+    [tr]
+        [td]CPUTempMin[/td]
+        [td]18°C[/td]
+        [td]18°C[/td]
+        [td]18°C[/td]
+        [td]18°C[/td]
+    [/tr]
+    [tr]
+        [td]CPUTempMax[/td]
+        [td]25°C[/td]
+        [td]22°C[/td]
+        [td]22°C[/td]
+        [td]23°C[/td]
+    [/tr]
+    [tr]
+        [td]CPULoadAvg[/td]
+        [td]1%[/td]
+        [td]3%[/td]
+        [td]3%[/td]
+        [td]3%[/td]
+    [/tr]
+    [tr]
+        [td]CPULoadMin[/td]
+        [td]0.4%[/td]
+        [td]0.4%[/td]
+        [td]0.1%[/td]
+        [td]0.4%[/td]
+    [/tr]
+    [tr]
+        [td]CPULoadMax[/td]
+        [td]24%[/td]
+        [td]10%[/td]
+        [td]24%[/td]
+        [td]24%[/td]
+    [/tr]
+    [tr]
+        [td]GPULoadAvg[/td]
+        [td]0.1%[/td]
+        [td]7%[/td]
+        [td]10%[/td]
+        [td]15%[/td]
+    [/tr]
+    [tr]
+        [td]GPULoadMin[/td]
+        [td]0.1%[/td]
+        [td]1%[/td]
+        [td]1%[/td]
+        [td]2%[/td]
+    [/tr]
+    [tr]
+        [td]GPULoadMax[/td]
+        [td]5%[/td]
+        [td]11%[/td]
+        [td]16%[/td]
+        [td]21%[/td]
+    [/tr]
+    [tr]
+        [td]GPUTempAvg[/td]
+        [td]35°C[/td]
+        [td]36°C[/td]
+        [td]37°C[/td]
+        [td]37°C[/td]
+    [/tr]
+    [tr]
+        [td]GPUTempMin[/td]
+        [td]34°C[/td]
+        [td]35°C[/td]
+        [td]36°C[/td]
+        [td]36°C[/td]
+    [/tr]
+    [tr]
+        [td]GPUTempMax[/td]
+        [td]36°C[/td]
+        [td]37°C[/td]
+        [td]38°C[/td]
+        [td]38°C[/td]
+    [/tr]
+    [tr]
+        [td]GPUMemoryUse[/td]
+        [td]180MB[/td]
+        [td]185MB[/td]
+        [td]230MB[/td]
+        [td]260MB[/td]
+    [/tr]
+[/table]
+
+Furthermore the RAM usage has been tested, but did not show measureable differences!
+Ram usage was always at about 2.2GB.
+
+2) This test will show the impact on gaming performance. Again, Arsenal wallpaper is used, this time on preset High. As there are different options to choose, which define how the wallpaper will react to an application being run in fullscreen (Keep Running, Stop, Pause) a benchmark will be done for every mode and as reference with a standard windows desktop background.
+I chose the Benchmark Scene from Rainbow Six Siege with the graphics on ultra preset. Here are the results:
+
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=881441247] FPS in RB6-Benchmark[/url]
+
+ [table]
+    [tr]
+        [th]RB6S[/th]
+        [th]MinFPS[/th]
+        [th]AvgFPS[/th]
+        [th]MaxFPS[/th]
+    [/tr]
+    [tr]
+        [td]None[/td]
+        [td]102[/td]
+        [td]173[/td]
+        [td]327[/td]
+    [/tr]
+    [tr]
+        [td]Stop[/td]
+        [td]93[/td]
+        [td]172[/td]
+        [td]264[/td]
+    [/tr]
+    [tr]
+        [td]Pause[/td]
+        [td]100[/td]
+        [td]172[/td]
+        [td]296[/td]
+    [/tr]
+    [tr]
+        [td]Keep Running[/td]
+        [td]58[/td]
+        [td]171[/td]
+        [td]299[/td]
+    [/tr]
+[/table]
+
+[u][b]Conclusion: [/b][/u]
+As we have been able to see, there are slight differences in terms of hardware usage. I was surprised that the software did much better than expected, but the results may differ, considering community-made wallpapers may use more resources. The CPU temperature values may not be very reliable due to the CPU being watercooled thus these values are at the very low end of the scale. 
+
+Wallpaper Engine does also have an impact on gaming performance, which can be kept to a minimum using the "Pause" or "Stop" behaviour for fullscreen applications.
+
+With a hardware config as "enthusiast" as mine, i doubt that there will be serious performance issues with this application, but if you are gaming on a much weaker rig, i recommend turning down the settings of the live wallpapers a bit. 
+
+At the end of the day, you will have to decide yourself wether you want to sacrifice resources for cool a$$ (a$$ can be taken literally) wallpapers or not.
+
+I do not regret my 4 bucks on this software and will be using it from now on.
+if you're an idiot who (like me) considered getting this at some point, but didn't due to assumed doubts, imma just go ahead and tell you, you're missing out BIG TIME
+
+"but it consumes resources"
+- it can consume next to none depending on the wallpaper you pick
+
+"but it'll lag me"
+- it pauses itself when you open a game, so... zero interference with game performance
+
+"but it's just wallpapers that move"
+https://i.imgur.com/ohDKCIO.jpg
+
+apart from being able to put literally anything you want as your wallpaper, there's a F*CKTON of options in the workshop, all browsable within wallpaper engine itself, and MANY of these have several customizable parameters (volume, position, colors, etc)
+
+things that, if i had known beforehand, i would've purchased this YEARS AGO:
++ you can customize wallpaper pause/performance, so resource management will be the least of your worries
++ there are sound sensitive wallpapers that will move if you're listening/watching something (bye rainmeter lol)
++ there are lots of nsfw wallpapers for every taste
++ you can make a playlist and get them to change whenever you want
++ wallpapers for virtually any waifu ever, both lewd and sfw, BOUNCING TIDDIES BRUH
++ "cool sound bars/waves but i don't like the picture", YOU CAN CHANGE IT
+
+long story short if you like a pretty desktop and your computer isn't a potato, there is absolutely no reason for not getting this, it's worth every penny
+My girlfriend apologised me for checking weird websites. She thought she downloaded some kind of virus because there was that Gandalf playing sax on the desktop and she couldn't stop it...
+Worth the pricetag if you want a more lively poster
+
+I started out with trying the preinstalled, loved the preset neon horizon.
+
+Then i realised its true potential.
+
+You can use your own gifs and pngs from your own computer!
+
+So long story short,
+
+I now have huge fucking anime titties bouncing on my wallpaper, and life is good.
+[h1]TL;DR:[/h1] 
+[b]Hardware Friendly[/b] 
+(read below/click for more info,TL;DR the [b]bold[/b] texts)
+[b]Get this app ASAP![/b]
+
+[h1]First Note:[/h1]
+Please [b]press read more![/b] This review is very long that you can't just read first note, considerations below!
+Oh, i will only state things that important to [b]read after reading official description[/b].
+They already explain a lot, [b]this is extended info and considerations[/b]. (As comparison i add Stardock Deskscape 8 as competitor, popular in the past, expensive)
+
+[h1]Pros:[/h1]
+[b] + [/b][b]Less resource[/b] use and taken than Stardock Deskscape 8 (Wallpaper Engine [6-15MB] vs DeskScape 8 [35 MB])
+[b] + [/b]Supports [b]Unity applications[/b], [b]Gifs,  3D render[/b] and [b]HTMLs[/b], beside video formats mentioned above, tested in my old ASUS X550ZE laptop or in Toshiba Satellite I3 GMA 3000 4GB RAM(Stardock Deskscape 8 doesn't support apps, dunno about gif and html support)
+[b] + [/b]Full control of the software: [b]FPS Limiter, Reflection, PostFX, High Priority, Render Resolution[/b] (power of two) [b]Auto Start [/b] on Windows Launch (Stardock Deskcape 8 has less options)
+[b] + [/b]Playing [b]HD[/b] or [b]FHD[/b] or even [b]UHD[/b] (maybe the program rescale) video [b]smoothly[/b] in Max setting 60 FPS my Asus X550ZE laptop (spec: A10 quadcore 4 threads @2.5ghz, boost to 3.40 Ghz, usually reach 3.0Ghz, R6 APU 1GB + R5 M230 GPU 2GB, RAM, DDR3 1833Mhz 2x4GB, OS: Windows 10 Pro). (Stardock Deskscape 8 will lag with 4k videos)
+[b] + [/b]There's[b] multi monitor support[/b]. You can use different background for different monitor, but sometimes buggy that monitor not detected, workaround is exit the engine and try again (killing all the engine apps). (Stardock has only 1 wallpaper output, even you have multi monitors)
+[b] + [/b]Playing FHD videos (due Windows 7 and APU limit), sheep app (testing app) and htmls in 20-30 fps just fine in i3 intel GMA 3000 4GB RAM ([b]Much more weaker than minimum spec[/b]) old tweaked Toshiba Satellite Windows 7 laptop (removed background apps, minimize aero effects)
+It is fully compatible with i3 and GMA 3000 with 4GB of RAM or potato laptop as long you got smart to manage > [b]Hardware Friendly[/b] (Trust me, Stardock Deskscape 8 is much heavier, i used it)
+[b] + [/b]There's [b]Wallpaper Creator[/b] and [b]Workshop[/b], which means you got access to 1000+ pages of them, which is so many. (In Stardock Deskscape 8 you suggested to buy videos, and obviously no workshops)
+[b] + [/b]There's [b]Pause[/b] and [b]AutoClose[/b] feature, that make your PC performance doesn't degrade at all when you doing something, example playing games, but can also trigger pause when not gaming. > Without this feature, then your PC will slower when playing games. A recently posted review says this lagged his terraria, forget to turn this on, zzz. > Extending from performance tab from official description (Stardock Deskscape 8? Autopause, not AutoClose that frees more RAM)
+[b] + [/b][b]TRADING CARDS!!! Achievements too![/b] (Of Course Stardock doesn't have these XDDD)
+
+[h1]Cons:[/h1]
+[b] - This didn't support OS that is not Windows 7,8,10. So Mac OS isn't supported[/b]. (I don't sure if stardock deskscape 8 support Mac OS because i did not tested stardock in Mac)
+
+[h1]Personal note:[/h1]
+[b] * [/b][b]Still in "Early Access"[/b] and going to improve
+[b] * [/b]Paid the full price (of early access 7 December 2016, prob still initial release), and [b]regret nothing[/b].
+
+[h1]Rating:[/h1] [b]93/100[/b]
+
+I will try to keep this review up to date
+
+[h1]Last Words:[/h1]
+This is the end of review. I know this ain't perfect, because nothing in this world perfect, but i will try to make it better. 
+If you dislike this review or say this review missing something or if i'm wrong, please drop "reasons why you dislike / suggestions / corrections" comment so i can fix whats wrong and add make this review better (a person can't fix thing he doesn't know it's wrong)
+In my country English is foreign language so please understand that i can't have perfect grammar, but i tried my best... Sorry for some typos or grammar mistake, but as long you understand what i mean, forgive me :)
+I'm thanking you for your attention read this review, have a nice day...
+
+[h1]Review Updates:[/h1]
+Update 26-29 Dec 2016: Added few points to the top.
+
+Update 29 Dec 2016: Typo fixing (fews detectable).
+Tweaked the look of this review. 
+Added TL;DR and First Note
+
+Update 30 Dec 2016: Recheck typo and Re-[b]bold[/b]-ing some words, quick read= [b]Bold[/b] words, mentioned in TL;DR.
+Added few correction to the old points and remove "update : forgot to mention" beside update for clearer view (sorry space waste lol)
+
+Update 2 Jan 2017:
+Added some comparison of Stardock Deskscape 8, a popular app in the past and expensive
+Typo fixing again, un-[b]bold[/b] unecessary info
+Merging Review Updates to per date basis for cleaner view
+
+Update 4 Jan 2017:
+Recheck Video Format support as in update, still limited support
+
+Update 6 Jan 2017:
+Added Last Words and JOKE.
+Added Please press below! Stuff in First Note, because realizing that only TLDR and first note showing up in preview...
+Changed 2nd pros point, added tested in and 3D render (forgot!)
+Added few tested points to hardware friendly, including 4GB RAM
+
+Update 7 Jan 2017
+Minor explanation improved
+Typo fixing
+
+Update 8 Jan 2017
+64 bit launch from steam supported, removing 64 bit cons
+
+Update 14 Jan 2017
+Changed workshop page to 671, gone from 67 page from early December 2016 to 671 in mid January 2017, wow
+
+Update 4 Feb 2017
+Added Laptop Description because the profile page one is changed, due change laptop and old dead T_T
+
+Update 28 March 2017
+Found out that AVG's latest antivirus conflict with this app, need to make exception for this.
+
+Update 21 November 2017
+Have more support, more skins and more enhancement + bugfix to the app
+
+Update 12 January 2018: 
+Avast premier doesnt flag this as virus, also less buggy app right now
+
+Update 2 April 2018
+1000+ workshop page, nvm i wont count one by one now xD
+
+Update 4 October 2018
+Slight grammar fixes
+
+Update 26 October 2018
+Slight fix to the laptop spec, and removing antivirus conflict as i didn't see any conflicting av at the moment
+
+Update 16 November 2018
+Just slight grammar fixes to cons and top texts
+
+"Do anyone actually read this changelog? xD"
+
+[h1]JOKE[/h1]
+Probably the longest review on the steam XDDD
+Going more longer as Review Updates go on...
+[b]10/10
+[i]"Do your desktop a favor!"[/i][/b]
+I can't remember the last time I was so impressed by a software. It simply does work flawless perfectly. You should expect, that Win10 should have integrated this feature - but it doesn't... Nice Job, Kristjan Skutta!
+
+[u]Pros:[/u]
++ great user interface
++ great amount of options
++ great piece of software
++ low system workload (@4K >1%CPU,~100MB RAM)
++ steam [url=https://steamcommunity.com/app/431960/workshop/]workshop[/url] (more than 300.000 wallpapers)
++ doesn't need steam to run!
++ iCUE plugin
++ fair price tag
+
+[u]Cons:[/u]
+- none (almost)
+- no Razer Chroma plugin
+
+[u]Verdict:[/u]
+[b]Does its' job perfectly.[/b]
+How to blacklist anime wallpapers:
+
+1. Open Wallpaper Engine
+2. Click on the Filter Icon
+3. Double Click on where it says 'Anime'
+4. You should now see a red x and be able to actually use the Community Feature.
+Imagine if this was made by StarDock... you'd have to pay $10 a month for it.
+
+This is $4 and you get a lifetime license.
+
+Any questions? No. Good.
+
+Buy it now.
+I fucking love this! It might state that I have only used it around 70 hours (at the time of writing this) but its been open ever since i bought it tho it only counts when you are changing wallpapers. The only thing its missing is a feature to fix lockscreen Like if you agree! (then devs will see this)
+
+[olist]
+[*] eat much memory? [spoiler] NO [/spoiler]
+[*] hard to use? [spoiler] NO [/spoiler]
+[*] disturbing u when gaming? [spoiler] NO [/spoiler]
+[*] can search animated H*ntai? [spoiler] YES [/spoiler]
+[/olist]
+
+Recommended
+10/10
+A personal MUST HAVE
+
++ Animated desktop wallpapers / Video
++ Workshop Support
++ Thousands to choose from
++ Very easy to use
++ Works with multiple monitors
++ Lots of "Mature" content (There's a surprisgingly good amount of porn if you need some fapping material)
+
+
+- The large majority of backgrounds are anime related.
+
+
+
+--------------
+
+Side Note: if you are like me you are probably thinking "$4 for a piece of software? Nahhh"  but trust me, it is worth it.
+I gotta say its worth every penny but I'll tell you right now mostly like 50-70% wallpapers in the workshop are all ANIME.but still its awesome 10/10 would bang again
+[h1] All right so here's what I went thru: [/h1]
+
+- Okay man, it's time I bought this thing.
+- I mean all these people giving positive reviews and the general review average being overwhelmingly fucking positive must mean something, right? I've waited too long. Let's find out.
+*Purchases software
+- Where the fuck is this oh it's under software. *facepalms
+- All right, it's installed. Let's check this out.
+- I've heard some bad things about there being a lot of anime tiddies in the workshop bu-
+*sees galaxy wallpaper
+- Whoa. That is a nice wallpaper. How does it work, do I just click it?
+- 200mb? Wtf?
+*Downloads wallpaper
+*sees moving wallpaper for the first time in his life
+*0_0
+- Duuuuude. That is SO SICK. THERE IS A FUCKING SPINNING GALAXY ON MY DESKTOP NOW MAN.
+* erratically moves on to different wallpapers
+- Wait what is that. I want that. That too. Is that moving too? Holy shit I want that.
+- What is that.
+*applies
+- WHOA. NICE, Abstract, mountain, view... thing. I dunno wtf that is.
+*switches to different wallpaper
+- Hey man look at this, that is so cool!! It's like a- a, uh a- a- a thing. A colorful waterfall blackhole bluehole thing.
+*sees something else that he wants to download*
+- WhoaaAA what is that? That is fucking amazing man !!! I need dis.
+*sees something else
+- I need dis.
+- Dis too.
+click click click
+- Holy crap !!!!
+- DUDE THAT NEEDS TO BE ON MY DESKTOP, I DON'T KNOW WHY THOUGH.
+*sees something
+- OH MY FUCKING GOD
+* has heart attack
+
+_______
+
+First of all, don't pay attention to bad reviews that focus on there being a lot of tiddies in the workshop, because you can just filter that sh*t out. I mean unless you don't know how to use a computer? But since you are here, looking for moving wallpapers, I assume you know how to do that. Okay so moving on now that you know how to use a computer.
+
+Even though if you don't feel the exact emotions that I portrayed above (because I am known to exaggerate reactions of people including myself), you will still definitely have a "Whoaa, that is so cool!" moment. Like, many many times. Even if you have experienced moving wallpapers before.
+
+And even after you purchase this software, use it for a couple months and get used to the concept of moving wallpapers, you will then transform your interest into different things. Like, you will start creating your own stuff. Hell there are even achievements to get in this app.
+
+I have only 2 softwares purchased from Steam. And they are both fucking gold. One of them is this. I am 100% supportive of this app, and all the revenue it makes is completely deserved. The guy (or girl?) who made this, is a fucking genius.
+
+This is fucking awesome.
+
+[h1]U NEED DIS[/h1]
+This is amazing. I never felt like I needed an wallpaper editor (?) But this software.. Man, you can simply put anything you want on your desktop, and it looks amazing. 
+I'm in love with the audio responsive ones, thats just.. beautiful. 
+Now it's a must-have for me, whenever I am not playing a game, watching a video, I am messing around on that or just enjoying some music while looking at my dekstop... 
+
+It works perfectly, and isn't cpu/gpu intensive, thats just awesome.
+
+Totally recommended.
+This is an amazing utility. It runs smoothly, it's cheap, and it allows you to have anything you want as a wallpaper. Now you can disappoint your friends and family by having big anime tiddies on your desktop.
+
+What more could you want?
+Too funny, I can't stop playing it, there is so much videos I like, but can only play one at a time, I hope production team add  a function to make it can shuffle play the selected videos like a music player.
+If moooving/live wallpapers suit your fancy. Then this program is just for you! 
+
+This here is a genius app that let's you set fancy live wallpapers for you very own desktop!
+To get even better backgrounds than the ones featured above, be a smart chap and check out the workshop! You’ll definetly find a wallpaper that suits you! 
+
+It's awesome! People have their jaws drop when they see my setup and dope wallpaper.  
+I love the program. It even launches while your PC boots up! It's great! I love it, you'll love it! Your dog will guaranteed love it! 
+
+Best thing of all is the price! It’s 3$ (ish)! Definetly worth it.
+Before there was this [u]shady and hard way of getting gifs[/u] as wallpaper backgrounds, but now in these modern days life is [b]simple.[/b] You just need this [b][I]cheap[/i][/b] app which let's you do EVERYTHING you want to with wallpapers. This is a must have for anyone who can afford to run it. 
+It's a [b]9/10[/b] for me because life is boring without it.
+I purchased this software hoping it would return the same functionality Dream Scene (Live Wallaper) did in Windows Vista that was later removed for performance issues. The truth is this software is what Dream Scene should have been and is far more complex and configurable then the official feature ever was. I did a full review of this software at http://barnnerd.com that will be published on 3/9/2017 at 6AM PST.
+
+I am in no way affiliated with the company that makes this program and purchased the program for full price from Steam after discovering it. I would however love it if the author of this program contacted me as I would love to speak to him/her about some other features moving forward since I come from a software development background myself.
+
+Thank you,
+Jerry Berg (aka. Barnacules)
+http://barnnerd.com (YouTube 840k Subscribers / 91 million video views)
+http://twitter.barnnerd.com
+http://instagram.barnnerd.com
+[h1][u]Features:[/u][/h1]
+[i]-Bring your desktop alive with realtime graphics, videos, applications or websites.[/i] [b]✅YES✅[/b]
+[i]-Personalize your wallpapers with your favorite colors.[/i] [b]✅YES✅[/b]
+[i]-Use interactive wallpapers that can be controlled with your mouse.[/i] [b]✅YES✅[/b]
+[i]-Support for many aspect ratios and native resolutions including 16:9, 21:9, 16:10, 4:3.[/i] [b]✅YES✅[/b]
+[i]-Support for multi monitor environments.[/i] [b]✅YES✅[/b]
+[i]-Wallpapers will pause while playing games.[/i] [b]✅YES✅[/b]
+[i]-Create your own wallpapers with the Wallpaper Editor.[/i] [b]✅YES✅[/b]
+[i]-Use the Steam Workshop to share your wallpapers.[/i] [b]✅YES✅[/b]
+[i]-Wallpaper Engine can be used in parallel to any other Steam game or application.[/i] [b]✅YES✅[/b]
+[i]-Supported video formats: mp4, WebM (Workshop); mp4, WebM, avi, m4v, mov, wmv (local files).[/i] [b]✅YES✅[/b]
+
+[b]Thank You Kristjan Skutta![/b]
+[b]GET IT! SUPPORT! SUPPORT! SUPPORT![/b]
+>browsing sorta nsfw stuff on reddit
+>someone walks in
+>reflexively alt+tab to desktop 
+>desktop has big tiddy anime waifu wallpaper
+>priceless disappointed look from mother
+
+10/10 would set wallpaper to big tiddy anime waifu again
+[b]Yeah, [i]Wallpaper Engine[/i] is really neat.[/b] I get all the fuss now. I always looked at desktop wallpapers as being a bit functionless, and don't get me wrong - they are, but for a mere four bucks - there is a good bit of fun to be had here. There is a near-endless supply to choose from, and the animated ones are quite beautiful. There were moments when the software was a bit glitchy, but overall it was nothing I couldn't get past.
+
+[b]Well worth full price.[/b]
+So this guy was telling all the time to buy this thing, and I though: "Why? I don't need it, Who would want to spend ram on this?" Then I logged into his account, tried the software, saw you can have a different wallpaper per monitor plus, some Gwent wallpapers and I bought it. 
+
+I WAS SO WRONG
+
+WORTH EVERY SINGLE DOLLAR.
+
+[code][h1] Accidently Reviewed[/h1]
+Was this review helpful or maybe even not helpful? Either way join this group for more. Free Keys and Reviews weekly!
+[url=http://steamcommunity.com/groups/Accidently] Steam Group: AccidentlyReviewed[/url]
+[h1]Cool software app. for your desktop[/h1]
+
+Great software for 4 bucks. Awesome creations in workshop community (not only an anime).
+Easy to make your own wallpapers. Also smootnes and unpretentious for performance. Awesome desktop like never before.
+I overthought buying this way too long. All this years I could have had incredible wallpapers. I can't imagine a day without it now. What was I thinking. And all this for the price of a cup of coffee. Welp. I am might be the most critical person on the planet and the software convinced me instantly.
+Seems pretty cool, but you have to watch which wallpapers you use because it will eat your CPU perfomance. I tried a simple rain wallpaper was using 60% of my quad core CPU.
+I never knew you could do so much with a wallpaper, especially with no performance loss. This software is [i]essential[/i] and I cannot imagine using my PC without it. But be warned, Wallpaper Engine is flooded with anime and hentai. That's not a bad thing, but it can be overwhelming. Turning off the "anime" tag helps, but there is no avoiding it.
+Excellent program for animated desktop Wallpapers.
+There is nothing to write, just need to take and use, the benefit is quite cheap.
+Of course most people will create Wallpaper in the style of anime.
+Don't like anime? You can put the filter.
+Great wallpapers made by creative people.
+I made an interactive porn wallpaper.
+You can run porn as a wallpaper.
+
+Thanks alot Wallpaper Engine.
+
+Whoever made this is a god.
+This software is well worth the price for the amount you get for the wallpapers displayed front of the screen. It works flawlessly on my monitor, and projects plentiful of effects whenever you like. Also gets updated all the time in seperate times, so I strongly believe it is a fantastic app to have in your collection.
+
+Rarely every once in a while, the Wallpaper Engine tends to act strangely when interweaving with the static wallpaper being used when it's out of sync with different apps being used, otherwise it's not much of a annoyance I once thought. 
+
+
+PROS:
+- Best software of its kind
+- Affordable
+- Easy to use
+- Beautiful
+- [b]Animated[/b] (not Anime) backgrounds are the bees knees
+  
+
+CONS:
+- Story feels linear
+- Gameplay needs a bit of improvement
+- Extreme lack of character development
+It is not a game but an interesting application use for making live wallpaper for PC 
+
+pros
++Insane workshop creation
+
+cons
+-most workshop background are from youtube video
+
+neutral
+-battery hog if you using a laptop
+-Insane CPU USAGE
+
+conclusion: great tools but when you shutdown and restart your pc, you must always open the program in order to use live wallpaper which is a bit of hassle.
+[H1]Its just wallpaper, right?[/H1]
+
+But hey! you can change it the way you want; moving and interactive wallpaper, wallpaper that react to sounds and mouse pointer movement, etc. And everything seems nice with little-to-no performance affected.
+
+[H1]Whats good[/H1]
+- Little resource needed for not so demanding wallpaper (3 - 10 MB RAM)
+- Tons of wallpapers choice, 80% are anime tho.
+- Install it on every pc where you want to (I use it on all pc on the house and laptop, the program doesn't need Steam to run, neat choice)
+
+[H1]Whats to be noticed[/H1]
+- Crash are rarely happened but its there, 6 months of using WE I only encountered crash about 9-10 times, often when exiting Full screen program, or Chrome browser are acting up.
+Wallpaper Engine is a really amazing software. If you want your PC to look cool, then this is a must buy. With the Steam Workshop, thousands of new wallpapers are uploaded daily. I am really hooked up to this application.
+I'm in love with the audio responsive ones, thats just.. beautiful.  Now it's a must-have for me, whenever I am not playing a game, watching a video, I am messing around on that or just enjoying some music while looking at my dekstop... 
+It works perfectly, and isn't cpu/gpu intensive, thats just awesome.
+
+Totally recommended.
+Nice program to run a dynamic wallpaper.
+For its price + workshop = it is worth every penny.
+Running this on a i7 6700k 32GB RAM GTX 1070
+It is only using 0.5-1% of my ram,  and cpu 0.1-0.4% which is nothing at all.
+No FPS decrease in game or any general speed slowness. 
+
+Total score 9.5/10 
+
+I recommend this program to anyone that wants to use his own custom wallpapers or some of the cool ones which are published on the workshop.
+
+(tip: use the custom filter in the app to remove all the weeb crap, and then you will get the good ones only)
+An incredible program to say the least, I never thought I needed to have moving/animated wallpapers, but after using this; I can't live without them. The steam workshop is awesome and has lots of stuff to customize your desktop for any genre you are into. And if they dont have something you like then you can go and make your own. Amazing software and the right price to pay for it!
+"Your scientists were so preoccupied with whether or not they could, they didn’t stop to think if they should." This quote fits perfectly.
+( ͡° ͜ʖ ͡°)
+This + Rainmeter = desktop looks beautiful holy shit
+
+
+EDIT: Forgot to mention, there is little to no performance hit if you combine both Wallpaper Engine and Rainmeter together. Of course there will obviously be a performance hit if you use too many Rainmeter plugins.
+[h1]Wallpaper Engine[/h1]
+
+Honestly thought this was going to be a Software that I would never be using. Well, sure enough, I was wrong about that.
+
+[h1]Now, what is Wallpaper Engine?[/h1]
+
+Wallpaper Engine is just a Software to be used for, well.. your Desktop or Laptop Wallpaper. But here's a thing, you can make it a Video, Gif, or just an Image with sound playing in the background, sounds neat huh? It's certainly neat, and well worth the price alone when it's not even on sale!
+
+This Software is very, very, very easy to use and create Wallpapers to publish on the Steam Workshop!
+
+Speaking of Steam Workshop, you don't have to create your own wallpaper, you can also browse the Workshop to whatever you would like! You got your Anime [i]of course[/i], Cars, Cartoon, meme's, etc. The possibilities are endless.
+
+I would recommend this to anyone who wants to spice up their life with a Wallpaper that moves and plays sounds!
+
+[i]Just make sure your parents aren't around to find out how disappointing you are with HD 2d Anime Women dancing as a your Wallpaper.[/i]
+"Well...this looks kinda cool"
+
+*2 hours later, after finding and matching my perfect audio-synced snowing background to the exact color scheme I wanted*
+
+"Worth it"
+Just wow...  I have been debating this software for a while now and decided to buy it today at full price to try it out and I love it. The videos on the store page for this don't do this software right. The steam workshop is full of amazing 3D backgrounds and videos, but even then it is easy to make your own:) Would reccomend if you are looking for a fun wallpaper:) 8/10
+Pretty neat tool. I was able to create some decent active wallpapers with Clickteam Fusion before, but this little piece of software makes it a lot easier. Plus that it has a workshop and a ton of wallpapers you can download. 
+
+Only minor negative thing atm is that the workshop is more or less spammed with anime and Japanese stuff, but there are still some other nice wallpapers on the workshop if you dig through the list. If you are a fan of anime and are japanese, then I guess this would actually be a positive thing :)
+if you're having doubts buying this:
+-it consumes lesser memory resource than Google Chrome
+-it saved me from buying an expensive lava lamp
+-it brings your favorite waifus, oppais and what not to life
+One of the most famous utilities for customizing Windows is Object Desktop from Stardock Software (yes, it's the same company that made the Ashes of the Singularity, Galactic Civilizations and Sins of a Solar Empire) games, including an application for displaying animated wallpapers - DeskScapes. But at the same time Object Desktop costs as much as $ 49.99, and separately DeskScapes is sold for a considerable $ 9.99. A similar utility PUSH Video Wallpaper will cost you $ 14.95. Agree, against this background, the price of the Wallpaper Engine at just $ 2.79 looks ridiculous, especially given that this program offers much more functionality and a really huge selection of ready wallpapers.
+
+And this can be two-dimensional animated wallpaper, three-dimensional scenes, the details of which can be changed on the fly, interactive wallpaper, video files (mp4, WebM, avi, m4v, mov, wmv), any web sites, even small gaming applications. Wallpaper Engine is very easy to configure and use, while playing full-screen games, the wallpaper is suspended and the application releases resources. CPU utilization and memory usage depend on specific wallpaper and when setting a high quality smoothing and refresh rate can significantly increase.
+
+The main feature of the application is support for the Steam Workshop, in which, despite the fact that the Wallpaper Engine still has not left the Early Access, there are already almost 35,000 different wallpapers. And although the majority are animated shots with anime girls, among them you can find really great wallpapers on the theme of various games (Star Citizen, "The Witcher", Dark Souls), fantastic works, etc.
+
+Plus, the included editor that allows you to create your own 2D, 3D and animated wallpapers. Before using it, it is recommended to watch video courses. There is also a detailed FAQ with the analysis of the most common bugs. Because Wallpaper Engine is a full-fledged Steam application, the program has achievements and Steam cards for creating icons.
+
+Users appreciated the functionality and cost of the program: at the moment it has sold 1,1 million copies. The final version of the Wallpaper Engine should be released this spring. After the release of its value may change in the direction of increase.
+
+PLUSES: Animated, three-dimensional, interactive wallpaper; Support for Steam Workshop; Wallpaper editor
+MINUSES: High PC resource consumption by some wallpaper
+CONCLUSION: A simple and convenient utility for adding animated and interactive wallpapers in Windows 10
+Wallpaper Engine
+So my first impression from the Title itself was rather mhh lets say "interesting" so I watched the Trailers which Steam had to offer.
+The Trailers actually just show a little part of whats possible in this! Its a really really amazing Eninge and I dont see the money I've spent as wasted, no it was worth the money and since there is a Workshop for it and lots of talented people uploading their work in its even better!
+There are a few issues with the Audiodetecting Wallpapers since when I use my Razer Kraken Chroma 7.1 it only detects the sound from my Microphone basicly what I say but not the music, without it works perfectly, but this is the only thing which bugs me sometimes, maybe I just need to change some options and it'll be fine.
+Anyways, I really think this is a great Engine worth to buy!
+Its such a simple idea.. yet its so briliant, really I hope to see more content for Wallpaper Engine and I think it has a long way to go but in that time I wont leave it I will join and see where it will go to.
+My rating is 10/10 
+Looking forward to more~
+Phenomenal program. Every gamer should have this. Price is a bargain, and the developer deserves every dollar of it. You'll love it, pretty much guaranteed.
+Best $4 I've ever spent. I would feel fine buying this at $30. Its a solid piece of software. The amount of available wallpapers is insane. Great gift to give your friends. Very nice.
+It is cheap and worth the money. You can make your own wallpapers with some cool effects that you like. 
+Highly recommended - 10/10. Amazing software.
+By far this is the best software you can get for only $4.
+It completely delivers what it promises: Live wallpapers for your pc. And it's flawless!
+You can choose from a large number of wallpapers created by users in the workshop and use it as your own. 
+
+The program itself is very easy and intuitive to use: Explore the workshop and select the wallpaper you want through the software.
+
+The loading time in the Windows startup is less than 5 seconds if you're using a SSD. Using a normal HD it might take up to 30 seconds.
+
+You can also create your own wallpaper to use. If you want you can publish it at the workshop so others users can download it. 
+
+In general I can totally recommend this software, it will bring your desktop to life.
+Excellent software that expands Windows personnalization, and very fun to use
+I wanted that software for years now and i finally got it !
+
+PROS :
+Great community content, you have anything you desire and if you don't find it you can make it !
+Built-in Wallpaper creation, feel free to express your creativity and show what you are capable of by uploading them to Steam ;)
+You can organize your wallpaper library by making subfolders and playlists
+
+CONS : 
+For some wallpapers (especially the scenes) you'll have to own a good computer to run them, but you can still tweak settings
+And that's pretty much it, keep an eye on your storage space because you can fill it really easily :p
+
+I really recommend that software if you have a good setup it can look really cool ;)
+This is such a beatiful game to have I really love how you can put animatable wallpapers and some awesome interactive ones.
+
+Pros-
+Moveable images
+Makes you desktop background look awesome
+Beatiful graphics 
+Sounds
+
+Cons-
+None
+
+I have no cons for this game because it is so awesome.
+I love this software! If you like animated desktop images, this program is for you. It has beautiful stills as well. The variety from the community is spectacular. I have several I really love. The animations, and at times accompanying music, is well done and totally programmable. Meaning you can mute the music or let it play. You also can customize how fast your animations run, or what colors cycle, etc. In fact  this is so cool, I'd like to have a go at making some wallpapers myself. The program gives you templates so you can try making your own.
+
+With achievements and steam trading cards, for the price this is a cool, fun little wallpaper engine that I definitely recommend!
+
+
+Worth the pricetag.... I love rain and chose a live wallpaper from the workshop which was in 1080p.... And it was too realistic and it had audio too so it seemed more realistic.... Ya it's seriously worth it....
+Wallpaper Engine is literally the best thing that ever happened to me.
+Now i'm able to see my beloved anime characters and feels like they're alive.
+Thank you, Dev! GOD BLESS YOU, AND GOD BLESS AMERICA.
+Best thing to have to keep your desktop life, really makes me want to stare at my desktop for hours just watching the beauty of the community's creations and even some of my own I highly recommend this to anyone with a dull work space and wishes  to add spice to their lively hood.
+
+9/10 - Ali (AKA "Viperr")
+Amazing! You can customize your own wallpaper, share it or use other people's wallpapers they have shared through the community. You can watch as mesmerizing 3D wallpapers flow through your desktop. There are just loads of wallpapers to fiddle around with! 
+You can have a colorful wallpaper to make your desktop look beautiful. [spoiler] Like NO ONE EVEN CARES! [/spoiler]
+Best Wallpaper Engine on Steam. [u]Just make sure it runs properly.[/u] 
+[b] 10/10 [/b] 
+
+
+So far I like Wallpaper Engine but there's Way TOO MUCH anime. Also sometimes I get a little worried that somethings in the workshop could damage my computer but considering it's one of the most downloaded softwares on steam I give it the benefit of the doubt It hasn't happened but i'm skeptical. Besides that I reccomend it because you can have some really cool animated backgrounds on your desktop and it works as advertised. Also stop debating whether or not to buy it. JUST GET THE PROGRAM.
+For the price it is at, and considering that this is the only way I know how to get animated desktop backgrounds, I would recommend. It is really simple to upload a video or .gif file of your own and make it a background. It is also very intuitive to use and to customize some of the wallpapers that you can interact with, like sound visualizers. You can even upload small simple games. It is easy to organize all of your wallpapers on the subscriptions page. However, when running, it does use some of your computer's resources, which may result in some slow downs in games, so beware if you have a less powerful computer. It is also littered with crappy anime wallpapers that clog up the search results. But, if you want an animated wallpaper, or to have a video for your wallpaper (yes they can play sound and yes https://www.youtube.com/watch?v=NHEaYbDWyQE&t=1684s you can have this is your background, as I am subscribed to.) Then there is no better choice than this software.
+Dude these wallpapers are insane. I didn't think it would be worth $4 but I was proven completely wrong. This software will make you wanna stare at your wallpaper like I stare at Flicker's eyes in Vainglory.
+When you're watching hentai and ur mom walks in the room so you minimize the window so she doesn't see the hentai but you have hentai as your desktop wallpaper
+
+12/10 would recommend
+Somewhat addictive. Many wallpapers to choose from and the ability to make your own is nice. Options like mouse parallax, mouse trail, x-ray and more available.
+[h1][b]Wallpaper Engine with Steam Workshop[/b]
+Expectations[/h1]
+[b] - Really good wallpapers 
+- Well planned interactive wallpapers
+- Carefully picked video wallpapers[/b]
+
+[h1]Reality[/h1]
+- hentai
+- hentai
+- hentai
+
+at least 90% of the workshop
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1589757429]i'm promoting this[/url]
+holy nut, so basically i built a base and i stored my guns then i found some moving shit that made me feel really high and i reincarnated as a cat that got killed by a car on the motorway. 10/10 game!!! would recommend if you like that shit
+Perfect Program To Have live wallpapers on yo desktop i highly recommand this,worth the money now i'm LMAO with Pewdiepie Singing B*tch Lasagna on my desktop and "JUST DO IT" Ultimate Remix playing on my desktop,Steam Summer sales 2016,My Longest YEAHHHHHHHHHHHHHHHHHHHHHH BOi ever Backyard Remix
+i totally recommand this,i say again TOTALLY worth the money
+
+Also i was gifted this from My Amazing Friend so i gotta say bro,if you're reading this it was totally worth the money for the gift
+At first I thought buying this would be stupid since who really cares about their wallpaper? But wallpaper engine has proven to be one of my favourite applications to use on a daily basis for all of my needs. 10/10
+As a true veteran of this game, I can officially say that Wallpaper Engine is the greatest RPG i've ever played in my life. The level of detail, the level of hard work and dedication put into this $4 game is outstanding. The level design is gorgeous, the artistry is everything. What more can I say? Even the custom levels made by other players, like me, are well thought out. But don't even get me started of the character development. My favorite character is the game by far would have to be Kristjan Skutta. I love him because no matter what hardship he faces he always pushes through. You see, even though he was born without a quirk, he manages to catch the attention of the legendary hero All Might due to his innate heroism and has since become his close pupil as well as a student in Class 1-A at UA High School. All Might passed on his quirk to Kristjan, making him the ninth holder of One for All. The true power of Wallpaper Engine, which is what makes it such an amazing game. Basically..... buy it.
+I've had this software for quite some time and love what I'm able to do with it! I mostly do my own wallpapers, so no complaining about the library content in this one.
+
+Sadly though, recently my PC keeps getting stuck to reboot loop when Wallpaper Engine is starting, or gives continuously blue screen after a few minutes from starting it up. I'd like to believe that this is caused by some other recently updated drivers or something, but the moment I quit Wallpaper Engine, the balance is restored.
+Today I also unlocked the achievement "Pest", which can be obtained by getting 1 fatal error or triggering 128 warnings in the editor. For me it was the former. I was wondering why is this even an achievement, but it did get a chuckle out of me still.
+
+In conclusion, I'll return to using this software, when it's made a lot more stable.
+4 bucks for something that runs on the background so your computer is slower and wallpapers that are either ugly or boring to look at after seeing it for the 10th time, and the fact that you almost never see your wallpaper 95% of the time since an application is always up covering your desktop? wow that sounds like a great way to spend money.
+This software IS good for wallpapers but my Windows said that there was a virus.Later found out that when I uninstalled this, the warning didn't appear anymore.So I guess don't buy this, because it probably has a virus.

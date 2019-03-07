@@ -1,0 +1,638 @@
+To anyone having problems Running this game performance wise
+Consider adding the following code in the Launch Options sequence in Rightclick > Properties > Set Launch Options 
+
+Code 
+-USEALLAVAILABLECORES -sm4 -d3d10
+
+This will make you run at a significantly different fps. 
+Spread so everyone can see 
+and stop giving the game bad reviews
+To anyone having problems Running this game performance wise
+PLEASE add the following code in the Launch Options in your steam library sequence in Rightclick (on game icon in steam library) > Properties > Set Launch Options 
+
+Code:
+
+-USEALLAVAILABLECORES -sm4 -d3d10
+
+This will MASSIVELY improve game preformance. 
+PLEASE share so others can see and stop giving bad reviews.
+
+ok, so now on to the review. 
+
+-sees new ark game 
+-free?
+-dahell?
+-hungergamessurvival butwith dinos?
+-hellyes
+-install
+-boot
+-jump into game first time no idea what to do
+-naked in a lobby with soulless abominations created by people with the character creator
+-chinese screaming at american over voice chat
+-10/10
+-gets into game, ten heart pounding minutes of being hunted and running through forest with no idea where to go
+-whole time hearing cannons boom as other tributes-I mean survivors- are murdered by each other or killed by wildlife
+-still running
+-ohfrickitsadinoIwannakillit
+-tries to kill dino and nearly dies
+-running through forrest simulator pt.2
+-come out on beach
+-wow this is beautiful, stop to look at serene Jurrasic-parkesque panorama
+-suddenly losing hp
+-hearing buzzing
+-????
+-die from swarm of killer dragonflies
+-kicked from server
+
+...
+
+-tries again
+-dies in similar ways for 6 more matches
+-7th match get to end, final show down, nothing but wooden spears and cloth armour
+-looking to right for enemies, thinking I might have chance
+-look to left in time to see 2 HUGE SCORPIONS SCUTTLING OVER TO ME
+-ohcrap
+-throws spears and kills one in heroic show down
+-gets ripped to peices by second one as other survivor stands and laughs as I am killed
+-10/10 would die again
+
+actually though this game is amazing, like hunger games but with dinos and less female protagonists. Be ready to die lots and get wrecked.
+For me it was the best Battle-Royale out there and still is. You were able to choose which "path" u want to take like taming dinosaurs or mining metal for weapons and amor. Of course u were able to combine those for a 50/50 path. The competetive factor was awesome ( u had to craft ur weapons by urself or tame) especially the random events, taming, crafting and so on. It felt like a real battle royale without camping or hiding. Sadly this game is pretty dead but the hope never dies that this project gets a revive.
+
+Vote for revive ! C'mon Wildcard this project has a lot of potential !
+I'm surprised to see the kinds of rating this game is getting, and I feel it deserves much better. Among the bad ratings I've seen, I've seen complaints on the difficulty or techincality come up a lot, so I have a few things to say.
+
+1. Do not try to play unless you are sure or slightly sure your computer can run it. There are many people lowering the overall rating of this game because their computer cannot handle it, which isn't quite fair. IN ADDITION, you may find out that you will STOP DISCONNECTING if you change your graphics to lower settings. WATCH OUT FOR: high ?textures?, high sky, and high mesh level detail settings. TURN THOSE DOWN for very quick results. ALSO, making your window smaller by LOWERING RESOLUTION will add fps.
+
+2. Winning a game is not always a result of who has the best shooting skill. This game is survival, you can win many games just by surving, albeit a lot of survivng is being able to take down other players. 
+
+3. The FIRST THREE AND LAST THREE MINUTES are perhaps THE MOST DANGEROUS. Beware.
+
+This game is very fun and competitive! Goodluck m8s
+3/21/2016 UPDATE. They released a patch to fix the FPS problems, so you should be able to run it more smoothly now!
+
+WITH LINKS TO HELP WITH YOUR FPS! IT WORKED FOR ME. ALSO SOME TIPS FOR NEW PLAYERS ON THE BOTTOM.
+
+First, I want to start off by saying that I never commented on any games before. But I am a big fan of SOTF ever since it was just a mod in ARK survival evolved. After seeing all the bad reviews, I feel like I have to type something to help this game grow bigger. 
+
+I do agree with most comments about the bad FPS issues. I do noticed a big drop in FPS in SOTF comparing to ARK survival evolved. But ever since I download a game booster and did some minor tweaks following the links I am going to post on the bottom, I did see a big increase in my FPS. So hopefully it will help you guys as well.
+
+Also, if you have never played ARK before and wanted to try out the game, I do agree that this game is pretty brutal for new players because you are going to die A LOT. But again, who didnt die A LOT when they first started out with ARK? U die from hunger, thrist, cold, heat, other players, or dinos. This is just part of the game. And personally, I like a game that is challenging. I think that having this do give other players who are not good with PVPing a better chance to win against people who are great with crossbows and guns. While you are dying off to all the events and dinos, the good players are ALSO facing the same events and have a chance to die as well. 
+
+Second, I do agree that unranked lobbies take too long to start sometimes. It will be great if they add a voting system in the lobby, if more than 50% vote to start, let's just start the game. It's much better than forcing a certain amount of tribe numbers before starting. 
+
+Overall, I love SOTF. I don't have the best FPS in this game, but the game mode and the graphic is awesome. I love the fact u can try to tame dinos to win the game, or u can simply go tech and craft guns (if you are good at pvp and have awesome frames). Unlike other royale battle i've played, I have yet get bored on this game mode because there's so many different ways to can go to try to win a game instead of doing the same thing EVERYTIME. Trust me, u will get better if u don't give up. 
+
+SIMPLE TIPS for new players: 
+
+1) Don't run into the center. If you have good frames, go ahead and run in. But the center really dont have any items worth enough for you to get killed within the first 5 mins. (Basically, u want to run down, find a safe spot in the wood, and rush for spears, bows and arrows, before going out in the open)
+2) Pick can get you - Thatch from trees, Flints from rocks, Meats from dinos. Hachet can get you - Wood from trees, Stone from rocks, Hides from dinos. You get fiber and berries by picking bushes. And u get chitins by killing bugs/scorpions and chopping them with hachet after they died.
+3) If u happen to be by a red drop without other players, loot it. It gives you really good stuffs.
+4) DO NOT stay on the beach for too long. You will be found very easily and get kill.
+5) Cloth armor can help with heat and hide armor can help with cold. U might need 2-3 standing torches with megacold too
+6) Nacroberries(BLACK) can keep your unconscious dinos from waking up. Just put it in their inventory and force feed them if u think they will wake up before taming is done.
+7) Stimberries can help you recover your stamina (It's great if u are running from dinos or other players). Keep them in your hotbar. But they will drain your water level (the yellow, blue, and purple berries will increase your water level)
+8) Try not to start a fire if u dont have to. It tells people where you are. DO NOT use torches at night unless you are freezing. (The little ice cube icons appears when you are freezing, and your health will start going down at that point)
+9) Don't chop down the whole tree or rocks, when trees fall and rock explode. It gives out your direction
+10) If you run into big shiny golden metal nodes, stay by it, gather, kill and tame dinos. Once u get to level 20, u can make forges to burn metal to ingots. Make smithy and make some good gears and weapons. (Metal picks give you more metals too)
+11) When you are looking at your inventory to craft or simply to check things. ALWAYS lie down on the floor before doing so, it's harder to see you that way. (Of course, if you are lying down on the beach, people are still going to see you)
+12) If your bones are broken (U will see a broken bones icon appears), the only way to recover your health is to laydown. Walking around will kill you. So find a safe spot and lay down if you are not being chase)
+
+Hopefully these tips can give you guys some head start and prevent u guys from dying too much. I'm gonna post the two links i've used to help with my FPS on the bottom. Good Luck and Have fun everyone. 
+
+
+https://www.youtube.com/watch?v=1yQc8ncqLfM
+
+http://steamcommunity.com/sharedfiles/filedetails/?id=475747492
+Game is fun they just need to add a tutorial.  They fixed some FPS issues but there are some simple ways to solve it.
+
+Go under
+Right Click on The  Game
+Properties < Launch Options < Put Code in -USEALLAVAILABLECORES -sm4 -d3d10
+This will help a lot!
+
+
+
+Bias:  I have played quite a bit of regular ole Ark, and I like it just fine.
+
+So as of this review, I've been in 2 matches so far.  
+
+Which brings me to my first problem:  The lobbies.  A free-for-all needs 25 players for a ranked match, and even when 25 players were in the lobby, many times, the game failed to start.  I would have played more, had the lobbies functioned a little better.  I also suspect that some people are abusing the finickyness of the lobby system to disrupt normal gameplay.
+
+Once you get in a game, you are placed in a giant bubble in the sky, where you can talk smack, plan your plans, or otherwise occupy your time.  It is important that you make your character, make your tribe, and possibly your flag, as soon as you can.  Press L to form a tribe, by the way, for those who don't know.  I am hoping that the devs can get this whole rigamarole straight, as it's probably driving people away from the game.  Perhaps an out-of-game way to craft your character, flag, and set up a 'quick tribe' to use once you get in a match?
+
+After a period of time, you are descended to the playfield via a beam, where you are free to run amok.  In my first match, I mostly played stealth and lasted quite a while, until I encountered a man taming a trike.  I felt good during the fight, like I was winning, but the trike woke up and he whistled it onto me, and I died, caught between a trike and a hard place.
+
+Second match, I stealthed to an area with several good specimens of beast, and tamed myself an ape.  With that ape, I then went ape, killing 3 other players.  The fourth player was able to mount his anky and overcome my element of surprise, and his trike and stego ended up finishing me off.  I was close, though.  
+
+That is all pretty good.
+
+I recommend this game with the expectation that it will improve over time.  Ark was nearly unplayable when it came out, due to FPS issues, and now, even on my modest old computer that most would be embarrassed to own, I can play it at 40 FPS.   Ark: SOTF does run a bit poorer than that, but with a little tweaking, it ran well enough for me to score numerous kills and make numerous direct hits with bows, spears, and slingshots.  
+
+Some people will be surprised at the suddenness with which one can die, but I enjoy that aspect, as even a guy on a rex can be killed by bugs when he stops to drink or loot a fallen enemy.  
+
+I haven't tried the tech path of play yet, but it suspect it's risky until the end, when it all pays off.  4-5 combatants I've faced were hidden, attempting to make guns and armor to counteract dinosaur mount power.  At least 2 of them made it farther than me.
+
+Which brings to another point:  When you die, you are immediately ejected from the game into the menu.  I appreciate why spectating is a bad idea, but at least having a scoreboard to see who won a match would be nice.  
+
+In the lobbies, you can see your own simplified stats, but I can't figure out a way to vew other people's stats.   Related to the above point, it would be nice to know who you were up against, as well.  Maybe something to note how often a person has killed using their mount, vs melee weapons, vs ranged weapons, etc.  I would like to know if a player in a match is an axe murderer or if they want to skulk in the shrubs waiting to bushwack the 2nd to last tired competitor with a shotgun to the face.
+
+In a nutshell:
+
+This is a game that is still in development.  It has some problems that may be game breaking for some.  It is based off of Ark:  Survival Evolved, and has most of the elements of that game, including crafting and heavy inventory management, so it has a learning curve.  It demands a lot of your system, and may not play at framerates that some are used to.  It is frustrating not being able to get into a game from the lobby.
+
+That being said, it has a lot of potential, was fun for the 2 matches I've played, and it has freaking dinosaur shotgun giant ape cannibal with a spear fights.
+Recommended --> play with friends when starting and run everything on minimum especially viewing distance. Decent PC needed see specs. 
+
+Alot of people give garbage reviews that it doesn't run properly but it is the user's responsibility to ensure your PC is up to the game's specs, unfortunately because it is free people will try to run this as there is no financial risk involved to download it. There is the odd bug here and there but this game is early access so that is expected.
+ 
+You will die alot! - In my experience the first 50 games where learning about the different ways you can die! (this can be humourous sometimes and fustrating other times!) 
+
+Every decision will have a consequence and its about making the right decisions to win. Lots of different strats that can be employed.
+
+Speed and effeciency is of the essence, you will always need a third eye in your back to survive. A bit of luck can go along way in in this game but its more about being prepared for every situation at every moment, ready to fight to the death.
+
+Game needs:
+->Basic tutorial guide 
+->Optimising to access bigger player base with not great PC's 
+->Lower wait times especially for FFA as there's no need to find a team
+->Minor balancing/tweaking with stat upgrades or item requirements
+->Mid game win alternative (Currently its hunt in the early, build guns or tame many dino's for the end game shinanigens)  
+->Hit markers especially with long neck rifles;  it can be really difficult to know whether player has been damaged or not and sometimes feels like shooting into a black hole.
+
+10/10 action-packed survival with lots of potential.
+Really good game. 
+
+You need a mid/high pc to run it.
+
+You need to learn mechanics then u will enjoy this game.
+
+Don'y listen people who downvote with 0.3h playing.
+
+Listen to me, Download, Learn, Enjoy.
+
+Bisous
+Coming from over 100 hours+ in ARK, the one thing that frustrated me was that being a time-poor individual, I didnt have the opportunity to compete against those who don't seem to have as much keeping them away from a server. Even then, when I was commited, PvP was very sparse, most of the PvP servers didnt actually encourage PvP and people spent most of their time building up bases rather than in combat.
+
+SOTF throws that all upside down. Depending on your team size (FFA, 2v2, 4v4, 6v6), depends on how long the game goes for and how quickly you can build up a collection of items/dinosaurs to fight with. But they are small self-contained chunks where you have to compete with a heap of other players to be the last man standing. Its a rush, its very exciting and there is a lot happening in a short span of time.
+
+The only downsides are for the new guys, theres no real tutorial or idea on how to play so those from original ARK have an advantage at the start. It still needs more polish thats for sure and as always, ARK is rather poorly optimized.
+
+Still its incredibly enjoyable and I prefer it to regular ARK.
+This game was fun the first 2 month. But right now? 
+
+---> rubberbanding in 25% of the lobbies
+---> too many desyncs, poor hitreg. --> people stand still and some 100% optical headshoots count as hits to the hands/body(maybe use a system like csgo does)
+---> tames are too strong in relation to tech... it's random to get a good tame since the spawn locations are random(spyglass helps a little since you won't tranq a lvl1 rex)
+
+---> Ape-Instatame-Bug and too many people who abuse it
+---> Narcotrap-Bug and too many abusers
+---> hail to the king is silly(you can win a game because of 1 event)
+
+and many more things i don't want to come up with atm. 
+
+So this game is fun aslong you play it casual. But at a point where you are in the Top40/Top60/Top80 and gain 1-3points per win(even in 1600+lobbies) and lose 10-15 points because of getting killed by an abuse or bug the fun translates into TILT pretty fast.
+Conclusion: It's a funny fast paced game that needs atleast some skill to compete with others but LIKE THIS it can't be played for money or as an eSports at all.
+This is my opinion and the opinion of others will be different but i think many high-elo players would say the same.
+Sorry for my poor english but i hope most people will get the point...
+ARK: Survival Of The Fittest is basically a jurassic Hunger Games. You can choose to play alone in Free-For-All, or play with up to 3 others in 4-man tribes. This game has a small learning curve, but once you get the hang of it, it's a very fun game!
+
+[h1]Pros:[/h1]
+-[u]You can tame dinosaurs.[/u] [b][i]Dinosaurs.[/i][/b] These dinosaurs help you carry more items, and attack enemies for you. These dinosaurs typically deal more damage and have higher health than you, so it's definitely recommended to tame more than one.
+-[u]Nice graphics and atmosphere.[/u] The graphics in this game are very nice to look at and are very detailed. Sometimes, in the midst of the chaos, it's nice just to take in the scenery around you. The world was very beautifully designed.
+-[u]Hilarious character customization.[/u] This game takes character creation to a whole new level. Not only can you choose the basic stuff: hair color, eye color, size of your character, gender, etc., but you can also over-exaggerate these features like crazy! If you wanted to, you could make a character that is 4 feet tall with very muscular arms and very skinny chicken legs, and so much more!
+
+[h1]Cons:[/h1]
+-[u]Requires a powerful graphics card.[/u] This game is kind of poorly optimised. If you want this game to run smooth (or over 30 FPS), you must use a good graphics card.
+-[u]The learning curve.[/u] If you've played ARK: Survival Evolved, this most likely won't be a problem for you. But, if you were like me and just started off with this game, it is certainly a challenge when you're first learning how to play this game. Learning how to tame dinosaurs, how to get good loot, and how to use some weapons can be a challenge. Just be prepared to face players with more skill than you, and be patient. You will learn how to win, it's not too hard!
+-[u]Evolution Events tend to be a little broken.[/u] Evolution Events are random events that occur that are specifically designed to endanger the player (with the exception of a few events: Double Taming, Food of the Gods, Harvest Bounty, Herbivore Drop, Supply Overload, Super Loot Crate). Some Evolution Events, such as Mega Heat, are kind of broken. For example, with Mega Heat, the player must remove all of their clothes to help cool off. This wouldn't be such a problem if the Event didn't maintain that heat. You could even swim in the river and constantly drink but still lose health due to the heat. Of course, these aren't big issues, just be careful when the events occur!
+
+[b][i]TL;DR...[/i][/b] This game is very fun. It has awesome graphics, as well as an amazing atmosphere. It gives you the ability to tame dinosaurs and create silly characters. Although, you will not be able to run this game smoothly unless you have a good graphics card. The learning curve is a challenge to get used to, but isn't too big of an issue. The Evolution Events are designed to kill you, and are very good at doing their job.
+
+[b]I [i]HIGHLY[/i] recommend you play with friends; free-for-all is very hard if you're not very good at the game, and random players aren't always good teammates.[/b]
+
+After playing this game, I rate it [b]8.5/10[/b]. It's fun, and it's free, so why not give it a chance? Good luck in the ARK!
+5 stars if they bring it back as  free to play! So they can get a player base again. 
+
+It's a good way to get players to buy the full ARK game after they tear it up in some battle royale
+Simply awesome. A little rough around the edges but the experience and game play offered is simply incredible. I'm twenty years into my PC gaming hobby with hundreds of different genres of games played, competitive play at high levels on everything from Age of Empires to Team Fortress to Mtg, but none of that ever felt as good as the first time I won a match of SOTF, from knowing nothing all the way to the first win was a great journey. Hoping I get to play this game for a long time. 
+
+If you are interested in getting into the game but have questions feel free to message me, I'd love to see the community grow.
+Have you ever imagined what it would it would feel like to jump off one of Gandalf's eagles, use a parachute and begin to lob some 10-15 grenades at a terrifying assortment of Giant monkeys, Stegos, and T-Rexes awaiting below? Neither had I, which is what makes this game so very fun!
+
+But in all seriousness I'll preface this review by saying this is an excellent game that i've thoroughly enjoyed and will continue to enjoy playing, but like any game, it has its pros and cons, and i'll try to point out the aspects of the game here that i've found most enjoyable or sometimes a bit frustrating.
+
+So what's this game about?
+
+As you might have guessed, Ark SOTF isn't your typical survival game (no more zombies, don't worry!), with its emphasis on basic to advanced crafting and the ability to tame dinosaurs to fight by your side, Ark SOFT takes a unique spin on competitive gameplay that resembles a fun and rather difficult mix of Hunger Games, Jurassic Park, and maybe some CoD. 
+
+So what are the pros and cons?
+
+pros:
+-mostly seamless gameplay:
+      Even though the game is in early access it runs very much like a completed game and I can honestly say I very rarely 
+encounter bugs or glitches. It also boasts excellent graphics so long as your computer can run them (mid-grade system requirements).
+
+-balanced strategies:
+       Though riding a T-Rex can be real fun, I personally prefer to make high end weapons, but the point is that either a person with good tames or a person with good weapons can win a match so long as you have enough luck and skill.
+
+-fun mix of opportunity:
+        Though its easy to get into a routine and its oftentimes beneficial, the sheer availability of tactics you can employ (with a little bit of forethought) helps make this game more exciting and prevents monotony despite its single map location. Should I tame a big dino and tank my way through the match, or should I have several fast dinos to kill off players? Should I make guns as fast as I can and hunt people or wait it out and get better supplies? Maybe I should build a sniper tower? Maybe I should set some traps? etc etc. This game has a lot of potential strategy and opportunity waiting to be explored and tried out.
+
+Cons:
+
+-Large learning curve:
+Yep, sorry guys, if you're new you will die over and over and over again. Its a very fun game and sometimes it can be fun learning the hoops, but this game at its core is largely unforgiving and doesn't care if its your first or fiftieth match. Whether you get one-shotted two minutes into the game while sorting through your inventory, or you think you can swim to the other side of the river with cloth armor, you'll probably learn most aspects of the game the hard way. 
+
+-Only one map:
+Though it is a large map and there are lots of places to explore and things to do on it, it would be nice to have a bit more variety in terms of the map location(perhaps a different biome from Survival Evolved?) 
+
+-irritating ranking system:
+Though when you're a low level the ranking system seems to work fine, because it is based off of enemy player scores and what place you get, the game can be pretty dumb and oftentimes seem unfair in the way it rewarded or deducted your score. For example, if I win a game of FFA I will on average go up about 4-6 points, but if I get one-shotted 30 seconds in by a high ranking player I go down about 20 points. This isn't a big deal if you don't care much for leaderboards or pro-tier gameplay, but it can be very frustrating if you do.
+
+All in all though guys, this is a great game and its even free to play, if you're even remotely considering trying this game out I deffinitely recommend it and invite you to try it out for yourself. Just try to learn quick and maybe watch some youtube videos on how the game works to save yourself from some learning curve frustrations.
+
+Anyway hope this review is helpful to you guys and that your T-Rex is the next one to fall to my entourage of grenades ! 
+
+See ya in the arena guys, and may the odds be ever in your favor . . . unless I'm in your match ;)
+its FUN. BUUUUUUUT if you have a "slow" computer you will not be able to run it. I ran at 40 FPS when I first got it, even with low graphics. But I got it to a steady 50-60 fps by changing the launch setting. Just paste this in there and you'll be able to run it-ish.
+
+-USEALLAVAILABLECORES -sm4 -d3d10 -nomansky -lowmemory
+
+GLHF
+- Game starts
+- Grab what I can then run away
+- Get wood
+- Make a bow
+- See a mammoth
+- Attempt to tame it
+- Success
+- Tamed 2 more dinosaurs
+- Feels prepared for anything
+- Starts making a house
+- Randon carnivore drop
+- world spawns a Spino on me, killing me instantly
+
+20/10 realistic and would hate everything again
+
+To anyone having problems Running this game performance wise
+Consider adding the following code in the Launch Options sequence in Rightclick > Properties > Set Launch Options 
+
+Code 
+-USEALLAVAILABLECORES -sm4 -d3d10
+
+This will make you run at a significantly different fps. 
+Spread so everyone can see 
+and stop giving the game bad reviews
+Its based around a popular mod for ARK: Survival Evolved except polished and way better.
+I highly recommend this game if you like survival games.
+Think hunger games except you add cocaine
+[h1]Introduction[/h1]
+[b]ARK: Survival of the fittest[/b] is a stand-alone multiplayer challenge mode aspect of its prime game, [url=http://store.steampowered.com/app/346110/]ARK: Survival Evolved[/url].
+The settings is [b]heavily[/b] influenced by the [i]Hunger Games[/i], whereas you're thrown into a caged environment and have to face immense dangers to remain as the last survivor.
+[quote]It originally were a community developed addition to the main game that eventually became official.[/quote]
+Despite it is relying on the same core files as the main game, it does not require anyone to actually own ARK: Survival Evolved in order to be able to launch this free-to-play game.
+
+[h1]Gameplay[/h1]
+Ideally it's a slip in-and-out kind of game, with little room to fully immerse yourself into the game. That's where its counterpart, ARK: Survival Evolved plays a role.
+The conditions of the game is altered to enhance the tension such as dramatic elements, extra aggressive dinosaurs and so on, so forth.
+Although the difficulty of the game is rather subjective since you're able to set up your own game and customize the majority of the match functionality, so it all depends on which environment you've been brought upon and the way you survive.
+
+[h1]Performance[/h1]
+As the game is in its early access stage, much like the main game there are still some optimization required and as it seems on both games the developers are actively working and communicating with the playerbase.
+With some tinkering in the options it is adequate for the modern mid-end computers.
+
+There are some quirky and irritating bugs scattered around in the game, but arguably forgiving ones.
+
+[h1]Visuals and audio[/h1]
+Personally I find this game very beautiful and kind on the eyes, there are appealing optical flares and the fur texture are cleverly applied.
+The audio in majority is very fitting and appropriate for the selected scenarios. There is enough options to personalize these features to your own likings.
+
+
+[h1]The verdict[/h1]
+It is a very intriguing representation of survival versus player spiced up with jurassic creatures kind of game, however if you ever feel like to settle down and play in a more laid-back [b]p[/b]layer-[b]v[/b]ersus-[b]e[/b]nvironment manner, ARK: Survival Evolved would be an appropriate game for you.
+It holds great potential to continue as a game that is cared for by the developers but then again, [i]don't quote me on that[/i].
+[h1]The most underrated game of all time![/h1] 
+
++The game is beautiful, content-rich and full of fun! (play it and feel the adrenaline rush)
++Developers could have sold it as a $20+ independent title easily, but it's [b]FREE[/b]!
+
+The reason why there are so many negative reviews is that people aren't willing to give 5-10 minutes of their life to try to optimize an early access game!
+
+-> Optimize the game according to your machine config. (Guides are all over the internet, Google is your friend)
+-> Try to learn game mechanics, watch some YouTube gameplays.
+-> Practice and WIN!
+-> Buy [url=http://store.steampowered.com/app/346110/]ARK: Survival Evolved[/url] and support the awesome team of developers.
+
+And if you are enjoying the game and haven't reviewed it yet, I urge you to do so!
+
+778 hours. I played this game a year ago, when it had a few thousand players and when this game was active. Was top 50 in the world, in Survivor League. I would have to say this is one of the most action packed game I have ever played. Back when it was solid and the servers were descent, IT was so fun! The more you played  the more you could come up with so many different strategies.  If the devs kept putting money into the servers and this game I would have still been playing it to this day. 10/10 game, but now with a dead player base, and shit servers. Its not a game worth playing anymore sadly :( This game had SO much potential. If it was advertised more this game would be so popular.
+ARK: Survival of the Fittest is a survival arena "esport". It resembles the Hunger Games trilogy, you start falling from the sky into platforms, and from there your only goal is to survive. 
+
+Many people didn't get the "survive" part of it, since it is one of the most quick-paced and hardcore games there is of its kind. The learning curve is extremely steep, with no tutorials nor guides to follow from the developers themselves. Most players quit and the amount of people that played lowered exponentially, since it wasn't fun for unexperienced players with no learning material.
+
+Another reason why players quitted was the lack of new resources, and the amount of care the developers gave to the game, which was close to nothing. Sure, there were some tournaments in place, but these were won by the same people most of the time, since it is a hard to learn game. 
+
+Today, the lobbies for a match to take place take a long time to start, because of the lack of players. The game is outdated, and tournaments no longer take place. Many people take advantage of the new players and kill them for the additional points which affect their ranks. This game is in the edge of complete extinction or in its way to the renovation of the game, bringing more and more players. This all depends on what the developers decide to do. 
+
+I would recommend playing it, since it is very fun and addictive if you get the hang of it. Remmember, watch youtube videos and guides on how to get better, or you will be one of the thousands that quit for the learning curve. Most of us are hoping for an update in January, but this is up to the developers.
+- - -[ Audience: ] - - -
+
+☐ Kids
+☐ Everyone
+☐ Casual players
+☑ Competitive players
+
+- - - [ Graphics And Textures: ] - - -
+
+☐ Potato
+☐ Really bad
+☐ Bad
+☑ Meh
+☐ OK
+☐ Good 
+☐ Beautiful
+☐ Masterpiece
+
+- - - [ Price: ] - - -
+
+☐ Free
+☐ Full price
+☑ Wait for sale (Ark)
+☐ Refund it if you can
+☐ Don't do it
+
+- - - [ Requirments: ] - - -
+
+☐ 90' PC
+☐  Minimum
+☑ Medium 
+☐  Fast
+☐  High end 
+☐ NASA computer
+
+- - - [ Difficulty: ] - - -
+
+☐ Look Mom No Hands!
+☐ Ez
+☑ Easy to learn / Hard to master 
+☑ Hard
+☐ Dark Souls
+
+- - - [ Game time ] - - -
+
+☑  Really short ( 2 - 10 Minutes )
+☑  Short ( 10 - 20 Minutes )
+☑  Medium ( 20 - 30 Minutes ) ( 1 Player Sqaud Max )
+☑  Long-ish ( 30 - 40 Minutes ) ( 2 Player Squad Max )
+☑  Long ( 40 - 50 Minutes )
+☑  Longest ( 50 - 60 Minutes ) ( 4 Player Squad Max )
+☐  Extremley Long ( 60 - 120 Minutes )
+
+- - - [ Story] - - -
+
+☑ It doesn't have
+☐ Still better than Twilight?
+☐ Average
+☐ Good
+☐ Fantastic
+
+- - - [ Bugs ] - - -
+
+☐ Game itself is one big BUG
+☐ Bugs destroying the game
+☐ Lot of bugs
+☑ Few Bugs
+☐ You can use them for speedrun
+☐ Nothing
+[b]Please Wildcard Studio don't let this amasing game die. [/b]
+
+Its the best Battle Royal game that has ever been released, but Wildcard is killing it :( .
+
+[b] Everyone should support this game and hope Wildcard will care about it [/b]
+H1Z1: KotH, PUBG, Arma Battle Royal, other random Hunger games style games; yeah sure they are good but can you tame DINOSAURS!!!
+YOU CAN RIDE DINOS WHILE SLAUGHTERING WITH GUNS YOU MADE YOURSELF IN A BASE THAT YOU CRAFTED IN 2 MINUTES SOMEWHER IN THE BUSH!!! All these things are lacking in the other games.
+
+Also its free if you own ARK, so yeah.
+
+Honestly so under-rated. It's sad that the Dev's basically gave up on this game and that it takes so long to load a match
+
+Get this game, play it till you love it, play it till your friends love it, play it till your face melts off with pure adrenline rushing, heart pounding joy. Play it till the devs realise that this is a great game and people want ti worked on.
+       What do I say about this game....
+This game is like an older/younger brother/sister. They drive you nuts and you can get really mad at them, however when it comes down to the end of the day you realize you really love them even though they have their flaws.
+
+       Personally I would give this a try any day of the week, make sure not to give up because you die. YOU WILL DIE many times so be prepared. This game takes a ton of skill and knowledge but believe me its a blast throughout the whole time of learning.
+
+Rate- 10/10 Would Play Again
+
+
+great game.
+
+i played this without playing survival evolved and hated it but something kept me going back and after maybe 15 hours i loved it now i cant stop playing it.
+
+i play games like league of legends and HATE that you can do good and still lose due to your team.
+this game is great for the fact you dont need your team to do well its you and only you
+
+nothing better than tamming a big dino and eating everyone :)
+
+i got this free but i bought ark se after now you can only play this after buying ark se.
+I love this game to the point past obsession! If you haven't played ark: Survival evolved it will be a shock to your system and yes it's very hard to be new. But persevere, please! Once you understand the mechanics there's so much to do! 
+
+I'd easily pay to play this
+This game was probably one of the best I had ever played when it was in its prime.  There were so many elements and variables each and every game, which ultimately could change the over strategy and outcome of the match.  This game was a matter of skillfully dealing with those events and also the other players.  If only this game was continuously supported and still had that player base :-(  . But I guess the money is in making their main pilot game *cough* better and adding 300 more dinos.  Devs should reinvest time in this game by optimizing it and holding another contest to reignite player base. Hell, even adding some of the new dinos would be awesome.
+Why did Wildcard kill this? I didn't play much, but what I did play of it was amazing. I would recommend, even though it is dead, I am keeping this for if it ever comes alive again.
+PROS:
+- A really good Battle Royale
+- Superb Graphics
+- Easy Matchmaking system (mechanically speaking)
+- Dinos
+- Engram simplification as compared to ARK: SE
+
+CONS:
+- Kid community at times you'll hate the human race
+- Unfair matchmaking - there's only a min. points system, no max limit
+- Quite behind in updates as compared to ARK:SE
+
+
+All in all I will recommend this game but ONLY if you like ARK: SE and fancy checking out a Battle Royale gamemode.
+If you're getting ARK just for this - don't. Maybe after Early Access... but I wouldn't hold my breath.
+Still - compared to most games it's deffinitely in the top 3 best Battle Royale games out there.
+Im in a fair position to make a review.. 
+
+This game is brilliant, great gameplay, great teamwork, fun and in plain words a dumbed down version of evolved (Which is good)
+
+The PvP experience in this arena survival game is intense and fast paced, if you can't handle the pressure sit down and watch some tutorials first, or some streams to learn the better gameplay around and how it's achieved.
+
+DEAR Wildcard
+
+ - you need to optimize this so I run with the same FPS as in evolved, I recieve problems on fittest but not evolved. 
+
+ - please make the game free to play again, here is where we saw the most lobbies going and actually able to get a game of 4s on the go! A lot of us miss 4 player gameplay, nevermind 6!
+
+I bought evolved for fittest a while back, i saw gameplay of fittest and wanted it. When it went F2P the playerbase went up an insane amount, which is always a good thing. 
+
+There's already a cosmetic setup in the game, try making the game free to play with a shop to buy more cosmetics, for dinos or for players (Even weapon/armor skins) 
+
+Make some available through playing matches over time, challenge/achievement system with rewards (cosmetic only!)
+
+Make some available through paid content (Metal Nuggets) 
+
+Work on this method, do it right, bring back SOTF playerbase. We need 4 player back!
+
+~Dis
+#MakeSOFTgreatAGAIN
+Add to this game new maps for example Scorched arena Aberration arenas change the model to those that have been added to the Dino TLC 1 and 2 make this game better do not throw it
+This game is good overall but yet there is very less amount of people playing it so to join a game it would take 15-25 minutes or even longer. so this game needs to be updated soon so that it gains more recognition
+First of all I can't believe how many people actually give this a bad review, this game is great, so much different but still so much the same as ARK: Survival Evolved, all the people talking about laggs, thats probably your computer that can't handle the game, which gives you low FPS, not lagg. Second, this is one of the best Battle Royals out there, not forget to mention a one of a kind (DINOS). The only downside to this game is that alot of people don't know about it (most of Ark:Survival Evolved players don't) And thats why the game is running empty, 1player games and 2 player games are still easy to fill up, but 4player games, not a chance. I ABSOLUTELY LOVE THIS GAME & would recommend it to everyone that likes survival games/battle royals & a challenge. + own a decent pc.
+Rating: 11/10 please help the game to get players again!!!
+Making a F2P game out of a mod deserves high respect.
+
+Yes its buggy. Yes, the game setup is quite crazy. Yes, the lobby part takes ages.
+
+But the matchmaking is genius, especially for playing with friends. The gameplay has many different paths to achieve victory, and survival. The best part about ark is its low tech gameplay (all the high tech stuff in the original ark actually destroys the game setting for me), and in this game mode it works out better than the standalone.
+
+There are no hidden costs (yet). This is a truly free game, with well evolving mechanics.
+
+Kill dinosaurs, build bows and that hide armor, or just build that cloth armor and go spears, or go guns, or go mass tame, or go tame something cool and level it up, or go for the middle crate, ohnoes arctic monkeys!
+
+[b]Cons[/b]
+Gosh, that lobby is buggy. And why do I have to restart the game because the party system is broken. Oh come on, devs, just because UDK allows you to do everything by click and drag, please dont become lazy! Fix that UI! It's mind boggling, parties desync in the party screen...
+
+[b]Verdict[/b]
+You shouldnt miss this. It's stupid, but it's epic.
+This game is almost a simmulation of The Hunger Games. 10/10
+You need a good PC to play it, game still needs optimazation. 
+
+If you want to pay money i reccomend getting ARK: SURVIVAL EVOLVED before playing this. Will help to learn how the game is played, because they are both similar in game mechanics.
+It was a really great battle royale. Sadly this game died due to the amount of players and discontinuing of the developement. Hopefully Wildcard will revive this game, maybe as a F2P game. I loved it!
+This is by far the best battle royale style game on steam.  It is way more fun than PUBG, which comes down to who gets lucky on weapons and end circle.  This one tends to be decided more meaningful.  Sure you might get to the end fight with a sniper rifle, but I brought a t-rex, and the other guy has a small army of raptors.  It's actually different strategies being played.
+
+The only downside is that it takes forver to find a match.  But if more people get into this one, that problem would go away.
+I had so many good moments on this game. How can we put aside a game with such a great potential? This game is now only on one thread :/ Wildcard must return to it! #MakeSotfGreatAgain
+This game! This game! It's the best fucking game ever!
+
+but let's get the cons over with: 
+
+1) The game is rather dead, but we can always hope, it makes a glorious return.
+2) A game takes forever! A game takes atleast 35 minnutes, unless you die early-game, which isn't really better.
+3) The ranking system is completely fucked... If you're a player who just joined the game, and therefor is rank 1500, you will most likely meet people of 1900+ in your first match, and it dosn't get any easier, cuz people of high rank can just join a low rank match like it was nothing.
+4) The first 50 hours, will probably not be incredably fun, since you have to understand the mechanics, and learn to outsmart other players(which feels awesome, if you do it right btw.). I do recommend you play ARK: Survival Evolved, before even touching this game.
+5) You will be killed in a 100 different ways, before you understand, to watch your back.
+6) Once you die, you're out. This is the best thing about SOTF(Survival of the Fittest), and the worst, since this is annoying when you get killed, but it gives a freaking rush when you kill someone.
+
+Finally! the Pros:
+
+1) The rush you get from eliminating/killing another player is amazing!
+2) The game itself might be rather dead, but the community is still very much alive. If you try unofficial, you'll find tons of cool people, with a lot of wierd settings/gamemodes.
+3) Once you die, you're out. This is the best thing about SOTF(Survival of the Fittest), and the worst, since this is annoying when you get killed, but it gives a freaking rush when you kill someone.(This is the same, as number 6 of the cons.)
+4) You have so many possibilities! You can either go for guns, like longneck rifle(classic sniper) simple pistol and simple shotgun, or you could gather some berries/meat and some tranquilizer arrows and go tame creatures like rex, spino, bronto, argentavis, sabertooths, raptors and more! you can also mix crafting with taming and make a combo like an argentavis, a sword and a shield, and then just jump your enemies from the air! or make some c4, and put on a little dodo, and send it to it's death with a huge explosion!
+
+I don't know what else to say, but let me know, what you think about the game in the comments! :D
+Very awesome game, I really enjoy it! It's a very good game..
+
+Positive:
+
+- Not too much lag
+- Easy controls
+- Easy to find friends on this game
+
+
+Constructive:
+
+- To few maps, when theres only one map it gets boring
+- Needs more dinos.
+- Needs more crafting recepies and stuff.
+- Needs a gamemode with bigger map area.
+If Studio Wildcard released this for free with the same kind of gameplay that PUBG or Fortnite is offering i think this could do very well indeed.
+
+Make it so there are lootable pre built buildings, with weapons/guns/attachments in them like in PUBG, i tried to make a mod for it about a year ago but the fanbase was so small it didnt seem worth it
+At the time it came out, this game was great, but not so much any more.
+
+Don't get me wrong, it's a fun addition to the core game, but if Studio Wildcard want more people to play this (during the release period, they've said that this was just an experiment with Ark, so I don't think they do), then they'll need to work on it.
+
+The game is a modified version of the game in its earlier stage, which means that a lot of the items, dinos, and stat changes are missing. The second main problem is that very few people play it at all. I've tried it not too long ago and it took roughly 10 - 15 minutes to find enough people to start a game.
+
+I've really enjoyed this game, but it's not finalized, so I'll be sticking to Survival Evolved for the moment.
+
+
+I have played many intense competitive games for example  H1Z1 Battle royal AKA king of the kill and Infestation the NewZ Battle royal but Sotf  is about the most hard core game i have ever played. If your looking for a hard core/intense competitive game this is it. I Nominate this game for The “Test of Time” Award. 4 mouths of being Sotf top player has been amazing i recommend this game to anyone that dares take this challenge to be a part of the survivors league
+ARK: Survival Of The Fittest... I owned this prior to Survival Evolved because it was at one point free and separate. I for a time did enjoy it just as much and that's not saying I think it's a bad game, what it is saying is I'm just too casual for the competitive nature and pacing of the game, it is in short a much faster paced version of Survival Evolved and goes at a pace that I just can't match close enough to be good at it. But if you are into the arena style games then I can say that this does make ARK fit into that style just as well as any other game could, you all start in the middle and then fight to be the last!!!
+Honestly have 0 idea on why they took this off of free to play, it was fun to play and now me and my friend have an old story to laugh at because neither of us knew what "Narco" ment until i exclaimed "IM NAPPING IN THE BUSH LOGAN ITS BEEN A LONG DAY" , just bring this back, its honestly the most fun i had back in the day
+A fun and interesting free to play game  to play with friends, tho it does need a better PC. Interesting mechanics, the world is full of different creatures, buffs and debuffs, different types of foods and materials... 8/10
+This was a good game when many people played it it was amazing but so many people left after the devs left. I say the devs should get back to work on it and the players should get back on it. The game has potential it needs an incentive to play other than some hat skins and a trophy make it have micro transactions and re open it for free without the purchase of ark so little people play it though it is sad this is what we need we need sotf back! #MakeSotfGreatAgain
+Great game, sadly no players so the game queue is long af. Would love to be able to play the game without having to wait for hours. Instant action instead of a long grind as in ARK
+This game was so good its a true shame it got killed seemingly overnight if it was more active id definitely recommend but ill just do that anyway i had fun
+I love this game almost more than I love ark but the waiting times are too long. I believe that the game should be free again or have time periods where it can be free so that more people would join. This battle royale is survival of the fittest not like pubg or fortnite. If only this came out a couple months later when battle royale games were extremely popular.
+Why did this company release Survival Of The Fittest in Early Access when ARK: Survival Evolved is still in Early Access? Why did they use the money they made from those Early Access buyers to fund the development of paid DLC instead of finishing the game? Every release is still full of bugs. Survival Evolved is full of bugs. Survival Of The Fittest is full of bugs. Scorched Earth is full of bugs. Finish Survival Evolved before releasing new broken games, Wildcard.
+Okay, so I downloaded this game when it was the hype and a LOT more players were around. SotF has honestly died, it takes forever for the lobby's to fill now. The Dev's don't really care about this game as they are more focused on perfecting Ark Survival Evolved, which is understandable. They have claimed to tamper with this game in the future, adding maps and variating the locations of metal and whatnot, but the chances of that happening anytime soon is slim. Don't get me wrong, I had a BLAST when my friends and I played around a year ago, it's just that it has gone downhill since no changes were made. My hours spent on this game speaks for itself! LOL! People got bored, as did I, so I quit playing altogether. SotF has so much potential and if you want to try it out, I would wait until new content is released and they start paying attention to it once again.
+When SotF came out, it was amazing and loved the tournaments that were happening (naughty vs nice etc.)
+But now that the devs have completely forgotten about SotF you can barely even play it, takes forever to find a game.
+If the devs start focusing at least somehow on this again I'd really recommend this to everyone
+Was an extremely fun game, but their clear lack of support for this game, astonishes me. They had a real gem here, a game that could have given other games a run for their money, but instead they abondoned it to create maps in Survival Evolved before they even optimized the last map. 
+
+Don't waste your time.
+TLDR---Download it, play until you win a game. The feeling is amazing. Sadly, the fun ends there.
+
+Many moons ago I would have recommended this game. When I first began playing Ark SotF It was the most exhilarating game I have ever experienced. Being thrown into a hunger game esq survival game and being forced to fight against other is a childhood dream. After playing for awhile, I decided to try to compete competitively. I made it to top 30 at one point and was pretty pleased with that. Then, the updates. Now, I'm not going to say that changes to certain strategies were not needed, because some were completely rediculous. But, the developers of this game took to completely obliterating any form of strategy involved in this game aside from getting a hold of the biggest dinosaur possible, leveling it, and bum rushing to the center of the map with it. Changes that have hurt the game include the removal of the ring timer, direction of argent nerfs, and the inability to build on center platform. All of these changes I have made a post on in discussion. If these changes were reverted, my hours on ark would skyrocket. Although, optimization is something that needs to be worked on just as much if not more. I can only imagine how nice this game could have been if they focused on optimizing the system rather than killing the strategic diversity.
+
+Edit: With how much battle royale games have been in the rage recently I really hope wild card steps up and fixes this game, it could be a huge money maker. Honestly I think reverting to free to play, adding some sort of tutorial, and trying to get a little bit of press is all they need to do. Currently, there aren't even enough players to go by word of mouth.
+why do you need to own ark to play this if this is free. why not make it free? it would make people want to purchase ark more if they played this as like a demo
+I will not support a company now that charges for dlc before the game is even complete. Full of bugs constantly, I've seen no improvement in the last few weeks, and the DLC now tells me where they are spending their time instead of actually making their game.
+this is one of the best  PvP games i've ever played, but at its current state i can not recommend this. the game is very dead so its impossible to find a match.
+Honestly, this had alot of potential. However the Devs have left it too die. It is so behind in updates, it just looks wack. The player count is so low, it takes you an hour too find a game. They should of left this free, and they need to update it. i remember when youtubers played this and it had a stable player base. But ITS SOOOOOOO BAD. NOT WORTH YOUR STORAGE.
+===[ ❤ Audience: ]===
+☐ Kids
+☐ Everyone
+☑ Casual players
+☐ Pro players
+
+===[ ☼ Graphics: ]===
+☐ Potato
+☐ Really bad
+☐ Bad
+☐ OK
+☑ Good
+☑ Beautiful
+☐ Masterpiece
+
+===[ ☣ Requirments: ]===
+☐ 90' PC
+☐ Minimum
+☑ Medium
+☑ Fast
+☑ High end
+☐ NASA computer
+
+===[ ☼ Difficulty: ]===
+☐ You just need 2 arms
+☐ Ez
+☑ Easy to learn / Hard to master
+☑ Hard (first few hours)
+☐ Dark Souls
+
+===[ ۞ Game time/length ]===
+☐ Really short ( 0 - 2 hours)
+☐ Short ( 2 - 8 hours)
+☐ Few hours ( 8 - 12 hours)
+☐ Long ( 12+ hours)
+☑ Endless
+
+===[ ♬ Story] ===
+☑ It doesn't have
+☐ Still better than Twilight
+☐ Average
+☐ Good
+☐ Fantastic
+
+===[ § Bugs ]===
+☐ Game itself is one big BUG
+☐ Bugs destroying the game
+☑ Lot of bugs
+☐ Few Bugs
+☐ You can use them for speedrun
+☐ Nothing
+
+===[ ✦ Others: ]===
+Multiplayer: YES
+Singleplayer: NO
+When this game came out 2 years ago, it was really fun because people were actually playing. Then they changed it so now you have to buy ARK to play this game. If they change it back to Free to Play, than the game will probably get some players again.

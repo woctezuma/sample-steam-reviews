@@ -1,0 +1,1627 @@
+Finally decided to write up a review of the game now that I'm starting to play again after months of recovering from an arm injury. Also, now that the developers have decided to take the game out of Early Access, I felt it’s about time I do a review of a game I've put over a year of playtime into.
+
+For those who who think my playtime is fake,  I started playing the game after it went free to play (update 25) in November 2015.
+
+
+[b]The Good:[/b]
+
+1. The Developers. I've been playing and beta testing games since the dawn of time of computers (remember having to type in your games and not even being able to save to a tape drive?). Even after all that time, I have found that the developers are some of the best I've ever dealt with. They listen to the community and do care about their game and the people playing it. It’s rare to have a developer, even in alpha tests, ask people directly what their problems and concerns are, and you see results within a few weeks, if not immediately. The developers (and the community I play with) keep me coming back for more.
+
+2. Even after all the updates, and the game going free to play; the game has not become pay to win (no matter what other people may think on this). There is no win or lose, except for how you the player view your goals. None of the paid content is required to play. Pro will give you nice, but not needed options, for your world and your character in game. You explore, collect, craft, build, publish adventures and meet people. Unless you want to duel someone in PvP, there isn't a “you win” for the game. People have 1000+ hours on worlds, and are still building away.
+
+3. Most items can be obtained by playing the game. Blueprints are made with in game items, and usually require no premium blocks. And if they ever do require a premium block, those blocks are easily replaced with any non-premium ones.
+
+4. Updates, lots of updates. They are always adding more to the game. As I said before, the developers listen to the players, and many of the things added to the game is what we, the players, have asked for them to add in.
+
+5. Limited to your imagination, but you can always use a blueprint if you can't get inspired. ;)
+
+6. Hundreds of worlds you can play (yes, even if you aren't a Pro account). There are worlds that have been set up for PvP, PVE, RP, etc, etc. Go into the forums on Steam and you can find people asking for players in the Public Worlds section. So, if you want to be social, you have no excuse not to find a place that suits your play-style. There are worlds out there that are kid friendly, and others that are set up for adult players who want time off from the kids and/or work worries.
+
+7. Solo or multiplayer. So again, choose your play-style.
+
+8. The community is very friendly and helpful. This tends to not be the case on many games where the anonymity of the internet seems to make people think that it becomes a right to be a total... um.. . well you get the point.
+
+
+[b]The Not So Good, But Not So Bad:[/b]
+
+1. Even though it’s a necessary evil, the developers need money to keep the game going, and to feed themselves. I will happily show my support of a game that I enjoy by paying a subscription (even a FTP one) or by any micro-transactions that I feel like getting. Some people believe FTP means everything is free, which of course is not true. The developers getting no money equals the game most likely shutting its doors. :(
+
+2. Bugs... okay, what game out there doesn't have them? But this is minor to me with this game, as under the Good stuff, you'll notice that the developers are always fixing every bug they can stomp flat.
+
+3. No running ads across your screen for you to be annoyed with, which you see in many FTP games (as it’s a source of income). No ads that stop your gameplay every xx minutes like some FTP games either. If you don't go Pro, you get a splash screen when logging into the game loading an area after teleporting that mentions going Pro, and an icon in the corner of your screen mentioning Pro. Some people will not like this, but the splash screen is only up during the period that the area is loading [when you can't do anything in game anyways]. 
+
+[b]The Bad:[/b]
+
+1. Some people believe that buying things like Pro give you unlimited power in the game, or speed up construction times, etc. Sorry to burst your bubbles, but the game isn't set up to do that. (Not bad in my eyes, but for others who want to pay to win it is).
+
+2. If you are looking for a game with lots of mob killing fun, and difficult bosses to beat, this game may not be for you. They aren't too difficult to kill, especially once you get geared up and figure out the easy ways to kill them.
+[b]TL;DR - You may as well try it.[/b]
+
+As a minecraft clone, there are a lot of mechanics in this game that will feel familiar to anyone who has played minecraft. Creativerse, however, adds its own spin on the idea. I will be comparing this game to minecraft throughout this review. Lets go through some pros and cons:
+
+[h1] Pros: [/h1]
+
+[list]
+[*] Same feeling of freedom you get from minecraft. Really do whatever you want.
+[*] Animal taming system is a really cool optional part of the game, that has been refined from the model that existed in minecrft.
+[*] biomes look beautiful, considering the limitations of block-based graphics
+[*] Server system is much easier to manage than other games of the genre, with jump-in game worlds with user privilage settings
+[*] Frequent updates are adding content and squeezing out bugs regularly
+[*] Free-to-play model works great (Will explain below)
+[/list]
+
+[h1] Cons: [/h1]
+
+[list]
+[*] Game progression is slower than you'd be used to. It takes longer to get to the better tools than minecraft, and deeper layers are un-minable using older tools. Really don't like this feature.
+[*] Still a bit buggy. Some instances of creatures spawning where they shouldn't and water not acting as it should.
+[*] Too many block types. I will explain this below.
+[*] Some block rarities need to be tweaked.
+[/list]
+
+[h1] Review [/h1]
+
+For some background, I live in a house with 6 of my friends, guys and girls included. Most of us are heavy gamers, and one or two are more casual. I downloaded this game on a whim and within a day the whole house was playing in my world. They had all built their own little houses and we had started organising larger projects and had delegated tasks to everyone. [b]This. Felt. Great.[/b] It was a really cool experience that I personally never got out of minecraft, even when playing with friends. We all really love the features and look of the game, and the fact that anyone can drop in, work on the castle a bit or collect ore from the mines and drop out whenever they want. If thats the kind of experience you think you'd enjoy then this game will be a fun casual time sink. 
+
+Now, the free to play model does have microtransactions. As far as I can tell, you can spend money on blueprints (large outlines of complicated designs that let you know which resources you'll need to build.) and consmetic blocks (recipes that unlock blocks with unique textures). Obviously, all of this content is completely optional and purely cosmetic. This is why I think it is a pro for this game. 
+
+Block types... There are hundreds of them. Trees drop different kinds of wood, stone is only found in the shallowest layer of digging, each digging layer is made up completely of different sets of blocks representing rock types. What's good about this is the cosmetic implications. You can pretty much find a block with the exact texture you want for the walls of your dungeon or treehouse. What's bad about this is your poor poor storage space. It won't take long for you to fill up containers of bedrock, limestone, dirt etc etc and it is often hard to tell the difference at a glance which is which. The majority of these blocks are used is at least one recipe. This makes the crafting system quite complex. If I want to make an iron mining cell for whatever reason, I still have to keep flipping back to the recipe page to check what I need, even though i've crafted dozens of them. 
+
+Block rarity. For the most part, rare blocks are very useful for specific recipes. An I tem called rockster rock is very difficult to find away from a beach, so I'd say its quite rare, but it is only really used in weapon crafting. Obsidion, which is found quite shallow under ground, is also rare. I cannot tell you how many times I found a lump of coal and got excited because I thought it was obsidion. Now, contrary to rockster rock, obsidion is used in a huge amount of essential recipes, including the recipe needed to harvest more obsidion. I spend far too much time just looking for obsision, because it is far too rare for the recipes that use it. Obsidion is just one example, it does happen with other block types, but that might ust paint the picture.
+
+All in all, creativerse is definitely a fun game, Its free, Its not graphics intensive, It looks great, and its easy to play with your friends. It has its problems, obviously, but they are activley being worked on. Give it a go.
+OK I loved Minecraft, It was genius of it's time and really set a standard for Sandbox/Crafting Gaming. That said... Many games have followed trying to pretend it's not Minecraft, but really just a clone. When I first saw Creativerse, I thought Ok it's free for a few days, no harm... Few hours later... "PURCHASE FOR MYSELF"
+
+Creativerse, gave me a renewed interest in Sandbox Gaming, I love that it is in Early Access and the devs are actively working on taking the game to further heights. Love the graphics, Love the design, and the gameplay is very smooth. Your ability to create is nearly endless, and it makes you want to Play, Explore, Build, Survive. 
+
+I love the way people are banding together, helping each other, building a greater community and relying on each other to grow. In our world: "The Era RPG Server" (New Server) we've actually built a thrieving socity based on rules and guidelines, professions, teamwork, trust and communication. We actual have character roles and play out our adventures together.
+
+Exploration is very enjoyable, so many different and unique wonders to see, I was exploring and found a spot where 3 biomes met... Beautiful Canyons, Thick Jungle, and Frozen Snow... I was truly amazed at the possiblities of building in places like that.
+
+Their are ton of mobs, ugly ones, really cute ones, to down right nasty looking mobs... I am excited to see what new functions for pets they will come up with. A few suggestions: 
+
+A Pet Whistle to call your pet when they get lost, I like to let mine wander. 
+They should help you in combat, I mean they where kicking your butt while you where taming them what happened to the fight in them,
+A Pet Trough to feed your pets when your away, so when you come back you can gather from them and then give'em a little shower.
+
+Combat is simple Hack and Slash, point and click. For the stage it is, you wont need more than that. However I would like to see implementation of ranged weapons above throwing pinecones, a Bow or Crossbow, maybe the Water Sprayer can deal damage to enemies, implement a flamethower, I KNOW THE ANIMATION IS THERE... Those Firerats will mess you up. Perhaps a Block Button? Just a thought.
+
+Health should, however slowly, regenerate over time, and recover completely when you sleep. 
+
+Character Customization is a MUST, even being able to change the simplest details, Skin color(include green), Eye color, Hair color... Hoodie color.... (optional) Ears, Nose, Mouth, Hair style, Shoe color...
+
+A Trade Window, that allows you to trade with anyone in the world. The window pops up, you pick who you are trading to and the item your trading and a request pops up on their screen, they click ok, the trade window opens on their screen.. they add what they are trading, both parties hit confirm... Boom... and they can be anywhere in the world.
+
+This game can easily set a completely new and different standard for sandbox crafting gaming.
+Creative has the Potintial to Surpass Minecraft in everyway with or without mods.
+
+DEVs PLEASE don't Give up on us! It would be a crime against Gamers... Keep up the Good work and I will play and promote till Creativerse 2!
+OK before i get into this i just wanna say i have played minecraft since the wee baby years of Alpha. Before i downloaded this i knew without a shadow of a doubt i was gonna hate on it an rage about how this is just another rip off of the game the great lord Notch created. I start the game:
+
+1) Graphics are amazing! You will find yourself just walking around starring at the scenery. (willow trees are the best)
+
+2) Jump 2 blocks! Um thank you sir.
+
+3) Loads of blocks! You can't harvest much at the start but once u get the better equipment everything is yours! EVERYTHING. And it is a lot
+
+4) Many mobs. Some will make u run in terror just at the sight. Some just want to be left alone. I killed a baby crab. Felt evil. Was awesome.
+
+5) Combat system flows really well.
+
+6) Character isn't modable but thats ot a big deal. It could happen in future updates.
+
+7) The cave systems and mining capabilities are simply better.
+
+8) I do however wish it wasn't all server based. Local play would be a great improvement.
+
+9) The grinding element can be annoying but once you locate where certain items are found (aka which biome its in) you can link teleporters and quickly get around the world. The vastness of the universe is incredible.
+
+In short Creativerse minecrafts better than Minecraft minecrafts. The creators are the new god. give up the throne Notch. I will shed some tears but i think I am benching Minecraft for a while.
+
+Edit: I know Notch hasn't had anything to do with Minecraft in a while. I know he sold Mojang to Microsoft for a pretty penny.
+Truth - Great game still needs work, Once you learn the ropes you will be gathering resourses fast, Needs more weapons, Needs a better health management system as there is no real points at the moment to growing food. 
+
+Most people I see saying Creativerse is a Minecraft rip off well here is the truth below.
+
+As in so many other fields, innovation in the world of game development doesn't normally entail creating something entirely new and completely unprecedented from scratch. Every developer, to some extent, is building on foundations laid by other developers. Are all 3D FPS's copying "Doom" or "Wolfenstein?" Are all text adventure games copying "Zork?"
+
+Notch and his team at Mojang took a block-based, procedurally-generated style of game created by a developer named Zach Barth, and they used it as the basis for something truly awesome, imbuing it with personality, complexity, appeal, and helping to foster a sense of community around their game. There were other influences, too, like Dwarf Fortress. Minecraft has been overwhelmingly successful; after recently selling to Microsoft, Notch famously just bought the most expensive house on the market in Beverly Hills. Good for him, I say.
+
+Minecraft is not at all the only game to have incorporated Barth's ideas, and look how many Minecraft-type indie games have emerged since Mojang began to enjoy such success. I personally wouldn't call it "copying," and I don't see what's disappointing about it. It's how the gaming industry has always worked, it's how the arts work, and it's going to stay that way.
+
+Complete originality in the arts is mostly a myth. It doesn't happen. We are always the sum of our influences, to which we add some little spark of our own.
+Early Access Review
+6 months, 800+ hours game play
+
+You start out in a wooded forest.  You have this nifty wrist gauntlet that will suck up blocks and put them in your inventory.  Your first order of business is to upgrade that gauntlet with a wood mining cell.  You'll need to check what you need to craft that cell and acquire the ingredients. So the game goes until you're completely outfitted with top tier armor and equipment.  While you do this, you'll explore many different biomes, and levels to get the needed ingredients.  Some people feel this is the end game, but for me the joy of this game has just begun.  Now You can get down to some creative building.  You can do this solo, or find a good server with like minded individuals and build to your hearts content.  
+There are also different multiplayer servers you can join, or start your own and list it in the Public Worlds forum for others to join.  
+PVE-player vs. environment is the most common. You'll find your peaceful builders here. 
+PVP-player vs. player.  The people who like to steal, loot, blow up stuff, and hunt you can be found here.
+RPG- Role playing servers.  These are very interesting and can be lots of fun.
+
+Pros:
+Game updated every 2-3 weeks with bug fixes, and new content.
+Progressive equipment leveling up
+Environment exploration
+Resource hoarding
+Crafting
+Building
+Farming
+Taming mobs for pets you can then feed and harvest from
+Solo or Multiplayer
+Wonderful Graphics
+Interesting Mobs
+Interactive Development Team
+Friendly and helpful community forum
+
+Cons:
+All the cons I could talk about are being addressed by the dev team, and could very well be fixed by the time you read this review.
+
+Note on FTP and in-game store.:
+The devs have decided that only cosmetic additions to the game will be sold in the store.  There will not be anything that is required in the game to level up, or advance in the store.  This means you can have the full Creativerse experience without having to buy a single thing.  On top of that, the game just went free to play just over a month ago, and the devs have already given out 450 free coins for the Winter holiday update.
+
+
+Conclusion:
+If you want a difficult, mob killing game this won't satisfy. If you love sandbox games and building games this just may be your next great obsession.  The mobs aren't too difficult to beat, so it's great for kids, and casual game play.
+This is a fun game. Very similar mechanics to Minecraft but there are more RPG elements which make it enjoyable outside of just mining blocks and building things. 
+
+The crafting system expands as you create new objects and collect new materials.
+The fighting system is pretty basic, you have a sword (you start out with a stick, however) of various materials which do more damage for each material type. There are health potions which you can make and are very useful because there is no cooldown to use them and they are pretty easy to make. Bombs are also a huge help with combat and if you've killed enough Keepa for gun powder, you should rarely run out. 
+
+Death just means you need to run back to where you were to get what was in your inventory when you died. All equipment and quickbar items remain equipped. Now that they've added a map, its a lot easier to find your way around as well.
+
+The game looks pretty good, for a block-based world. All npc's have normal looking models, including the player characters. Easy to play with friends and have them join your world too.
+
+I am hoping the dev's continue to work on this game by adding in some boss type monsters or some other kind of challenges and building materials.
+To this Game publishers
+
+I am a Chinese player,  I really like this game.  And I also work in a Chinese subtitle group that we translate the USA TV programs into Chinese. Many Chinese players want Chinese in this game. So if you guys could send us a copy of all the text in this game, we can translate them in Chinese. We can do this for free. 
+
+
+致这个游戏的发行商：
+
+我是一名中国玩家，我非常喜欢这个游戏，而且我在一个字幕组中工作。我们翻译美国的电视节目。很多中国玩家想要这个游戏汉化，如果你们可以发送一封游戏中的文字拷贝给我，我们可以帮助你们。我们的工作都是无偿的。
+The graphics and visual is stunning and the POV is better than Minecraft. 
+
+Like and unlike any other sanbox game, it's wonderful to play at first but I am not entirely keen on it's replayability.
+
+In Starbound, you upgrade your matter manipulator and that's it, it doesn't break. In Creativerse, you have to craft your gloves over and over. The durability seems to break as fast as you can get blocks/materials. 
+
+I've played Minecraft way before it became popular. The PRO version was fun and feels rewarding but the world looks the same after a while. Exploring the world becomes boring after that. 
+
+The idea of making "farms" to get finite materials (iron, diamond, etc) is tedious compared to Minecraft. I never had to go to such length to look for them.
+
+Pets: Feeding them is fine but I have to wash them? And the glove to wash them breaks. 
+
+The opportunity for creativity is wonderful but it's quite a chore to get all the blocks because your glove breaks.
+
+Every glove breaks!
+
+Would I recommend you to try it? Yes.
+
+Would I recommend this for long term gaming? Not really.
+This is probably one of my favourite games on Steam right now, I love it. Even as a F2P player, you have pretty much complete freedom to build and the game graphically does such a good job of conveying the atmosphere of specific environments you really feel like part of the world even though everything is obviously made out of cubes, Pets and farming are an awesome addition as well. Very, very immersive.
+[h1][b]Yes Another Minecraft Clone... BUT A DAM GOOD ONE!! [/b][/h1]
+
+Yeah its another Minecraft clone that has gone Free 2 Play, but this one is real good !! The games engine is real good and runs real smoothe with no issues and looks pretty darn good.The crafting is just like Minecraft so if you have played that you will be very familiar with this ones crafting system.
+
+The crafting works by making stuff and you get plans to make new stuff as you go and i think i read you can also find plans for stuff in the world (kinda like drops off mobs and chest around the land) or you can Buy them later i think. They have good aray of baddies to fight and farm for mats and stuff and makes it more neat to explore.
+
+I say being its F2P give it a shot and try it out and see if you like it :) its got my VOTE !!
+Personally, I am a competitive gamer. I play games like LOL and CSGO; I come play creativerse whenever I get salty in the matches I play. It helps me relax and just play casually. I recommend it to anyone looking for a game like minecraft but better graphics and more gameplay.
+Picked this game up so I would have a minecraft game the whole family could play together. The only annoying part about this game is how my daughter likes to destroy the houses I work so hard on but that could be more of a statement on my parenting than this game. 
+
+Completely addicting and I can totally recommend for someone who doesn't want to buy Minecraft lol.
+You know how minecraft is ok and there are several clones of it on steam? This is the only game that does it better.
+
+Not everything better, but it certainly looks and plays better.
+
+What it does better:
+-Movement
+-Exploration
+-Monster Design and mechanics
+-Lighting
+-Graphics
+-Exploration and world generation
+
+What it does worse:
+-Multiplayer
+-Requiring an internet connection
+-Crafting
+-Weaponry
+
+Basically if they fixed the connection issues it would be a lot better.
+      Gotta say, upon first looking through the reviews, I WAS NOT going to pay for this sucker right now. There was a decent spread between positive and negative, but most of the positives were pretty non-specific (" Oh boy! What an AWESOME game, blah blah blah")  while most of the negatives were QUITE specific and QUITE negative. A lot of talk about it basically being "pay to ACTUALLY play", terrible people online, no dev support, no single player (despite it being a listed feature), etcetera etcetera.
+
+           Now maybe I shouldn't say TOO much, considering I've only played single player thus far (yes, it DOES exist), but I actually like the game a lot. I haven't encountered any of the negative stuff I read about and it's actually pretty darn good. The crafting feels a lot more intuitive and straight-forward than minecraft, plus you actually get RECIPES to work from (novel concept, right?), the graphics are a touch cartoony, but great looking nonetheless, and the way things like crafting machines and some textures look lend an almost steampunk-y/ torchlight-y feeling, which I really dig. Also, there is ONE thing you need to craft for ALL your mining/digging/chopping needs! Not a shovel...AND a pickaxe... AAAANND an axe AAAAAANND a hoe.... AAAAAAAANNNNDD shears.... aaanndd you get the idea.
+
+          I have encountered a few goofy bugs, which, as annoying as they may be at times, are TO BE EXPECTED in an alpha. I haven't come across anything that either stopped gameplay or was a personal deal-breaker yet though. I also can't really give input on dev. involvement since I haven't had reason to try to reach them (yet, I'll remember to update this if I DO). 
+
+           COMBAT! Now maybe it's only because I've been doing a lot of building and exploring rather than dedicated mining or spelunking, but it does KINDA feel similar to minecraft in that they've added some combat reliant things to a game that isn't really combat based. Let me try to explain that: monsters are scattered throughout the world, right? well some of them drop things you MUST HAVE for certain recipes. Fine. Great. The only hitch is that all you've got is a sword and whatever level armor you've managed to craft. Now, like I said, I haven't been super focused on rare resource gathering so maybe this is just my personal failing, but with 2nd tier armor (obsidian) and a 2nd tier sword (more of a stone club) I still have a good bit of trouble with even NORMAL daytime mobs, nevermind the psycho critters in the caves. Additionally, that sword and armor you burned resources to make is durability based, and each progressive tier seems to require a lot of the same materials as the prior tier, which culminates in a problem trying to move to the next tier because you keep having to use the same stuff you want to use to move up on replacements of the lower tier armor & sword just so you can keep going outdoors!! The only real plus I've come across in that respect is how they've managed deaths and respawns. If/WHEN you die, an urn with ALL your stuff in it appears at your spot 'o' death and, as far as I can tell, stays there indefinitely. This urn is marked on your compass and has a light beacon sort of deal shining up from it, which makes it pretty easy to find once you've respawned at your little spawn setting tile (which is move-able).
+
+            Sorry, little ranty, I know. That's just one of those things I've always found a little annoying in minecraft and was disappointed to find it here too, although Creativerse is not AS BAD as minecraft about it.
+
+             SO, long story short? Good game. Single player anyway. Multi might just be hell, I don't know, but single player is pretty great. Good crafting, good atmosphere, good graphics, easy to learn, and FUN.
+Game is decent. Having to purchase Pro is a bit of a pain, especially since most of the games best items and tools are locked behind this paywall, however, I understand the creator's need to make money off of a game that IS, admittedly, Free to Play. After one hour, I had claimed a plot of land, built myself up to mid-teir mining tools and weapons, setup a home base within a cave, and began a full crafting setup to continue to build up my equipment. A few things about the game to know before you delve into it for yourself:
+Yes, its basically a Minecraft clone, however, it is MUCH better than ANY other MC Clone on the F2P AND P2P markets. The dev's take on the Minecraft formula is interesting, and fun to play. My only qualm is that it is WAY more complicated than MC, the crafting recipe's require more resources, both in quantity and variety, and resources for crafting take a lot more effort, exploration, and critical thinking, to acquire. 
+The combat is interesting as well. Certainly more enjoyable than MC's, to me at least, and my favorite part about the combat is the increase in difficulty over MC. In Creativerse, building a home isnt as easy, and you likely wont have one constructed before the first night rolls around. Hence why I setup my homebase in a cave. I recommend using the free 300 coins given to purchase the 100coin Explosives pack (to ease combat), and the 100coin lighting pack (to stop enemy creature spawns). Creatures spawn more often, and due to their method of spawning and the random nature of it, enemies CAN and WILL catch you by surprise. This was fun to me, but may not be to others.
+The crafting system IS well designed, and intuitive, but nowhere near as "streamlined" as MC. You wont be stuck having to lookup recipe's, or using the "shape-building" system of MC, as CV tells you exactly what you need and how many of them are required to craft specific items. Again, however, it takes much more effort to get your hands on what you'll need, so be aware of that. It could be more well designed, the menu's can be a bit of a pain to move between, as least for new players, but the overall learning curve is a bit lower than MC's, at least in most aspects. 
+Creatures are entertaining, and the fact that their loot drops in bags which can be searched, rather than items you auto-pickup, is welcomed greatly over the traditional MC system of loot drops. 
+Combat is also fun, and weapons look pretty cool, in my opinion. Enemies have health bars, and nothing is TOO difficult to take down, but combat CAN be more difficult than MC's at times, again, especially for new players. 
+Exploration is fun, and the world is pretty and relatively well-built, and top of the line among MC clones. 
+Lastly, as I said before about coins and packs, you can purchase certain utility items such as lighting, explosives, and materials (such as doors, walls, and decor, NOT crafting materials, not that I saw anyway), and this system is welcomed to some degree. It's a bit cheap, as it encourages Micro-Transactions to ease the beginner's learning curve, and difficulty, but it's done fairly well, and since it does not include weapons/tools/crafting materials, which would essentially be "pay to win", as much as it could be in a MC style game, I suppose I can look past the whole "using real world money to buy in game currency to purchase item bundles" system. Also, while Pro does increase inventory space, and unlock most of the better items, the space and items available within the Free version are acceptable, and overall, you CAN enjoy this game without ever spending a dime on it. So, not so bad. 
+
+Overall Conclusion: Creativerse is a fun, entertaining, and interesting take on the Minecraft formula. While it IS, for better or worse, a clone of MC, it is by far the best one available, and being F2P is a huge plus, even if most of the better items are locked behind a paywall. The variety of items and combinations proves fun and encourages creativity, and as such, offers comparable levels of replayability and time spent in-game to Minecraft. Overall, if you're looking for a Minecraft-style game that can be played for free, or just bored of MC and want a clone of it, or similar game, thats actually GOOD? Then I 100% recommend Creativerse as an alternative. 
+My personal rating? 7.5/10. Gameplay is fun, variety is acceptable, but the learning curve, while easier than MC's, can prove cumbersome, same with the acquiring of crafting materials, and I will almost ALWAYS lower the score when you hav a F2P game with paywalls and in-game currency/Micro-transactions, but perhaps this is mostly just my own personal bias, having been burnt out on Micro-purchases due to their overabundance in gaming, ESPECIALLY on console. 
+Definitely give it a try.
+When I tried this game for the first time, I was put off by the ore mining system. After giving it a second shot and actually going further than "my first mining experience", I found out it's a great game and mining system isn't that bad at all. However, as any game that there is, Creativerse does have a few drawbacks. 
+
+[h1] PROS	[/h1]
+
++ [b] building [/b]
+You have quite many types of blocks available, more can be found throughout the world or unlocked by crafting. It allows you build realistic things and you also have furniture available, so you don't have to pretend some particular stairs and wooden sign make up a chair like you did in Minecraft, but rather craft a real good looking one. It even has many types and color of lighting, with this every room can have different feel and it's literally builder's heaven. I enjoyed my creations much more than in MC and you can actually interact with some of the objects (sitting on chairs). 
++ [b] graphics [/b]
+Finally a building game with blocks, that doesn't look straight outta 2004. Great textures, lively colors, sunlight rays, motion blur, good stability, you got it all. 
++ [b] crafting [/b]
+Crafting is based on discovery upon obtaining certain item or crafting. This means if you want to make diamond sword, you cannot just make it without having crafted all other types of swords that are before it. This could be a drawback to some, but I didn't mind it. Also you no longer have to go and search everything on the wiki, all recipes are shown, no crafting tables, yay! It also tells you where to get the item, so I'd say crafting is fun and rewarding. 
++ [b] mining[/b]
+Something I didn't like at first, but ended up loving it. If you want to mine, you have to craft an extractor first, yet these are easy to get (you need just wood and stones) and extracting takes some time. It ranges from 1 minute (not exactly sure), but caps at 10 minutes for rarest ore. I didn't mind using it and you can craft better extractors, it adds the futuristic feel to the game and it's not bugging you, as from 1 block you can extract up to 6 ores, so actually you'll end up with more and it's not bad at all. Ores and fairly easy to find, maybe a bit too easy. 
++ [b] free servers for everyone[/b]
+In this game you don't have to pay for a server, you can just open your own for your friends, protect it with password, etc. Also people can buy these protected chunks of land which are really huge and they cost just a few coals. Prevents griefing a lot so in this aspect it's awesome, easy to play with a friend and secure. 
++ [b] taming and pet system [/b]
+You can tame any pet in this game, then you should (but you don't have to, it's immortal) feed the pet, wash it for it to give you gifts (useful items). Entire process of taming is a bit tedious, as you just ring the bell in front of the pet and there could be some sort of minigame with multiple difficulties, to make it more interesting, Also, monsters sometimes bug out and they don't attack you, so makes taming easier. 
++ [b] dying system [/b]
+I actually called it dying system, ha. When you die, this game is not as punishing as minecraft. It marks place of your death on your compass and you got plenty of time to get in there and obtain all your items. Also, you got this mini device and wherever you put it, you're able to teleport to it anytime, so moving out of caves isn't digging up and praying to lava gods or getting lost trying to get out then ending up with option #1. 
++ [b] explosives! [/b]
+In this game you got many options how to f**k s**t up and it's not just TNT. 
++ [b] mining/collecting animation [/b]
+In this game you say goodbye to axes, shovels and pickaxes, for all of these there's this cool futuristic glove that kind of sucks in the blocks to your inventory, it's extremely satisfying and fast. 
++ [b] funny and original item descriptions [/b]
+I really like to read stuff and based on certain item descriptions or game telling you stuff, the devs seem like funny people and I'd definitely love to see quests in this style as well. 
+
+[h1] NEUTRALS [/h1]
+
+= [b] gardening/cooking [/b]
+This is what you'd see in Minecraft, exactly the same farming formula and same with cooking, except not many meals can be cooked and you'd find feeding them to your pets more than to yourself. Currently there's no reason to eat food, as you don't have hunger bar, only hp bar and meals only extend it, they don't fill it up. To get full health you'll just suicide or get hit by mobs till you die so your hp resets. 
+= [b] character customization [/b]
+I put it as neutral, because you won't ever be looking at your character, but if you're a person like me, you'll appreciate it. In this game you unfortunately only change your gender and colors of pre-made outfit. It's not a big deal, but it's something.
+
+[h1] CONS 	[/h1]
+
+- [b] variety of mobs [/b]
+By the time you'll be a few hours in game and not having spent lots of time with building, chances are, you've already seen all the enemies and  killed them. There are 2-4 (or so) types of enemies per biome and also a few types of night monsters, but if you live in certain biome, it'll get boring rather quick with the variety. But I do believe later on new will be added, as this is still early access game. 
+ - [b] not enough of things to do  [/b]
+I didn't get to this point yet, but I've got just 17 hours in game (of maybe which 15 is the actually gameplay) and I've already killed all types of mobs and mined the rarest kind of ore and I have loads of it. At this point, only thing I can think of doing is maybe a [strike] diamond toilet [/strike] pet collecting or more building, but you do get the point. 
+ - [b] combat  [/b]
+Not the most impressive thing you will see. You got a bit clumsy sword swinging and that's about it. It's pretty chaotic and you got no skills, I wish they added bows or guns.
+ - [b] water physics [/b]
+In short, if you want to have more than 1 block deep pool, you'll be pulling your hair trying to fill it up with water. 
+ - [b] few minor bugs [/b]
+For example after you teleport you can see underground and it won't go away, also when you randomly walk sometimes you can see all the underground caves, but don't take this in account, as it's just early access game. 
+
+[h1] Conclusion	[/h1]
+
+Creativerse is one of the the better block building survival games and let's not call it Minecraft clone, as everything in gaming industry could be called a clone with this logic. I think if the devs put more work in variety of content, the game will truly shine, but in its current state it's already solid 7.5/10, that I'll definitely put more of my time into. I'd definitely recommend this game. LPT - get a friend to play with, boosts the fun factor by a lot!
+After reading lots of different "good, bad n' ugly" reviews, I've developed a feeling that this is going to be a "pay to win" or "pay to PLAY" game and decided to test it out on my own perspective. I haven't bought the PRO access option and I must say, in my humble opinion, this game is decent and good without it. I haven't met with "harsh waiting time" on gathering resources or processing the materials you gather, I don't get constant pop ups of microtransactions or other kinds of "pay-wall" issues. 
+The beauty of this game is in searching, finding, crafting, building. The only time where I feel limited is when I see a block, which I'd love to have as a decoration (which must be bought). But this doesn't limit me, because the variety of blocks and shapes is quite big when you start combining them together.
+It took me (as a complete newby) around 40~ hours to get the end game content (which is best armour and weapons) and I haven't thought of getting PRO. 
+If I would get PRO maybe my opinion would change, but at the moment, the game is quite polished apart from  a few  bugs. If you really want to understand how it really is at this point, just try it out and see for yourself!
+And to all those who think that this game is "too grindy" - learn to multitask, not just sit in one place and watch paint dry ;)
+I'm in love with this game, and honestly completely addicted.
+
+There's a few things you have to know going in tho: 
+- This game doesn't have quests, or any meaningful goal. It's about finding resources and making new items, building more and exploring. 
+- It doesn't have a creative mode. You have to find all the resources in order to build. They are looking to create a mode like this though, so I'll try to update the review when they do. It seems to be a bit far off and not prioritized at the moment.
+
+On the more positive side: 
+- It's free. It's no trickery about you getting so and so far and then having to buy the full game. They ask you to buy creativerse pro with few notices here and there, but nothing flashy or annoying. It can be seen as the free version being the full game, and if you want some extra items and advantages, then buy Pro. 
+- There are enemies for you to fight, but in general you can build in peace without being bothered, as long as you create a safe, lit room for nightfall. There's more advanced areas you get to when you have better mining tools for example, and that'll give you more challenges if that's what youre looking for. You can adjust how hostile creatures are too, but I haven't really tested that myself. 
+- You can make pets, grow crops, cook recipes, build in an endless open world, play easily either with friends, strangers or alone on servers hosted by Creativerse.
+- The worlds/rooms stay when the creator leaves. I'm sharing a room with a friend and it's nice knowing I can go on even if they're not there. Everything anyone does in the world will be saved automatically and instantly. The creator has the power over who has access to do what, so don't worry about strangers coming in and messing up your building (you can also put on passwords if you don't want sight seers either). 
+- Co-op and/or PvP is possible
+- You can edit your character, name, server area and world settings whenever you want. All names are available, so the same names can be used by different people (might be a bit confusing, but I like it personally, haven't met anyone with my name either way) 
+
+I will say some things are confusing and not informed well, I've spent some time looking things up (like how on earth to get crops to grow properly), but it's easily found online. 
+
+All in all it's an amazing game, and it's free, so if you're curious just check it out. It doesn't take much space at all and it runs fast on smaller computers too. Highly recommended, as long as you know what the game is and what it isn't.
+
+
+Edit: thought I'd add that there's an adventure option to the game too, instead of just joining worlds to craft. I haven't tried this option myself though, so I can't really say anything about it yet
+So, is this game another version of Minecraft? 
+
+yeah, but just wait one minute there.. 
+
+I HATED minecraft, way too much micromanagement and what not. i would have passed this one by, but it kept showing up on my reccommended lists and it was free, so i figured what the hell.
+
+So i enter the game, figure out how to use the blueprint for a very basic house. i figured i would spend 15 or 20 minutes, then delete the game and forget it forever.... alas this was just not meant to be....
+
+i gathered the materials, built the house, then started a mine and gathered more materials to expand the house... by the time i looked up...  9 hours had passed.... i was like... WTF?!?!? it was morning and i had no clue where the time had gone. 
+
+so i get some sleep, my biggest frustration at this point is how the hell to make glass and i go to sleep thinking about it. 
+
+i get up around noon, and think i've figured out the glass thing, so i get in to the game to test my theory, and i was right. at this point my house is good sized for a beginner, my mine is getting bigger, deeper. i'm progressing pretty good. so i go check out the store and end up using part of the 450 gold they gave me to buy a great big castle blueprint. 
+
+i go about getting the supplies i need to build the thing, build it with a little help from people coming in and out of my game world, amd finally, the thing is built. i look up, its  6am........ 
+
+my biggest frustration at this point? that i'm inturrupted when i'm playing by the pain in my bladder... the upside... my bladder is getting stretched out giving me more time between bathroom breaks to play.
+
+to say this game is mildly addictive would be a gross understatement. its fun, easy to figure stuff out, and the real challange is, can you get your ideas out of your head and in to the game... i'm working on it. 
+
+
+So, after nearly 1600 (1593.5 at the time of this review) hours over a bit more than 2 years, I figure I ought to write a review of this game that has sucked up so much of my time and is the foundation of my digital media experience (videos and streams).
+
+The TL;DR is that it's free to play and if you want to check it out and really see if it's a game you'd enjoy, do it, it's not going to cost you anything but time. I can and do wholeheartedly recommend this game to anyone that may be interested in cube based building exploration sandbox type games. For those who don't TL;DR, read on.
+
+Yeah, the immediate knee-jerk reaction is "Ooooh, Minecraft ripoff!". If you judge books by their covers, then yes, you are probably correct in the same way that all tissues are a ripoff of Kleenex, all copiers are a ripoff of Xerox, and any FPS game is a ripoff of Wolfenstien 3D. This review is not for the knee-jerk reactionaries out there. This is for those who can look at a game and look at the feedback for a game, and base their reactions and judgements on something more than knee-jerks.
+
+First off, the core game is free to play. You can download and play with ALL the core features without having to spend a dime. Now, with that said, the developers are not doing this out of the kindness of their heart, they are in this as a business, and businesses require income. So, with a game that the developer wants everybody to be able to play free, what are the financing options? Well, DLC and/or microtransactions. Creativerse has both. The PRO DLC adds some completely unnecessary but fun expansion to the game. The microtransactions are for some premium block recipes that are completely unnecessary for building, but allow you to add some more variety to your builds. The microtransactions also come in if you want to get building immediately, you can buy a set of blocks and a building plan (a blueprint, in Creativerse terms) to assemble those blocks into something interesting. Howerver, you don't have to spend money for those blueprints, you can craft them out of materials gathered in game and then collect the blocks needed to build them in game. And on the odd blueprints that utilize premium blocks you don't have access to, you can swap in a different block to replace it.
+
+Secondly, the core game is free to play. You can download and play with ALL the core features without having to spend a dime. This means that, before you even have to think about paying for something, you can download and experience all the core features of the game to see if it is really something you want to put time and money into. The survival, the material collecting, the crafting, the building, the combat, the farming, the taming, the machine wiring, the exploration; all of it, free. If that's how you want to play, by all means, play without spending a dime. But if you find yourself enjoying it, consider buying something to support the developers and to encourage further development.
+
+The community of dedicated players is a friendly and helpful one, in general. Yeah, there are some hot buttons that can be pressed, much as there is with any game with a dedicated fanbase. But overall, if you have a question, there's somebody willing to answer it nicely. If you see some premium blocks that you want to build with, there are people who are willing to craft them for you. Oh, and mulitplayer is easy as sharing your world name and password, so someone can come and assist you on your own world, if you so wish. You don't HAVE to play with other people, but it is a very simple process to do so.
+
+The environments are elaborate and full of character, both the surface and the subterranean biomes. Yes, the ground is not homogenous. Combat has challenge to it, but not in the simple "blow for blow, toe to toe" who can heal fastest sense. You can tame ANY mob in the game and then feed and harvest it for materials. Currently 4 different crops and 7 different liquids that allow you to cook various foods that provide different buffs to you, and provide fodder for your pets. Once your mining equipment gets to a certain level, you start being able to harvest lower tiers of blocks without needing to repair it. The machine system is a wireless logic system that allows anything from simple door openers to complex mini games. And if you get tired of building and exploring in your own world, you can Adventure in other people's builds and stories. In some sense it is a simple game, but there is still much to learn and explore about it if you so choose.
+My wife and I found Creativerse and instantly fell in love with it.  It's a builder in the same vein as Minecraft, but we prefer Creativerse.  Build, explore, above ground, high into the sky -- the freedom is yours.  The developers are constantly updating the game and introducing new systems and new block types and new tools, so don't worry about the game being one of those that gets released and then has no support.  These guys care, and it shows.
+You get the ability to create an unlimited number of worlds to play in if you buy the $9.99 Pro version (free limits you to one world), as well as the ability to define that world in more ways (more resources?  Fewer?  Peaceful animals?  etc etc).  The pricing is very reasonable (in a world where pricing is usually utterly ridiculous).  
+There's no "tutorial" per se, and there's no guide to define a path for you.  The world is yours, and the freedom to choose is yours.  If you like having that sort of open-ended freedom and design, this game is for you.  If you must have quests to follow or assignments and get lost without them, then perhaps it isn't.
+We love it.
+Let me start off by saying that when I first installed Creativerse, I had no idea what to do. So I quit for around a year. Then recently, my friend tells me to try this game, and it just happens to be Creativerse. Yeah, I give it a try because maybe it would make more sense.
+And yes, when you begin, most likely you'll be confused. Or bored. I'd say that this game has a lot of good content, but right off the bat, spawning in a boring-looking grassland or woodland doesn't seem so encouraging.
+And if you give it some time, you'll find that it's actually quite engaging. The treacherous caves with monsters and pitch-darkness, the high mountains covered in snow, the different layers of Earth. The monsters are scary-looking and have dangerous special abilities. The Earth's deepest layer is dark, empty and corrupt.
+Overall, I'd say this game is amazing. It's free to play, which is awesome. The graphics are simplistic, but just so that they aren't too busy. The creators actually spent time on the 3D rendered carpets and doors and windows. The mobs really freak me out, so I give it a thumbs up! They don't have much variation, but I'd like to say that that is fine by me. The loot bags and chests are insanely detailed. The loot bags even have physics! How about that.
+And unlike Minecraft, this game has recipes that you must unlock by venturing throughout the world, and a simple crafting system that is totally cool. Also unlike minecraft, the weapons and other items have more difference than just a color-overhaul. Blocks are detailed and there are so many ways to customize! There's even furniture!
+Now, there are some things I'd change. First of all, the premium recipes. Yes, yes, we all know that the game needs to make money somehow, but recipes? Would it hurt to let people decorate without spending money on a virtual game? Also, there is a shortage of content. Once you reach the Corruption layer of Earth, there's nothing else. I'd like to see more layers. Maybe a weird, misty, glowy layer of Earth with monsters made of light. That would be cool.
+And finally, there should be bows as another weapon. It might add more interest, or maybe it'd make the game too easy. That's up to the creators to decide.
+
+Otherwise, I honestly don't think there's anything I don't like about the content in the game already.
+
+I 100% recommend this game. You'll find it more fun than you'd expect, and that's coming from a really picky somebody.
+
+This game is kinda iffy, yea its a fun free minecraft clone, but its missing alot of things, like NPC you can talk to and trade with, temples, hidden structures, etc. 
+After a while you lose the will to actually go out and explore the vast open world because there is nothing out there, theres nothing to go look for, 90% of everything you need can be found digging and 10% is getting a few things from the animals and nature. 
+Hopefully the developers start to add something new that you don't have to pay for or some of the stuff i said to make the game a little more interesting.
+As you can see from my hour count, I love this game. It would seem that Creativerse is an automatic "recommend" for me, but it's never that simple. I've been playing Creativerse since fairly early in development. I've seen several rethinking phases in the design and gameplay. I've bought all the store recipes, sometimes to support the development and sometimes because I actually wanted the blocks. I've played it on three separate computers over the past few years, and here's what I've seen.
+
+I love it primarily because it's a low-attention-demand sandbox game for building. It's a good expression for the “Lego, block building” style of game. Out of the box, it looks better and contains a great many quality of life improvements over the obvious games to compare it to, many of which I also play from time to time. If you want the kind of game that allows you to build, craft, and collect in a beautifully rendered world with distinct personality from top to bottom, yes it's a great game. It has a nice progression of accessibility to more difficult areas, and you can end up wealthy enough in game terms to do almost anything you want, yet there is never a point where you have literally everything you need, and the game compels you to play in different modes to keep up with everything you want to do. 
+
+Sometimes, you are the explorer, sometimes the miner, the farmer, the builder, the tinkerer, the evil overlord, whatever... It's your game, and you get to decide, yet there is an interesting balance that drives you gently into different aspects of the game. In design, it's a very complete experience.
+
+Creativerse has its problems too. The most annoying for me is that it is riddled with performance problems that seem to actually get worse over time. I do understand that a lot of data is coming with every block on the map. I can ignore the new problem of visual updates that don't happen when adding new blocks or more aggressively when using explosives. I really struggle with frame rate lags as the game struggles to keep up with rapid changes in the view. It seems to be more of a crunch with incoming data than a limit on graphics rendering. As these problems occur, it's easy to imagine a huge chunk of data trying to move from RAM, through the CPU, onto the graphics card, and finally onto the screen. Bear in mind that I'm currently running on a beast of a system that can edit 4K video without a lag or hitch all day, so seeing performance problems in a game is rare for me. 
+
+I've learned that reducing the view radius has the biggest effect on performance, but even so, using a teleporter ( a great quality of life feature) means that I will wait a significant amount of time before I can see the environment after I've arrived in a new location. The confounding aspect is that it wasn't always so. My uninformed guess is that as features have been added to the game over time, the level of optimization hasn't kept up.
+
+And third, in a game which has clearly given a lot of thought into quality of life of the player in the form of blueprints, etc., there are some obvious missing pieces. If we can have explosives that neatly carve out 7x7x7 cubes of the landscape, why can't we have an explosive that carves a linear one block wide slice? Perhaps the limits of chunks of the world come into play. Why are the circuit systems so limited? We can play with logic and reaction to input, but the physical effects in the world are very limited. It's no redstone system. Why can't we build vehicles that interact with the inbuilt physics of the world in the form of boats, airships, or even rolling vehicles? Including these possibilities might account for the frame rate lag, as a large number of interactions would need to be considered in every block interaction. 
+
+There are certain farming aspects that exist, such as throwing a cold bomb onto tar, followed by a heat bomb to generate a huge pile of diamond. WIth tar, you can create as much coal or diamond as you want. Why are there no similar mechanisms for iron, or lumite? Even if these existed, they still do not eliminate the need for secondary resources at each level, such as magnetite, tourmaline, or corruption dust. They also do not eliminate the need for hunting at each level, such as leather, miru eyes, or warmwood teeth. Or the cold versions of all of the above...
+
+Don't get me wrong. I think one the best aspects of Creativerse is that you must operate as a hunter, explorer, and miner to progress, but I do notice the inconsistency in each of these aspects of the game.
+
+Ultimately, it comes down to whether you want a game that follows in the Minecraft tradition with a better game out of the box, with a few problems, or whether you enjoy the endless tinkering that comes with creating the Minecraft game that you want. A younger version of myself may have chosen the tinkering option, but the busier, older version of myself prefers Creativerse, and the arguably more complete quality of creative gameplay it offers. Your mileage may vary....
+
+I'll give it a recommendation, but I still think my monstrous PC should run it effortlessly.
+
+Me and two of my friends picked up this game to play something till new year countdown.
+We played it for 10 hours straight. 
+Missed the countdown. 
+It is 15:39 on january 1st.
+Still playing.
+
+10/10 send help...
+This game has quite a few features that simlar games do not like placeable teleporters, you can tame anything and then feed/milk it for its loot table, and very involved friendly devs to name a few.  It does not have any automaion/engineering ATM, NPCs, or Mods but a large chunk of what they dont have they know most of us want and are open to adding it if it wasnt already planned (Early Access still in development and all).
+
+It is a pretty well functioning game, runs well and have encountered only one bug when my friend was declaring war on the terrain with explosives.  It is now F2P, with the only in game purchases being cosmetics (Different blocks) and fireworks.
+
+Im not really a huge fan of EA and all the downsides it entails but I am actually enjoying this quite a bit especially since you can make a private world with friends (All servers are on their end so that can be good or bad for you depending on preference).  The one absolutely huge thing that will keep me in is the friendly and helpful devs which are quite active in the forums.  Example, in the middle of the night for North America, servers went down and within a few hours they were posting on the forums and had them back up.  I also had my world go down for 50 mins once.  After 45 mins I finally put in a ticket, and even though the problem resolved on its own I had a dev come into my world and check to make sure everything was ok 37 mins after putting in the ticket.  They might not always be this fast but often they are and always working hard to find out what their players want.  Gotta love that =)
+At first I was pessimistic about this game assuming it was merely a Minecraft clone.  After many hours of playtime, I can firmly say this is a great game that is super fun to play.  It is in many ways everything that I wish Minecraft had.  Better blocks, better graphics and far better building components.  That being said it needs more content and a creative mode in order to really take off.  This game is perfect for building and no one drives traffic to games more than Youtube.  With so many outstanding Youtube builders, I believe lots of them would jump at a chance to quickly build structures in this game.  It never hurts to have thousands of people watch someone build on your game.  Just a thought.  The devs seem very responsive and updates are frequent.  Overall a fun game to play and worth the Pro.  I look forward to what the future holds for Creativerse.
+This game has been a godsend for my wife and her son. We are stationed overseas and couldn't bring Mattie (my 5 year old stepson) with us. He was really big into Minecraft but setting up a personal server and playing without lag was a huge issue. Creativerse makes it so easy for my wife and Mattie to play together on their Skype dates :)
+
+I personally play this game almost every day. I've been so impressed at how "polished" this game is and it's only in Alpha! The visuals are easy on the eyes and the gameplay is satisfying. The Devs are fairly active in the forums and come out with new releases every 3-4 weeks. 
+
+This game opens it's doors to many different play styles ie. builder, designer, crafter, organizer, miner, gatherer, hunter, explorer, etc... 
+
+Some gamers think Creativerse is a Minecraft clone, well... That is far from the truth! Just check out the various forum posts that help explain the difference. 
+
+I highly recomend this game for anyone who enjoys this genre, but you don't have to take my word for it... ;)
+The game has lots of potential and we've gotten much enjoyment from it up to R16. That being said I'm glad it was a gift from a friend and Playful was kind enough to give me a few keys for my son and some friends to try the game. As the game stands right now myself, my son and the few friends that did play pretty much stopped playing. If you're looking for more of a survival game experience then you probably will enjoy the game. If you're looking for creative freedom to build and explore maybe killing a few of the world's increasing variety of creatures then that's becoming harder to do with the latest updates. Totally put off by the new elemental damage introduced to the game. Forces you to micromanage more now because you need potions to counter the effect where before you could just explore and have fun as long as you stayed a few blocks away from lava or corruption. It takes the fun out of exploring for us. You now also take damage in cold and hot zones even when inside your own home?! No thank you. If you plan on doing little exploring and stick to the level mid surface ground then you'll be fine, bored, but fine. 
+
+The whole server only play isn't always great either. On more than a few occasions I've noticed clunky lag times when playing side by side on the same world with my son. Also you can't play if the server is down for any reason, but luckily that hasn't been an issue up to this point.
+
+Water physics still need work, but are improving. There are some times you need to fight to get out of water or you may get sucked into a pocket of water that's hard to break free from. 
+
+Update R16 was just such a disappoint after so many hours playing. We went back to Minecraft for its ability to switch between peaceful & survival modes on the fly. Also the ability to have unlimited resources to enable the building of anything as well as all the great mods. Much easier to have creative fun specially for the younger kids playing. We've also started playing lots of Terraria.
+
+I'll keep checking on the game every few updates, but I'll not be playing like I was once. Wish them well.
+
+I recommend it to survival game fans when it's released as F2P or the early access is on sale next.
+This is a refreshing start for Survival games. I've been playing Minecraft for over 3 years now and I got fed up a long time ago. Yet, Creativerse has a new and fresh look to it, which makes it super fun to play, for Minecraft players and for those who have never played Minecraft.
+
+After playing for 13 hours, here's my list of pros and cons:
+
+PROS:
+- Amazing textures and graphics
+- Beautiful ambience and sounds
+- Large variety of mobs and items
+- Great amount of building blocks and possibilities
+- Complex, mysterious and very well made spooky cave system
+- Teleporting system
+- When you die, you don't lose all your stuff nor progress
+- Awesome crafting system, with recipes, challenges and more
+- Spawning of random chests throughout the world
+- Farms and plenty of cool contraptions to make
+- Easy to play with friends, for free
+- Plenty of furniture to decorate your home
+- Addictive and challenging
+- Cool GUI/HUD
+- Temperature system
+- You can own pets and take care of them, dress them and bathe them
+
+CONS:
+- The server side system makes it buggy, laggy and glitchy
+- The characters aren't (yet) customizable at all
+- Upon launch it will be free to play, which makes me afraid of seeing this game turning to the micro-transactions dark side 
+- Still has plenty of bugs (most of the times are fixed by relogging, but still annoying)
+
+If you are thinking about wether you should buy it right away or wait for launch, I would recommend you to buy it right away, these devs definitely deserve the support for such a great game.
+
+Thank you!
+I used to run a couple MC servers with nearly 100 mods installed on each, plus I've made some tweaks to existing mods, spendind thousands of hours, so I'll just compare (+/-) Creativerse to Minecraft, because it's basically a MC's descendant
+
++ beautiful consistent built-in graphics
++ very convenient harvesting/mining
++ resourceful crafting with detailed info
++ recipe learning/discovery
++ useful pets!!
++ better Survival experience
++ runs smoother
++ blueprints (although in a very basic state atm)
++ tons of tweaks which MC annoyingly lacks and force players to install tons of mods
+(the list would be too long to go through)
+
+- MC has got tons of items/recipes
+- MC is more complex (redstone!, pistons etc etc.)
+- unlimited MC world
+- lots of MC mods allowing to construct factories, production lines and even basic computers(!) or just add anything else you'd imagine
+- huge MC community with thousands of public servers (PVP, parkour, RPG)
+- dedicated servers
+
+If I were to compare VANILLA Minecraft to Creativerse, then I'd go with Creativerse. However what really makes MC a true breakthrough in the whole gaming genre is it's community (with mods and customizations). Creativerse is still in production, so it might come as an interesting alternative to MC one day, but definitely won't supercede it.
+But should you play this game? Creativerse is well designed, has really entertaining gameplay, and it's free...so why not?
+If you like Minecraft and know how that game works, then you probably have a good idea of how this game plays out:
+
+-Collect materials
+-Build shelter
+-Craft high end gear
+-Explore this game's equivalant of the Nether and End
+-Maybe build a giant middle finger out of spare sand blocks (and have it get marked as incompatible on the workshop because big 'ol meanies)
+
+Except that's just it. Your objective isn't to reach the End and defeat the Ender Dragon. Your objective is to do what you yourself want to do. You make the world what you want it to be. Make a giant wood mansion or even go extreme and make a survival entirely based in the lowest layer of the Earth. It's all up to you. But how far you want to go to do those things is based on how long you can make your gauntlet last. Once it's out of power, you're defaulted to lowest tier one until you craft another. And quite frankly, depending on what you mine with it, it can last a week (real time) or an hour.
+
+Also the fact that every enemy will attack you on sight is a bit ridiculous, even pigs. I can see some of the others, like Mirus and Rocksters, but pigs should not attack you just for walking past them. You can enable "Peaceful Creatures" if you own the world, but otherwise it's either you or the creature.
+
+And once you get to the bottom layers, suped up versions of enemies appear down there, and they're EVERYWHERE. Combine this with everything attacking you and I'll just say good luck mining a lot of Lumite. It wouldn't be too bad of a problem if they couldn't hit you from (up to) 7 blocks away with melee attacks. I dear hope that is addressed.
+
+The crafting can be tedious since you need to craft certain things to even know the requirements for others, but once you get them it's smooth sailing. (Compared to Minecraft where if you find diamonds early on, boom. Diamond tools) And a pro compared to Minecraft is that you can rotate blocks after you've placed them and lock that roatation so every addtitional block in that same hotbar slot will be placed in the same way. As well as the equivalant to Redstone, these pieces of ARC technology operate wirelessly, something I wish Minecraft had.
+
+I do wish that the "Creativerse Pro" DLC was priced lower, as paying $20 for a flashlight, extra invetory slots and a glider is not worth that much money. Perhaps $10 is more worth it. But after awhile you'll wonder how you played without it, since the bottom layers are super dark and there's health sapping water all over the place down there.
+
+So, can it be challenging? Yes. Is the world infinite? No, but 10240 X 256 X 10240 is considerably big and there's plenty to see and do. Is it better than Minecraft? In some areas but not all. If you're looking for a steady frame rate game then this isn't it. It feels like it hasn't been optimized at all. Is it fun to play? Definitely.
+
+Would I recommend this? Absolutely. Best of all, it's free to play.
+Alright, in a realistic sense we can all agree this is DEATHLY similar to Minecraft. So similar it's scary, but it still has amazing potential as a game. I'll address the negatives first & give my outlook on them.
+
+1. "Boring & Grindy"
+Personally, I ENJOY the curve of grind and building up. Instead of having everything ready to craft, you'll have to craft things to unlock more recipies. This gives incentive to explore and collect materials, fight mobs, etc. 
+
+As for boring, I recommend playing it with friends. Even when I didn't have Pro, a ton of fun was still availible for free players. If all else fails, just start screwing around. 
+
+2. "Laggy/Connection Issues"
+This must be player specific, because my connection is fine when playing. After multiple friends played Creativerse, with each having varying computer setups, 90% have played fine without issue. There ARE lagspikes when entering places such as the lava layer, but these last only briefly. 
+
+3. "No Creative"
+...We all cringe at this one. Lack of sandbox ability hinders fully testing & experimenting with everything. However, there is a sense of wonder & excitement when you start piecing things together in survival and testing it out to see the results. Hell, I was ECSTATIC over wiring. You can still explore the items within' Creativerse, it just takes time to build the recipies (play with friends).
+
+4. "Pro"
+I agree the paywall can be a pain for some people. Restricting free players to ONE WORLD seems a bit much. I do suggest the developers buff free players so they have a little more freedom. Forcing players to buy Pro for more worlds isn't fair, and I think Playful needs to take a look at this again. ...Especially with the massive store.
+
+Overall, Creativerse is a great game. It has its flaws, but there's massive potential for fun & creativity. If you don't dig it solo, grab a few friends & unlock the potential for building cities & enjoying yourself. For people who don't want to fork over $27 for Minecraft, this is a great alternative. 
+
+
+Hello everyone! This'll be a medium to long review.
+
+Okay, so first of all, I don't play alot of games like this. The only one I've played similair to this is Terraria.
+That being said, I was drawn to it because it's free and it looked okay.
+I actually really like Creativerse as a whole, even though I've played for 3 hours total when writing this review.
+It's open world is quite immersive, and it doesn't take ages to find other biomes and explore. Night-time is dangerous but the creatures look really awesome!
+Building/crafting isn't that hard and pretty much explains itself. Which is good in my book.. It's a good book. 'cos it's my book.
+
+RIGHT!
+
+
+PROS:
+
++ Graphics: Smooth graphics and it runs rather smooth aswell. Even the blocks have detail! The scenery is often breathtaking even though it's made from blocks. It's beautifull!
+
++ Relatively easy crafting:  As said above, the crafting explains itself. That being said, recources aren't that hard to come        by in early stages appart from exploring but I figure it'll get alot harder later on.
+
++ Bestiary: Since I always want to read up on monsters before I actually encounter them, I came across a relatively large bestiary. From pig..things.. to  Things. It's pretty diverse and each spawns within it's own biomes and Lord help me if I find myself in a cave!
+
++ Biomes: As diverse as the bestiary, as diverse are the different biomes to explore. Didn't take long before I found myself in a jungle.. at night time... getting nuked by creatures I was trying to run from. 10/10 would explore again!
+
++ Mining: Okay, so it's not actual mining with a mining pick. Why not? Because that's boring. And who uses a mining pick when you have a cell-powered WABBAJA-  ehm.. MINING GLOVE! That's right! You just rip blocks out of their comfort zones and put them in your dark, dusty inventory only to be processed into more usefull things like rods or slabs.
+
+
+
+
+CONS:
+
+I can't really think of any major flaws. It's early acces, what would one expect? Goats stay on the ground? Wrong, I saw a couple fly into the air... Which was quite the hilarious sight, I might add. 
+So... so far so good! I hope the developers keep up the good work as I, and many others, would probably want to see more awesomeness!
+
+11/10 Would recommend to anyone who likes exploring, gathering, crafting, surviving, building your own secret laboratory and slap pigs with a stick! No pun intended.
+
+11/10 Would play again! Which I'm going to do.
+
+==[PLAYER BASE]==
+☑ Kids
+☐ Everyone
+☑ Casual Players
+☐ Pro Players
+☐ Hackers
+
+==[ ⚙️Graphics]==
+☐ Potato
+☐ Really Bad
+☐ Bad
+☑ OK
+☐ Good
+☐ Amazing
+☐ Masterpiece
+
+==[PRICE/QUALITY]==
+☐ Full Price
+☐ Wait for sale
+☐ Average
+☐ Refund if you can
+☐ Don't do it
+☑ Free
+
+==[ ☣ REQUIREMENTS]==
+☐ 90' PC
+☑ Minimum
+☐ Medium
+☐ Fast
+☐ High end
+☐ NASA Computer
+
+==[DIFFICULTY]==
+☐ You just need 2 arms
+☑ Ez
+☐ Easy to learn/Hard to Master
+☐ Hard
+☐ Dark Souls
+
+==[ 🕒GAMETIME]==
+☐ Very Short (0-2h)
+☐ Short (2-8h)
+☐ Few Hours (8-12h)
+☑ Long (12+h)
+☐ Endless
+
+==[ ♫ STORYLINE]==
+☑ No story
+☐ Still better than Twilight
+☐ Average
+☐ Great
+☐ Harry Potter
+
+==[ ⌭ BUGS]==
+☐ Game itself is a bug
+☐ PUBG
+☐ Lots of bugs
+☑ Few Bugs
+☐ You can use them for speed run
+☐ Nothing
+
+==[ ⌕ OTHERS]==
+Singleplayer: YES
+Multiplayer: YES
+First things first, this is my highest recommended game in my library. 
+
+If you enjoy sandbox crafting type games especially voxel based ones, this game is incredible.
+
+I have put in hundreds of hours and have met and played with tons and tons of other players jumping around different community worlds and creating several of my own, built worlds with themes, giant castles, small homes, crazy farms, petting zoos, world trees, villages, temples, the list goes on and on. The multiplayer aspect of this game is amazing and the community is truly great I have met so many awesome people on this game and I honestly couldn't have asked for a much better experience.
+
+The game has awesome mechanics like the option to rotate blocks or the use of slabs, stairs, or tables to hide your lights, now with the awesome things people are making with machines and the fact that they are still adding to the game giving you so many possibilities. 
+
+The real heavy hitter in my recommendation though is the developement team. I have never in my life experienced such a responsive team that quickly implements what people ask for or fixes bugs and will sit there and go back and forth on subjects with you to get the fix you need to enjoy their content. Even better is if you have done something amazing and want to show off you can submit screen shots and they might mention your works or even come build on your world! The player developer interaction I think is important it helps both sides connect with each other and bring more enjoyment to the players game experience and the developers work experience. People ask for more slabs, stairs, and roofs, devs drop multiple new packs, players ask for machines with pressure plates and switches, we get much more than we asked for. Players are still asking for more and we are still getting more! For an early access game, this is the most complete, most enjoyable, and most exciting experience you could ask for. I have supported this game by purchasing extra cool shop texture packs, pro edition, and will probably continue to fund the game by purchasing whatever else they release because I know contributing adds to their susstainability and growth and from a game with this much in early access I can't imagine what it will look like a year from now. 
+
+
+If you can handle communicating your issues to developers and talking over forums, and if you like sandbox builders this game offers a unique and enjoyable style to the genre like nothing i've played before.
+Creativerse is similar enough to Minecraft to be its free substitute, but has enough different content to be interesting to people who already own Minecraft. You pull blocks towards you using the Force and can jump 2 blocks high. Torches can actually set your thatched roof on fire. You 'discover' new blocks and recipes in a tiered system that means you don't ever have to remember recipes. You can even track required ingredients as you gather them. I enjoyed going through the levels of the earth, down to the 'corruption' level, which is essentially filled with Dark side energy that slowly kills you. SImilarly, there's mineral water found on the surface that gradually heals you, much like spring water from Biomes O' Plenty. There are fans that work like arcane levitators from Thaumcraft. There are teleporters and you can warp back to your spawn point at any time. Death statues appear holding all your items after you die, much like Openblock's graves.
+
+The devs don't support modding as of yet, but I found that even I, as someone who loves mods in Minecraft, was satiated with all the different blocks and items in the game. Some of the blocks are gorgeous, like lumite and diamond glass. Some of the trees are so massive and impressive that you just have to spend 10 minutes climbing them. And no lag! The visuals are good quality even with an integrated graphics card.
+
+Overall, if you like the sandbox genre and Star Wars, you'll have a blast with Creativerse.
+[h1]"A Voxel World full of cute piglets and chameleons"[/h1]
+An immersive sandbox & crafting game which is just amazing. Honestly I knew it longer but didn't want to spend 10 EUR for it. Now it's F2P and offers the whole content and even some free blueprints. All MTs can also be made with resources payment (zone claims, blueprint buys). Ofc comparsions to Minecraft can be made. But this game has primarly a focus on HiRes graphics and liquid animations of many different kind of specimen (overly cute comic style!). You'll be sucked in easily into this cycle of crafting & building, farming  crops, taming specimen and gathering minerals. The receipts are not too unfair. So you mustn't grind long for resources (except Iron ore seems pretty rare).
+
+Little complaints about the graphics performance: sometimes you see through unrendered blocks down to lavaworld. Also the game seems to run in some Flash webbrowser mode. On my highend gaming laptop it has the same performance than on my old office notebook. And the RAM memory usage is constantly 1.5 gigs.
+Also the melee fights (only swords as weapons) are pretty unsharp. Enemies hit you from far distance and even through cavewalls. Another thing is travelling the whole map shows you always the same bioms over and over again.
+
+But after you crafted yourself up to the highest gear the game has still some more to offer. The building ideas are limitless. The first 100 hours went away very fastly. Still have something to build even after gathering Lumite from the Corruption ...
+[h1]May The Creativity Be With You![/h1]
+
+[b]Overall: 68% (176.8 / 260)[/b]
+
+[code]
+---------- [b]Aesthetics[/b] ----------
+Atmosphere    8.0/10
+Graphics      13.0/20
+Interface     4.0/10
+Level Design  7.0/10
+-------------  64% (32.0 / 50)
+
+---------- [b]Audio[/b] ----------
+Sound Effects 10.0/20
+Music         14.0/20
+-------------  60% (24.0/ 40)
+
+---------- [b]Functionality[/b] ----------
+Networking        6.0/10
+Performance       8.5/10
+Stability         6.0/10
+-------------  68% (20.5 / 30)
+
+---------- [b]Gameplay[/b] ----------
+Balance       8.5/10
+Controls      7.0/10
+Mechanics     10.8/15
+Rewards       7.0/10
+Tutorial      0.0/5
+Variety       8.5/10
+-------------  70% (41.8 / 60)
+
+---------- [b]Multiplayer[/b] ----------
+Balance     8.5/10
+Motivation  9.0/10
+-------------  88% (17.5 / 20)
+
+---------- [b]Technics[/b] ----------
+AI            5.0/10
+Physics       5.0/10
+Generation    7.5/10
+-------------  59% (17.5 / 30)
+
+---------- [b]Writing[/b] ----------
+Correctness   4.5/5
+Diction       3.0/5
+-------------  75% (7.5 / 10)
+
+---------- [b]Others[/b] ----------
+Cost-Benefit Ratio  5.0/5
+Replay Value  9.0/10
+System Requirements 2.0/5
+-------------------  80% (16.0 / 20)
+[/code]
+
+
+Want to read more reviews like this? Follow us on Steam!
+[url]http://steamcommunity.com/groups/ScoreCritic#curation[/url]
+
+You can find more reviews like this on our website.
+[url]wwww.scorecritic.com[/url]
+===[ ❤ Audience: ]===
+👍Kids
+👍Everyone
+👍Casual players
+👍Pro players 
+Hackers
+
+===[ ☼ Graphics: ]===
+Potato
+Really bad
+Bad
+OK
+👍Good
+👍Beautiful (For the type of game)
+Masterpiece
+
+===[ $ Price/quality: ]===
+Full price
+ Wait for sale
+Average
+Refund it if you can
+Don't do it
+👍Free
+
+===[ ☣ Requirments: ]===
+90' PC
+Minimum
+👍Medium
+Fast
+High end
+NASA computer
+
+===[ ☼ Difficulty: ]===
+You just need 2 arms
+Ez
+👍Easy to learn / Hard to master
+Hard (first few hours)
+Dark Souls
+
+
+===[ ۞ Game time/length ]===
+Really short ( 0 - 2 hours)
+Short ( 2 - 8 hours)
+Few hours ( 8 - 12 hours)
+Long ( 12+ hours)
+👍Endless
+
+===[ ♬ Story] ===
+☑ It doesn't have
+☐ Still better than Twilight
+☐ Average
+☐ Good
+☐ Fantastic
+
+===[ § Bugs ]===
+Game itself is one big BUG
+Bugs destroying the game
+Lot of bugs
+👍Few Bugs 
+You can use them for speedrun
+Nothing
+this game is fun af and if survival gets boring theres creatuve which is fun
+I have played two other sandbox building games like this before, one of course is MINECRAFT (PE version) and the other is TROVE on steam. I have also been eyeing on "PORTAL KNIGHTS" which I can't afford, so obviously I went for this F2P game.
+
+In my first 5 hours of solo gaming with this game, I can say that it's a bit of a Minecraft clone but waaaaaay different. I also immediantly liked the gameplay on this better than Trove which I got bored of real quick. Let me give some Pros and Cons of this game.
+
+PROS:
++ Very large and open world
++ Minecraft-ish. If you enjoy games like Minecraft you'd definitely find this a whole lot better.
++ The F2P content is very sufficient enough to fully enjoy the game.
++ No cheats as far as I know. Makes the game more challenging.
++ No creative mode, meaning more sense of achievement each time you build something.
++ You can own regions of lands.
++ Blueprint system makes it easier to build things.
++ Good overall gameplay and crafting system with diverse mobs.
++ Lots of potential if updated properly.
+
+CONS:
+- Glitchy.
+- Unpopular game, which is kinda sad.
+- Low population. Most Public worlds' population is only about 2-5 people a world.
+- Gets progressively boring unless they add more stuff to do in the game. You will eventually run of things to do.
+- Although has a lot of potential, I still feel like the game is lacking.
+
+If the developers would be bold enough to copy a bit more gameplay from games like Trove or Portal Knights, this game would rock! I feel like it needs a little it of RPG element :D
+Great game, I highly recommend this to anyone who at any point enjoyed minecraft, which is fair to say a wide variety of people have that play video games.
+This game is extremely fun and is obviously going to be compared to Minecraft due to the fact it is a voxel based game.
+Top marks to the developers :D
+
+[b] [u]Pros[/u] [/b]
+
+[h1]Music[/h1] To whoever made the tracks in-game I offer you a high five my friend!
+[h1]Crafting[/h1] The crafting system is very well made. For you to be able to create some items (mining cells for example) you need to create its less valuable counter-part. Which I for one really enjoyed on my first world because you don't know what you will unlock in the future
+[h1]Servers/worlds[/h1] The system in-game for the worlds in amazing in my opinion and have found it to be rather extraordinary, probably because I have not encountered this kind of thing before. Every world you/your friend creates will save and for example if your friend leaves the world he creates whilst you're both connected, you will remain in world and are still able to play-through the game as per usual. I'm not entirely sure how it works but I have found it rather handy for this feature to be in game.
+[h1]Gameplay[/h1] I personally was expecting this game to be a bit of a bum, probably because I instantly thought of the hundreds of minecraft rip-offs there are but my friend got it so we both decided to take the game "For a spin". Instantly we were both 'wowed' by the extensive world and great crafting system and number of new options available to us!
+[h1]Graphics[/h1] There really isn't much to say about graphics but that they are very good for a voxel based game title, I was rather shocked with the detail of shading in some places and marvelled at the fab-u-lus view from my tree base. looking over the mountains.
+
+[strike] [b] [u]-Cons[/u] [/b] [/strike]
+In my opinion this game is amazing so I'm going to name a few improvements I think could be made.
+
+[h1]Items[/h1] I personally believe that this game should have a few more weapon choices (ranged) and extra armour/clothing too, some rare gear/items could be placed around the world with a somewhat 'mini-boss' guarding whatever the gear/items may be. Me and my friend have come up with a number of ideas such as 'Goo-Boots' which reduce fall damage/make you bounce without a block being underneath you. Items like this would be rather nice and would seperate this game from minecraft and other voxel titles even further.
+[h1]Character Customization[/h1] I positive this has been said before and I'm sure it will be said again. This game would be amazing with customised characters, I'm not asking for the 'skins' from minecraft to be put in the game but I would quite like an RPG style customization in-game, even if it was just complextion, hair, eye and voices even that would be rather nice.
+[h1]Sounds[/h1] I think it would be rather nice for your character in-game to have some voice emotes like laughing etc, this would again bring the game further away from other voxel based titles.
+[h1]Animations[/h1] Along with the voice emotes, visual emotes such as waving could be added or even combine the visual and sound emotes together for example with the laughing emote.
+It's like Minecraft, but enough of a difference that makes it a game in it's own right. Has features out of the box that Minecraft doesn't, like block rotation and mobs that can be tamed into pets. A lot of nice tweaks over Minecraft, that comes with the game, no mods needed. HD graphics out of the box, no special texture packs needed, in fact it's better than HD texture packs for Minecraft. Processing machines are better than vanilla Minecraft. Can put multiple stacks in at once. Recipes are easier. You just have to have the required materials, then tell the crafting menu to make it, no more arranging items on the crafting table. In fact there is no crafting table, craft at home or on the go!
+
+Will allow modding in the future with hopefully a better system than Minecraft offers. So far the game play is fun and just makes sense. However it is pretty similar to vanilla Minecraft, not a whole lot of tech machines and items or trains/tracks/carts, has it's own unique items though. It's still in development and could offer a lot more than that in the future through the game itself or when modding is enabled.
+
+Isn't a memory hog like Minecraft, though there isn't 50 mods loaded with it. Runs smooth on max settings, 1080i
+It's amusing to see so many conflicting reviews of this game. Personally I have never had an issue beyond the occasional lack of performance when running on an older machine. And as for comparing it to Minecraft.. what's the point in that? After over 500 hours I still enjoy the look, sound, and feel of the game. It has interesting creatures, simply designed mechanics, and a look that is aesthetically pleasing. With each update I have, like others, found something I didn't care for at the time. Such as changing creature and character model designs (Warmworm's original look was much cooler). But overall I've been pleased with my purchase. This latest update (August, 2018) has introduced yet another new player model that took me a couple of days to appreciate. I was sad to see my character go, but have enjoyed the new models slightly more realistic look. Being able to interchange the costumes is a neat feature as well, though I would like to be able to see my armour again. Perhaps in a future update? I also enjoy the battle mechanics in third person. Still some bugs to work out (character model thumb has a freaky curve..maybe its just me) but you're heading in the right direction.
+It's been a good ride. Looking forward to future updates, new creatures, costumes, weapons and such.
+[h1]WARNING!   ADDICTION AHEAD![/h1]
+Having played through the tail end of the Early Release (Since late January, 2017), I have come to realize that I am fully addicted to this game.
+
+The sandbox game play allows you to create most anything your brain can imagine, granted it will be stationary, but you should visit some of the worlds out there where creativity abounds!
+
+[h1]Private or Multiplayer:  The worlds are always available and your plants grow even while you're away![/h1]
+
+[u]Entire cities, large communities of players working together to make the absolute most of their world.[/u]
+
+World owners can assign others to be Admins to help moderate the worlds.
+Worlds settings can be modified by the owner.  
+      Want peaceful creatures?  Go for it!
+      Want PVP (Player Vs. Player) combat?!?   Have at it!
+      Want to decide of fire and TNT can damage the world?   It's at your whim.
+
+Claims within the world can be bought with materials harvested.
+       Claim owner can override world settings.
+       Claim owner can appoint their own claim admins, and decide who is a visitor or a builder.
+
+Adventures created by the users, which give you such a vast array of different challenges, are becoming more and more plentiful as more users become comfortable with the already easy to use tools.
+
+[h1]The development team listens to the community in the forums, or through email.[/h1]
+You see them interact with people as questions are asked.   Not very many other games I own can say they do that.
+
+They also have explained to the users their vision of what they want to see added to the game. 
+There has been almost bi-weekly changes made, with content being added all the time!
+
+[h1]Early Access allowed people to experience, and in some instances, help mold the core of the game.[/h1]
+In the forums, players have the ability to speak out and explain that works and what doesn't.
+Now that the game is 'Live' I don't forsee any reason for the devs to stop this train of thought.
+In fact, with more users giving input and pointing out things, I think the game will just advance that much more!
+
+[h1]Haters be haters.. and want to hate.[/h1]
+Don't listen to the negative people who have played only a mere hour of the game.
+That doesn't even begin to allow you to explore the massive worlds that exist, or to find communities and see just how friendly this game and it's playerbase is.
+
+While the game is [b]FREE TO PLAY[/b], and [i]yes, there are micro-transactions[/i], [b]YOU DO NOT NEED TO BUY ANYTHING[/b] to be able to explore worlds and advance the crafting and building tools.
+
+[h1]Try the game yourself, there is no cost required to play![/h1]
+If you DO buy the DLC, it allows for extras that aren't 'PAY TO WIN'..
+
+You gain flight.. which makes it easier to get around.. but you can craft foods that [spoiler]increase your walking speed, and also protect you from fall damage![/spoiler]
+And [spoiler]teleporters can be built to help you move from place to place easier![/spoiler]
+
+You gain a flashlight .. but you can craft torches, lamps, lanterns, etc and place them as you go.
+
+You gain more bag space.. but you can make chests to store items and have a touchstone to return instantly to when your bag becomes full.  And as mentioned above.. [spoiler]TELEPORTERS TO MOVE AROUND EASIER![/spoiler]
+
+[h1]So very much more I haven't touched on..[/h1]
+Search for the social media streamers who are showing off the game.
+I've seen them find stuff that I didn't even know about.
+
+If you start playing.. and can't seem to stop..
+...you could just do what the devs do.. 
+...and claim the leafies made you do it.
+I tried playing Minecraft (the inevitable comparison) but couldn't get into it, mainly because of a lack of guidance at the beginning and a quick death in a cave... 
+
+I wasn't sure if my laptop could run Creativerse, so I downloaded and installed to try it. 2 hours later my wife is yelling at me to stop and take a shower. 
+
+10/10 would get yelled at again.
+[h1] First off I would like to say that this game has among the best community of players I have ever encountered online. Everyone is super helpful and nice, very collaborative and community oriented. Let's keep this trend going![/h1]
+
+Now [i]this[/i] is a sandbox game!
+
+I am absolutely loving this game, it's addicing and rewarding, everything about this game is fun to do.
+
+A breif overview of the game.
+
+You start off in a random location on the world map, which currently there are only 4 variants off which is unfortunate, but hopefully soon they will be procedurally generated. You have a Twig with which to hit things to kill them and harvest their loot, and a basic Mining Core/Gauntlet. 
+
+You go kill Piglets, Boars, Leafis, things of that nature to collect Hide, Tusks, Sinew, Bone, etc. As you travel you can collect the trees, dirt, water, honey, etc in order to upgrade your Mining Core. Build up your core, mine around, explore, fight things, collect flowers/mushrooms. Make a Forge and Processor, create armor and weapons, other neat things. Furniture, what have you.
+
+Mining Ore in this game is different. Instead of Clicking on it and standing there until you Pop it, you place an Extractor on the Ore Node which will harvest it for you, giving you time to go and look around for more ore while it processes. Come back and poof, there's 12 Coal Ore, or Obsidian or what ever it might be. It's a very interesting take on it and it's a lot of fun. 
+
+Well anyway I'm rambling on about nothing, but it's a LOT of fun and it's still in early access. Tons of fun, and immense potentil. 
+
+[h1] Overall Rating [/h1]
+[b] 8/10 [/b]
+
+Oh, also, if you are crying about the game having a price tag now, get over it. Grow up, get a job. It's 20 bucks. That's like, what, less than 2 hours of work? I see so many people complaining about how they "ruined" the game and made it "pay to win" - it isn't. You can either A) Pay nothing and expierence 100% of the game, or B) Pay the nominal one time fee of 20 bucks, and get a bunch of goodies, and be able to create multiple worlds, and also help fund  the dev team for more updates in the future.
+
+Stop being so entitled to free stuff. This real life. Money doesn't grow on trees. Nothings ever free.
+Creativerse is a really great block-based, open world sandbox game. The biggest surprise for me is how incredibly feature-rich, polished, and well-rounded the game is for a free-to-play. You can purchase the "Pro" version, which earns you some enhanced gameplay and the ability to create multiple worlds... but at this point? I feel compelled to purchase the Pro version simply to support the developers, and ensure that they keep expanding and enhancing this incredibly fun game.
+
+With regard to the thematic style, the graphics are simple yet surprisingly detailed, the music is unobtrusive yet provides great atmosphere, and the sound effects are cool as well (I love the sound of the forge and processor on headphones). All of these things add to the fun gameplay, and make it a really great game.
+
+While Creativerse is pretty easy to pick up and get the hang of things, the option of a quick tutorial at the onset would be a welcome addition, just to give newcomers the choice of learning the basics and pointing them in the right direction. I had a general understanding of block-based sandbox games before starting, and I still got a little confused initially as to how certain things worked. 
+
+Gameplay is very smooth and responsive on my machine, but it makes my CPU fans spin up like a jet engine. My specs are significantly higher than base requirements, so I'm curious what's going on with the processing.
+
+All-in-all, Creativerse is a feature-rich and engaging game that's a lot of fun to play. Plus, you can't beat free – it's definitely worth the time to install, sit down and give it a whirl!
+I cannot stress enough how much I love this game. Sure, it's still a bit buggy, but obviously these bugs haven't really bothered me. None of them really make the game unplayable, the worst I have to do is exit a world and come back. Simple fix. When I first grabbed this game, I thought "oh, a free minecraft, awesome," but I've found after so much time on the game that it really is different. Each layer underground is like an entirely new world to explore and each biome has its own creatures. Multiplayer is also fantastic.
+Lag is occasionally a problem (especially when using the glider after purchasing pro- which I also recommend), but it doesn't make it unplayable. I have one of the most basic gaming computers and it handles the game like a dream.
+Love it so much. I'd even stretch as far to say that it's better than minecraft in many ways.
+
+Edit (8/29/2018): Since more recent updates, the game has become pretty laggy on my end. Needs some performance optimization. Further, I'd have to say that the addition of so many shop items is a little disappointing. But I still recommend the game.
+I went into this game with a firm expectation of yet another minecraft clone. And it is. But it's also a lot more. The controls are clearly largely based on that of minecrafts (not a bad thing, just an observation) but that and the blocky style is where the overlap ends. All sorts of well designed creatures, as well as an amazing art-style, makes this game an absolute beauty. I was skepticle at first, but after only five minutes I could tell I was going to like this. On another note, the crafting is very complex and fullfilling, with a blockheads-type feel to it in terms of the tiering system for each item crafted. Anybody who has seen this and had second thoughts due to the fact that it came out at the same time as all the other sandbox surivival games (some of which aren't that great), download this game with now, it's free, and you'll get hours upon hours of intriguing gameplay. Only complaints are that online has a few minor bugs, and once you've played one game the next feel slightly repetitive and tedious. Those complaints aside though, great game, very much recommended :)
+Downloaded it yesterday  (12/12/16), started playing with a friend who I used to play Minecraft with. Beautiful graphics,  nice crafting options and didnt get boring over 7 hours of exploring and building a bigger house next to my friends cottage. If you liked Minecraft, I can highly recommend this  game, if you dont like voxel-based Sandbox games, why are you even here?
+
+And  by the way, it is definitely not pay to  play  resp.  pay to win. If you dont buy the  pro-version you dont have a flashlight,   but you can build torches, and the glider is for the  same people  that   ride those little carts in Wallmart instead of walking. 
+
+Regarding the fact that you have only 1 world in the free version, well, I am totally fine with that as I am just playing with           a friend, so I dont mind.
+
+Best regards,
+Close to 500 hours playing this game. Now why do I have that much time playing it?
+Pros and Cons:
+ -Pro: Free to play; no need to memorize recipes; public worlds you can visit without the host being online; parents can create safe world for younger kids who want to play same stuff the older ones do.
+-Con: Only way to get eggs is to tame a chizzard. Oh well.  If you don't like it, it was free.
+
+I found this game during Early Release in 2016.  
+
+My first time in Creativerse, I loved the variety of textures and colors.  The most of the creatures are different from the usual run-of-the mill animals.  I absolutely loved the autumn colors on some trees.  I also loved that I could make my world no-pvp and peaceful creatures.  Oh, and the peace because the boys weren't fighting over an accidental hit or kill.
+
+For me as a parent, that is a BIG ace! 
+
+Now, as to the "reviews" where the people are complaining about cost. This game was free to play in Early Access, and is still FREE TO PLAY.  That other game people compare it to? You can't play it unless you buy it first!  Yes, I did purchase Pro. I did so because I like the game and I want to help support it. The premium blocks? I don't need them. I don't have to buy them to play the game. I may if I want to use them on my private world. On the public worlds, I have made friends who, if they have the blocks, are happy to make some for me (especially if I ask what is needed and collect the materials).
+
+Pro means you are helping to support the game. The developers show their thanks with a few cosmetic things. You can play the game without them. A mobile light that stays with you? Torches aren't too hard to make (and stack up to 99!). Gliding? I still have to run through a jungle or cave. You can have multiple worlds...well, since there are so many public servers, that is a moot point. Frankly, it is a lot of fun to visit other servers and see what has been created there, even if you don't want to play on that particular world. Go ahead - it is free. You may just like it.
+It's a fun Minecraft clone, what was supposed to be a quick hour or two look turned into 12 hrs. It's a very forgiving game also, death most of your items goes into a tomestone pot. Also has a built in compase with markers. Very addicting to play with others. Taming the wild life gets a bit boring when after it's tamed. All the creature does is follow/wander/stay. Feeding it, the pet will give you an item to harvest from it. Would be interesting if some could be tankers or support fighters.
+Creativerse pulls itself above the crowded genre of games that re-engineer a Minecraft-styled game by making a smart move by having it Free to Play. This isn't going to replace the game I've played for years, but it is a nice breath of fresh air. Worth downloading not just because it's free but because Creativerse offers everything you'd expect, and more, all with a different flavor worth savoring. The best feature comes down to the online sessions easily available to anyone, even without the main host needing to be logged on.
+
+14 hours clocked in on this game and I can easily triple that in the upcoming days. Give this game a shot, and you won't regret it. Even if you do, it's Free!!!!
+I don't do a whole lot of gaming (as evidenced by my lackluster profile here) but I do really enjoy this game. There's a level of cathartic, relaxation to it. I can sort of immerse myself in the world (which is quite beautiful) and lose myself for hours. I highly recommend it to anyone who likes crafting, mining, and building stuff. :)
+Player Bases.
+☐ Kids.
+☑ Everyone.
+☐ Mature.
+☐ Casual Players.
+☐ Pro players.
+
+Graphics.
+☐ Potato.
+☐ Really Bad.
+☐ Bad.
+☐ OK.
+☑ Good.
+☐ Beautiful.
+☐ Masterpiece.
+
+Price.
+☐ Full Price.
+☐ Wait For Sale.
+☐ Refund It If You Can.
+☐ Don't Buy It.
+☑ Free.
+
+Requirements.
+☐ Minimum.
+☑ Medium.
+☐ Fast.
+☐ High End.
+☐ Super Computer.
+
+Difficulty.
+☑ Easy.
+☐ Medium.
+☐ Hard.
+☐ Very Hard.
+☐ Death March.
+☐ Dark Souls.
+
+Game length.
+☐ Really Short. ( 0 - 2 hours)
+☐ Short. ( 2 - 8 hours)
+☐ Medium. ( 8 - 16 hours)
+☐ Long. ( 16+ hours)
+☑ Endless.
+
+Story.
+☑ It Doesn't Have One.
+☐ Horrible.
+☐ Ok.
+☐ Average.
+☐ Good.
+☐ Fantastic.
+
+Cinematic/Art.
+☑ It Doesn't Have.
+☐ Horrible.
+☐ Ok.
+☐ Average.
+☐ Good.
+☐ Like Watching A Movie.
+
+Music/Sound.
+☐ Horrible.
+☐ Decent.
+☑ Average.
+☐ Good.
+☐ Amazing.
+
+Gameplay.
+☐ Terrible. 
+☐ Ok.
+☑ Average.
+☐ Good.
+☐ Fantastic.
+
+Bugs.
+☐ Game Itself Is One Big BUG.
+☐ Game Breaking Bugs.
+☐ Lots of bugs.
+☑ Few Bugs.
+☐ Nothing.
+
+Others.
+Multiplayer: ☑
+Singleplayer: ☑
+
+Final Score:
+5/10
+
+Recommended!
+One of the best building games I've ever played + the Community is really nice and very helpful. Always a public server to join. There is so many people you can make friends with and get to build with. I recommeding this game to anyone that wants to make new friends and have a good time all the time.
+I believed the game was not free to play, yes? (correct me if im wrong) I put the game on my wishlist, maybe it didnt come out when I was browsing the game. But now, I SHOULD HAVE MET THIS GAME SOONER! This game has lots of features that minecraft vanilla could not cover: claiming area (protection against raider), free and all to use teleportation, no need to eat, no need to farm, just build whatever your dreamland is, suit up, and be creative.
+
+If you like Minecraft, but dont wanna buy server, code stuff, put command blocks here, plugin here and there, do lots of reading, then you better try this awesome game. Graphics and game crafting similar to Minecraft, you'll adapt quickly!
+
+Also the main feature: FREE SERVER (24/7) FOR ANYONE! You can make your own server, that anyone you want can join (with or without password). The server stays up even the creator left. So players can always come in and go anytime they want. No need to host/buy a freaking server, you can do it FOR FREE. NO COST AT ALL. (unlike minecraft where you have to pay a service in order to do it). I've tried dedicated server myself (only using pc to standby) and it's kinda pain in the ass for casual minecraft player like me. I cant keep my pc on 24/7.
+
+80/100 i recommend this game.
+
+Reccommendation for Devs:
+
+Make more of cosmetics for players and make it cheaper. Example: with 1 USD you can buy a wide range of clothes, hats, masks, pet item, etc. Currently the price is around 5 USD for some amount of coins, its not worth it for some of us :)
+
+Simpler crafting recipes! I do not like at all that you need to upgrade to Obsidian Cell, Iron, etc just to collect higher tier of resources. I need to start from bottom again if I lose my stronger power cell.
+
+Thanks. I love this game. Goodluck!
+Me: Lol, another free Minecraft copy, I guess I'll fuck around with my friends for a while
+* 10 straight hours later*
+Me: Cool, achieved the best gear in the game.
+
+11/10
+My rant:
+
+I no longer play this game. The devs ultimately chose a direction for the game that didn't really fit the way I wanted to play and have to-date chosen not to allow modding. I will not judge them for this despite my disappointment. I understand that the business model they chose would crumble if players could simply mod in their blocks and resources. It's a business. 
+
+Honestly, I would rather have paid $60 and been able to mod it and host a private server but, oh well, that's not what they offered. It is what it is. Still, at the end of the day, I have spent so many joyful hours here I cannot rightly give this game a bad review. 
+
+Yes I did receive Pro for free as a pre-release supporter, but I spent that price at least a couple times over in recipe packs and such. I don't regret that at all, even though I no longer play. I more than got my money's worth from Creativerse.
+
+My actual review:
+
+Creativerse has a lot going for it.
+
+It offers some very enjoyable and unique building mechanics. Full block rotation, blueprints, autofill, wiring, logic gates. I actually played this before I played Minecraft and trying to go from Creativerse building system to that one was a rough transition I was never able to fully adjust to. Felt like a downgrade.
+
+It's free, though I must say you REALLY want the glider to maximize the fun here, so my stated opinions really refer to the Pro version. Try it free, like it, spend the $20. 
+
+And though I found this much more true in previous versions, the game still has a cool and funky vibe, kind of cartoon-spooky, that I really found delightful when I first ran across it. The background music and ambient sounds are really well done too. 
+
+So if you like exploring and mining, easy building and very mellow combat, especially with a group or with your kids, I recommend trying this game. It has its ups and downs, but if you have a decent CPU and a really good internet connection you will have a good time. 
+
+
+TL;DR 
+Read a shorter review
+Found it to be free to play.
+
+Logged in, made a new world.
+Found the UI to be pretty easy to use.
+Can make tons of stuff.
+It's like a mix between Minecraft and Planet Explorers, but with Minecraft blocks.
+
+Not bad, and considering it was free, didn't seem terrible or pay to win.
+
+Worth a shot and seems pretty cool.
+8/10 Needs more content but the already existing content is superb. Minecraft on steroids, but not as much items as it should have. Villages and more weapons are needed. Hammer, spear, javelin, other projectiles besides bombs.
+The perfect mix of beauty to the craft system. 
+Looks like Creativerse seen the previous games errors and managed to become 
+The Best of this genre.
+
+An exploration sandbox open world game, rich in detail where you can run, jump,
+fight and create items for your own survival. If you have the PRO version, you also have a
+portable flashlight (L) and Glider (G), a device attached to your back that gives you the possibility to raise flight and to glide, useful for exploration of new areas and to avoid deaths by fall.
+
+Creativerse has an open world full of biomes, each with its own flora, fauna and resources. 
+Among them are Woodlands, Forest, Mountains, Canyons, Savannah, etc ... It was in Savannah 
+that I made my first "kingdom" project, [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1097700714]Pxl's Reign[/url], there you will find the Parchwoods,
+golden colored trees with huge tops, big enough for you to build a base on them. 
+The game also has the underground biomes, which are fundamental for collecting mineral ores  for the evolution in the craft system. Example: Fossil Layer, Lava Layer, Corruption Layer.
+
+The game doesn't have an explicit plot, you need to collect parts of the story by finding the
+Journals, are small reports written on pages, and Data Chips. They can be found in treasure chests. 
+
+I wrote what I gather of information till now:
+[i]"A man, probably a scientist, seems to have fallen on the planet Creativerse. He found the Arctek technology  on this planet, it uses Arcstones as a source. In the face of loneliness, this man developed PIXI,  an AI with childlike and feminine touch. PIXI researched and reported a lot of information In Data Chips. It seems that this scientist has used Arctek technology to create a "pulling" mechanism, with the objective of pulling people to this planet."[/i]
+
+[b]10/10[/b] - For me, the strength of games of this genre is the creative freedom. Creativerse isn't different. It allows you to create a huge variety of decorative items, specific to construction. Check out how is my "kingdom" at this moment: [url=http://steamcommunity.com/id/blancamuniz/screenshots/?appid=280790&sort=newestfirst&browsefilter=myfiles&view=grid]Printscreens[/url]. It has great gameplay and free servers to play with your friends. It's worth it.
+With a very Minecraft feel to it Creativerse adds its own unique spin on the voxel open world genera.
+
+A large 3D world full of different biomes, creatures and resources to craft and build, either alone or with friends on a private/public server. Find lots of buildings and custom made scenarios on the workshop.
+At first I thought this was another rip off of minecraft.
+Turns out, its actually pretty fun. It isn't a total rip off 
+Certain aspects of the game makes it different from Minecraft for example this game focuses more on exploring and makes building easier with blueprints linked to the steam workshop which is pretty awesome
+etc
+This game wasn't that great before- To be honest, it actually seemed like a rip off of Minecraft. Yes, a good one, with great visuals, easy multiplayer, and a few mechanics not found in Minecraft. But recently it's somewhat blended Terraria and Minecraft together, with the luxury of Minecraft's 3D, easy multiplayer, and stuff, with Terraria style character customization and greater amount of content over Minecraft. Yes, it doesn't have as much content as Terraria, and never will, to be honest. But now it's blended the 2 most popular sandboxes, along with content not found in either, such as a tutorial. Well done. If it's to be called a rip off byb ANYONE, it's a very, very good one.
+Basically, it combines Minecraft's style of gameplay with Terraria's progression in equipment, and where you go. You might not be going far without decent equipment...
+
+...And now is when it hits the shitter.
+
+Creativerse Pro- A Builders club style subscription service allowing for Flashlights, Gliders, and various exclusive blocks. 
+
+Y'see, with F2P games there is ALWAYS a catch, whether it be excessve ads, or what you're probably used to, Micro-transactions. I quite literally knew that the game would come to this someday, as a F2p game. I literally knew it. Yes, you can argue that those features aren't necessary, but there's something about a free indie game going into the We-Do-Want-Money category, just like Roblox. Atleast this isn't as bad as the removal of tix, but it just rubs me the wrong way. 
+
+Despite that, i can't not give this game a reccomendation. It's still a great game to play with friends, so go do that.
+This isn't half bad. I don't really enjoy Minecraft but I enjoy this, for whatever reason; it's similar, but not really the same game. It's a bit more... progression-based is probably the best way to put it, although I hate to imply that it's anything like Dragon Quest Builders either.
+
+
+The free content here is more than sufficient, which was my initial concern, given that there's a paid option for more stuff. You can do pretty much anything you want to do. There's also the option to pay money, if having more fiddly little bits to build with suits you, or if you want some extra convenience features. If I put enough time into this, which I may or may not, it might actually be worthwhile to have the flashlight, etc., that come with the Pro upgrade, and the developers certainly deserve their share.
+imo, this game trades the simplicity and intuitiveness of vanilla minecraft for more extensive progression mechanics
+
+also its free without needing like 3000 of a material for a single piece of furniture cough trove cough
+As a minecraft fan, I tried this game with hesitiation. Infact after a few hours, I decided it was too awkward, and stop playing for awhile, went back to Minecraft. But, then I needed a change and tried it again. Watched a few YT videos of ppl playing it, and now I am really into it. Lots of new updates and things to use for building. Starting playing on the Playfulverse server and found lots of really cool ppl doing some amazing builds. Now I am hooked. Havent been back to MC for months. :)
+Dispite a few (game breaking?) bugs, this game scores high marks with me. It is one of the most addictave games I've played. I've had the Game since mid 2015. I logged a little over 400 hours back then. I just got back into it a couple of months ago and have now logged well over 1700 hours.
+I've probably pumped too much money into this game. But it's well worth every penny of it, entertainment wise.
+I'm impressed with Playful Corp.'s attitude and wish the Company well.
+It's Free to Play Guys... And flying alone, well worth the $20 to go Pro.
+I highly reccomend this game.
+Ok so .. i recently upgraded to Pro and i thought i should atleast write a review about the core game. This game is definately to me far better than minecraft ever was or ever will be .. its like minecraft on steroids.. I love the music though its so soothing that sometimes it makes me sleepy and doze off lol .. The graphics are nicely done and the animations feel very solid. The crafting system doesnt leave you clueless and confused but instead guides you along your way with blueprints and informational tooltips that show you what is needed to either craft or unlock items that are either locked or unlocked respectfully. 
+
+The game is 100% free to play and not a single dime is needed to be spent to unlock anything in this game. That being said you do have the option to spend real money for in-game premium currency to unlock special blocks and blueprints if you just dont feel like gathering the needed materials. There is also the Creativerse Pro DLC which unlocks a glider, flashlight, faster run speeds, longer sprint time before getting tired, more backpack space, the ability to change the way the sky looks, the ability to customize your world to your hearts content like changing all creatures to be friendly and turning off gravity for some pretty fun space walking (which makes it useful in some situations).
+
+I totally recommend getting this game and supporting the devs! These guys have done a tremendous job on this game and they push out updates very often. If your new to the building games or if your a master builder all kinds of play styles will find this game enjoyable and fun to play.
+
+
+☆☆☆☆☆
+
+This is my favorite game of all time!
+Over the last year or so I have seen this game grow and develop so much! The developers really listen to thier players and release some amazing new content nearly every month. 
+
+There are a couple bugs here and there but over all this is a beautiful game. 
+
+What I love the most is that there is something for everyone. Some people love to build and some love to explore and some love to just visit a bunch of worlds. 
+
+The newest update with Blueprints and the Workshop allows you to carry your favorite builds with you into another world, LIke that Cabin you have been working on for so long.
+While quite time consuming, I found this game to be great for building just about anything you can dream up. A workshop offers free blueprints making building something pre-fabricated very easy plus if you don't have the blocks necessary you can substitute them for ones you have or prefer.
+I bought the PRO version to have a flashlight on at all times because the underground areas are very dark and easy to get lost in unless you'd rather place hundreds of torches.
+You can own claims of territory that no matter what you build, no one can wander in and destroy it.
+Grow crops to feed your pets that you can tame from any world monster that exists.
+There are hundreds of blocks to choose from but if you like shiny and sparkly ones those are bought with coins and you begin with 500. Additional coins can be purchased with real money if you decide this game is for you.
+I currently have 12 claims on one world (Everyone Welcome) and 7 on another (The Inside of Outsanity) plus my own private world (4LCH3M1STS's DOMAIN) as a creator with slightly over 1000 hours invested over a 6 month span.
+Best advice for finding a great world is to look for a world that has people on it and I've found people are really helpful and kind.
+I hope this review is helpful, stack with ya later!
+I love this game. It is like Minecraft but free.It requires creativity and you can join public servers and get ideas and now it has a workshop so if you like someones idea you dont have to try to guess you just get the blueprint and start building. I aslo love this game becuase its not a game where you have to pay for stuff they give you some free blueprints and blocks you can claim and no one can build in your area unless you let them in claim settings.The worlds are so big and you just cant explore the whole world unless you have a years worth of time on your hands. The world is compleatly Destructible Meaning you can destroy the whole thing its awsome. There are hundreads or creafting recepies its just Insane.
+
+
+There's the game in a nut shell
+after 1500+ hours and a own server (Missing Kings) i thought a little sweet comment would be cool.
+
+I started this game and played it in my own world till ive learned anything.
+
+after 2 weeks ive decided to make it a public world and had till today over 12k ppl visiting our world.
+
+ive won the best friends in this game im still with them a family in our discord.
+
+we had a real great time in this game and we sure will always return to it <3 !
+
+1mio time better then minecraft !!!
+
+recommended for sure !!!
+
+its one of the games i will always play till i die lol
+This game is about creating.  It has elements of survival, exploration, crafting, resource gathering, mining, but in the end, this game is about you creating your own world which anyone can play at any time.  The world is hosted and never goes away unless you delete it.  Any of your friends can instantly join you, or you can become a hermit and lock down the world with a password.
+
+Contrary to the minecraft fanbois who come here, this is NOT a minecraft clone.  Anyone who plays the game for any length of time will realize that this game is also a game creation tool, in that you can craft and publish standalone adventures with the worlds you build in.  After creating an adventure with puzzles, traps, riddles, and physical feats, you then take a snapshot of your world and people can play the adventure without damaging or causing mayhem in your regular world.
+
+This game is all about creating.  You are the designer.  You control your destiny.  You can now create.
+
+In Creativerse
+
+
+[h1]RECOMMENDATION:[/h1]
+*Yes, if you like creative games in which YOU create your world with awesome tools
+*No, if you are looking for an rpg or somethign with evolving/dynamic story
+
+[h1]GAME IMPRESSION:[/h1]
+First 2 hours, The Miru are terrifying and gang up on me as soon as the sun goes down.
+After 20 hours, I finally figured out how to rotate blocks and craft even cooler stuff
+After 200 hours, I created my own server with over active 900 users
+After 2000 hours, I started making my own adventures for other people to explore
+
+[h1]MAX GEAR / CRAFTING TREE COMPLETION TIME:[/h1]
+*Rushing:  pro player: 2 hours to full lumite without buying items from the store
+*Leisurely: a couple weeks
+
+[h1]GAME COMPLETION TIME:[/h1]
+*Rushed play style: there is no completion time in a game where you are the creator
+*Leisure play style: eternity
+
+[h1]RECOMMENDED GAMING HOURS:[/h1]
+( ✔ ) Busy Adult, have very short time to play
+( ✔ ) Freelancer, playing on and off
+( ✔ ) Gaming anytime anywhere, memorized every corner in the game
+
+[h1]GAME DIFFICULTY:[/h1]
+( ✔ ) Adjustable on new game world (only for pro)
+( _ ) Adjustable on each stage
+( _ ) Not adjustable, game made for casual gamer
+( _ ) Not adjustable, game made for average gamer
+( _ ) Not adjustable, game made for professional
+( ✔ ) world customization (only for pro)
+
+[h1]vGAME MODE:[/h1]
+( ✔ ) Online Player versus Player
+( ✔ ) Online Cooperative
+( _ ) Campaign Mode (Linear story)
+( _ ) Campaign Mode (Multiple Ending)
+( _ ) Random level generated
+( ✔ ) Random AI/item/pickups generated
+( ✔ ) Level-up progression
+( _ ) Statistic
+( _ ) Leaderboards (Friends Ranking)
+( _ ) Solo Score Attack
+( ✔ ) Mircotransactions (yes, but uneccessary)
+( _ ) Split Screen / Local Coop
+
+
+[h1]POSITIVES & NEGATIVES[/h1]
++Very easy to play
++vast areaa to explore
++Collect resources to survive, build, craft and trade
++Quick fast travel to personal touchstone, and craftable teleporters
++nearly 500 craftable blocks, hundres of other found items
++Mysterious alien creatures
++treasure chests on many layers in many biomes
++snapshots
++multiple DLC to enjoy
++developers give out free material packs and item packs when they release store items
++Photo Mode 
+
+-no xbox controller play
+-no way to enter & return from adventures to an existing world 
+
+[h1]QUALITY	SCORE[/h1]
+Graphic (2017)	A
+Presentation	A+
+Arts & Design	A+
+Level Design	A
+Combat Tactic	C
+Music Flow	A
+Sound Effects	A
+Realistic	B
+Replay Value	A+
+Bug-free	B+
+Overall	A
+
+
+[h1]PRO DLC BEST PRICE HISTORY:[/h1]
+25% off  ($14.99)
+
+[h1]WORTH BUYING:[/h1]
+( ✔ ) Yes, normal price worth it!
+( _ ) Yes, can wait for sales
+( _ ) No, the developer has no plan to improve
+( _ ) No, not worth the time on it
+
+[h1]WORTH BUYING WITH DLC?[/h1]
+( ✔ ) Yes, base game + individual DLC
+( _ ) Yes, base game + DLC + Season Pass
+( _ ) No, DLC is different value
+( _ ) No DLC
+
+I really enjoy this game, I've put over 8000 hours into it!
+I picked up this game a few days ago and forgot about it. And then sunk my evening yesterday into it. For Minecraft players, they'll find this game familiar yet fresh and different. There are a few really minor thinga that make the play experience much nicer than Minecraft, for me. One major thing is jumping. You can jump 2 blocks straight up and you can jump across a pretty wide gap. The other thing is mining. Rather than stand there and swing your pickaxe like a fool, you simply place the gatherer, and walk away. Then when you come back when it's finished, and your ores are sitting there all nice waiting for you. Eating also isn't a necessity. Which I know will be a point of contention for some, but rather it's there to boost your play experience rather than hinder it. There are some other things, like falling damage, that are equally convenient but you won't notice so much.
+
+There are also features you may notice from many popular Minecraft full mods. The death beacon is a major one where you can collect your items you dropped on death (but your quick bar handily remains on your person!). Equally convenient and awesome are personal and craftable teleporters. You can set teleporters to travel to eachother, and players in your world can travel directly to your person teleporter. This is especially handy when playing with a friend and you're able to explore without a concern in the world about getting lost. There's also many different overworld mobs with different varieties for biomes. And dozens of items to pick up off the ground you'll think you're chasing butterflies in Skyrim.
+
+That said, there are a handful of things I find cumbersome coming from the super flexibile Minecraft background. First and foremost is recipe progression. Personally, I don't like having to 'find' recpies only after creating the items that are lower than it. Even though I can't create it, I like to see where I'm headded for eventually (a la Don't Starve). Also having to refine every item at the processor is a bit of a drag. It makes it so that your cave dives eventually have to turn back home or hole up and take a long pause while you refine the stone you need for more gatherers. 
+
+I also found combat and taming to be quite clunky. I may not be getting the full grasp on how it plays properly but from what I gathered, you're pretty much guaranteed to take damage. The combat system heavily focuses on your gear rather than your ability to kite and hit. Taming falls on the same spectrum: while you're ringing your bell it seems like you just stand there and take damage. There are a few non-obvious ways to avoid taking damage, but I'd personally like to see it play a bit more 'obviously'.
+
+Overall, I highly recommend this game. It's a slightly different, yet familiar, take on the sandbox construction/survival genre and I think plays really well. It's a smooth experience that does a pretty great job of guiding newbies into it through individual tasks, though a wiki will still always be your best friend. It's a great early access game with a few minor hiccups (most of the stuff I noticed is graphical glitches) but doesn't interfere with your play experience.
+So after 350 hrs I finally take my time to review this game. 
+So here we go...
+As far as I think about it, the game doesn't really have a story and does rather focus on the "build and explore" part, which is fine in my opinion. It's a fun crafting game if you have someone to play with, alone it's alright, but not the greatest of all games. For the small price of free you get your own world and a bunch of entirely different blocks, as well as a ingame shop (that sadly uses coins bought with real money)  to further expand your collection of blocks, giving you the possibility to add a costum to your character or sword or  to buy useful items. 
+Creativerse had multiple updates since I started playing and I enjoyed most of them. Yet, there are still things to fix. For some reasons it's possible to get hit by a enemy and your character gets pushed into the sky or maybe even into the sky through a layer of dirt and stone blocks. 
+I feel like creativerse wouldn't suffer from adding stronger and rare enemies, that drop special items or maybe even some boss fights to get some focus on the fighting part. In my opinion a "creative mode" wouldn't hurt. Offline support would be great too. 
+I hope one day it'll be supporting mods. 
+So if you're looking for a game that will keep you busy for a bit, check it out.
+This is probably one of the best free games on steam. If you read the bad reviews, saying that you have to pay to get things faster, they completely removed that feature. There still is an in game shop, where you can get more blocks and builds, but you start off with 2,000 coins. That seems to be enough to get the things that you want. I haven't added a penny to this game, and it is one pf my most played games. I would definatley reccomend this game to anyone, regardless of wheter you like the genre, or not.
+I have played many types of games and started out with minecraft a long time ago. This is simular but MUCH more as you get to take some of the better of the MMO simularities that i have played with like developing your toon, and have better graphics and change worlds. The crafitng system is a bit different to get used to at first but its easy enough to learn. One thing i like is that you have to survive as like in other games, but collect everything and as you do when getting new objects, you get more experince and more things opens up for you. Its a fairly decent thoughtout game and the concept is pretty good.
+For one of the Cons when you die, it automatically puts you back to where you where when the last save was done in the game no matter where that was or how long ago that was. So you have to go through the whole map back to where you where before and i havent found a way yet to save it while in game so that doenst happen? Anyways, its a decent game and you can play alone or with others and when you buy pro it allows you to have your won world so that others can come into your world and play with you from the web. Just one of the perks i guess. I know i have only spent a few hours in the game but for a free game, its well worth it and i know i will spend a lot of hours playing and exploring, collecting, building and killing monsters while having fun doing it all.
+They finally moved the genre only minecraft seemed to be able to master and pushed it forward with better graphics, gadgets, easy to use block rotation, plots, and a feeling of steady of progression the deeper underground you go. 
+
+1. Graphics and optimization 
+Not too much to say here as you can see the video but rest assured everything you see is the same in game. I see a lot of people talking about skipping and optimization being bad but this game is really smooth as butter for me. Can pull off 360 headshots with acorns no problem. 
+2. Gadgets
+There's so many fun gadgets to use. One that can completely remove a block wall to reveal the entrance to your secret lair if you stand in a certain cell for over 5 seconds. Trust me...no one will be able to find this room unless you show them a few times. Or my personal favorite...the teleporter sitting on a single block high up above a pool of lava sorrounded by fans.
+3. Block rotation and plots
+Their implementation of block rotation saves so much time for building structures and can even make it seem like you have three times as many options as to what you'd like your wall to look like. 
+Plots are another thing they made(before Trove) but if you have ever played Trove it's nearly the same except instead of being able to move plots, you're able to have multiple(up to 8 or 10? i normally dont go for more than 4). This way you can make your server public and not have to worry about trolls destroying all your buildings while still having lots of players building. Say you want a friend to be able to  work on your plot? While you can with an easy to use permission menu which also locks chests. 
+
+My final feeling on this is that the BASE game is 10x better than minecraft's BASE game. It's even easier to play with your friends because you don't have to pay monthly for a server and they are not required to input any ip information to join your world. Not to mention the game itself is free too, so there's no loss if they try it out and decide building games aren't fitting to their taste. Of course, in the end modded minecraft is a better game for the extreme amount of options and mods. If you don't own either I would highly you advise you to play this game first
+A unique and fun game, a bit lackluster in the moment but it's still under development, but they have been doing quite a decent job on implementing features. I do hope they add more mechanics (mainly survival) such as hunger and maybe thirst, and just make it more challenging in general. Even in the hardest game possible I find it terribly easy, especially without the need to worry about hunger or getting killed by a mob since they are way too slow and don't have any special mechanics to make them more challenging. 
+
+Pros:
+Offers a unique style of gameplay compared to other survival games
+Decent graphics
+Easy to learn and adapt
+It's free
+A friendly community and environment
+Doesn't take up much space
+Developpers are nice and professional
+
+
+Cons:
+Quite lackluster in features and mechanics, which can lead to boredom
+Lack of difficulty
+Like mentioned, it can be quite boring
+You cannot really play this game offline, or it might just be me
+Updates aren't really frequent, and alot of them aren't really game changing
+No mods
+There are performance issues from time to time
+
+This is overall a good game, but it would be great if there would be more features and mechanics, I can only dream of a modding community to satisty me or for there to be a big update giving tons of new features and mechanics.
+
+so i really been enjoying this game and i want to make a quick review with pros and cons
+
+pros
++very relaxing and amazing soundtrack
++lots and lots of blocks
++many animals and enemies
++pretty world
++lots of places and big world
++fun combat and events
++when you die you loose only bag stuff
++you can have pets
+
+cons
+-when you jump at some point you will jump so high you will die
+-well its a dead game and its sad
+-some enemies are same but with other colors
+
+well thats my review i really want this game to be alive again oh and best way to play and have lots of fun is with friends
+Gotta say its refreshing to find a game that actually gives back more than it tries to take.
+
+The game is basically Landmark.. done right, if you know what happened to that game you'll know why it is now mostly dead, this game however is amazing, its a fun PvE experience and a better crafting experience, it runs far better and the community is great.
+
+Gives bundle codes to new customers, very much helped my getting started
+http://steamcommunity.com/app/280790/discussions/0/1318836262665615633/
+
+Other than a cosmetic cash shop which sells mostly items you don't need but make building better, the DLC package of $20 is a score imo.
+
+Some positives of this game.
+
+Its endless fun if you like exploring or building with voxels.
+Gives customers a great Free to play experience
+Gives free players a lot of freebies
+Great child friendly experience.
+Devs and mods here are cool as..
+Make your own story
+Get awesome blueprints from other players
+Coop experience or Solo.
+PvP servers if thats your thing.
+
+Negatives.
+PvP is on if your free to play, But just lock your server and stay away from PvP servers.
+Quite tough monsters early on
+Learning curve might be hard on customers new to Voxel games.
+
+Gotta say this is the best free game i've enjoyed for ages.
+
+Not really like Minecraft more like Large Voxel Landmark .
+Good Day Creativerse Fans,
+First off I would like to say how much I enjoy this game. I have never played a building game before let alone a block building game. I came into this game totally a noob.  There is SO much you are able to do with this game from just playing, to building, site seeing, PVP or not, adventures, Solow or co-op. This list can go on and on. You can build more things than you can even imagine.  Each world has some amazing places to see. The company of this game is awesome.  Playful in every part is a company you can standby. They are always helpful, fun and entertaining. There are updates to this game almost every month. And not just patches to fix bugs. I mean real updates with new game items and features. Yes, there is some DLC and store packs and Items. However, what game doesn't have them these days. The best part about the DLC or the store items is you do not have to buy them to play the game what so ever. They are just really cool extras. Plus Playful is always generous with free stuff. From free store items, item packs, blocks, and even coins. Need help or want to give feedback. The support team is right there. Think something should be added or changed? BAM the developers are on it. And don't get me started with the community. From Youtube, Twitch, Forms, Groups, FB and Twitter you will always find wonderful people to help, play with or just have a nice chat.
+hands down a wonderful game and company.
+
+CatSmiles
+Happy Gaming
+Recommended, but with caveats. 
+I have no intention of ever installing this game again, but not because it's bad. 
+
+I don't like it personally because there just isn't enough progression. No real tech tree to speak of, and no real adventure elements to speak of. Basically, no reason for me to play. However, if you are looking for a crafting/building game, that seems to be their goal, and they're doing a bangup job with that. I've been watching updates since the first gizmos update that gave us wiring and "machines" hoping that they would turn that in to a tech tree and give us a reason to progress through it. Unfortunately, that hasn't happened. While the wiring system was very well done, we never got anything that could be used to build anything interesting, and never anything like a tech tree with any purpose outside of building toys. That being said, that's just what I wanted to see. It isn't something that was ever promised.
+
+What I have seen added is A LOT of building materials etc. Building in this game seems to be in a pretty good place.
+super fun game, I don't do a lot of gaming, but I certainly spend a lot of time in this game. It's kinda similar to minecraft but it's free which I love :)
+Love the building aspect more than Minecraft, but after the tad bit of survival there's just nothing there... Would be great to introduce a story or something to work torward like an end boss or something.
+Got this last year while in Early Access, tried it for a bit in Free Mode enjoyed it to the point I bought the Pro Upgrade.. A very good game and very enjoyable, be good to have a HQ graphics option for all the textures and some other options but in all a fun way to while away the hours.. :)
+I have spent over 500 hours with this game - so it is save to assume that this is one of my all time favorite games and i therefore can recommend it to everybody. I play this together with family, friends and the friendly people from the internet.
+
+My Pro / Cons List
++ Friendly and helpful community
++ Easy building (blocks / not objects) - however i recommend to buy the Pro package as the glider helps a lot with larger buildings
++ Multiple ways / approaches possible eg. Blueprints
++ Crafting is simple but has many blocks
++ Big Stacks of Materials which makes it easy to create order (wasn't always like this)
++ Balanced amount of grinding necessary - it is one of those rare games that i think has found the right amount of grinding necessary for your crafting
++ All player created worlds have never been wiped - you can still enjoy the buildings from ancient creativerse history
++ Continuous Updates, Community friendly development Team
++ Useful server / administrator tools
+- Performance - there are several performance issues that are the main reason when looking through the comments, why they don't recommend the game. However the developer has put this as a top priority to fix (not as other comments suggest that the developer hasn't put it on their to do list) and has proven in the past to be commited on such goals - eventhough i think it will not be easy - i have good faith that they will be able to improve the game. The problem is no game breaker - its just annoying at some times.
+- The bundles can sometimes be a bit expensive and especially the clothing styles should be a bit less pricy in my eyes. But after all stuff like hats are just cosmetic - so...
+- Mobs / animals can sometimes be annoying when your goal is to build something nice and those random pigsys appear on your city street and even at your construction site ;)
+
+Hope to see you in game! Test ist with the free option and then buy the Pro for the glyder!
+this is good its like minecraft but better XP just needs a little bit updating about the fps when ur playing it cause i play it in the fastest one and it still run like dog shit but i still like it i give it 11/10
+this game is really good if you like future tech stuff or like being creative and doing whatever you want i really recommend this game for people like that
+Wow! I am absolutely loving this game. I was always interested in minecraft but was put off by the graphics and what seems like a steep learning curve. Here, in creativerse, everything looks and sounds great and you are helped on your way to limitless creation. My only problem with it is that I didn't start laying when it came out. Explore, build, mine, smack monsters, tame them, farm them, farm plants, fly etc. etc. What do you want to do? It just gets better. Best game i've played in years and recommended to all ages. I hope to see more improvements for the game to last a lifetime.
+Similar to minecraft as its a sandbox survival game but has its own view style, mechanics and a tutorial like guild that you can follow if you want
+Making a server/map is easy and can be limited to who is able to play in
+
+Only problem is there is only limit ways to get in game currency, which allows you to have cosmetics and more stuff to craft
+
+For a free game, you can try yourself if its for you
+What can i say. This game stomps MINECRAFT in all aspects. It is a clone i see alot of the MINECRAFT program in this game but it seperates itself in options upgrades adventure and well look. I highly recommend this game for creative Gamer's.
+As of this moment I see the potential to be the evolution of minecraft. I mean this game could be fun and fantastic co op. They had to be greedy and ruin it with a cash shop though. You literally have to wait on extractors and things to mine and build 5 minutes and up. You can of course rush things with their in game mojo points. When you run out though, despite paying 20 bucks for the game. It's either pay to mine or wait forever. Oh well, was fun while the stuff lasted onward to better games.
+The game that makes you wait longer then you can take a dump. Pay or wait forever. Pay to have the best items. Purchased recipes can't be earned in game. It's your classic Free to Play get rich now regardless of how badly it messes with the game. It could have been bigger then minecraft. 
+
+Save your money and time unless waiting 5+ minutes for each ore to be harvested. The best extractor can only be bought. So theres your pay for best items. Currently (going to be removed and reworked) they have a pay now to speed up crafting. I'm probly half way through the games ladder of ores. Crafting is insanely long. It's like 3 hours in-between mining runs spent on crafting. People have over 50 crafting machines because this games design is so flawed trying to get around it. Like I said it's changing but I mention it to demonstrate the character of the these devs. They thought lets make crafting take hours and stick a pay now button next to it.
+
+We have a best item only available through purchase.
+wait time attached to everything from crafting to mining. 
+Pay for quicker noraml paced gameplay. (extractor and the pay now)
+Online only cloud saves. Game no longer supported its over.
+The game was good at the beginning. But now there is no new content. All new blocks are paid dlcs. The PRO DLC do not offer a good content. The Halloween season content was good, but the Christmas season content is clearly made to sell "loot boxes". 
+The game would be better if they put more blocks types (more wood floor colors, bricks and other) and they focused on made a better PRO content and sell IT, not sell Dumb's Coins.
+Playful is getting too much like EA.
+[h1]Review R35/R36/R37... Oct 27, 2016[/h1]
+
+This game like so many has lots of potential.
+
+I write this review from the perspective of enjoying to build structures and crafts as I have little interest in PvP, and people should learn to be creative together rather than destructive.
+
+[b]Briefly about the game[/b]
+
+Like in "Minecraft" you just spawn in the middle of an area with a few supplies and are left to your devices.  You are given a note advising you to find shelter before dark or face the unknown.
+You have a power glove that can harvest resources by pulling them towards you, which when you have enough can be used to craft and create other blocks allowing you to build what ever your imagination can dream up.
+Block recipes are learned as you acquire contents, craft other items, find them in treasure chests, or take them from the native life.  Many mobs are hostile all the time, at night and are burned away with the rising sun.
+This world operates very differently from other mining/building games by increasing the difficulty as you dig deeper and build higher.  The deeper you mine the tougher the materials to break and the harder the native mobs.  At higher altitudes its very very cold and you need a heat source to avoid freezing to death.  In addition to vertical temperature changes you also experience changes as you move from region to region ( for example tropical is warmer than forest or snow ).
+As the sun crosses the sky shadows of the buildings being created will  stretch forth for a nice affect.
+You must keep exploring and searching or some recipes will never be known.  Once found they are yours for good if and only if you have paid for the Pro version.
+During the progress of the game you can tame various animals, once tamed if feed and washed they will yield some resources or even recipes.   Don't expect to get them without a fight, even in peaceful mode.  This aspect seems a little childish to me.. and probably more oriented to ten year old's teaching them to look after their pets.
+WARNING do not use the free 300 coins to buy any claims, as you will loose the benefit in other worlds.  Only the bought recipes will be available in other worlds.
+
+[b]Pro's:[/b]
+
+[list]
+[*]Texture detail is high resolution and merge almost seamlessly with each other making for better looking walls and floors.
+[*]You can hold a large volume of items in your inventory, ( lets face it 1 cubic foot of steel weights 490lbs in reality so its never real ), so as far as gaming is concerned a large inventory stack ( 99 ) saves a fair amount of time.
+[*]You can craft items directly from your inventory as long as you have the stock.
+[*]You don't need to eat to play the game... only to heal yourself.
+[*]You can use TNT to blow up useless terrain, and the rare valuable ores are maintained.
+[*]Ores are more bountiful than some other games.
+[*]You have teleporters to travel almost anywhere, which adds a nice touch.  Each one can be coded to allow access to specific  other teleporters.
+[*]Block orientation within Creativerse has a nice addition, you can rotate most blocks into different positions.  For example slabs can be placed on edge allowing the creation of narrower walls etc...  Tapered roofing can be placed on the ends of gable roofs giving a correct feel and look.
+ [*]The wiring and electronics available within the game is superior and does not take up extra space.  You also have number pads to enter values within the game for some nice security features.
+[/list]
+
+[b]Cons:[/b]
+[list]
+[*] Creativerse has no "Creative Mode" what a surprise
+[*] Boring, Boring, boring... not sure why the point but I've just spent the last 9.8 hours looking for recipes for the new xmas features to only discover about 60% of them.. basically a waste of 9.8 hours of my life... no building, just mindless pointless jumping around searching for recipes. I've decided to dump this game since the develper obviously does not care about my time.
+[*]This is a pay to keep playing game, even after you buy the "Pro" version, you still can't play locally.
+[*]Single Player and offline are not available period, due to server authentication.   So if the server is down or runs out of cash you are done.
+[*]You must claim land by one of two methods, pay real cash to buy coins, to buy land or harvest expensive ores to pay for them.  At first its coal, then obsidian, then diamonds, then lumite (very hard to find in large quantities without wasting a ton of time. 
+[*]To smelt blocks and Items you must click once for EACH piece to enter the furnace. ( a very bad idea that can lead to  potential physical injury ( I speak from experience ).
+[*]To process blocks and items you must click once for each piece. They have a collect all button but not a process all, and its 21 clicks to fill the machines.
+[*]To place items you must click once for each piece.
+[*]Recipes found are not retained from world to world unless you pay for the pro version.
+[*]More slab shapes could be enabled in various hue's to better match the building materials in play. This con was addressed by [b][i]R36[/i][/b] now have lots of slabs and new slopes
+[*]Colours in some blocks look like they came from totally different palettes  ( for example 3 iron blocks belong and look in place while the corresponding stairs don't match at all ).
+[*]Their are very few mechanisms, only doors, pressure switches and fans to interact with players.  Currently I'm not aware of a way to hide a pressure plate. ( No pistons)
+[*]I've played the game for a long time and even with a "Pro" version I'm missing many recipes.
+[*]Timing errors occur between family members playing over the Lan and obviously sharing a connection to the server.
+[*]Buggy, but they do make an effort to fix them.
+[/list]
+Due to the high high repetition of clicking and the lack of single player  and offline, I can not honestly recommend the game, and personally feel its doomed to fail.  If you are a casual builder that comes on once in a blue moon then you may not have any issues, but serious large scale builders will not be happy if their efforts just vanish one day without a trace.  I also personally feel that if you've got the "Pro Version" you should be able to retain the game and play offline, including "Lan".
+
+PS.. Comment to steam... life is not black and white... we need a star rating system in addition to Yes/No 7/10 stars.
+
+
+I wish there was a "blah" review.
+Creativerse is one of many Minecraft "next generation" games, hoping to cash in on that $2B trend. It's a good game. It's visually more attractive than MC, but then, aren't they all? There are some interesting novel new ideas, in the arena of mineral extraction. The character avatars are currently limited to two congenital twin white people with the same armor/clothing. Here's to hoping they introduce more diversity of races, both real and fantasy.
+
+You could spend a lot of time in this game, like Minecraft, just wandering around. They have plugged in more mobs, and the crafting system is more streamlined. One of their selling points in their own copy was "No more googling for craft recipes!" Ok, that's cool and everything, but not exactly original.
+
+What needs to happen is for the developers to COMPLETELY disavow themselves of the pay for content model. They need to make an original game that works, right now, that people will flock to, or else it's just another bloated dead beta corpse in the water. When they said they wanted to charge for content and upgrades and rushed completion of contruction (they were/are going to use a pay-to-hurry-completion model similar to every exploitative MMORPG ever), that really pushed them into the margins. It was a major PR messup.
+
+I know I'm probably not the first to suggest:
+
+NPCs that are actually interesting and contribute to the environment in an original way. Vendors are the first thing people make in sandboxes. Okay, what could be more interesting? NPCs that give you missions. Okay, that's great. That would improve the game. What else? NPCs  that form relationships with the characters, that can tell stories.
+
+The mobs are more interesting in Creativerse than in Minecraft. They have "special moves" which seems to promise a lot of potential. Unfortunately, they're a little stupid, although seemingly more dangerous than in Minecraft. 
+
+Create features that are interesting to explore and interact with, not just showcases of a new graphical innovation or mob. Minecraft is minecraft. You can't compete with minecraft by being Minecraft. At this current stage, I see no major innovation in this game. No story, no new angle. Fun and playable, but nothing I'd buy again if given the chance.
+
+You might as well go check it out yourself since it's free to play, but I will lay out why I wouldn't recommend it. 
+
+First, it's because of technical issues. The game seems to become more laggy over time. This is my system:
+
+16 gb RAM
+1080 GPU
+i7-6700k processor
+U.2 SSD (intel 750)
+
+That the game lags with this rig is completely unacceptable when it's essentially just minecraft as far as fidelty goes.
+
+Secondly, the freemium style comes through. You can play it without paying anything, but it does lock exclusive things behind pay wall (such as a glider or increased inventory space). If there was a "this one payment and you'll unlock everything forever" option, priced at something, like, say, Minecraft, I'd say fair. But as it is right now you'll never know how many more exclusive gameplay-affecting items it'll lock behind a payment.
+
+Thirdly, gameplaywise. To mine ores you have to place a consumable extractor on the ore. This can take several minutes to complete depending on the ore and the quality of the extractor. Imagine playing Minecraft, but every ore you mine you have to spend minutes to finish it, in addition to using resources to craft the extractor for every single piece of ore. As you would expect.. they sell the best extractor in the store. 
+
+Lastly, I find the whole business model highly scummy. You buy ingame "coins" (premium currency) which you can then trade for services. They write on the wiki (which I assume is based on statement(s) from the dev): "However, to prevent players from spending lots of small amounts of money and in time invest large sums this way without noticing, players cannot pay directly with Steam wallet, but have to buy Coin bundles first that have a fixed price each and aren't misleadingly cheap."
+But it's been studied that offering bundles where you can't buy the exact thing you want for real currency actually makes it harder for the customer to judge how much money they're spending and obfuscates prices. In addition, selling coins in bundles instead of letting you buy an exact amount is a way of psychologically making customers buy more. Say you want an item that costs 600 coins, and the lowest bundle you can get is 1000. After the transaction you got 400 left. Oh there's a nice item there that costs 500. But you lack 100... Well you could just get that 500 bundle and buy it. It's just 100 more right? And then you're left off with 400 over and the cycle continues. 
+
+As a developer myself I find this whole thing highly scummy.
+UPDATE 9/11/2015
+
+Well it has finally happened, PlayfulCO has moved up in the world from the "greedy, lying, misinformation" company into the "censorship, theocracy (where they are the Gods), and terrorist” company. What better day for them to transition than on Sept 11th? What better day? 
+
+Gamers everywhere, if you support this game you are not only supporting a downright evil company, you are the cause of the downfall that is video gaming. You need to pull your heads out of your butts and start opening your eyes. If you support these companies and these business practices you are the cause of the “Early Access” problems, the cause of “PTW/PTP/PTC” problems, and the cause of video game companies having the right to stifle freedom of information with censorship. You ARE the cause of gaming review companies, personalities, and publications going the way of the “sell out”, and why? Because if they don’t “sell out” they are “snuffed out”. 
+
+Today, on Sept 11th, I have been permanently banned from Sell-a-verse forums. Was I given a warning? Nope. Was I talked to? Nope. And why was I banned? Here, take a look for yourself:
+
+ http://steamcommunity.com/app/280790/discussions/0/517141624282545953/
+
+Oh, and don’t worry. If they destroy the evidence and that link doesn’t work check out my blog, I have every screenshot needed for you to take a look at. ( http://www.tihie.com/creativerse.html ) 
+
+So what happened? Someone (Will have to censor screenshots as to not get myself in trouble with Steam) whose first language is French, had a problem. You see he bought the game because it says “solo play” in the description and bought the game in a bundle and now finds out that the game is “online only”. He asked for help and doesn’t understand why the game can’t be played offline. I post a comment (in English and then I took the time to translate it into French for him) explaining how the game is going the FTP micro transactions *(PTW/PTP/PTC) route and that is why it will always be online. I also tell him that he should have read reviews before buying said game (hoping that he would do so in the future but also because some of us take the time out of our lives to try and help other gamers, the least you could do is read it and inform yourself). He then thanked me, first for taking the time to respond, second because I translated it into French for him to easily understand, and third for answering his question. 
+
+What happens next? Enter Fan Boi (let’s call him “Bent”) Bent, he wants to turn the thread into how the game isn’t a PTW/PTP/PTC game, basically giving the middle finger to the person with the problem, and then reports me. Within minutes I am permanently banned for helping this French person with the problem. I get a message:
+
+“You don't seem interested in having a civil discourse with our community and seem to delight in spreading misinformation about our game and business model. We think you'd be happier spending your time somewhere else. Goodbye.”
+
+Please feel free to read my older reviews for this game on my blog, check out all of my postings in the Sell-a-verse forums, please read that thread above (if they haven’t killed it) and you tell me if I have not been civil, if I have not been doing anything but spreading simple truths. I would be happier spending my time somewhere else, and I shall. More importantly, gamers, so should you. This sort of “people in power quelling people’s voices just because they don’t like what they are saying”, THAT is the death of gaming as we know it, THAT is the death of honest game reviewers as we know it, that SHOULD be the death of early access! Who is going to give an honest review when they get censored? Who is going to give an honest review when they will never be given early copies of games and/or have to buy every single one of the games they review? When companies start censoring conversations that scare them and then only give access to those that will say what they want to say what do you have left?
+
+In my last review (which you can find on my blog) I pointed out that a lot of the reviews had tags/titles that read “reviewed with key sent by developers”, since that time they have all removed that tag. Every, single, one of those “given free keys” (hundreds of these reviews on Steam) was “positive”. 
+
+Over the course of this game I have given voice to the thousands (literally) that hate the PTW/PTC/PTP game destroying features in this game, features including but not limited to this: http://steamcommunity.com/app/280790/discussions/0/619573787463233789/
+And I have done so civilly and with facts. 
+
+(*After posting this review PlayfulCO locked my review and deleted every-single-post I have ever made in their forums in a spectacularly guilty attempt to cover themselves and the truth*)
+
+Bottom line is this, you want to buy into early access and support this game YOU are the problem with gaming. And how does Steam respond? By putting reviews that get 50%, 69%, and 70% “found helpful” in the “most helpful” section because they are all “positive” reviews when all of the negative reviews are much, much higher. Tell me this isn’t censorship? Tell me this isn’t “buying away all the negative reviews so no one ever sees them…” If you have a brain, or if you care about gaming in the slightest, do NOT support this game/company or any like it. 
+
+TL;CR 
+Look, you can’t read because it will fry your brain but honestly want to know what this game is about, then go to Playfulcorp.com/candycraft2 and see for yourself. Honestly don’t know how long that will continue to be up on their website before they take it down, it is a PR nightmare. 
+
+*Please don't bother commenting on review to let me know that "you ♥♥♥ need go die in whole yo!" because I will just delete it... 
+**I suppose people don't even get this far in my review before posting troll comments; as I have said, please don't bother, I honestly delete them without even reading them. You don't like something down vote and move on, if you have a reasonable question I’ll try to answer it otherwise all other comments will be deleted. Ignoring this just proves you can't even read this far before having a fan boi explosion in your pants...
+***Older reviews of this game in their completeness can be found here: http://www.tihie.com/creativerse.html
+****As of June 7th 2017, "Bent" is still at folks! http://steamcommunity.com/app/280790/discussions/0/1290691937721855215/?ctp=3
+I like the IDEA of Creativerse, because the first mod anyone usually installs for Minecraft is a good graphical texture facelift, but I can't recommend the game in good conscience.  I've played about an hour or two to get a feel for how the crafting operates.  On about every screen is something announcing I should upgrade to "Pro" and it seems half the recipes and blueprints are locked behind paywalls.  If you're stuck on a console and don't mind buying mod packs from Xbox Live or whatever then this game won't bother you, but this IS a Steam review, for PC.  Going from Minecraft which is a one time pay for life to this where most of the content is gated doesn't sit well with me.  As for MC clones it's visually better than 9/10 of the other ones you see, but the cash grab phone app nickel and dime business model is one I personally avoid like the plague.
+Game looks pretty, plays smooth. Thats about as far as they got with it.
+
+Interface is half-built. Can't even see the keybinds in-game, and the keybind menu out of game is utterly irrelivent and makes absolutely no sense.
+No control for the field of view, which is supidly narrow considering how close the mobs are to you when attacking you.
+Can't group with friends, or disable friendly fire.
+The night time mobs are insanely overpowered. Killing the player in 3 hits.
+Game is not ready to be played or even tested. They actually have to build some mechanics.
+They don't even have a female body model.
+
+I got the impression the devs came up with the idea "What if we made minecraft with smooth gameplay and graphics?" So they made the core mechanics and it worked. Then they lost interest.
+
+This is just another Minecraft wannabe vaporware project.
+Move along.
+The massive problem with Creativerse:  Once you reach the corruption level and craft Lumite gear, the game is over. There are no new surprises. No new reasons to explore. Minecraft has done the whole building thing, and whilst Creativerse massively improves on that with blueprints, it would have been nice if there was more. Minecrraft has villages, the end, the nether, exciting structures to find, and so, so much more. Creativerse has progressive gear (a great idea) different levels (another great idea), wiring (hmmm) and? No railways, no villages, no story mode, just crafting and exploration from that point on. It checks so many boxes, but ultimately feels hollow. You can play it a few times through - about 20-30 hours of fairly repetitious game play, then you reach the corruptiion layer and any further sense of purpose evaporates.
+Such a wasted opportunity. The dev needs to consider how to give the game more purpose..
+Nearly 200 hours on record at the time of this review.  Such a beautiful and fun building game.  The biggest problem and the only thing that keeps me from playing is the constant stuttering.  There is nothing more aggravating than stuttering frames and lag spikes.  I have great internet and a custom made computer that plays all of my other games on ultra settings, so I know the problem is obviously with this game.  I already upgraded to Creativerse Pro thinking it would solve it.  It hasn't.  Such a bummer.  I will leave the game untouched for months at a time and come back to see if anything has improved the lag and stuttering.  So far, nothing has been addressed.  It's disappointing and, for me, makes the game unplayable over time.  My threshold for dealing with the stuttering and lag wanes quickly, and I end up uninstalling it for large chunks of time.  As soon as there is a fix for the lag and stuttering, my review would be 10/10!
+Subtracting from content previously available for free is the wrong decision. Locking content behind a pay wall when it should be free is not okay. This game has crashed, for those older players who've returned. It's lost it all for non-pro players. Some people just don't want to play with others, or only with friends - accessing other people's servers to play with friends isn't the solution to the previous way - who they trust.
+The art in this is incredibly adorable. The Textures on the blocks are fantastic, and the fanciful creatures are amazing. 
+
+Three things I don't like, and I'll share those. Note: I don't hold any hate in my heart for this game. It's well-executed, it's just that the cons outweighed the pros for me. My qualms are easy to pinpoint, since Creativerse is pretty much built off the pre-existing platform of the Minecraft saga, and as such, is directly comparable in most aspects:
+
+1--No 'Creative Mode.'
+I really wanted to just play in the sandbox first, get my feet wet, visit the biomes and navigate block apparance. I'm mostly interested in building the tiny temples, and designing the cozy cottages...and this game is solely a 'Surivial mode' concept. Makes it a bit of drag for those of us who don't have the time to dig up all the materials required to make our imaginations a reality. 
+
+2--Say Goodbye to Easy Mining.
+You get this nifty gauntlet upon game entry, and with occasional upgrades, you can move more/better stuff. It's a swiss army tool for building the world, however, it's not well engineered as a tool past that. This swiss army knife doesn't mine the world's ore AT ALL. In order to mine: you have to build somewhat expensive 'extractors' and apply those directly to EACH ore-node. You build swords for whacking enemies, bells for training creatures, but for some reason, there's no multi-use method (like, oh, say, a pickaxe) for mining. Pretty much all the ore you find, you turn back into extractors in order to mine more stuff. 
+Catch-22, anybody?
+Makes it miserable to piece together anything that's not wooden or green-organic matter.
+Consider that your head's up. It's just weird.
+
+3--'Optional Purchasable Concent in-Game.'
+Want to be able to build stuff? You're going to need recipes for that. 
+To my knowlege, thusfar--attaining those badboys can be incredibly difficult. And when you do find them, you can't use them until you unlock a buttload of other stuff. So they pretty much sit in a chest and make jeering noises at your back for most of play.
+Of course if you want access to all the really cool stuff: you have to pay upwards of 15 dollars a pop for various block styles, (which I don't get at all, if it's an integrated part of the game, shouldn't it be a part of the initial game purchase?...ugh. Micro-pay systems are the devil.)
+
+The reason it's a thumbs down, and the only reason it's a thumbs down, is because the reasons above would make me NOT recommend this game--which is why we write reviews; to share those reasons.
+
+It's prettily created, the art is worth the look, but in my opinion: the playstyle is not, and the content is just too expensive to get into for a game that similar in concept to another heavy-hitter on the market.
+This is a creative game with tons of potential executed by a semi dedicated and somewhat lacking developer. The payed features used to be a benefit but are becoming the main focus. The severs are lagging and although I can play AC origins on ultra this game runs poorly. The glitches, lag spikes and overall lack of new content and focus have driven me away from this game and considering taking up a modded minecraft
+I really can't say what i should think about the game yet.... seems like minecraft in pretty graphics... with less possibilitys.... unique? naaah.... ingame shop .... oh come on guys! the game is 20 euro in alpha and even if its free to play after release, we all paid to explore and test everything in the game and a ingame shop while testing a game makes it not trustable to me.... that is very rude! and i don't see what it makes it really diffrent from other block crafting games...  at the moment i would say i cannot recommend it... sorry!!!
+Let me start by saying that I absolutely love this game. I started when it still cost money to buy (at launch) and went through a lot with the developers. From suddenly making the game free (without really communicating), to adding the paid option, to suddenly having to buy blocks even though I bought the game so I could play for free for the rest of time. It was a lot of disappointments - one that I still have. I believe this game would do better to make it a paid version and make the rest free.
+
+Anyway, the gameplay is fun. I love building and exploring, and the blue print idea is the very best (one that we fought hard for to let them make something so we could share builds and use blue prints from others).
+
+However, the lag spikes are insane. My computer is well enough ,the graphics aren't that high or ask for a lot, yet I get these little spikes every few seconds. And of course it always happens when I need to jump over something high, and the jump fails and I fall to my death - AGAIN. It makes playing nearly impossible and it causes more annoyance than pleasure.
+
+Because of the bad performance of the server (which they say is our internet or our computer - which in my case it really isnt), their lack of communicating and their unwillingness to solve the number 1 issue from the community and just telling us it's our own fault, I can not recommend this game.
+
+Lots of potential, please start listening to your players and don't screw this up. It's still fixable.
+I tried to play the game but anytime i joined my game or anybody elses game it put me in a void telling me to place touch stone but its hard to place something when im in a void. l0l. i tried to uninstall but still game be big potato. gg 11/10 gameplay
+Honestly it laggs out so badly that I can't even switch menu. literally running well above their parameters and unable to get the game to cease lag freeze. and it CAN'T be my connection. I'm hardwired to a modem via ether net at 150 mbps.  All that work on what i thought would be a decent sandbox and it lagged out so badly i couldn't even really give it a try.  As someone that is studying game design and knows how to build a server...you guys should have invwested more in server size and traffic bandwidth.
+Uh where do i start. 
+Pros- it’s free
+Cons
+It looks weird and doesn’t know what it wants to be
+Just play Minecraft, don’t even torture yourself with this. I’m not even finishing the review and I’m only reviewing it because I’m that bored
+An entertaining game I spent nearly 2000 hours on, and a lot of money. Recent updates have made the game unplayable on Mac. Apple system requirements are no longer on the store page, despite Steam marketing this as an Apple compatible game. If you buy this without considering these facts, you are more a fool than I.
+
+Creativerse is another example of cowboy developers who have a great product, but don't give a wet fart about users who have paid for the game. Steam's complete inability to deliver value for money for the Mac community doesn't help. Avoid this game if you run Steam on Mac - it will only lead to tears.
+Can't see your own armor progression. That automatically moves the game from what felt like a 7/10 to 2/10. Can't recommend asain esc money grubby crap like this. Here's hoping that hytale kills all!
+Also just killed all content from start to finish in 6.7 hours.

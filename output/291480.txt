@@ -1,0 +1,1211 @@
+[Warface]
+
+❤ Audience :
+
+☐ Kids
+☐ Everyone
+☑ Casual players
+☐ Pro players
+
+☼ Graphics :
+
+☐ Potato
+☐ Really bad
+☐ Bad
+☐ OK
+☑ Good (I know f2p games with nicer graphics, and this game could do better in that aspect)
+☐ Beautiful 
+☐ Masterpiece
+
+€ Price / quality : 
+
+☐ Full price
+☐ Wait for sale
+☐ Average
+☐ Refund it if you can
+☐ Dont do it
+
+€ Requirments :
+
+☐ 90' PC
+☑ Minimum (Minimum to medium, you don't need that good of a pc to run it)
+☐ Medium 
+☐ Fast
+☐ High end 
+☐ NASA computer
+
+☼ Difficulty :
+
+☐ You just need 2 arms 
+☐ Ez
+☑ Average (Just another avarage FPS, you can face vs good or bad players)
+☐ Easy to learn / Hard to master 
+☐ Hard 
+☐ Dark souls
+
+
+€ Game time
+
+☐ Really short ( 0 - 2 hours)
+☐ Short ( 2 - 8 hours)
+☐ Few hours ( 8 - 12 hours) 
+☑ Long ( 12+ hours) (There is this campaign mode you can do with friends which is quite fun, and its around 8ish hours, but you still got the multiplayer, so 12+)
+☐ Endless
+
+@ Story
+☐ It doesnt have
+☑ Still better than Twilight (There is basically no story, only missions with a bit of back story)
+☐ Average
+☐ Good
+☐ Fantastic
+
+§ Bugs
+
+☐ Game itself is one big BUG
+☐ Bugs destroying the game
+☑ Lot of bugs (Last time I've played it, it was quite buggy)
+☐ Few Bugs
+☐ You can use them for speedrun
+☐ Nothing
+
+Others:
+
+Multiplayer: Coop story mode with friends/multiplayer vs other people
+Singleplayer: Yes/solo queue/missions
+Community: Not the best, sometimes can be quite toxic
+
+Conclusion: Not the best of games, but it's free, so if you have a few spare hours, yeah, check it out, why not
+
+Side note: I didn't like the multiplayer a lot, but I loved to mess around with friends in these missions, that's the only reason I will give it the upvote/recommend
+
+Overall: 6/10
+UPDATE: 5/13/16
+I RAN OUT OF SPACE TO TYPE THINGS
+
+--------------------------------------------------
+***State of "Pay to win"***
+Kredit items have made their way back into the game somehow, box weapons are now available in kredit boxes as "earth shaker skins", it's the same exact weapon just with a different coat of paint and buyable with kredits. There are also now "berets" that are reduced repair cost Warlord helmets which are arguably the best in the game. Quite frankly this kinda bothers me, because over the past few years they were trying to steer clear of this sort of thing, only to start bringing it back.
+
+Rewards are mostly the same, progression is hindered without buying Mega VIP.
+
+"fuck you, buy our boosters".
+
+-----------------------------------------------------
+*
+Skilled mission without boosters
+$330-ish (varies depending on region the mission is in) 
+AR-GAR rifle permanent purchase
+$42,000
+
+Repair on LMG4 after 12 minutes in skilled game room
+$160
+$330-160=$170
+
+$42,000/$170=247 games, provided you complete every single skilled you run also assuming you do not have any other degradable gear on. At an average of 12 minutes per mission it would take you 50 hours just to be able to get the AR-GAR rifle permanently.
+*
+
+*=reward amounts have changed slightly, but the idea is the same, kinda hard to make money without VIP.
+----------------------------------------
+
+***Cheaters***
+Fairfight is in need of serious tweaking, cheating is going back to near pre-fairfight levels, you will find a cheater in every other room throughout the day in PVP.
+
+There have been actions taken recently to enforce TOS, so be wary.
+
+DO NOT SHARE YOUR ACCOUNT WITH ANYONE
+DO NOT JOKE ABOUT CHEATING IN CHAT
+DO NOT WILLINGLY PLAY WITH CHEATERS (leave the game immediately if you see somebody blatantly cheating)
+
+
+***Lag/bugs/performance***
+There have been some improvements to recent "freezes/frame drops", but they are still present and hinder gameplay massively. Netcode hasn't changed much for the better, so expect to scream at your screen frequently when you see blood pouring out of an enemies face and not getting 1 hit marker. Or "tanking" and teleporting. Bugs are everywhere in this game, from the spectator bug to weapons switching themselves back from selecting a smoke.
+
+
+***Gameplay***
+--------------------------
+PVE
+
+AI has degraded massively. PVE isn't nearly as fun as it used to be, it's almost as frustrating as PVP at times. Compared to last year, bots don't behave intelligently or normally like they used to; some walk off of spawn areas on elevated postions and basically suicide, others will walk directly to players and draw their pistols, they also like to twitch in place and have dance parties gathering in circles.
+
+Boss AI is the single most frustrating thing to deal with right now, they went from something players could learn how to deal with to being random and straight up bs sometimes. 
+
+Heavy gunners target the nearest visible target or the last player to damage them, when they reload they can turn away from you... if they turn their back against a wall you can't damage them and have to spend that much longer waiting.
+
+Mech's have a similar targetting system now, which makes hitting them so much harder when the mech is turning constantly.
+
+The crown system is really only useful to players without a clan or that isn't able to make it on the clan ladder, the crown weapons are basically just a way to get box level weapons if you don't already have some (you will eventually get at least one by rank 20-30). Crown gear is nice to have but you end up wasting them because of how the rental system works (unless you plan on playing 24 hours a day). The bosses now make getting crowns kinda hard with pugs/random players.
+
+Quickplay matchmaking is based on rank, you won't find rooms easily unless you are higher ranked.
+------------------------------------------
+
+PVP
+Since Ranked matches were implemented the standard browser is VERY empty, making quickplay the only way to play certain game modes.
+
+TDM is your standard game mode. Aside from the small map sizes, the mode itself is fine and enjoyable.
+
+Storm had the potential to be a fun game mode, but coupled with the terrible autobalance system Warface has...
+-Instant respawns; if you get on the bad side of autobalance and your team decides it doesn't want to play the objective, offense and defense is impossible. You can be the best player in your server and it would be impossible to capture a point alone when you have an endless horde of players on defense spawning in as fast as they mash the spacebar.
+
+-Extremely one sided maps and general bad design. Some maps are extremely hard on offense (High Hill).
+
+Destruction isn't very popular, even though it's not a terrible game mode.
+
+PTB is popular among higher ranks, simple and competitive.
+
+FFA isn't as popular as you would think it would be, but it's fun enough.
+
+Domination is probably the least played mode in the game, it isn't that bad, it's just not that good lol.
+
+Capture is another elimination based game mode like PTB.
+
+Ranked matches are currently the biggest POS in the game, you get matched with players of any rank, and half the time your opponents just leave the game giving you a free win, and there is absolutely nothing gained from ranking up at all.
+
+PVP currently is not very fun or rewarding due to terrible netcode and cheating, I do not recommend playing anything other than PTB regularly
+---------------------------------------------------
+
+***Weapons/Gear***
+This game has a hard time differentiating between weapons, and class based gameplay is hindered by gear and certain weapons. There are probably 3 or 4 smg's that are literally the same thing, there is a vest that negates a sniper shot, there's an SMG with the same damage as top tier rifles. 
+
+There is almost no reason at all to use certain weapons in the game if you have a box weapon or a good shop weapon. Nobody is using anything other than the best they have, you won't even see certain weapons being used in the game in PVE or PVP. Weapon stats from worst to best have wayyy too much of a gap... Why are half of the guns in the game even in the game??? (most of these are vendor items)
+
+Warlord gear dominates pretty much every other piece of gear in the game, but you can't maintain them all without VIP. Vest's with explosive protection pretty much save you from 1 grenade and leave you with 10% health to be 1 shot by the next player who see's you. Rapid fire protection sounds good in theory, but is pretty much useless unless somebody is using those bad vendor guns I mentioned.
+
+----------------------------------------------
+
+***Community/Service***
+The forums ("Warface hub") is basically a place for players to vent their frustration about lag and cheaters. Community moderators have been "hired" for a lack of a better word, but they don't have all the answers and are basically there to lock threads and delete posts.
+
+The support site is basically "we work whenever we feel like it" and pre-typed responses. Don't expect a helpful reply in a timeful manner.
+
+----------------------------------------------
+
+***Final word/TLDR***
+A unique gem in the f2p market that is plagued by bad management and low quality of service. Cheaters are an issue just like most free to play games at some point or another. And "Pay-to-convience" in the form of progression.
+
+The ONLY things that makes this game worth playing is the game mechanics, weapon collections, and (if you are a vet player) the bonds you make with clanmates raging about this game. I won't change my recommendation, because I still think this is a game people should at least experience once. If you can bring yourself to buy the boosters and devote time to the game, PVE at the very least can be enjoyable with friends.
+---------------------------------------
+Pros:
+- Uses a server sided anticheat called Fairfight to prevent hackers
+- Low system requirements but awesome graphics
+- Fast rank system matchmaking with auto team balance feature. It takes like 10 secs to find a game
+- New coop missions everyday
+- Game modes: team death match, plant the bomb (CSGO-like), bag and tag, destruction, free for all, capture and more!
+- Classes: rifleman, medic, engineer, and sniper
+- Provides an impressive library of weapons and attachments and you dont have to spend real money to unlock them
+- Rewards you for playing the game with in-game currency, guns, knives, etc
+- It's free to play!
+- Unlike other F2P, this game is not P2W.
+
+Cons:
+- Female character is not free
+- Run and slide is op
+- COD "ripped off" may be too harsh, but the similarities are uncanny
+
+
+This is probably the best free to play FPS game on steam followed by Planetside 2 and Dirty Bomb.
+I can finally recommend this game now that they have a good Anti-Cheat (Fair Fight!!). This game used to be pay to win hence all the "p2w" comments. But it isn't anymore. Every gun, outfit, attachment, etc can be obtained without spending a dime on this game! The only thing you can get with premium currency is more regular game currency, boosters, and skins(dont change hitbox just looks).
+First of all, the company that use to own the marketing and various other things, (Crytek) sold the game to My.com.
+Although Crytek still works on the game.
+
+[b] Pros: [/b]
+
+Alot of challenging maps and gamemodes, including:
+[table]
+[tr]
+    [th] Mode [/th]
+    [th] Info [/th]
+[/tr]
+[tr]
+[td]Battle Royale[/td]
+
+[td]Overused, but may be fun if you enjoy a dialled back version of BR[/td]
+[/tr]
+[tr]
+[td]Blitz[/td]
+[td]Defuse the bomb[/td]
+[/tr]
+[tr]
+[td]Team Deathmatch[/td]
+[td]Eliminate the enemy team[/td]
+[/tr]
+[tr]
+[td]Plant The Bomb[/td]
+[td]Detonate the bomb on the enemy base[/td]
+[/tr]
+[tr]
+[td]Free For All[/td]
+[td]Kill everyone[/td]
+[/tr]
+[tr]
+[td]Capture[/td]
+[td]Steal the enemy's warhead and deliver it to safety.[/td]
+[/tr]
+[tr]
+[td]Domination [/td]
+[td]Control Points[/td]
+[/tr]
+[tr]
+[td]Bag And Tag [/td]
+[td]Free For All but you collect Dog Tags.[/td]
+[/tr]
+[/table]
+
+A co-op mode where you and a few other people go up against a challenging map of enemies.
+A special operations gamemode that you can access with access tokens
+
+Even though you can pay for weapons with real money, you can easily use the in-game money to buy weapons to destroy people in matches. Even though they're not fancy and all that junk, they still fire bullets and that's the point of FPS games right?
+
+You can accept contracts to earn extra money (You get three hours to complete one).
+
+You get $3,000 for each class you unlock (Rifleman, Medic, Engineer, Sniper.)
+
+The classes consist of:
+Rifleman
+Main weapon:
+Assault Rifle
+Special: Basic Ammo Pack
+
+Medic
+Main weapon: Shotgun
+Special: Basic Defibrillator
+
+Engineer
+Main weapon: Submachine Gun
+Special: Basic Armour Kit
+
+Sniper
+Main weapon: Sniper (Obviously)
+Special: NA
+
+[b] Cons: [/b]
+There is ALOT of pay to win elements (As said above, you can just buy cheap weapons with in-game money.)
+To repair weapons, it cost's more than the weapon itself.
+You have to rent weapons, unless you grind for hours to pay for the permanent price.
+Each class is preset to have it's own type of gun e.g Medic = Shotgun
+
+Things I think could change:
+A setting that lets you change your FOV
+Australian servers
+
+Reviewed on 2/04/2018
+Newest edit: 21/04/2018
+This review will be altered as I collect info on the game.
+[h1][b][u]Intro[/u][/b][/h1]
+This is one of my favorite or favorite first person shooter of all time, you play as apart of the team of Warface a group that will stop at nothing to defeat the evil Blackwood forces(Or at least thats what I believe its about), there’s just so much to talk about hear so I'm going to talk about some Pros and Cons of this game
+
+[h1][b][u]Pros[/u][/b][/h1]
+- [u]It's free[/u] - its a free-to-play game that is so worth getting
+- [u]Gameplay[/u] - the game has overall smooth gameplay with easy to learn controls
+- [u]Co-op Missions[/u] - I've previously had this game on Xbox and after all the time playing it I've almost never played Versus and mostly played Co-op missions, every day never Co-op missions drop 1 easy, 2 normal, 2 hard, and 1 extreme, to get to the next difficulty you have to beat the previous ones, you play with 4 other people taking on tons of the Blackwood forces in unique maps and have 1 or 2 bosses to deal with, mostly Heavy Gunners, but also Giant Mechs, what makes the Co-op the most fun is that everyone can't go one class and you have to work together with you different abilities to survive 
+- [u]Special Operations[/u] - everyday you'll be awarded a curtain amount of operation coins that give you access to Cyber Zombies and more, adding this gives more variety to the game
+- [u]Unique Classes[/u] - this game has 4 unique classes for ever gamemode each with their own specials abilities and and unique loadouts, 1st you have the ammo man, equipped with a assault rifle, pistol, knife, grenades, and ammunition, which you can use to give your self and teammates more ammo, 2nd class and my personal favorite is the medic, instead of an assault rifle he comes equipped with a shotgun, and everything else except for the ammunition, he comes with a medic pack(to heal yourself and other) and defibrillator to revive dead players, the 3rd class is the Engineer, which comes with a SMG different knife and no pistol, but he comes with land mines, and Armor(to restore to teammates and your self), 4th and final class is the Sniper, comes with a Sniper and regular loadout, and nothing special
+- [u]SafeHouse[/u] - this is small feature you may not ever notice but once you do you'll be happy you did your hideout is basically your house with a training course and pool table, dart board, tv, and everything else a normal house would have
+- [u]No Glitches[/u] - game runs absolutely smooth, not a single crash or glitch I've experienced
+- [u]Versus[/u] - or multiplayer, is extremely balanced with lots maps and detail
+- [u]Graphics[/u] - game has great graphics that keep you in the moment
+- [u]No FPS Drops[/u] - in my playtime I've never had a drop of FPS and as I said runs smooth
+- [u]Soundtrack[/u] - the soundtrack for this game is amazing and will get your blood pumping
+
+[h1][b][u]Cons[/u][/b][/h1]
+- [u]Limited Unlocks?[/u] - this is really stupid where you can rent weapons for a limited amount of time, or you can permanently buy it which is the obvious choice to make
+- [u]Kredits[/u] - these cost real money and are a lot of the currency for the game
+- [u]Crowns[/u] - WTF are these Crowns for, these things are extremely hard to get, if your lucky you can get about 8 per Co-op mission but to purchase anything with them you need like 900 but the biggest bs about this is that Crowns only buy timed items, meaning that you can buy a sexy orange gun with it but and only use it for a day before it disappears from your inventory so what's the ####### point of these then, it would make sense if you actually lets us buy permanent items with these
+- [u]Versus Needs More Game Modes[/u] - versus needs a lot more game modes as there are some but you need way more of a variety to keep you playing, though the game has a lot to offer so this isn't a big issue for me
+- [u]G-Face Account[/u] - I don't like the idea of having to make an account to play this game though most Free-To-Play games have this so I'll just deal with it so it's not that bad
+- [u]Lost EVERYTHING[/u] - For starters this is a update as of 6/28/17 I stopped playing the game for a bit then I logged in at a friends house and ALL of my data in the game has been wipped, and wow wtf, considering there's a G-face account I had to sign back into why didn't it save my data and all those hours of work down the drain, so just be careful still good but that's a MAJOR problem that needs to fixed so just be wary while playing the game
+
+[h1][b][u]Final Verdict[/u][/b][/h1]
+This game is amazing considering the pure fact thats its free and its hard finding negative reasons to give in the review and its hard to not get this game, my final verdict for this game is a 10/10 for Free-To-Play games its flat out amazing and even if it wasn't free i'd still buy it since its just so good, so stop what your doing and make sure to get this game right now before you regret it!!!!!!
+Overall, yeah, I think this is a decent game. The maps tend to be fun and worthwhile investigating, and the class system adds an interesting dimension that sets the game apart from it's other free to play counterparts. 
+
+Cheating hasn't been an issue for me - only occasionally have I played with actual cheaters, and even then there's a game function where you can vote kick them. So far that's always worked for me.
+
+And I don't think it's a pay to win game yet - in fairness, you can get decent equipment just by playing the game - but it takes serious effort. Unlocking guns is done randomly from a pool of guns from all classes - meaning if (like me) you tend not to play all the classes, you still need to unlock their guns before you can get to yours. It's a pain, but doesn't ruin the game. Whilst a fair amount of the shop's content can't be obtained without using real money, the majority of that content is essentially useless - stuff like skins. 
+
+However it does seem to be heading more and more in the P2W direction: for example, warface used to have this really cool "auction house" where players could sell guns for in-game currency - allowing you to get hold of nice guns without blowing real money on them. However, my.com got rid of that, as it was loosing them money. If you want the nicest guns (with stuff like extra damage against cyborgs - crucial in the spec ops missions) then you need to use random boxes - most of which are obtainable by using real money. These actually are a total scam! Again, my.com changed things up - now there's a far higher chance of getting temporary weapons, and a crazy low chance of getting permanent - for almost every box the chance of getting a permanent weapon is 1%, and getting the gold version 0.1%. 
+
+Overall it does seem like the game has taken a huge swing towards temporary/rental guns, something I really dislike. I love the security of amassing an armoury, and for me renting a gun is never as enjoyable. It also feels like a ploy to try and get you to play more - you rent a gun for a certain amount of real time, meaning you feel compelled to play for all of that time so as not to waste your money. 
+
+In the final update, there was also a penalty added for quitting the quick team matches, stuff like time delays before joining new matches, and probation periods. This feels,, iky too. For me, quitters haven't been an issue in the quick team matches - there's a fairly constant flow of people in and out, and if anything I've found this just keeps the gameplay stimulating - swapping tactics for new players. I've never had a team that I think has lost due to quitters. 
+Conversely, there are numerous occasions when I want to quit a match - I try to value real life over virtual, so if food's ready, or something else beckons then I'll usually quit. Realising there's now a penalty for that seems, slightly invasive and needy. If anything it's probably going to make me spend less time on the game, as I'll be reluctant to start a match if there's a slight possibility I'll need to leave it. 
+
+Where this penalty would be useful would be in the Co-Op missions - where quitting (for me) is a constant issue: so many times I've reached a boss fight, and found that most of the team have quit. As these missions are longer anyway, and are therefore more of an obvious commitment, I think it would actually be really useful to have a penalty on these ones.
+
+Now the moan's out of my system I feel freer to re-iterate that I do still think this is a good game. Whilst I'm annoyed by recent changes, and am afraid that the game is going to further deteriorate - at the end of the day, I'm still playing the game. It's still fun, if annoying sometimes, and I think it's important to remember that it is free! The developers have created something I enjoy spending my time on, and it seems a little petty to dig into them as if I have some sense of entitlement just because I've invested time into the game. 
+
+So yeah - download it: hopefully you'll find it fun, and if not, hey, it was only 5 mins instillation time you wasted. 
+(And presumably how ever long it took you to read this atrociously long review. Sorry.)
+  
+
+
+Its not pay2win anymore... Clear as that install it and check for yourself... And i played with the original gun vs donators before and still whooped their buttucks. Its more about skill.
+[h1] Review [/h1]
+Here is my review for Warface.
+
+[h1] TL;DR [/h1]
+I recommend this game to people that like arcade FPS. Check below for full list of good and bad features of this game.
+
+[h1] Full list of features [/h1]
+The game has good and bad features and here is the full list:
+
+[b] Good: [/b]
+1. Free2Play
+2. A lot of weapons, maps and game modes
+3. The game is updating pretty frequently
+4. ESL
+5. The game is automatically kicking out high ping players
+6. Free redeem codes
+7. Special points for unlocking items which you get for free after unlocking
+8. Special events
+9. You get decent rewards for leveling up
+10. Various cash and XP boosters
+11. CO-OP missions
+12. Fun to play with friends
+
+[b] Bad: [/b]
+1. Pay2Win
+2. Lootboxes
+3. Team balancing
+4. Old CryEngine 3
+5. Graphics not so good
+6. Sound effects are flat
+7. Optimization not so good
+8. A lot of cheaters
+9. Bad anti-cheat system
+10. A lot of players lost their accounts after Warface moved to My.com
+11. You need to play a lot to unlock new items
+12. There are only few servers and they are very bad
+13. Skins for weapons are very rare
+14. Repairing system
+15. New battle royale game mode isn't balanced properly
+16. You can't buy weapons permanently
+17. All new items that are added to the game are mostly in loot boxes or very hard to unlock
+18. You can't change FOV
+19. Hit recognition is really bad
+20. Weapon handling is weird
+21. Weapon balance is really bad
+22. Futuristic items and ambient
+It changed guys, from past 2 years. no more micro transactions everywhere only thing that requires real money is boosters so you are not at a disadvantage in pvp or anything.
+After playing 24 hours of this game in about a week, I can safely say that this is probably the best free to play fps game in the market. Gunplay is really smooth compared to the likes of crossfire and combat arms. Not once did i feel like I missed a shot because of bullshit and the aiming in and out of sights just feels so natural. Movement is top notch in this game. You can leap over obstacles without having to do the old school jumping; instead there's an animation for it 
+
+PVE Content is PRETTY good! It is actually difficult and does require some teamwork in order to accomplish. AI is a bit shitty sometimes as they just run towards you for no apparent reason or standing in the open for you to shoot at. But the bosses really hold it up. THey're not just bullet sponges like in Destiny; you have to work your team to flank around it so you can hit its weak spots. 
+
+
+PVP is pretty good in general. Most maps there are different routes to take in order to complete an objective which makes every match feel different. There are some maps however where it's just nade fests 24/7 and i end up rage quitting out of frustration. The classes are pretty balanced in general as the Rifleman have weapons capable of every range. Engineers are limited to close range weaponry along with claymores. And Snipers can only do long range most of the time. 
+
+Shop and Progression: From what I've seen so far, the huge majority of weapons and armor you can get can be unlocked through JUST PLAYING the game. FInally! A game where it ISN'T PAY TO WIN. Real money in this game is just used for cosmetic items that don't grant you any advantage in battle. About time!
+
+
+In conclusion, this game is pretty fking good. In fact probably the best free fps I've played in a really long time. Try it out for a couple hours. You won't be disappointed.
+So, after over 1200 hrs of playtime, it seems to be appropriate time for the review.
+
+	5 Most notable features:
+
+1. Four classes; rifleman, engineer, medic and sniper with their class specific abilities you can find more info about from Internet.
+2. Three in game currencies; warface dollars (in game money), crown points (will tell you later), and kredits (real world money).
+3. A dosen gamemodes every first person shooter game has, for example; plant the bomb, team death-match and the newest addition, battle royale mode.
+4. Weapons (primary, secondary and melee) with attachements and armor gear for your character.
+5. Maintenance system for weapons and armor, repaired with warface dollars.
+
+	For new players, the honest recommendations:
+
+- It's free, you don't have to pay to play the game but you won't either get access to all content available in the game. These things can range from "Random Kredit Box weapons" (and their achievement stripes) to "Global Operations" (DLC like events).
+
+-It has both Versus (PvP) and Coopperative (PvAI) modes. Versus mode includes quickplay, ranked mode, and custom games. Co op mode also has longer missions called Spec ops which are more story driven experience rather than fast paced, straightforward coop missions. 
+
+- It has good ESports potential with all the allowed weapons and armor avalable for every player in Tournament server, which makes the competitive play fair and balanced.
+
+- It has a progression system for player, known as "vendor" system and generic "rank" (not to be confused with ranked-versus mode). Vendors include unlockable weapons, armor pieces, and attachements, which of all you can unlock by just playing the game.
+
+- Runs on Cryengine 3 with DirectX 9.0c, meaning the optimization and graphics are very good, but also support for older hardware and laptops. Some AMD (GPU) users are rumoured to encounter freezes in game but I cannot confirm that as Nvidia user, go ahead and give a shot.
+
+	Then the critique:
+
+- The game is indeed P2W because most random kredit box weapons are statistically better than free ones, with the exception of SAI GRY AR-15 assault rifle. There are "crown weapons" that are better versions of kredit box weapons, but they cost rare ingame currency known as "crowns" that can only be earned from coop mode. They are rentable meaning that once they expire, you have to buy them again.
+
+- Random kredit boxes are loot boxes that contain timed weapons, xp, progression boosters, and ultimately the main prize; a kredit box weapon that is generally better than any other free weapon. However, the odds to get the main prize permanently is super small 1%, and 0.1% for golden variant some weapons might have! As the boxes' name tells you, you have to buy the boxes to have a slight chance to get the main prize, which is GAMBLING in its purest. Fortunately boxes with golden variants will grant you the gold version once you have bought 1000 pcs of that particular box! Unfortunately this golden gun has cost you over 500€ if dropped from the 1000th box... 
+
+- Inaccurate in-game statistics for weapons, attachements, armors, ect. 
+The in-game stats don't represent the real performance of most guns for example there's no accurate values for recoil, reload speed, weapon swapping speed, min/max spread, damage drop, minimum damage, pellet count (shotguns), random box odds, or repair costs. Also some attachements have "hidden" stats such SIG Sauer P266C's "Custom Pistol Silencer" (that reduces the nowhere mentioned damage drop by 50%) or "Advanced SMG Scope" from rare vendor attachement category (that reduces the nowhere mentioned min/max spread of smg by 20% while aiming). 
+Some community members have hacked into the game files to find us gamers the real stats for each of weapons, which are available for readers in the community maintained wiki of Warface.
+
+- Cheaters
+The game uses the CIS side publisher, Mail.RU's private anti-cheat aka MRAC which effectiveness is unknown since possibly banned cheaters are cencored for the sake of their privacy. If someone cheats, he/she almost certainly won't get banned immediately from the game but the players are forced to report the cheater via in game report tool (which effectiveness is questionable at least), or by submitting a ticket on publisher's support-page with proper proof (a dosen screenshots or a video).
+
+- Repair costs
+There are still weapons and armor that are too expensive to be used by free2play players; every profit they make will drain to gear maintenance, which forces them to buy progression boosters only available via kredits.
+
+- Lack of regional servers
+Players who connect from the other side of the globe to EU server will make the matches go nuts due to unnecessary complexity of lag compensation and hit registeration calculations to also favor laggers. In worst cases, players teleport all over the place, and back to where they stood, or tank point-plank shotgun blast without showing any hit markers.
+
+- Bugs which still haven't been fixed, yet being reported. The Steam version of the game which is basically EU/NA server, is very buggy due to the previous publisher's (Crytek Frankfurt) changes in the client compared to RU server which is apparently Crytek Kiev's main development/test platform with numerous PTSes available for russian players. Possible reason for this propably is because the debugging/bug tracking being also done with RU version despite bugs existing only within EU/NA server client.
+This game has a LOT of potential, IMO it beats all the sh#t CODs and BFs played today. 
+PVP rookie channel is really fun, you get faced against enemies that are about on your level.
+Coop missions are awesome and some of them are really challenging.
+
+But when you enter the professional channel.. you will get DECIMATED. Most people are campers and even arrogant. They will KICK YOU OUT if you don't play good, which is a hard thing to do without getting the better armors, weapons and knowing the maps...  Most players here are high rank and because of this, most low rank newbs just QUIT the game.
+
+There are a few cheaters here and there, but 9 out of 10 accusations are just from bad players with no common sense. Some games, very good players will kick you out because you don't perform on their level. Some games you will get kicked by uber noobs who think you are a cheater... SAME thing applies to COOP missions as well. Also, there are players with red ping bar, playing through Virtual Private Network and ruining other players experience.
+
+Despite this, the hit registration of the weapons are just OUTSTANDING. There are occasional lag spikes even on the best computers (network problems?) but otherwise the game is smooth as a babybutt. It is not the best of cryengines but the game looks good, runs good and its FREE!
+
+Great maps, fun game modes, a lot of grinding and a pathetic community. Enjoy!
+This game is not P2W. If you've played Combat Arms this game is piece of cake. 
+
+Pros
+- Low system requirements.
+- Good aim system. (If you are aiming you don't miss.)
+- Cheap stuff. (You can unlock best armor in 20 games)
+
+Cons
+- Engineers kill you everytime... Everywhere... THEY ARE EVERYWHERE! THEIR MINES MAKES ME CRAZY!
+- You need good teammates if you want to survive PvE or Operations. 
+- Bad matchmaking system over 13 lvl. You can matchup with 80 lvl players and they beat the crap out of you. 
+- There is plenty of bad players who has %50 headshoot rate... Luck is overloaded.
+
+Download it. If you ever gonna pay. Pay for VIP. Good luck, have fun.
+Warface, the first experience of Crytek in the free-to-play field, is a very nice competitive online FPS, with a lot of well-known game modes and fast gameplay. The visuals are pure Crytek quality, and even if it’s not an original game, it surely deserves a deep look.
+
+73/100
+Not bad for a F2P shooter on PC, Quite easy to find lobbies, movement can be a little clunky. But if you want a boots on the ground shooter that costs nothing up front to play, this is it. It's not COD but at least the playerbase is alive on PC.
+To be honest, this is an great game! Its absolutely worth the download becuase it doesnt cost you a dime, so why not?
+Great graphics, great gameplay and a great community!
+I like it for:
+-The game modes (you have like 10 of them)
+-The map interactions (push objects, help teammates to higher places etc)
+-The PVE - It has a lot of campains
+
+Definitelly worth giving it a shot.
+This game is actually a really fun game, I think that they need to come out with more maps and maybe some new gamemodes to keep the game new and refreshed, but other than that it is a really good game.
+*This part is more of a rant than a review*
+Great game and all if you're here for PvE. I thoroughly enjoy almost every class with the sole exception of the Medic class since I find being stuck with a shotgun a bit... Annoying in most Co-op missions and spec ops at hard and higher, sure we can use a really good secondary but EVERY class can when you give a little more thought about it and with that I'd like to suggest adding slugs since those bad boys can make the Medic viable in ranged co-op missions and spec ops, sure it'd make them almost into a sniper class in terms of damage (if that route was taken) but still I find it kind of needed to make Medic a bit more relevant since all I see are people picking mostly assault and hardly EVER see a medic class until the first fail in a Spec Ops (yes I don't use it either because I hate shotguns in this game at least).
+
+
+| The Actual Review | \/\/\/\/\/\/\/\/
+
+ANYWAYS I'll get back to how I feel about the overall Pve element of the game, It feels really polished in terms of gunplay and system optimization. The LIVE customization for weapons in the middle of weapons is really nice and really sets it far apart from most other shooters which I thoroughly enjoy changing from a 2x to a 1x depending on where I'm at in a mission. The graphics look great for being a F2P while also having really well done optimization so you can run steadily at 60+ fps on high with a lowend gaming rig. If I could think of any cons it's that the American Servers are combined with the Mexico server so you get about 40%-60% of the time people who speak Spanish whilst in a Spec-ops mission making it harder to give callouts for enemy positions which I really can't complain too much about since I rarely talk as is to randoms (do have my callout moments though).
+
+
+| How I feel about the P2w stuff people are going on about this game | \/\/\/\/\/\/\/\/\/\/
+
+My thoughts on people who claim this game is P2w, yes it is and no it's not at the same time, most things can be earned legitimately throughout grinding the game which in turn is a long and hasty process but mind you this is a FREE TO PLAY, if you want a game that has "unfair" p2w pvp look at Counter Strike Nexon Zombies then tell me that this one is with just 10 items locked behind a lootbox which mind you that the non-special variants are FREE TO GET.
+
+In Summary I highly recommend this game if you have friends to play with or you're just looking for an amazing PvE Shooter on Steam if you have a lowend compute-- Hell even if you have a highend gaming computer this game is still an absolute blast to play with buddies.
+
+*Edit* Specs & Graphical Settings
+Gtx 1060 3gb
+16 Gb of Corsair Vengeance Ram (DDR3)
+Fx 8300 overclocked to 4.1 Ghz
+2 Tb Firecuda Hybrid SSD/HDD
+
+I run the game at high 1080p locked at 60fps
+This game used to be P2W by a huge amount, and still is, but it is becoming less so as they add more options for the free to play player. The style of play is rather compact and there isn't as much strategy involved with grenades as much as could be wished for, but not bad overall. I would give this game a 6/10.
+I've been playing this game for a while now and simply put. It's great!  I can't really complain too much at all and anyone who does at such a harsh and nasty, ignorantly and arrogantly degree is nothing but  a spoiled, narrow headed, self entitled, little brat (young or old). My one and only complain worth while is connectivity issues.  From time to time, I get disconnected and stuck during game.  This doesn't happen all the time but it does happen and it only happens in Warface that I have noticed. I haven't experienced this with other games. Also, it would be nice to have all updates go through the Steam que like most other games.  The separate My.com client is a bit inconvenient when you have other games that need updating at the same time.  It's not a big deal but would be nice.  All in all,  Warface is amazing and absolutely worth downloading if you are into FPS games at all.  CSGO is the only other FPS I play consistently because it's so bad. Meaning, the aiming is difficult unlike any game I have ever played. It's challenging and I'm terrible at it as well. lol.  But I keep gong back. Ugh.  Warface community is far better than CSGO.  That alone keeps me coming back to Warface.  CSGO community is toxic and full of the most moronic, self entitled, inbred, American trash.  And I'm 100% American btw. lol . WARFACE FTW!!  Great job on this game, it has come a long way through out the years!
+i don't have much to say about it other than it's a good game. good graphics and gameplay, a non toxic community. though after some time it does get tiring. it'd be nice for  some new co-op maps 
+my rating would be 7/10
+Doesnt feel like p2w or p2p at all if u have skills its easy win and if ur looking for a call of duty4-ish game this is the best thing u can get for free i highly recommend it
+With my.com taking over warface, the game went downhill from there.
+
+EDIT: (Due to the request of a developer).
+Lets see, where do I start, hmmm... The gameplay is amazing, the indicators are pretty good and the missions are mostly enjoyable and satisfying when you complete them. All of the pros that I just mentioned are controlled by Crytek, and my.com has nothing to do with these... Luckily...
+
+So, what's wrong with my.com you might ask? Almost everything non-gameplay related.
+I am gonna start with free stuff first and then progress to most issues that people have with donator and "P2W".
+
+The vendor system is very grindy. To truly be able to get a gun that is able to rival every box gun currently in PvP, the player MUST buy at least a mega-vip booster in order not to die from boredom sitting and completing the PvE missions and PvP for around 100 or even 200 hours.
+And that is if you get lucky with that gun, there might be a case in which you will never get it untill you got all other guns, and in that case the VP cost will be pretty high.
+
+The warbucks boxes apart from containing the worst chances possible of getting a gun, are mostly bad in general. Lets take the nerfed TWM/AWM for example. In the past it required one shot to kill a player, now it requires 2. That is a big disadvantage because everyone who bought kredits have their bolt-action snipers like AX308 which can oneshot anyone. All of the bad guns are mostly put in the warbucks containers because no one ever uses them nowadays.
+
+I understand that there are better guns which can rival the "P2W", however, the chances of getting it temporarily for a good time are insanely low comparing to a kredit container (not talking about permanent), and they are somewhat handicapped comparing to, once again, the guns from the kredit boxes.
+
+The warlord armor (and the high cost of repair system in general) takes most of the fun away from the game. I am a PvE player myself, who plays without a predetermined team. I fail hard missions around 5 times per mission because my team either couldn't work out a strategy or died early on, leaving me soloing a hard mission. By failing one of these I would get around 50 warbucks as a reward (with 75% VIP booster from daily rewards). The warlord armor (not the complete set) costed 100 warbucks to repair, and my gun costed 30 warbucks to maintain as well. I loose around 70 warbucks per failed mission, which means a lot because the profit margin for these with first daily win reward is around 300 (not talking about doing these twice).
+
+The special missions are a nightmare compared to the hard missions (on easy when playing public) because it takes around 30 attempts to complete the mission, once again, ON EASY, while playing with a random team. I wouldn't mind attempting these over and over again if not for the insane repair cost and how much I loose by doing these.
+
+Now we shift towards the DLCs from steam and stuff bought with kredits.
+
+The tournament packs (the DLCs which offered armor by supporting the developers) didn't have a repair cost. When my.com took control, they not only enabled repair costs for these, but also set them to the repair cost of the warlord armor (basically made it pointless to buy a tournament pack). 
+
+Before my.com took over the publishing, the cost on gold weapon repairs was free as a reward to those lucky enough to roll them. Now, there is a repair cost, making it pointless in rolling a golden gun apart from diminishing number buffs which are not noticeable at all and some extra cyborg damage in PvE.
+
+(As for the 2 points I just mentioned, I actually do not know how my.com thinks this will improve their profit margins. It seems like it will, rather, decrease them by a huge amount. Lets move on down the list because there are still more things to discuss.)
+
+My.com silently nerfs weapons over time and then release newer donator weapons which are more op than before, forcing players to roll them from, you guessed it, the random boxes. Those weapons that were actually good before are now pretty bad... You get the point.
+There are many more things to cover but I feel like I am just wasting my time making this review. I've read many responses from the developers and they actually haven't adressed any issues pointed out in other reviews. I can guarantee you that if they reply it will be their poor attempt at defending themselves in order to get new players play the game and donate money...
+
+P.S. I didn't mention easy and normal PvE missions as for these I do not use a warlord armor, however, if I did, the repair cost and loss margins would be pretty high.
+
+EDIT 2: So I was playing some casual warface (I only complete easy missions now since there is no point in doing anything else) and a player from south america commented upon seeing someone's golden gun "It's a shame people actually donate money to this game"
+
+This is pretty much the whole community in a nutshell. I have talked to both players who are dedicated to the game (from russian servers where this game originated and people who donated money to the game and actively support the developers with microtransactions) to new players and what they think about the game aspects. New players commented about, of course, the P2W aspect of the game, the microtransactions and everything, and veterans and active donators complain about the server issues, terrible lag even with a pretty good internet connection, and that "It's almost impossible to kill someone on PvP efficiently if you don't have all 5 ping colums" quoting one of them.
+
+However, NONE of them pointed out the amazing features of the game, the whole gameplay, the indicators, the UI, NONE of them said that this game was a good game and they are amazed by it. That's how bad my.com screwed everyone over. 
+
+Even though I am still playing this game (just for the gameplay of course) I wouldn't recommend it to never players. If you still want to try this game out after all of this please, make sure not to donate anything to my.com... 6 years of screwing everyone over at the russian server, and 1 more year to the western side. I am fed up with all of the intolerance of the publishers to the players, and I think everyone should be aware of how badly they handled pretty much everything the game has to offer.
+
+EDIT 3: (After KIWI operation has been completed and multiple actions to get the online up have been done)
+
+TL DR, I can't recommend the game still. And I am mostly sure that I will never be able to, for a simple fact that mail.ru have a bad history of investing into the worst games up to date. For no TL DR continue reading.
+
+KIWI on launch was the worst paid operation in the history of warface. First of all, they launched it on SUMMER!! That's right, when everyone is on a vacation, when everyone wants to enjoy the overseas. Secondly, the rewards were grindy and non-profitable. Last but not least, from my perspective, KIWI trade hub is only open to those who bought the expansion in NA, but available to BUY for everyone in the russian servers (correct me if I am wrong).
+
+They made an auction called the "Summer Marathon" which involved killing 100 players in multiplayer, every day, for at least 45 days of 60 days that the marathon has been going for. The rewards were kinda bad, except for Krazy Horse for the sniper, which is basically a oneshot semi-sniper (its not the meta, even with the max damage it still has x0.8 multiplier on hits, while box guns have x1.0 multiplier on each hit). It's really grindy for NA, but on RU, where everything is controlled by mail.ru (my.com) they actually somehow enjoy it, which I find very confusing.
+
+They rebalanced AWM,giving it max damage(still has x0.8 multiplier which is the SAME as the semi-sniper called Krazy Horse mentioned above (also full damage only applies to golden version of the gun))You release Krazy Horse for free with better rate of fire and then you give AWM same stats?No space in review left.
+I've played this game for 3000+ hours, loved it. Stupid animations, terrible voice acting, and ridicultous physics. The pay to win stuff was always annoying, but something has changed. 
+
+I got an email warning me to transfer over my account now that my.com has taken over the game from GFACE. Okay whatever, I was on a break anyways. Fast forward 10months to today. Lag, empty servers, nearly everything in the store requires ingame currency called Kredits that are exclusively from microtransactions. Don't get me wrong, theyve always been there. Just lesss pronounced and definitely not the primary way for you to get anything. 
+
+I can look past a lot of BS, but this is like an old friend who has been replaced with someone else. I don't know them anymore. I am scared that I will never laugh as hard as I did playing this game during the themed holiday events again. Santa/Reindeer themed armor, candy cane knifes, santa boots, buralp sack helmets with spooky faces, OP squirt guns, toy shovels, etc. 
+
+This developers maknig a lot of changes, and I feel like a lot of them are terrible. Mainly, the excellent pefromance of the servers allowing for split second twitch gaming decisions that are REQUIRED to complete many of the ingame bonuses. This a warning old friend. We may not be together much longer, much to my disappointment. I raised a clan, rose up the leaderboards and stayed there, made great friends, was known in the community for being an excellent clan. 
+
+Tl:dr, without significant changes, this game will die. 1+ Years ago, I reccomended this to everyone. Now, I'd say, "if you reaaaaly want to, just dont give them any money"
+Do you enjoy getting kicked by moderators because they are losing?
+Do you enjoy playing a pay to win game because upkeep is higher then income? (unless ofcourse you pay)
+Do you enjoy playing versus hackers?
+Do you enjoy getting votekicked by regular players because you do not have the best score or for no apperent reason?
+
+If you can answer all these questions with a yes then Warface is the game for you!
+
+The game starts out pretty nice. There are special rooms for new members where everybody uses almost the same (underpowered) weapons and armor. For the first 30 or 40 matches your chances are fair and you might even start to like the game. When you get to lvl 13 you are placed in the rooms with the members that pay for the game and get all the overpowerd gear. From this moment on your chances will strongly decline unless you are willing to pay.
+
+I started playing back in 2015 when the game was under Crytek. The game was pretty nice back then. Updates were plenty, hackers got banned quickly and you could play the game without spending a single euro or dollar. Paying members got their stuff a bit faster, could get some nice skins and some other perks but everybody had the same chance during the game. 
+
+Sinces the start of 2017 My.com took over and the game changed for the worse. (As you can see from all the negative reviews that came pouring in) First I waited patiently because a migration from one developer to another can take some time. After about 3 months into 2017 the game is becoming almost impossible to play. Warface is changing from a free to play game with chances for everybody to a free to play game with chances for those who are willing to invest fast amounts of money (id say €60 and more if you want to be able to play every class with decent weapons). Upkeep of your weapons and armor is now exceding the amount you earn from missions. Paying members are able to use these armors and weapons while the free to play members are left with and unfair disadvantege.
+
+Untill now hackers are free to use whatever hack they want. During 'ranked' matches normal players are getting carried by hackers and My.com doesnt do anything about it. If for some reason you take the time to report this to My.com they send you an automated messages trough their support system that makes it seem like they are taking your problem serious while in fact the same(!) hackers are continue playing. If you send another message to support (about the same or a different subject) they send you the exact copy paste message back. 
+
+To make it all worse, there is apparently a bug or hack that grants you certain ablities (kicking, banning) to use against regular members (although i have only seen this during the ranked matches). I have reported this over a month ago to My.com and the same member is still abusing this bug today. In the more then 2000 hours I got on recored playing this game I have seen a strong decline during the last months. If you are in doubt of playing this game or if you should or should not spend money on it I would strongly discourage it.
+
+My advice would be to not start playing warface or at the very least not spend a single euro on it.
+
+Update 21-08-2018:
+There are still hackers in the game, a problem My.com fails to solve for over more then a year now.
+
+Update 22-08-2018:
+Yet another couple of hackers in ranked.
+Well , some friends have finally convinced me to play this game. When I saw the trailer I was very confident and excited about this little title crytek have decided to launch. It showed me pretty interesting mechanics and things I have never seen in a free to play game. And when i actually saw that crytek made it i jumped up and i told myself : this means a new era for free to play games. 
+Well , i was wrong . I was so very wrong.
+
+[h1] The game [/h1]
+
+The game focuses on straight infantry combat. You start the game and jump right in the tutorial with no explanation about what is going on . Some female voice tells you everything that you need to know about classes , movement mechanics , weapons etc. After you finish the tutorial you get a weapon which only lasts a week ( I will talk about this MAJOR problem later on ) . You get to choose whether you want to jump in a game through matchmaking or through dedicated servers. I truly recommend dedicated servers because you can find a game faster and you skip the 20 minutes wait time until you find a server that is empty in matchmaking.
+
+[h1] The gameplay [/h1] 
+
+The gameplay itself has some next-gen elements in it , such as : helping a teammate climb a higher structure by boosting him up , reviving ( not really next-gen but oh well ) and also [b] SLIDING [/b] . I said SLIDING in bold text because i want to point out that it is OP ( OverPowered )  , meaning that when you slide , you can also shoot. This makes it so that when you see a dude , slide and shoot towards him and he's dead. No matter his skill , level etc , he will not notice you and you will get an easy kill. It was slightly nerfed since i first played this game in the closed beta , but it is still OP. 
+The game also has classes , which are primitive and remind me of Battlefield 4 . You get the same generic classes you see in every shooter ( medic , sniper , engineer , and rifleman ) . The one that somehow stands out is the rifleman , which is somehow a support from Battlefield , but with the ability to give himself ammo without droping it . 
+Anyway , you've probably played other shooters and you know how they handle. 
+The gunplay is very unbalanced. You start out with some shitty weapons which are actually waterguns because all their stats are set to 1 ( out of 100 ) , and all of your enemies are higher levels with weapons that seem like very small miniguns combined with Counter Strike AWP's . In other words , you will lose every single battle if you don't have proper cover. 
+The maps are very small . Actually , they are smaller than Nuketown in Call of Duty . No need for more words here
+
+[h1] The main problem with the game [/h1]
+
+[b] MICROTRANSACTIONS EVERYWHERE!!!! [/b]
+Yes , you will be swarmed in little ads with weapons or clothing that doesn't do anything . These items will continue to appear on the screen until you buy them . And the worst part ? You will struggle to kill and kill and kill for money , money , money , and when you have enough money to buy another shitty item with all the stats 2 , you will rage and throw your PC out the window when you will notice that it will only be available for one week . Of course , until you buy a Premium account that will cost extra money ( real money ) 
+
+[h1] The final verdict [/h1]
+Overall , i DO NOT recommend this game. Don't let the screenshots and trailers fool you. It's not worth it. It will never be , because this is what the corporations do to the developers: They make them create unfinished games like this one
+
+[h1] 3.5/10 [/h1]
+Earlier  i loved this game a lot it was very good while i started playing from 2016 when crytek was still there.                                                                                            After MY.COM came first thing they did  all the removed most box weapons like r16,dewnfeild ,millerap6,kapaw, honeybadger etc from shop and they also removed the permanent buying of special shop weapons , u can still buy them for 30 days max which is useless as u dont get it permanent.
+
+They added kredit boxes of too op box weapons, which i wont recommend unless u are a veteren in warface or play it a lot.
+
+ The repair cost of items are very high it takes near 600 wf dollars to repair only warlord helmet and warlord vest in a  15-20 min pvp/pve match knife , primary secondary weapons take more . They reduced reward from coops by 50 percent, which seriously affects the players to farm wf dollars. In pvp 50 percent u will see players who cry a lot if killed by another more skilled player.
+
+matchmaking is pretty  bad now and server very cheap. In most lobby there is mid match dc due to servers ,most of my friends and even myself see mid match server dc several times in a hour.
+
+If u like spending money on vip each month or spending 300$ on this game per year to buy vip , boxes etc then u can try it out , but to the rest and including myself who has played this game over 2000 hrs i WONT recommend any players playing this game which is now pay to play shit by MY.COM.  Stay away from this game it has been ruined by my.com game the community is half dead and almost by the end of 2019 most of the players leave .
+
+IF MY.COM wanted to improve the game first thing they should do maintain the cheap ass server so that all the players dont have mid match dc  and add the old box weapons for atleast some time so that players who dont have it get a chance.
+I loved this game until My.com decided that they would devalue all that progression I had acheived. Once they took over it very quickly became a pay to win game.
+
+Edit: In response to the developer posting. I migrated my account with fully earned and grinded for(ground for?) Warlord Medic and Rifleman armor, as well as most of the Engineer set with many earned guns, medpacks, and various other addons from more than a year of playing. I had all of my gear migrated, but I cannot use any of the non beginer armor, weapons, or gear. The repair cost involved with even two pieces of non-newbie gear is greater than the rewards. The only way to be able to afford the repair costs is with "vip boosters" requiring real cash to be paid.
+
+This is not an attempt at revenge towards My.com. They own Warface now and can make all changes to the game that do not violate laws. My review is simply to say that it was a wonderful game before My.com made changes requiring players to spend real money to maintain ANY non-starter gear.
+Saw the reviews, watched the YouTube videos, got excited.
+
+After installing the game, there was a secondary installer and "game hub" for purchasing items. I use steam because I trust steam to keep crapware off my computer and to protect my credit card information. An installer that installs an installer to then install the game is not something I want to risk in this age of personal information breaches.
+
+I thought, "Okay, I don't have to buy anything let's give it a shot." After I clicked play, it wanted to install a Mail.Ru anti-cheat with full windows administration permissions. That's a big **STOP** sign for me. Anti-cheats like these (WoW) have had vulnerabilities as well as access to *all* program data including browser credentials, like your banking website.
+
+I just want to play a game man, don't make me worry about this kind of stuff. 0/10 would not press play.
+[h1] You should look elsewhere. It is not worth your time, effort and especially your money. [/h1]
+
+Update; WARNING: Thanks to Daedalus007 for pointing it out for me.
+The game launcher, [b] my.com game center [/b] has been reported as a malware by many sources. One such source is: https://www.virusresearch.org/remove-my-com-game-center-malware/ . I am no malware and antivirus expert in any way, therefore I can't confirm the allegations. Yet, I still believe that it should be addressed here for people to be aware of the possibility of malicious programs. Will remove if there's evidence proving the contrary. Until then, just be cautious of what you are installing on your PC.
+
+TL;DR: Not worth your time. Decent game converted into a P2W model that is exarcebated by slow, crippling progression; high repair fees, random boxes w/real money, and power creep; which plainly conveys the cash grab nature of my.com. Along with server issues, bad netcode, toxic community and a lack of strong anticheat, it is a miracle that this cash cow is still up and running.
+
+Warface starts out as your generic first person shooter, akin to the Call of Duty formula, where you play as a soldier of Warface, a peacekeeping organization that defend the world from Blackwood, which is your typical bad organization that exploits the population in the favelas, indulges in unethical experimentation and forges massive plans in order to gain world dominance. You and 4 other players form a squad to undertake dangerous missions, be it in tight urban streets or complex buildings with high tech equipment. Every mission have you go from checkpoint to checkpoint, dealing with massive amounts of Blackwood soldiers and ultimately fighting a boss; which in most cases is just a a giant bipedal mech or an helicopter.
+
+There are four classes that you can pick from. These include:
+[list]
+  [*]Rifleman: uses rifles and provides ammunition.
+  [*]Medic: uses shotguns, heals and revive teammates.
+  [*]Engineers: uses SMGs, patch you up with kevlar and has the highest operational speed for technical actions such as planting and defusing bombs.
+  [*]Snipers: uses sniper rifles to kill from afar.
+[/list]
+
+The progression system is tied to XP for ranks and VP (vendor points) to unlock free weapons, armor and attachments. You can also rent/buy other weapons and armor that are exclusive to the shop, either with warface dollars (ingame currency) or kredit (real life currency). Armor and weapons must be repaired, except for the default equipment.
+
+PVP is also present, as it should be.  There's a diverse amount of PVP modes, including classic team deathmatch, free for all, plant the bomb and many other modes; even the trendy battle royale mode.
+
+Sounds good so far. The COD formula is generally bland, but pretty effective for a fast, arcade-y game that people can casually enjoy and engage. If co-op is your cup of tea, maybe you can give it a try. Sometimes it can be fun and engaging playing with friends and screwing up every once in a while. But that's it.
+
+So here, let me ask you a question; Why do you play games? Is it for the challenge? For the story? Gameplay? That's up to you to decide and I can't tell you what you must and must not do. However, almost everyone play for something in common: to be rewarded and this game is definitely not rewarding at all.
+
+{Kind of contradictory from someone that has more than 700 hours invested in the game. Yes, I know. But I do have my reasons, and one of them is being that I have friends that play this game. I casually dip in and play sessions with them as it is quite entertaining, which echoes what I stated before (...can casually enjoy and engage...). Silly quirks like killing your friends with a defribilator is what gives it a somewhat small unique experience not found elsewhere.}
+
+Every game session, either PVE or PVP, grants you little amount of warface dollars that is further diminished by the fact of having your equipment's repair costs very high. You are often left with a measly amount of cash or with a net loss in general. Kind of off putting as it is more punishing than rewarding.
+
+The shop is just riddled with kredit random boxes (or more commonly referred to "lootboxes"). If this fact already swayed you away from even playing the game; congratulations, you are far more intelligent than me. To be fair, it also have a catalogue of weapons that you can [b]rent[/b] (not buy) with warface dollars. And there's a few random boxes which can be bought with warface dollars. However powercreep and stealth nerfs are a thing in this game. In many instances, your current weapon will be outclassed by a new shiny weapon that can only be won from new kredit random boxes (or recently through direct sale, but realistically, with that amount of money you can buy a couple of AAA titles in steam when steam sales are on). There's a slight, but noticeable pressure pushed unto the player to buy their stuff with your hard earned cash.
+
+On to the next problem: Servers. 
+More often than not, you will encounter many players with red ping. Maybe the word "many" is an understatement. Let me use another word, more befitting of the situation: [b]most[/b] of the players have red ping. If you live near the servers, you'll be in for a good time. But far from the servers, outside of NA? Red ping for you I guess. The difference in ping and latency is quite noticeable in this game, unlike other games which uses a better netcode. Players with a good ping often have the upper hand as they are able to see before a player that has a red ping.  Sometimes this looks like wallhacks to the red pinger.
+
+And on the subject of wallhacks, the anti-cheat employed in Warface is weak, very weak. There are cheats created regularly for this specific game. And even if cheaters are caught, they just create another account because that's one of the downside of a free to play model. And from the paragraph before, it is quite difficult to discern whether it was cheats or just a serious issue of bad netcode.
+
+Which leads to a toxic community, full of themselves and calling other people names or allegating people that they hack in order to feel better. If you hated the COD community, this is certainly not going to be what you are looking for. The convoluted mess of their servers and bad netcode, anti-cheats, cheaters, and flamers is what and will deter legit players from even playing the damn game.
+
+I don't like to tell people what to do and not to do. But for this specific instance, you must not play this game. Look elsewhere. I am sure there are better games out there.
+
+I rate this game 5/7 (really, I wouldn't even rate this game seriously. It sucks and that's the short version of it).
+
+EDIT:Many spellchecks and corrections.
+I play this game since 2015 and it was a good game to be honest but since My.com is around its just completely bad.
+Reasons are:
+
+
+1. Bad connection, random DCs from the server
+
+2. P2W
+
+3. Toxic community
+
+
+[b] 1. Bad connection, random DCs from the server:[/b]
+
+The connection is just really bad even if im close to the server. The ping bar just goes to 1-4 (1 lowest, 5 highest, I can't even reach 5 tho im close to the server) randomly. Every 20 minutes or so I keep getting the message Lost connection to server. The game gives you EXP, Warface $ and vendor points only if you finish a match, but with disconnecting you won't get anything. That being said I can not progress in game or if I can the only way is thru PvP since they are short in time but I can't play any Co-op or Spec ops because it takes around 30-50 minutes and I would just disconnect, waste my 40 mins and get nothing. Completely ruins the game.
+
+[b] 2. P2W [/b]
+
+There are a lot of guns, gears in this game that is true, but the thing is all the guns that you can get for free is almost completely garbage compared to the guns that you can unbox for REAL LIFE MONEY. Before you try to buy any random boxes in this game, let me warn you. The chances of getting a permanent normal gun from a box is 1%, to get a gold gun its around 0.1%. These percentages might seem okay but keep in mind you are actually paying real money for them and the boxes are random and aren't cheap (5 box is around 2.8 euro). Its basically gambling to get guns that are better than free guns that you just unlock by playing.
+
+The game got a repair system. Example if you have a gun thats durability is at 90% you will need to pay 400 Warface dollars to repair it to 100% which is okay. Since My.com came here they decreased the money rewards from matches and increased the repair costs, its legit impossible to maintain your weapons if you don't have VIP (which is again can be obtained by paying real money or by getting it from an event but that is extremely rare and its for few days not like months).
+
+[b] 3. Toxic community [/b]
+
+In EVERY single match there is a guy calling someone a hacker or ping abuser/lagger. Players tend to kick the other player who isn't that good in the game and with that he won't get any match rewards because he was kicked.
+It is just generally annoying that like 70% of the community calls someone a hacker or they just go nuts and spam the chat EVEN players with almost 1000 hours, its just sad (I thought those players were smarter and actually won't cry about everything). Because of this the mood in the game is bad.
+
+Before I wrote this I checked the My.com support but that did not help, they are bots. . .
+The game is about money now. Yes I do know its a Free to play game and they need the money but this is just too much man, they even removed the auction house that was a place where you could get permanent guns even for free if your lucky enough.
+
+P.S.: Hitreg is garbage too
+OK, I try to give a game a good run before I leave a review, but this seriously takes the cake. I understand that free to play games are designed to grab at the wallet while you play... but this is literally Pay to Win.
+
+Players who drop lots of cash on "renting" weapons and gear are all but invincible. While players who spend no money get locked into their spawns and left to suffer.
+
+TLDR version; You might have fun for the first few levels, but eventually you get to a point where if you don't spend your money, you get screwed. And things go south really quick.
+
+Now, let's have some talking points...
+
+First, map design; Linear, boring, and pretty much exactly the same concept for each map. A large open center with two paths down either side of the map. Although if you aren't on the PVP team that is winning you may never see outside of your spawn, as all spawns are accessable by the opposing team.
+ PVE maps are all pretty much the same as well, a single linear path, with objectives to complete. 
+Any CQB area becomes a cluster F@#& as ALL player collision is ALWAYS on. Which means your team mates just keep pushing you back and forth until a grenade shows up and ends your misery.
+
+Netcode? Horrible. I understand excessive rubber banding when my ping has gone further south than antartica, but when I am showing a 42ms ping, why am I getting 1/4 of the way across the map and then suddenly returned to spawn, no death, no reason what so ever? 
+
+How about interface? Nope... it took me three or four goes at loading this game to realize that JUST TO ENTER MY OWN USER NAME, I have to use the games LAUNCHER, and go to the WEBSITE to do so?!?! Why is this NOT in the ACTUAL GAME? There are HIGH LEVEL PLAYERS still using the u_4###### name because they obviously haven't figured this out yet!!!
+
+Renting weapons with in game currency? WHY??? If I had spent my money on a weapon, I want to keep it! I understand a temporary "loan" via the leveling system to entice buying, but seriously? If I spend money on a product in a game, I expect to keep it! Also, why is there a gear "damage" system that syphons off your base credits constantly so that you are basically stuck without ever gaining the funds to be able to buy even the base level gear that would give you a chance?
+
+I know I haven't posted any reviews before this, and my voice is probably one detracter amoung many fans, but I cannot stay silent about games that are obviously pay to win! If I had to give this a game a rating out of ten, it would go something like this.... 7 out of 10 for basic game play (whcih is kind of fun), but minus 11 for the netcode issues plus the obvious push to try to take my money without delivering a good product.
+With shy of 1,900 hours into the game or about 79 days put into the game I feel like it's time to un cover the real Warface and what this game truly is.
+To start off I started playing Warface back in August 28 of 2013 on the Xbox 360. I instantly became hooked and met some of the most out going people on there. At one point, people were sending extra controllers to eachother because controllers were breaking from playing so much. December 3, 2014 Xbox 360 Warface was shutdown after people put hundreds of dollars into the game. Being a huge let down to all of us dedicated players, some of us moved onto the pc version. Some stayed some didn't (Most people didn't) I was one of the ones who stayed. The point i'm trying to make is I am as loyal as loyal could get to this game. But do you think any of the devs listen to what needs to be fixed and what needs to be balanced?
+
+-Me- Excuse me devs, but um some of the guns are very unbalanced and they need a buff or just nerf the op ones
+-Devs- Yea we got you were going to add 102 new gold guns next month so its more balanced
+-Me- No no I don't think you get it. THE GOLD GUNS ARE OP AF
+-Devs- Yea isn't that dope dude? that's why were adding more! Plus it means more money for us!
+-Me- *Face palms* K 
+
+Instead after 1,900 hours and 200$ being put into my Warface account I received a faulty ban. Now woah woah before you start to roast me about "Oh you just got bored and decided to cheat. blah blah blah I don't feel bad" I literally don't even know where to look for cheats/hacks and honestly I was complete shit at the game. My KD was a .74 and I never did that good. Plus when I was banned I wasn't even playing the game. I took a month break because of school..so it was kind of impossible for me to get banned. Anddddd why would I risk all of my money and time? I would'nt. Instead of banning the people using vpns or hack, they ban someone who supports them. I must say, my best moments in Warface are not because of the game, it's because of the people I play with. 1.5% of the community are loving and caring people that just want to play the game. The rest are people that don't belong on the NA server and speak russian or some other language. Stay away from this game at all cost. Bad devs, bad servers, bad community.
+Before you say that I barely played this game then let me inform you that I played this game when it was in closed beta testing as a browser game about 10 months ago. I just downloaded it to try it now that its on steam to see if there are any big changes and here is what I found.
+
+The game still has the same horrible cash shop as before and I really dislike cash shops like this where you can buy weapons and gear for real money, or you can buy them with ingame credits that takes a while to earn and the weapon only last for about 7 or 14 days (alot of guns are permanent though). The game does have decent balance between all the guns but I still don't like the cash shop system it has and you need to repair weapons. 
+
+I play a bunch of different games so I don't have the time to no life in this game for 7 or 14 days and grind. The best kevlar and helmet can only be bought for the co-op currency and only last 14 days. That system really sucks for me since if I buy something that last 14 days but I only play 7 days then I obviously lose on it. I am also not interested in the co-op part of the game. 
+The cash shop also seems to rotate a few weapons every 2 weeks that are only available for real money and only last 7 days. 
+
+The game has very small maps, granted some people might actually like that but I really hate these incredibly small maps where you can spawn and throw a grenade to the enemy spawn, it also just encourages a bunch of nade spamming and camping and spawn killing.
+
+The dedicated / peer 2 peer / lobby server system is a good idea with potential but as it is right now after you play 1 map it takes forever for the next one to start on most servers because people always seem to leave and the host has to start each new match manually it seems but this could be cause the game is in beta. There are also always people that lag in every single match.
+
+The games graphics are not that good on max settings. I know graphics are not everything but when they keep using it as a selling point and even on steam they keep bragging about "cryteks cry engine" for example this is what it says under features of this game: "Expect the best – Crytek's trademark quality meets free-to-play gaming" You kinda expect them to deliver but they really don't, this game looks like its from 2008. 
+
+So to sum it up: Game has bad cash shop, small maps with nade spam and campers and spawn killing, lobby server system with hosts that is buggy, laggy and slow. Graphics are not as good as they advertise them to be. Overall "feel" and "smoothness" of the game is really weird in my opinion and I just don't enjoy it that much. If you play this game then please look at the characters movements and stuff in the game and you'll see how sluggish, weird and awkward everything is.
+
+Keep in mind this is just my opinion of the game, feel free to download the game since its f2p and try it for yourself, I am sure plenty of people will like this game.
+
+Oh for all the people defending the game and saying its in beta, then yeah it is, but its been in beta for like 1 year now and the same problems exist now as they did back then, so to me that is no valid excuse. If you like the game and thats your opinion then good for you, but please stop defending the game by simply saying "its in beta, what do you expect" bla bla bla.
+As a person having ~60 hours into the game, I thought I would give my words of wisdom to those that want to see the game before downloading. Having played FPS games and observed them since 2002, I have a good understanding of responsiveness, smooth combat, progression, and balance for weapons. Now onto the show.
+
+First off, there is a massive problem with the progression system. Its pacing is off putting for players. Nobody is going to want to play 15+ missions with ~15-30 mins playtime each to progress a few pieces of gear that are only useful for slight improvments to your weapons (Supressor, LMG weapons, Same class gear for 4 missions). All of that time doesnt make up for what you spent in time.
+
+Starter weapons are really bad, but understandable. New players get a base weapon kit to work with, breaking out of the same weapon threshold take ~10 hours for a gun that is an "improvement". Father in their progression does provide access to more weapons, its those weapons however that make a difference in harder missions.
+
+//Speaking of weapons, progression SHOULD NOT include better stats weapons, only access to weapons that provide more flexibilty in certain combat situations.// (Developer Recommendation)
+
+Animations. Are. PERFECT. Reload animations and such is the bread and butter for a good FPS game. With that, its sliding anims, and crouch animations in third person are a little clunky. First person has great animations however.
+
+Movement... its not good. Its always delayed and you feel as if you are going slow for a sprint. Movement input should be direct and not tied with animations, but to shadow the input. Vaulting feels weird and not smooth.
+
+PvE is broken, to an extent. Normal and easy are what you would expect, however hard makes it similar to special operations in difficulty on normal. Its not good, NPCs can one shot if they have a shotgun. Scripted events in the game, like the helicopter extraction or mission objectives are buggy and dont trigger when you complete them. Its a recent problem however that I've seen.
+
+P2W is also broken, but expected. Marketting throws in your face as you join the game to a gargon of info about store related ads or the progression keeps reminding you that your playing a F2P game and paying is somehow that way to getting out of a rut. I personally never purchased something purely to observe that progression as far as possible to get enough info to write this review. Again, weapons that are bought have a HUGE buff to stats and effects. PvP I havent tried much of, however from what I did play its a toxic, broken mess of a system. P2W is real in PvP, its real in PvE, and its downright horrible for F2P who dont want to spent money on a game.
+
+Graphics, system options, and neverending content is good. Warface i think always tried to provide the "new" to warface, even though you had problems with base game mechanics. Great job to them for that. However a section of their development team needs dedication to bugs and balance to the game in general. (Quoting previously said remarks above)
+
+All in all the game is good, but not good enough to match standards of "Good" FPS games. Its fair in terms of a rating. If you join this community expect toxic behavior with people, P2W aspects invading everything you do (PvP and PvE), and hard putty paywalls and "snail" progression.
+
+Im Sorry Warface. I DO NOT RECOMMEND.
+Guys, I have this damn bad luck to find great games but ruined by their devs.
+
+Warface is definitely one of these. It’s an awesome game, cool game-modes and features, a lot of potential and all this is being [I]#%^@[/I] by My.com, company that's trying to kill it by Pay2Win and Pay2Play changes. 
+
+[h1]Pros[/h1]
+[list][*]Optimization
+[*]No any serious bugs
+[*]Graphics
+[*]Features and mechanics
+  [list][*]Crapton of items
+  [*]Badges aka Challenges
+  [*]Co-op missions[/list]
+[*]Gamemodes with cool, original (at least for me) features[/list]
+[h1]Cons[/h1]
+[list][*]Game devs/publishers
+[*]Pay to Win / Pay to Play
+[list][*]Item’s and repair costs
+[*]No longer being able to buy guns permanently[/list]
+[*]Cheaters (more below)
+[*]No custom games just with friends (despite of rank differences etc.)
+[*]Lack of small features such as:
+  [list][*]In-game option to change the nickname
+  [*]No in-game voice chat[/list]
+[*]No option to refund what you buy
+[*]Little bit laggy servers (at least sometimes)
+[*]Level groups: 1-12 and 13-82? What the hell?
+[*]One of the stupidest AI bots I have ever seen[/list]
+I did not play this game that much (I am not a huge fan of FPS games) but I found Warface to be perfect for me. Why downvoting then? 
+Unfortunately, as I wrote once in one of the posts - Paying for free to play game is fine and I could do that just like I did for another one I am playing but ffs, guys!
+The amount of money you would have to spend here to achieve anything is way too much. Especially when bloody game devs are doing everything to make people pay EVEN more. Weapon costs aren't small and once you get enough of money to buy it, you realize repairing it is so expensive. 
+Recently they removed an option to buy some guns for permanent use which means that you will need to re-purchase them after some time. This is not fair especially to the players who wants to play for free and achieve something in a normal way, after a much longer time that those who pay. The gap between old (even 1-2 month old) and new players is going to be huge. Just imagine an old player who bought some stuff before that change, permanently and a new dude who can not do that anymore. How much money and time they will need to buy the same stuff?!
+
+
+Enough of talking about P2W. There’s another one thing that I just have to talk about here. Those are hackers.
+
+[h1]Cheaters[/h1]
+I am going to compare Warface to Unturned (I know it’s kinda different game) but it’s just a perfect example. Unturned is also F2P and I played it for a very long time as the admin (still do). 
+All this time I had this feeling that there’s a lot of hackers and other people were just laughing that I am bad, wrong. Once I said there’s probably 40% people cheating and guess what. This magic moment happened when game dev decided to add BattlEye anti-cheat. 8K players got banned in the first two weeks!
+I am pretty sure it would be exactly the same in Warface. You would see hundreds or players banned and crying on the forums. https://www.youtube.com/watch?v=cRi5kZgDwSU I am still kinda new here but I can see some weird crap going on.
+[list][*]People insanely good
+[*]Other skilled / high-rank players complaining about hacks
+[*]Game devs trying something that simply, does not work[/list]
+
+And they want money for this? Nope. I don’t think they are that poor. Instead of wasting time on their own anti-hack solutions, they should invest some money in a solid anti-cheat. (At least this one goddamn time).
+
+[h1]Things I love and hate[/h1]
+I absolutely love game modes like Bag and Tag, Storm or Domination. Some of the maps or features, that how things works in this game are just amazing. For example helicopters with spotlight, scanner machine or plane showing the locations of people on Bag and Tag, fighting in the snowstorm on Domination or interacting with some machines. http://steamcommunity.com/sharedfiles/filedetails/?id=914890695 Small things like badges aka challenges, unlocking new guns and stuff - that how many of them there is, sliding or helping a teammate to climb up! It's really awesome. 
+http://steamcommunity.com/sharedfiles/filedetails/?id=914866776 These things will definitely keep me in the game for some time yet! And guys from My.com - you’re really high on my list of [b][I]hate ‘n love devs[/I][/b]. I love you as much as I hate you. 
+
+[h1]TL;DR[/h1] Game is awesome, have some cool features worth of checking out. You can have some fun but hackers, P2W/P2P features and changes made by publishers are going to kill it and make you want to uninstall it.
+
+[I]I’m going to keep this review updated, as long as I am playing the game so game devs have their chance to fix some stuff…
+… Or ruin even more.[/I]
+After playing this game nearly 200 hours I have been through a lot. The game has changed providers from some company, they were good, balancing the game, bug fixes, not pay to win in a terrible sense. Then my.com came along. They ruined it... They added Pay-to-play access only content to the game. As well as headshot lock on weapon, over fucking powered snipers, and more shit you HAVE to pay for with real cash to get. Once paid for you own every lobby. Like the M16, it literally locks on, you almost never miss a head shot. Can you earn through playing? No, you have to buy it. For how much? I don't know, because you have to pay for these crates which have a random chance of dropping the piece of shit. If you're interested in this game, I would go somewhere else. Used to be good, now it's being deleted from my Steam.
+I played this before it had steam integration and I played it a lot. So believe in me when I say this is the worst example of a pay to win, slow-ass progression system game you will likely play (which isn't Battlefront 2 in early access).
+
+MULTIPLAYER
+---------------
+Now there are only two REAL modes in this game and that is multiplayer and CO-OP. Now let's just throw multiplayer out of the window.. why you ask? This game is pay to win unless you have the audacity to grind through this game. Now grinding ain't that much for me in a general sense, after all I level multiple accounts and characters on MMOs and MOBAs like league, AQW, runescape and WoW, not to mention I have grinded all of Warframe at this point. So when I say that grinding on Warface is a pain in ass that you might as well be rich and buy it's overpriced items with your "hard earned money".
+
+Multiplayer is a complete s***fest since it doesn't matter how good you are at the game, a moderate guy can kick your ass with the paid items. Not to mention the level items require high levels which you can't grind good XP off of multiplayer since so many losses are going to be in your face. Not to mention that XP isn't much of a high amount if you win, since it's mainly based off of your kills. Overall multiplayer shouldn't be touched but it's the only option IMO... why's that?
+
+COOPERATIVE
+---------------
+
+Cooperative is probably the only alternative to multiplayer that is quite popular. You play as a small team infiltrating or defending certain objectives. The only problems are that you barely get any XP from these missions unless you get your first win bonus, not to mention the amount of variety they have in these CO-OP missions is so lacking that it might as well be the exact state of Battlefront one's season pass. Everything get's repetitive. Barely any more maps, same old things you will see. From playing all that crap, there's defending a limo, attacking a helicopter, attacking a big guy, attacking a big fat guy and running through streets like every map is a favela but it isn't. The only intruiging one that I bashed out because it had a challenge was the Tower where you go up a floor and it was basically a survival. Although you would mainly see hackers beat these levels rather than a team's legitness, not saying anyone can't do it because they can with good tactics.
+
+PROGRESSION
+---------------
+Now it is nice to see that the progression did get faster albiet only a tiny bit. XP and Cash are slowly earned through doing missions or multiplayer and if you already did those before today then you will get even less since you get a first win and barely anything else other than.... VIIIIPPPP.
+
+GIVE US MONEY
+-----------------
+Literally everything in this game is made so you can't be f***** to grind anymore for XP or cash or wait for an item or wait for your team to revive you or anything like that. This game slams the money option in your face everywhere, you want to revive without medic? REVIVE COINS AND YOUR ALL OUT. You want this sweet a** weapon we gave you for 30 days in a daily login bonus THEN PAY US YOU LIL'B*****. No one wants to spend money on a free to play game unless that game is worth playing. A good example of not slamming it in your face is League of Legends and Warframe. These games don't slam the "pay us you lil'b****" option since nearly everything in those games can be grinded out and not so hard that you feel like skipping, They put good effort into their games and they even reward you daily with not just login bonuses but more. Whereas Warface only has daily login and it usually has the SLAM "PAY US" already in each one.
+
+REPAIRING
+-----------
+Now anyone likes the feel of getting that amazing weapon or armour piece that they took so long to grind for, but no one in the entire world wants to use their hard earned cash that they just acquired to repair some shit they grinded for, you might as well stick with default items if you want to efficiently grind this game. Think about it, on average every game I played, about 10% of the cash I got was used for repairing... ONE ITEM. And this is without the first win bonus. The only way to get more from cash is doing multiplayer but free to play players don't like getting their a** handed by pay to win fa*****.
+
+My Honest Opinion That Could Save This Game and The Reality
+-------------------------------------------------------------------
+If they did these things, the game would be on it's way to a peak game...
+
+Remove
+======
+Remove repairing bu*****
+Stop slamming us with little incentives to buy your overpriced items and DLC
+
+Changes
+=======
+Reduce prices and give daily discounts
+Add more maps to cooperative
+Increase XP and Cash rewards to make the grind hell more enjoyable but not to easy
+Add a seperate multiplayer mode where you and others have default items and armour making everything balanced
+Give more bonus rewards to teammates who help out their team with their abilities (more XP and cash for helping team with your class abilities)
+And finally have the XP and cash output balance between having won the game and having kills or assists or team helping. If one wasn't sufficient, it wont drop the output that much and you can just get more out of the other entries. For example having lost a game doesn't mean you should have a massive loss in XP or Cash, just have the Win XP/Cash output be less significant in this output of the game.
+
+Reality
+========
+Now the harsh reality comes in when you put these factors in, the majority playing multiplayer are pay to win fa***** who waste money in this game and it's a quite a lot of people, hence these a**-hat developers will never change the game to make this less of a cash grab. So the majority of these changes which could completely make the game barable will never happen...
+
+After all the years playing this game, I rate this a 1/10.
+[b]Had potential.[/b] [spoiler]Was good too.[/spoiler] [i]But then things changed. [/i] Devs started running behind money. Ruined the game, and the mood. Would recommend if things change.
+I used to really enjoy this game, even with its pay for premium gear / level up faster model. I took part now and again buying exp boosters to help level up and aquire weapons/gear. I figured it was worrth supporting the developers. If you run anything but the basic gear you have to spend earned ingame money (or converted real money) to repair your gear. It used to be balanced so that if you only played for first time bonus and played well, your repair costs balanced out. You didint really make any money but you werent losing it either. But now the game has tweaked the algorythm so that you have to pay to maintain your gear no matter how you play. You can sit in the back and never get hit and still have a $1000 repair cost while only earning a max of $220 with in-game fist win bonus. Play the same level again and only get $120. So if you dont pay for the boosters, you quickly run out of cash and you have to run the lame level 1 gear. Those around you paying to play will just run the map. I see a mass exodus now of long time players. It's lame, after 2 years I'm uninstalling.
+The game Warface is slowly becoming impossible to be played. I can remember the times when the game could be played several hours a day. At those times the game was owned by a different company which took care of it. Nowadays, the game is administered by a different company and playing it is very bad. It is obvious that the owners of the game take care only of money from the game and not of people who play it. What is the problem? The thing is that most people who play the game cheat and this makes playing the game difficult for players who do not cheat. Cheat is used by so many people that it makes it impossible to play a normal game. The Golden Age of the game is over. It used to take some seconds to connect to the game. Nowadays, however, it takes several minutes. Why? Because people do not want to play against cheats. Neither do I. That is why I have decided to undertake the process of sending this message to everyone who has mentioned the word Warface. Moreover, I will also add some links for cheat in the game to the message. Why have I decided this way? Because the more cheats in the game, the less profit for the company that provides K oder Randombox. The company should take it into consideration and act in favour of fair players!!! The message for them: Do not invest into new weapons or maps since nobody would invest into them because of cheat players.
+So make an effort to stop cheating players! No chance for cheats! Enable making a detecting server for Warface and choose an administrator to check the fairness as it was the case of Far Cry 1. Pay the administrator for every unfair player who was marked and announced. Those steps would make the fair players happy. A game without cheating is a game with more players and that brings more profit. ................
+Back in 2014 when i first started this game i wouldve recommended it in a heartbeat. Now this game is trash, free to play and pay to win trash. 7 out of 10 people speak spanish only with the red bars and lag to show for it. The network code is in worse shape then our nations debt, and instead of doing something about it my.com focuses on new skins... I wish i could quit this waste of energy game but I have too much in it at this point. If your looking for a new free to play fps game to try Warface is at this point not worth the hard drive space.
+It really saddens me to write a negetive review for Warface, as it was one of my favorite games and had so much potential.  My.com ruined the game. First off, you can't earn very much money any more. Upkeep for weapons cost far more than you earn, so you can't buy weapons anymore, at most you can save up and rent a gun for a  few days. This also means that your permanent weapons will slowly break because you can't earn enough money to fix them, forcing you to play at high levels with the starter weapons. It just won't be fun at all after my precious TWM breaks.  You have to pay to get good or permanant guns now. I saved up 7,000 dollars, only to see it dwindle away as I played, because of not earning enough thanks to my.com, and expensive upkeep. Second, lots of people are having their accounts deleted. My.com made Warface buggier than an ant hill (at least the launcher, 60% of the time I can't launch the game). Crates are becoming extremly expensive, costing a large amount of premium currency that you buy with real money. It's sad to see that warface went from free too play, to very pay to win. I know there are more issues due to my.com, but this review is getting long. Before my.com: 8/10. After my.com: 3/10. Goodbye Warface, I think today will be the last time I play this game.
+I've put plenty of time and money into this game to get the whole experience.
+
+PROS: Good co-op missions
+
+TONS of generally speaking well designed pvp maps
+
+Great animation quality
+
+Great gear can generally be unlocked without spending a penny
+
+Great visuals
+
+Intuitive real time weapon customization
+
+Good two player co-op interaction such as climbing assistance, picking up knocked down comrades, and the basic healing, armoring, and ammo filling mechanics
+
+CONS: Every single game you play will be laggy, regardless of if it's co-op or pvp, regardless of where you live, and regardless of what your connection speed is
+
+If your kd/r is above 1.5 you will be accused of hacking constantly, if it's above 2.0 you will be kicked from every pvp server you join
+
+Unlocking the great gear I mentioned earlier will require between 300-600 hours of gameplay depending on skill level and what tier of gear suits you best
+
+In general, gameplay is fairly limited in variety beyond run, point, click, kill
+
+When you quick join a game chances are you will be limited to TDM on whatever map is at the top of the selection list at the time, typically meaning you will only be playing pvp on 1 map every time for a few weeks on end unless you want to use standard search and play with people who have sunk hundreds of hours in the game in Plant The Bomb.
+
+If you want to get great kit of the start prepare to spend at least $100 to cover all 4 of your classes with a good gun and some boots, gloves, and body armor
+
+Gunplay seems to lack knowledge of actual firearms. You will automatically charge your auto and semi-auto weapons everytime you reload, regardless of whether your bolt is locked to the rear or you're tac reloading. Recoil typically means your weapon will vibrate and your muzzle will float upwards at a constant rate. And the classic holographic and red dot sight faux pas of reticles being visible without actually ADS
+
+Player movement feels sluggish and loose without the ability to make tight adjustments quickly
+
+Many maps have issues with hitboxes overstretching their objects and creating invisible walls. This is especially noticeable when firing tight into cover.
+
+
+
+
+
+
+Hi, 
+I know I am a year late to respond but I will give the truth. My.com as paided hackers of warface to keep playing the game because they were depresate for people to play the game. Think I'm joking? I'm actually serious because I know who the hackers and they have showed me proof that they have sent him money to keep playing. Also I will not be saying names so do not ask. Also, the responce of the developer saying, " All the content in the game that can be purchased with premium currency is either cosmetic or locked away behind Random Boxes that make weapons incredibly hard to get." Yeah my.com nice job you basically said the game is pay to win and also do not give bullshit about cosmetic. Don't start that bullshit. 
+
+Their new anti-cheat is a joke. Seriously it's a fuckin joke for hackers. Oh I forgot to mention this. THE NA SERVER IS FULL OF SOUTH AMERICAN PEOPLE! Shocking right? Not really. They want players so badly that have a a FUCKIN ASIAN SERVER ON NA! Now the community is so damn toxic. Again think I'm joking? PLay the game and reach professional players server (lagging server) you will see how toxic they are. My.com is trying to become like EA but at least EA would take care of hackers, but these fuckers paid hackers to keep playing the game. 
+
+I honestly want this game to die because their is no point of fixing it now. This game can't be fixed now, so RIP for the old Warface. If there was a option to upload screenshots, I would have posted the transcation they have made to hakcers. So save you're hard earned money and do not play this game at all!
+Pay to win. Buy weapons and upgrades, they last for a few days then you have to buy them all over again. You can earn money to buy some weapons just by playing but you cant earn the credits you need for the strong weapons. Essentially you play and lose matches repeatedly against players who pay money and finally earn enough for the gun you wanted and it is gone in 7 days and you have to earn it all over again.
+I've played this game for over 900 hours, but now i'm quitting. Ever since Mycom purchased the rights for the game, every single new thing they implement means nothing but trouble for the gaming community. Warface is on it's way  to hardfall after Mycom has introduced new repair cost scheme, which made it impossible for players not only make profit from co-op matches, but even  fixing their weapon and armor after completion became a fantasy. The new economy system is there to make sure that you spend substantial ammount of money for doubtful pleasure to play ever repeating episodes of co-op matches or cheaters infested PvE's. People are leaving the game,NA server is already empty and all what Mycom is doing - evry now and then introduce new random box weapons, which you very unlikely will win while still spending real money. Every one of so called "updates" are so irrelevant that most of the players won't even notice it, but serious issues are getting ignored. The game has degraded in the matter of year and nothing is getting done to fix it. DO NOT WASTE YOUR TIME ON THIS PoS and do not even consider spending your hard earned money buying useless pieces of equipment.
+F2P, but Pay to win. There are level locked weapons (Better guns unlocked at later levels), and 90% of the weapons you get are RENTED for a period of time. Then you have to pay to prolong the rent period. You also have to pay to REPAIR YOUR EQUIPMENT. The biggest turn off for me is that you can pay to get better armour (better armor=more shots you can take). [b] Gunplay is determined by how much money you put in the game [/b]. Also there are 4 classes and each class has a type of weapon it can only use, for example a medic can only use shotguns. So if you want to be a medic and use a AR. You can't. Everything is earned over leveling up (attachements, guns,armor), so if you go up against a higher level player. You're are most likely going to get slaughtered, even if you hit more shots.
+
+
+Tl;DR: Basically a pay to win shitty cod
+Warface was and still can be a good game if the publisher (My.com) makes significant changes to the in-game money system, specifically the real money currency (Kredits). New weapons introduced in each updates following the editor's change were really unbalanced (2 different class' weapon can be used as they were only one). They keep telling us that this game is not Pay2win... It's not true from what I can actually see. High tier weapons needs time (but a lot of time !) to be unlocked and compared to the weapons that can only be acquired with Kredit, something is still missing. Unlocked weapons is still low powered when facing to the "Pay2Win" weapons. Of course, pro players can handle them without any problem, but please think about the new players... will they be capable of acquiring these weapons ? Not at all, they need to pay (the best option for them) or they need to play a lot... Overall, this game balance is not perfect...far away from that... Only three kinds of person still play this game: players who don't want to lose the money they payed in this game, ignorant or new players that know nothing about Warface (yet) and of course...hackers
+
+*Answer to the developer*
+"Officially" I'm still playing Warface because I still trust my.com to be able to resolve all the big issues we have now, of course, we, as players, don't want to see the game developers starving because they don't have enough money to run the game. But please make a difference between the needed money to run it AND complete cupidity just to farm money from our hands. DON'T put a price where we shouldnt have price and put a decent amount of Kredit where u seem fair to add (Weapon box, skin box,etc) And last, put the price u want for the "extension" (Steam bindle, Operation,etc.) Btw, the idea of operation is a good start (like CSGO's Operation) but unlike CSGO, Warface doesnt have 100000 players everyday online, 4000 is like the max cap for Warface. Think BIGGER, but do it steps by steps. And now, "unofficially" Im starting to play Warframe, and I must say, that game has a fcking good currency balance and Warface is far away from it.
+
+*One year's break update*
+Really appreciate my.com did put back a crown box system, chance of getting a perm. weapon is still low, but at least players can buy those without paying with the premium currency. Servers are still pretty bad in some case, maybe a few more servers for a more reliable connection ? This game is getting a bit better, but there's still plenty of work to do.
+Unless you enjoy P2W games, keep away from this. At first, I thought My.com would make this game better than Crytek, but they did the exact opposite. Repair cost for weapons and armor are so high, you don't earn anything, guns can't be brought in the store forever now (You can get it for 30 days, but having it forever is better), the random boxes with good weapons cost kreds or whatever they are called, and I migrated my account, but My.com doesn't even have my emal. (Its as if I never made an account), plus when you lag out, you still have to pay for repairs which is stupid (This was first create by Crytek, but My.com can remove that). Until all of those above problems are looked into, I'm not playing this game.
+This game was pretty good up to the point when my.com decided to make literally everything P2w 
+The random box system was fine for warface dollars because they were earned in game and wasn’t an actual loss if you spent it all on a random box and didn’t get anything whereas actually putting cash into the game for a slim chance of getting something good just isn’t worth it 
+I didn’t really mind when skins cost credits because they were purely cosmetic but cmon my.com the playerbase knows best try to actually listen
+I played warface for a couple years. It was really fun and simple. Then all these changes started happening. It got confusing and made playing difficult and frustrating because of low ping or something. So i unistalled and quit playing warface for several months. I recently decided to try it out again to see if there was improvment. It only got worse. My.com game center is behind everything. I have never heard of my.com. Then something about migrating accounts or you're stuck with a new account and a interesting username. I did the first training mission as assult and sniper then realized i wanted my old account back. so i did my best to follow the instructions for migrating my account. But over and over that famous error 9992 kept popping up. So i followed instructions to get fix that. Still didn't work. roughly 6-8 hours of installing, unistalling, password reseting, etc. It should not have had to be this complicated.It kind of makes me want to bust out the lancer and chainsaw something ugly
+Since the transfer, it seems my account is gone.
+
+Thanks, rip like 20 quid or something. 
+
+Thought I was playing my account but it turns out to be fresh acc. 
+
+No I was never banned, now I don't know if I can get onto my old acc or if it exists. 
+
+Fuck you my.com
+Let me preface this by saying, I was in the open beta while it transitioned to "full game". It had many flaws then and was clearly not finished.
+
+Little has changed. The servers are still a mess, the weapons are unsatisfying and the UI is awful.
+
+If you want a fun tactical shooter, play a CS. If you want a realistic shooter, play ARMA, or Insurgency. If you want a casual, no skills needed shooter, there is CoD. This game is a little of them all, and is doing a bad job at each.
+
+Add to all that, the horrible freemuim model that is being forced upon you is very invasive.
+
+Just play something else. Don't even try it.
+So for a free to play fps game, it doesn't get any better than this. However, though it may be a free to play, you will suck if you don't invest money into the game, the decent gear costs too much to use now and they pretty much give you complete garbage weapons to use if you dont buy K (In game currency). This wouldn't be so bad had it not been that even if you want to buy the good weapons, you have to try to buy them with random boxes using real money. Yes, you have to gamble real money for decent weapons........... face palm. Worst part about the whole thing is the fact that your odds of getting the weapon are 1 in a thousand, and the boxes cost about 60 cents each. I have invested over 60 dollars, and have not recieved any weapons from the random boxes. I will never invest another dollar into the game, and beg you not to waste your money, instead just go buy a full content game.
+
+Had it not been for this major flaw, the game is actually well put togeather. Good graphics, runs great. 
+One last warning, Hit register in the game is officially the worst of any fps game you will play, I have a 3 white bar connection which is decent, but anybody with a redbar connection (which is about 90 percent of the players) will tank MOST bullets, and they can shoot you behind walls do to latency. Before My.com took over this game I would have recommended it highly, now I would say its still kinda fun, but definately ruined the best parts of the game. :( So, no more recommendation from me.
+This game is a complete trainwreck. I first started playing this game when it was up for open beta on the Xbox 360 many years ago. I even played with the main developer if my memory serves. I recognized it had issues then but knew it was still in development and needed time to be refined. Not long after I broke my Xbox and switched to PC. A few years later I remembered this game and redownloaded it. I was shocked to see the problems hadn't been fixed. So lets run down a few. 
+
+Bad level design: The co-op levels are well designed and feel chaotic and organic enough to serve a mission format. I have no complaints about that. The Versus maps, however, are atrocious. They are cramped, full of easy to exploit lapses in design like a sniper position in the shipyard map that allows you to snipe the enemy team's spawn, poor spawn placement allowing spawnkilling to be not just easy but encouraged to gain the advantage at the expense of any chance for the team being camped to ever recover, not optimized for the classes allowing snipers to be effective in all maps at any distance, and horribly cluttered. I feel like I'm playing a custom CS:GO map made by a guy explicitly to give himself an advantage. 
+
+Poor weapon design: the weapons feel pretty much identical, not like you could ever test them all seeing as they're basically completely hidden behind paywalls, but I'll get to that in a moment. The 7 rifles I've managed to play with were basically identical and somehow felt like they were worse the longer it took for me to obtain them. Despite having changes in their stats according to a very unhelpful graph displayed below them, I never felt like I was at any significant advantage for changing from one gun to another. Aside from that the guns show barely any disadvantage for the method of use you choose to use. You can hit enemies from across the map with a shotgun and inflict enough damage to kill them after 4-5 rounds. The sniper rifile is easily aimed at close range and can be used to shoot at whatever range you require of it. The rifles can be fired like sniper rifles much easier than should ever be possible. There's a handgun gifted to you after logging in a few days in a row that is completely unbeatable. Short range, mid range, long range, it's practically a one hit kill. How is that balanced? 
+
+The Community: I can understand the lack of voice chat. It is much easier to maintain a less toxic environment. That being said, the lack of voice chat has inadvertently allowed creative trolls to come up with more nefarious ways of causing chaos and annoyance, and the game has given them many tools to do so. One of the singleplayer missions requires all the players get onto a platform that lowers down to move on to the next part of the mission. All players must be on it to progress. So as you'd expect, one player chose to simply run in circles a few feet away from the platform for 9 minutes before I gave up and quit. Ok, so how is a troll being a troll a complaint for the game? Well, the game removed our only means to communicate with him, and our only means of mitigating the issue, namely kicking him. Yes. The game gives you the option to vote kick but doesn't allow you to do it if you're far enough in the mission. How on earth does that make any sense?
+
+Matchmaking: I should not be forced to play against players several levels above me who have had significantly more practice and playtime than I could ever hope to get. I'm a level 4, playing in a game of level 1s and half a team of level 12s and higher. Oh and to top it all off, we're outnumbered because the matchmaking doesn't bother to balance the game as it goes along. TF2 and CS:GO do this. I get matchmaking isn't perfect in those games either. I've played games where it's 7 vs 3. The problem arises when it's consistent. I have played more games in extreme imbalance than I have balanced. This should not be that bad. 
+
+Monetization: ...Jesus christ. I cannot even begin to force myself to write out all the blatant pay to win practices this game employs. I'm talking Battlefront and Clash Of Clans levels of pay to win. "Kredits" that allow you to buy armor that increases your resistance to damage, boots that make you faster, boosters for your guns, and XP boosters. Hell, even revives for Co-Op are pushed for you to buy. I guarentee they would charge by the bullet if they could. I get they need to make money. That's fine. So, then, how is TF2 so successful? Is it because the only thing you can buy with real money is cosmetics, accessories, and weapons that may appear to be better but have downfalls that keep them balanced? I suppose we'll never know. 
+
+Conclusion: This game is free and I want a refund. I am profoundly disappointed in the direction this game has gone in the years between the beta and now. I do not recommend you download this game even if it is free. Do not buy any in game items. This game is an absolute waste of time and energy. I gave it every chance and was let down every time by it. Do not download.
+A decent game for earlier levels, but upon reaching higher/professional ranks, the game becomes a pure money grind.
+Equipment in this game requires repairing, and higher level gear that provides powerful stats to the player requires high maintenenance. Starter weapons do not require repairs however, but bought weapons do. 
+Gameplay wise, it's "alright". However, the option to change fov is missing and playing at 75 fov gives you a headache. There is no bullet velocity or drop, so weapons are hitscan and require little to no skill except controlling recoil. 
+Overall, a decent game but spoiled by repair system and microtransactions
+Dead thing now. 
+You literally lose money when you play. I mean, when you end a mission, your stuff repairs cost more than you earn.
+[i]naaah, totally not p2w[/i]
+
+EDIT: Okay, I am honestly surprised. I've downloaded the game and repair costs are about 1/2 of credits for finishing the game - no matter if it was win or lose (of course using equipment  appropiate to difficulty level). That's actually quite good. If game keeps me for longer, I'll try to write a full review. But now the biggest problem is really reduced. That's cool!
+I probably have around 200 hours of total gameplay including the ''original'' version.
+Fucking My.com ruined this entire game. 
+The game was very very very fun before they decided to fuck it up.
+It's just now a p2w shooter, nothing else. Don't play this game... exept if your wallet is loaded.
+It was fun for about 3 days, after that it's a money pit...  If you aren't willing to spend at least $50-100 it's not even worth playing, it seems that people with more godlike weapons and armor are matched up against people with earned grind cash gear.  The days of slide and 1 shot people in the face with a shotgun is a thing of the past...  Not to mention the complete bullshit connections, every single fucking game my connection is just below the cutoff where it auto kicks you for high latency.  If you pay for VIP status you get placed on servers with better connections - It's a P2W cash grab
+Its basically p2w, They'll(whales) say "It's technically f2p cuz u can play the game for free" But if that was true about f2p games than no f2p would be playable cuz. Reason its p2w is the Best Guns are available in RNG boxes always, and other normal weapons are to be rented or bought with Credits aka real money and every time a new gun comes out they drastically nerf the previous ones making them unable to use satisfactorily forcing u to try and spend on the new one. Now u might be wondering thats the case for all f2p fps. But nope when it wasnt under my.com it was actually f2p but the problem was their servers and now the problem is the servers and the money. And if ur looking  for actually f2p fps games i literally could name some for ya, like Ironsight, dirtybomb etc. These are f2p yet not p2w and player base is also better than warface...take it from a guy who spent more than 3k hours in this game (2k+ on steam)
+took a break from this game for a while only to come back to a reset account with missing purchases. i regret spending money on this game. uninstalling
+Let's make this simple...
+
+Here's what I like:
+-Easy to level up
+-Ease of earning new equipment
+-Decent Level Design
+-Fast Paced Run-n-Gun
+-Decent Graphics
+-Few bugs and glitches.
+
+Here's what I don't like:
+-Terrible server balancing between players (i.e. lvl 10 pitted against lvl70+ getting their butts massacred, over and over again.)
+-Re-tar-ded(cause steam is PC and hearted it out) AI for Co-Op servers.
+-Bag and Tag.
+-Pay-2-Win players have overwhelming stupid advantages to the point it's basically cheating.
+-Cheating is rampant and reporting players does nothing. Admins never follow up on reports.
+-Purchasable weapons limited to what you can already unlock through VP.
+-Repair cost often more than the WF$ you can earn by winning a match even if you come in first place.
+
+So basically this is what it boils down to. This game has a lot of potential. But I don't think the devs are ever going to do anything more with it. Crytek games were basically made to show off the CryEngine and it's capabilities. This game has a lot of balancing flaws that I don't see getting fixed any time soon. One of them is the annoying fact that the in-game repair costs will eventually eat away all your WF$ if you play for more than a few hours at a time. Regardless of how well you do in-match. I often place 1st or 2nd on each match and only earn a measly $200-$350 WF. But my repairs cost me in excess of $400 each match. So you do the math. Once my money runs out my weapon degrade and I am forced to revert to the stock weapons which suck so horribly that they're pointless to play with at higher levels. So I'm forced to log in the for "First Win of the Day" Bonuses on each game type every day, play and win a match in each type, then call it quits for the day. So I basically get shoved into a corner of keep playing and end up paying real money for fake digital money, or not play hardly and try to build up enough in-game currency so I can play for a few hours at a time. Not to mention whenever I do play I can barely get any experience or money because a lot of times the servers are so horribly balanced that I just end up getting game-r-aped by super high-level people who head shot every single person they kill and win matches with 60/10 K/D ratios. Most of them aren't cheating they're weapons and gear are just so OP because they pay to win.
+
+The player balancing issue could be solved if they added more ranking channels for mid-echelon players. Like the first 10 levels you are playing against other level 10 or lower people then you get moved to the "experienced" player channel that ranges from 10-80+ or howerever high the level cap is. So you've got noobs, okay players, and game-gods all on the same servers. This results for very unfair and unbalanced gameplay. 
+
+Will I keep playing it? Probably Idk... I'm getting so frustrated with this game, I'm wondering if it's even worth the time anymore. It seems okay at first but once you get into the nitty gritty, this game has a lot of issues that aren't being addressed by the devs at all and will ultimately be the undoing of this game. I wouldn't be surprised if all servers are dead for this game by 2019.
+Game is GARBAGE. YOU NEED TO DO SOMETHING WITH THE CHEATERS!!!!! I dont know but you people need to take a look at MPGH or Unknown cheaters and fix these hackers. Warface BR is FULL of them and its running down the game. Its obvious that you don't care and all you really care about is money which is why the content is so OVERPRICED. Either fix the CHEATERS or this game will go the same route as what Uberstrike did. Down the drain. No one cares about new content if you don't have a baseline to play at.....
+BE AWARE this game is a total SCAM and my.com = SCAM ARTISTS.
+
+I spent 45£ on 1 stupid gun (5000 credits on GOLDEN Fararm S.A.T. 8 PRO), and no permanent golden weapon........?
+Realy?
+I spend 45£ and not F****G 45 Russian Rubles.
+
+45£ and you give me nothing in return?
+
+45£. For one gun in a game! 
+WTF is that about.
+ I can think of 20 different ways to balance the weapon system that doesn't involve ROBBING US BLIND.
+A kick in the face after all these years, good looking out my.com.
+I've already contributed, more then the people who will tell me I'm wrong on this. I'm not paying your people salaries because you can't.
+I have already wasted to much time and energy on this, and no longer have any desire to continue contributing anything to my.com from this point on. 
+It's been a long ride and I've had a lot of fun, but the whole thing makes me physically sick. I've already found a couple new games that seem like a better fit for what I am trying to accomplish.Which of course is wind down after a long day.
+Please don't give them MONEY and if you can GO PLAY ELSEWHERE.
+I cold boot a game like Call of Duty WWII for that money.
+And now...  
+No weapon,no game, no money... 
+Thank you and well done. 
+Nice job stealing from kids.
+Your moms must be proud of you.
+I like the game i really do. However......
+
+Pros:
+It runs good on bad computers
+It's fun
+Good Graphics
+And more!
+
+Cons:
+It uses it's own launcher
+The launcher doesn't close most of the time on it's own
+Overall the launcher is trash and is broken
+
+That's why i leave a bad review. Fix it and i'll re-review the game.
+Pros: 
+very nice map design across all game modes
+a plethora of different modes to try so you can find something you like
+graphics look polished quite well
+
+... unfortunately thats where they end. And the list of Cons is quite considerable.
+
+Cons:
+Poor mobility. Yes there are mechanics such as sliding and climbing but its very sluggish. Similar to early battlefield games. For me the more fluid you can make your movement mechanics the higher the skill ceiling in your game is. 
+
+Whether or not you get into a game with a great connection or a terrible one seems to be a complete crap shoot. You can select your region which gives the illusion of a good connection but it will still connect you to people way farther away than it should which results in one of you having a terrible connection. This results in you seemingly getting shot around corners or can make you feel like you get deleted after emptying a clip into someone. 
+
+This game is a complete money-sink. Some games do the in-game purchases in a respectable and fair way. This is not one of those games. From the get-go you can tell that the primary concern of the devs is finding different ways to push players to their limit with their snail paced progression system. There are a good amount of different guns, equipment, and attachments in the game but you can only work towards unlocking one thing at a time through levelling up. This means if you intend to play this game without spending money you had better be ready for a very long grind. It took me 9 games to unlock a single scope and throughout those 9 games no progress was made toward permanently unlocking anything else. Throughout the grind you have the option to spend in game currency on temporary weapons that you can use but the money goes fast. You better hope you wind up choosing a gun that turns out to be good or you'll have wasted precious currency for literally nothing. 
+
+Of course since you progress through the game seemingly in slow motion, taking forever to unlock any equipment even close to being top tier, this opens up the opportunity for pay-to-win scenarios. With money you can practically skip the grind altogether by being able to buy currency boosters, guns, gear, crates and skins which can put you miles ahead of anyone who doesn't feel like going bankrupt for the sake of doing well in a video game.
+
+These are my big issues with the game. There are still many many little things about the game which will slowly drive you insane if you choose to push through. 
+
+Some of these include:
+shitty prone mechanics
+certain game modes are completely dead or unplayable
+I've heard cheating tends to go unpunished
+long respawn timers. I don't see what this could possibly add to a game like this.
+speaking of respawning, its quite common to spawn surrounded by aggressive players because the respawn points are fixed and not static
+the gameplay is divided unnecessarily into 4 different classes with each class providing some part of what you would expect every character to have such as healing after a gun fight.
+The matchmaking system leaves a lot to be desired.
+
+The verdict:
+For a free game warface is good for a day or two of play. If you want to persist past that you'll probably want to invest in some boosters to get you through some of the horribly painstaking grind. But before you consider spending money on this game you should ask yourself these questions: Should you have to pay to have a consistently enjoyable time in this game? Does this game actually deliver an experience worth paying for? Would you be better off spending that money on a different game with a much higher production value and level of developer consideration? 
+
+TL;DR The game has its positives but they just dont outweigh the many many negatives. Sadly, with how many free to play fps games there are out there this ones just not redeemable enough to actually be worth your time.
+Well, cool my account, where i played for 2 years (not on steam) got deleted. I played for 2 goddamn years and then took a break, and i didn't know that i have to go to my.com and well my account doesn't exist anymore.
+pay to win
+
+Edit due to developer response: I played for 37 hours. 37 hours of grinding is the equivalent of a week for me with extensive play under my schedule (5 hours a day) using the starting gear to get out of "beginner" mode and experience "premium" mode. Sorry, I have a job guys...
+
+And, let me tell you, those premium items are WAY better then the starting gear. They offer a huge advantage and the higher difficulties for the tower challenges demand those premium items.
+
+The catch? While premium items are superiorly powerful in every manner, you only to get experience it for a day. Either the time limit will expire or it will take another week's worth of credits to repair them enough to use for another, singular day.
+
+While grinding out said costs to return to "premium" items you will face those that are "premium" which will beat you down and make you lose resulting in less credits and more grind. This encourages you to skip the grind, or "get even" and outright purchase what you need to get "premium" so that you are on the same playing field as the other "premium" guys.
+
+In conclusion, I do not enjoy the lack of progression. I played with the starting gear for 37 hours now, and I do not intend to continue using the starting gear for 100, or even half an hour more. It's a perpetual "beginner" mode style game with no room for gear/play style customizations. It's not fun, it's not interesting, and if it is then it's because you pay.
+Pros:
+Free to Play
+Coop Missions vs AI
+Good class synergy
+Teamwork focused
+
+Cons:
+Pay to Win (or at least have a big advantage)
+No control over laggy players
+Controls (sliding movement makes no sense; going from standing to prone takes 0.5 seconds)
+Match making algorithm is unbalanced
+Maps with small glitches
+Manual bans (no automatic bans for obvious aimbot usage)
+Teamkilling at start of a mission is not immediately banned (statistics for that mission should be reset for the remaining teammates and a small compensation for the wasted time should follow)
+This was the best free to play FPS game until My.com came around with their BS and made all the best guns pay to win. 
+
+I see developers down below trying to defend this BS, seriously, stop, you're forcing people to gamble with real money in order to get OP weapons, I'm not a Call Of Duty fan, but when I convert 5000 Kredits (the amount it takes to get the base version of the OP weapons) to CAD, It costs around $60, very close to the price of the upcoming Call Of Duty game. 
+
+For most people it's a no brainier to make the decision, buy a brand new game with handfuls of content and will stay alive for the next 3 - 5 years, or buy a single weapon in a game that's already practically dead. 
+
+My.com needs to get their crap together, I don't see Warface having a bright future, thanks for ruining one of my favourite games.
+I've played this game on and off casually for about 3 years now, just recently started playing ranked matches. After 1250+ hours I can't really say I reccomend or don't this game, a lot has changed since my.com took it over, repair costs used to be less then money earned in-game but not so much anymore. Now you have to either buy vip boosters to actually make money, (which I do not mind so much, as I've played the game for 3 years I feel its fair i support them for giving 1000+ hours of entertainment to me, I just do it on a subscription type basis, ill pay for boosters on a 30 day span)  but for a new player this is definitely a turn off to the game. I'll give some Pro's and Con's.
+
+Pros:
+1. Runs excellent even on potatos as expected by Crytek
+2. Great realistic animations
+3. Plenty of content to play with in the game (9 pvp gamemodes, Spec-Ops, and Co-op missons)
+4. 2 separate server rooms for "Rookies" and "Professional Players" this gives you a good enough amount of time to learn the maps/gamemodes without getting destroyed if there weren't separate servers. 
+
+Cons:
+1. By far my biggest complaint is the servers, for some reason they have Hong Kong as an NA server which makes no sense, so you either get stuck in a hong kong lobby or you'll get chinese players in for example, a washington lobby at 200+ ping, they will tank an entire clip to the head and not die. 
+2. Poor marketing - I feel this game has a bad stigma around it because of my.com now, but it has always had potential, perhaps if the fanbase was larger they wouldnt need to do all this p2w stuff now.
+3. Extremely low drop rates for Kredit Box guns, as well as Warface Dollar boxes, 1% chance for Normal gun, 0.01% chance for Gold equivalent. Ridiculous. If I'm paying hard earned money I'd ATLEAST like a higher chance of getting something useful, instead of 1000+ days of flash bang that i'll never use. 
+4. Most maps are pretty generic, if you want to play on better maps focus on playing PTB, Storm and Blitz, IMO those have the best maps. 
+5. If you play in the casual server, be prepared to play TDM all the time, as the map vote will always go to TDM after. 
+
+Since Steam does not let me choose undecided for the review I'll have to go with not reccomended for now.
+I was excited to hear about and investigate this game.
+However for me, as well as many other NA gamer people,
+I encountered multiple problems with it.
+The Game Client and software that installs with it,
+freaked out my Anti-Virus Software.
+Windows kept refusing to allow both to go through the Firewall.
+I had to completely remove all of the Game Client and Game Software to get my computer
+to run normally again, as well as have normal internet connectivity.
+Maybe Asian and European Gamers have not had this issue,
+however for me, it is very off putting.
+Maybe "My.com" will address this more in the future,
+or maybe I should adhere to the wealth of
+posts and videos that have been out since 2016.
+The game is good but after the publisher changed from GFACE to My.com it is now crap. Everything is now pay to win also not even permanent weapon. They looting moron people who giving here positive review. The most important this game suck is about the poor server, They don't even provide server to worldwide and they looting money. What kind of server is this Europe and Asia server are attach, both of these are playing in same room but Asian don't get register on the bullets even in good ping how possible. Actually this is possible as the priority server is Europe and Asian getting high ping as the data of Asian server go to Europe, that's why it shows "The server is too far" in game public room. And bullet take around 1 sec to register and also having short teleport. Its better not to make server like this shit which don't have its own priority. Warface with their drainbrains making trash server. Warface better to be called Thief face for not providing good server and  stealing money from people.
+Fun game overwall, I like the co-op but hate the multiplayer. Going 3-9 against people who sold their houses for the game, Matchmaking is absolutly awful. Good time killer to play with your friends but don't waste money on it.
+
+Looks like My.com decided that all the accounts will be erased after 31July 2017 WELL DONE AND GOOD JOB with your crappy migration... -_- I lost a lot of progress and hours...I am very disappointed, this game is dead
+This game was actually decent before dipshit.com... oops, I mean my.com bought the rights to this game. After they bought it, not only did it turn into a micro transaction infested game, but they reset all my stats and took away my in game purchases. I would not reccomend now.
+Id expect better from a crytek game this is just probley one of the worst crytek games ok it has "good graphics" and its "Fun" but its broken as hell every day i have some sort of problems with this game. forgot to mention i actualy tried adding there pay to win currency and it didnt even let me add the ammount i wanted i even had the ammount of money i needed to, i also forgot to mention that this game is super pay to win for example every new gun they add you have to purchase it with there pay to win currency aka kredits and the best part about it is you have to buy a random box so then theres the chance of not getting the weapon so you would have to spend more and waste more money you could probley use to buy a better game with, This game doesnt have any file backups or any thing like that they do but it doesnt do shit, the developers are going to youtubers and paying them to play the game so they could get more players. i highly and i mean highly reccomened not playing this game its broken and its just very sad that crytek made this game.
+let's talk about the gameplay. For a free to play game it's pretty good and smooth. It feels like a mix between Call Of Duty and CSGO. I have nothing against it. EXEPT that all the monster killing machines you need to pay for. Sure you can have fun and a good game even if you don't pay. but if you want more points you have to spend money on it. All i have a problem with is the microtransactions. Don't make me ♥♥♥♥ing pay to play the game better. Now hear me out im not saying its a completly ♥♥♥♥ game, im saying it's a ♥♥♥♥ game to an extent. If you don't care about not being a complete killing machine then go for it. Give it a try but for me the microtransactions are way to much. You might like it and that's completly fine me on the other hand, i don't like it.
+New owner, claims i can reclaim my old account posessions through a "migration",migration is broken. spend an hour trying to fix it. cant so i give up. well there goes like 6 months of progress cause of new owners.
+so, from all these user reviews, i can see that My.com is a shit service that ruined the entire game, making it into another "free" fps that requires you to pay in order to stand a chance.
+
+i'm getting weird deja vu from this... remember Alliance of Valiant Arms and how Aeria games basically took a shit on the community and left it to rot, complete with removing everyones progress without announcement?
+
+yeah, that's the vibe i'm getting here. well, pack your shit, Warface is gonna die soon, no matter how much shit My.com pays youtubers to promote the game.
+Would appreciate if the coop dosh wasn't reduced so we can actually afford to repair our guns. At the moment it appears it costs more to repair than what we get from matches, essentially meaning we have to put money into the game in order to play it. Would be better if the devs took the idea from warframe and tweaked it so that those who grind hard get a nice payoff in the game.
+Over two hours worth of downloading the game, only to have horrible ping, dumb sniper users who only use 1 one shot kill rifles. Hackers and pay 2 win BS. This game used to be fun, but 2 years pass by and its complete crap. Do not buy this worthless piece of trash unless you like 1 hit kill camping sniper users, low ping, pay 2 win and a horrible balance in weapons.
+
+Also when downloading the launcher, it almost gave me a trojan virus but luckily my anti-virus discovered before it went any farther.
+Broken economy. It is a fun game when you can play it, but unless you are using stock items (weapons and armor), you will be loosing in game money, unless you've purchased a premium booster with real money. Even if you purchase weapons with real money, such as the golden weapons, the repair costs are still rediculous, so you can't use them. The special ops are a lot of fun, but it can take 30 minutes and still not find a game. You have to try and use the chat to make a group of players  for it, which is difficult and time consuming. They should limit the amount of special ops available, to decrease wait time. PvP is okay, but nothing great.
+Since that My.com took over the game got so bad, also do not install the mail.ru anti cheat since that it is a virus spreader. I had on an older laptop over 10.000 viruses due to mail.ru . Also devs how in the world did you manage to get a virus spreading software as an anti cheat system? explain...
+fuck this game to many glitches if you are not kicked for suspected cheating all the time it is because the game sucks as far as server connection dont waste your time trust me
+This game is a complete SCAM, horrible connection, horrible performance, horrible gameplay.
+NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO
+This game is a beautiful disaster..... WHY? 
+1.) Servers are riddled with bugs 
+   A*  i live in Alabama the closest server to me is Dallas unless im playing on PS4 and its Miami. I get one bar with my 1G fiber optic internet. Miami i get 2 bars.
+   B*  Its riddled with South and North Korean players. Nothing against them as people but when i unload a mag on them and watch their player character flinch with no damage marker on my screen and then i am the one killed on a server that is 30ms ping and i die im pissed.
+  C* half the time after i reload i cant aim down my sights or shoot, yet when i play this game on PS4 i do not have the same problem.... HMMM interesting since the first day i got it on PS4 i was instantly on the VIP cause i got it at the right time.  ( PAY TO WIN? YOU BE THE JUDGE..... ) and on PS4 ive played on both the Dallas and Miami servers.
+
+2.) it has fun mechanics riddled with bugs,  all the abilities each class are cool but.......(go back to server issues for why) 
+  A* the slide mechanic is nice (doest happen on my PS4 VIP Dallas or Miami server). but it only works half the time. may be server related im not sure ive only had it work for me once.  that being said the closest Server i have to me is Dallas. PS4 is  different story they have a Miami  server or at least the last time i check they did
+
+3.) i honestly dont even feel like explaining anymore. this game isnt great it isnt good it probably was at first but from what ive read of other reviews and from what i have played i see why ppl dont like it. The game is a sell out beyond sell outs basically..... YOU CAN THANK....... My.Com
+Dead game, Red pinger's, teleports. Me PIng 8 ms to EU server but me ping is red..... Also my.com anticheat use mail.ru Mrac anticheat and this anticheat 0.01% banned cheaters..... my.com protection moderators realy bad working
+
+My internet speed:
+Ping: 5-15 ms
+Download: 700 ms
+Upload: 650 ms
+
+Also this game 98% pay to win, if your want perfect playing Warface then play to Russian Warface version. To Russian servers best ping if your from Europe countries, no teleports, if your realy find cheaters then mail.ru moderators instinctively reacts.
+I playing 2 years English Warface version and realy I not recomended this game. (But I recomended Russian Warface version)
+Russian version is original Warface version, Russian servers firs get game updates, more achevments, more gun's, more maps, and a loot players....
+Also when your playing to Russian servers you can change Versus map's
+
+Here is Warface players statistic:
+
+English - Europe: 5700 players per day
+English - NA: 1600 players per day
+Russian - Alpha: 52 000 Peer day
+Russian - Bravo: 33 500 Peer day
+Russian - Charlie: 311 700 Peer day
+
+Offical statistics: https://warface-statistics.firebaseapp.com
+
+If you want playing Russian warface version you can download game here https://wf.mail.ru/
+还真是垃圾游戏  充值都充不进去~
+it's a terrible game. I cannot even add funds when i playing this game . that's so weird .can not adding funds will strongly effect the operator, but i have searched in the website and i finally found that a lot of people met this problem. I also have tried so many times and so upset i can't add funds at last . Hope this game operator can pay more attention on gaming ADDING FUNDS .  Nobody pays and you will die. 
+
+I have moved away this game at last .When the function goes well then i will turn back.

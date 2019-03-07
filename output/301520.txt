@@ -1,0 +1,1134 @@
+This game was amazing but has fallen I am just writing this review to say it was great while it lasted, many memories Rip Robocraft.
+
+I no longer recommend this game but i am giving thumbs up for what it used to be, and to pay respect to a game I used to love. :(
+I've been a part of the robocraft community for several years. The game has had its ups and downs. With that being said it is always fun to tinker with your bots and see what new twists Freejam has thrown into the mix.
+[h1][b]TL;DR:[/b] Robocraft did not deliver on the potential it promised and instead changed the core gameplay mechanics to mimic other shooters, destroying what made the game unique.[/h1]
+
+I have played this game for over 3000 hours (the standalone launcher does not add to steam hours) and supported the game with over 100GBP (150$+). I was a moderator for the game because I believed in it and wanted to support the community, but was removed from the team because I spoke out to a developer about the direction they were taking – not because I wasn't doing my job, but because I spoke my mind. 
+
+The game has changed. Freejam have tried to make the game more accessible to new players, with a focus of getting as many players as possible. But instead of focussing on what made the game great and trying to get players to love it, they changed the gameplay mechanics in order to please a wider audience, which destroyed many aspects of what made the game great and unique in the first place.
+
+Instead of a currency reward system that allows players to buy the parts they want for their robots, they now have a "random loot crate" reward system, which is a blatant attempt at copying other games and trying to trick people into spending real money on the game. Non-premium users get tempted by the items that they could have received if they had paid for premium (every loot crate that gets opened show the premium items) with the option to purchase it now to receive the items. Furthermore, only the top scoring player on the winning team receives the highest level crate (which promises better item drop chances), while every member of the losing team receives the same low quality crate. This leads to selfish play for the highest score rather than the rewarding teamplay experience that it used to be, and also leads to the losing team to stop trying because they receive the same bad rewards either way.
+
+They also made the most interesting part about the game – the fact that building skill and design decisions directly affects battle performance – much less meaningful over the last couple of months, by removing the pilot seat component, introducing auto-healing (another aspect to mimic other shooters), and allowing each player to put several different gun types on their robots, which removes the need for playstyle specialisations. This also negatively affects teamplay, because there is no use for dedicated medics or dedicated frontline or support types – every player is now a (selfish) one-man-army trying to score the highest points.
+
+This game had a lot of potential a year ago, but the developer's decisions over the last updates have shown that they care less about making a good game and more about the money they can make by trying to get more players with lower skill levels, by copying other generic shooter-types and removing/reducing the unique aspects that used to make Robocraft great.
+
+Freejam have gone the way many F2P games go and opted for the cash-grab alternative. It is disappointing, because there was so much potential.
+
+[h1][b]UPDATE:[/b] After two and a half weeks, the lead game designer released a "state of the game" letter, which conveniently failed to address any of the points the community has brought up in their feedback. This, to me, puts the final nail in the coffin. These developers do not care for the quality of their game or their community, they are only out for new players for their statistics and wallets.[/h1]
+As you can see by my time with this game I have plenty of experience with it and have been playing for years now.
+I have to say what was once an amazing game has now been turned into an aggravating, annoying, shell of what it once was. What could have been a groundbreaking game is now just bland and uninteresting due to the lack of effort by Freejam.
+Many questionable decisions by freejam has turned this once amazing game into tedious grind with no payoff. 
+
+The CRF:
+When I first started playing the only weapon was the smg. I have seen every major update and change come and go. The first and most prominent thing wrong with this game is the CRF, or the Robot shop.  Before the shop was added, every player had to build their own bot. For better or worse. Thats why the tagline for this game is "Build Drive Fight" with build being first. Since the start of this game it wasnt just about how well you did in battle but how well you built your bot. They went hand in hand. Those who took the time and effort to build a good bot, were rewarded by doing well in the battles. Now that they have the CRF players can buy any OP bot of the moment and never have to build a thing. Essentially doing away with half of the game and arguably the most interesting aspect of it.
+
+Tiers/Progression:
+There use to be a tier system in this game that allowed for small bots to face off against small bots and large bots against large bots. It also helped add progression to the game along with the tech tree which also has been removed. Now without a tier system all bots fight against each other. Small vs large. So if you feel like taking out a small bot that you know is not the best in battle just for fun or to try out a new design..well..too bad. Now every match is the same. There is no mood to matches. Sometimes I would want to play in a high end bot where people were more competitive. Sometimes I just wanted to play for fun in the lower tiers. All that is gone. Now its just fight...win/lose...fight again. Alot of the time against the same people because of the dwindling population. Plus the tech tree system gave you a goal to aim for. When first starting out you didnt have access to every movement type or weapon. You had to level up and unlock things. Which gave a reason for having levels in the first place. Now all that is gone. Progression is gone. Levels mean nothing, which is why the level cap is so insanely high...because its meaningless. (10,000 lvl cap. Just as an idea of how high that is...my main account hasnt even reached 500)
+
+Specialties:
+When i first started to play this game each bot was a specialist. By this I mean each bot was only able to use one weapon at a time. Be it smg/laser...Nano's...Plasma..etc. This gave every bot a purpose. Smgs were your fighter bots, plasmas were your bombers, nanos were your medics, etc. Each person had a role to play and could choose to fill that roll. Now all that is gone. Each bot can have whatever weapons you want. So they no longer specialize and they no longer require decent team play. Its all just a fight for top score as if that has any meaning to anything.
+
+Healing/autoheal:
+Healing, aka, Nano's have undergone an insane amount of changes. There was a time where a healer or medic was exactly that. They were almost required as there was no built in healing system like there is now. Now people charge in to fight and as soon as they start taking damage they run away and heal up. Where before without an autoheal system, players had to be cautious and value their lives instead of just charging in. Which of course made the medic all the more useful. Now a medic isnt even needed, or bots can just have a nano as just a way to rack up points when not fighting. Also again hurting teamwork. Also there was a time when nano's actually were the weapons they are called. Because each bot could only have one so called weapon, if you chose to be a medic you also had to have a way to defend yourself in a worse case scenario. So nano's use to deal damage, although not much. That also is gone. So pure medics are almost nonexistent. 
+
+Bugs/features:
+Freejam is absolutely horrible about both bugs and needed features. They always havebeen. There use to be a bug with tanks colliding with the ground. When it happened people would get stuck or go flying into the air...all sorts of odd things. After this was reported it took Freejam over a year to get around to fixing it. Because Freejam are much more concerned with pushing out a new weapon or shiny new item to distract people from the buggy mess that the game is. When it comes to features, the player base is pretty much ignored. The players since early on in development have asked for things like being able to rotate our bots when building, which is still not added to the game and FJ has no intention of adding. They have asked for the ability to reconnect to a match when they get disconnected. That only now is being worked on. Basically Freejam does what it wants when they feel like it, not what the people want.
+
+Now I could be here all day ripping the game apart piece by piece but this is already getting longer than I expected it to.
+But dont get me wrong its not all bad. Freejam did do things I actually agree with. Getting rid of tiered blocks was a great idea. No more bots with ugly multicolored blocks based on tier. Now you can paint them the way you like. That was great. They got rid of the pilot seat, later bringing it back as a decorative item, which meant that you no longer needed a large bubble in your bot to hide/protect the pilot. Having to build/design your bot around that bubble. It also stopped bots from blowing up in a single hit because the pilot had been taken out.
+Overall it can be a fun game for a short time for somebody new, but you wont last long. The main people still playing are long time fans who still play because they loved what it once was and are now too hooked to quit. (That is till D.R.O.N.E. comes out) 
+I'll break it down to a scoring system for you.
+
+Graphics: 7/10
+Sound: 7/10
+Netcode/connection: 6/10
+Gameplay: 5/10
+Replayabililty: 5/10
+
+Overall: 6/10
+For new people: Ok game for now till something better comes along.
+For Old people: "I wish something better would come along" and/or "I wish there was an old robocraft server"
+Do I recommend it....
+No. Freejam doesnt deserve it for what they have done to the game and not listening to the community.
+Sorry this was so long, but if you made it thru and this helped in any way, please give this a thumbs up.
+Thank you.
+before i start this review, let me just say i have 1,000+ hours on robocraft
+
+this game used used to be legendarily fun. but now, it just feels like a ghost of its former self, designed to rake in money. i just wish they would revert the updates, but i know they wont.
+ 
+it all started when they removed armor. and just like that, with one swift movement, a large group of the playerbase quit. but it didnt end there. then tiers were removed. the game had completely shifted its matchmaking system. no more tiers.
+
+if you want to know what modern robocraft is, its a watered down version of the original robocraft designed to appeal to the most people possible, all in the name of money
+
+whenever i see that there is a new update, i no longer see a thriveing game. i see a game barely managing to stay relevent by adding update after update, to try to get the rich experience it once had back.
+
+i dont hate robocraft, i see it as a shadow of something that was once wonderful
+This game used to be brilliant, way back when there was 10 tiers of armour and everything made sense. The game would force you to be strategic with how you made your bot and how you would need to protect your pilot. There used to be none of this crappy one leg one gun trash. I absolutely loved the original game. Way back you could build almost any kind of design and make it work, now you either have to copy some brokenly overpowered design that you can't seem to put a dent in. Double shotgun hovers, plasma copters, tesseracts. all the creativity in this game is gone. 
+Now I shall talk about the more recent updates When they added tiers back to the game, I was kinda excited. Then I was disappointed, the tiers are practically meaningless. it requires actual effort to not be in tier five. the games I played were repetitive and got boring really quick. nobody on the game knows how to communicate or how to actually play the game. The thought pattern of most players is "is that robot? I must kill", this often results in players not capping and wasting time. the Catch-up mechanic is completely broken too. I have had many occasions where the crystal to allow you to catch up has spawned with a 5% difference and never spawned when there was a 50% gap. The games recent changes also show that Freejam has no care at all for the experience of players and are just looking to hopefully turn a profit before this mess of a game finally crashes into the burning mess we all saw coming when they ruined the core feel of the original game. They have stolen the "Season pass" from Fortnite to attract the eyes of anyone new to this game and grab their money before they realise that the entire game is an unenjoyable experience. They have also attempted to copy the feel of games like Overwatch with certain design aspects and the "Best player" cards at the end of a match.
+Okay enough rambling, as I said before, this game used to be amazing, Reaching a new tier was one of the greatest feeling in the world as it unlocked better weapons and everything scaled with you as you got better and better learning how to make greater quality robots. Effort was actually required in order to get to higher tiers. there used to be an actual punishment to death. Now the game just wants your money.
+Review because why not.
+
+I played this before the introduction of wings. That was a glorious time, and even several updates after the plane parts came it was still awesome. 
+
+But then the tiers got removed.
+The armor blocks were removed.
+The tech tree was removed.
+You could all of the sudden respawn and autoheal.
+And the goddamned crates. 
+And the matches with the large bots were absolutely epic, just a giant gunbed firing hundreds of shots and tens of smaller bots trying to protect it. That's gone too.
+
+I haven't played it for years now. Hearing about the crate remova, the tier system and that they will listen to the community more gives me hope.
+
+Negative until it deserves a positive.
+
+I long for the day that Robocraft will be restored to it's former glory.
+
+*Robocraft dev team headquarters*
+
+BOSS: Alright guys we need a new way to attract new players! Our last idea of taking away everything that made Robocraft good seems to have made all the old players give us bad reviews and drive away all the others!
+
+SCRUB 1: I know! We can add new overpowered guns that make the already underpowered normal weapons completely useless!
+
+BOSS: GREAT IDEA!!!!!!
+
+SCRUB 2: How about we stop giving players currency for completing games and give them random items instead of letting them buy the things they actually want!
+
+BOSS: ALSO AN AMAZING IDEA!!!
+
+SCRUB 3: Oh and we could get rid of the special currency that players have to pay for and not refund them for all the money they spent!
+
+BOSS: THAT'S SUCH A GOOD IDEA I'M PROMOTING YOU TO HEAD DEVELOPER!!!!!
+
+Sensible person: Um, how about we go back to the old game that attracted people in the first place? Bring back tiers, megabots, boss mode, different strength armour and verticality in general and improve matchmaking so new players with really weak bots don’t end up in the same games as hardcore players with thousands of hours? You know when we actually got positive reviews and the players didn't warn new people to stay away from the toxic pile of sludge Robocraft has become?
+
+EVERYONE ELSE:..........................................
+
+BOSS: John, you're fired
+
+1. Robocraft was such a nice game back then! I remember... we had the Tier-Classes which were really important for a fair match! (Today you get thrown into a match, flooded by "pro's" which one -or two shot you with the ion distorter or any legendary weapon, which practically isn't affordable if you don't want to spend 100 bucks for these shitty protonium crates.)
+
+2. Adding those "crates" was the worst idea ever. We all know that games with these "crates concepts" died shortly after release. Should i tell you why? Because there will be a lack of fun! Back then I wanted a strong weapon. What I did was farming RP because I had the motivation to get this weapon! After like 10 - 20 matches I had enough to buy this weapon. It felt rewarding because you knew that you worked for it. Today you get a gold/diamond crate (..meh..), with maybe 1 or 2 rares which in my opinion belong into a dustbin. Beside this "rare" catch you get f*cking blocks and without premium chances are pretty good that you won't get the good shit for years!
+
+3. What happened to the Tech-Tree? It was abandoned. The Tech-Tree gave you freedom to unlock whatever you thought was useful for your bot. Whenever you saw something interesting you worked for it and also had fun! By removing the Tech-Tree and RP Robocraft lost its foundation.
+
+4. The "repair-feature" during a match made "Nano-Bots" worthless.
+
+5.  The weapons were nerfed way too much. Remember the rail gun? It was strong as f*ck, but it had to reload several seconds to unleash a strong shot. Also the chance to miss was pretty high and on close quarters you had to run away, because you couldn't do nothing but miss! - In my opinion this was balanced! Also the drivers seat was removed. Why? You had the urge to protect you driver, because you knew if he wasn't secured to 1 Block you would've been insta-killed. In my opinion this feature added tactics, because you had to figure out where the weak point of the enemy robot was.
+
+6. Now to a new feature: Recycling! Prices are way tooooo low. You just get 25% worth of that item and we all know you just get crap outta those crates. So to buy an other item which won't appear in a crate you got to farm.... how long? 1, 2, 3 hours like in the past? Heeell no! It takes forever just for an item!
+
+7. Now to the Forge: Prices are too high! How the f*ck are you able to forge a moderate item when the recycling just yields 25% worth of that item?
+
+8.  Back then you had to buy cosmetics, garage space, and other non-game-breaking equipment with real money. The garage space was limited, pretty fair tho?
+
+9. I like the idea of the Factory, but there are several problems. People don't got Robits because the crates just yield crap and the prices are too high. So how do they buy robots? They don't. And this is the reason why the Factory is senselessly!
+
+10. The company of course needs money, because they also have families to feed. But this (in the past) glorious game was ruined  because of greed! It wasn't a smart move to change the game concept from "FreeAndFunToPlay" to a "PayToHaveFunOrFarmYourselfDead" concept. The company will see that if they  hadn't been so greedy they would have earned more money....
+
+Rest in Peace Robocraft. We (The veterans and myself) will forever remember you!
+
+I am sorry if you find some mistakes. My first language is german.
+
+Written with mourning by XxT0xiiCxX.
+Used to be good and balanced and very fun, now, the ability to have multiple weapons and modules promotes cancerous playstyles, with no teamwork whatsoever, unlike in 2015 Robocraft, where you were one class and needed to work together to achieve goals. now robots and can all the weapons they could need, and it's every bot for themselves. I've been playing and enjoying this game since long before it was even on steam, but I just can't anymore.
+Edit: notice all the awards for the game where for 2015/2014
+Infinity update edit:
+Teirs help a bit, sticking to lower tiers lets me avoid the more cancerous weapons, but the fact that 2000 CPU tanks can still be allowed in tier one is stupid.
+tl;dr Was good, then became a p2w. Avoid unless you have a massive disposable income and are fine with a company trying to swindle you.
+
+I got into this game a year or two ago. A genius idea it was back then. Near unlimited creativity, fun gameplay, a good community, low lag, yadda yadda yadda. That's all auxillary stuff. It's what makes a good game into a great game. But what about the essential stuff? It was all there, too, and in innovative fashions: a well-developed and balanced tech tree, specialization to create diverse teams, currency rewards based on how well you performed, quick and fair matchmaking, the list goes on and on. All of this was essential; you play well, you get currency, you upgrade your robot in the direction you want, and you go through the tiers, facing harder opponents as you go.
+
+Ah, what I wouldn't give to go back to the days when this game wasn't a steaming pile of pay-to-win trash.
+
+Creativity? Gone. Premade robots are the only real contenders now. Why is that?
+Progression? Gone. Now you get a linear tech "tree" that unlocks without the tech points of before.
+How do you get new parts, you ask? Why, with the currency of course!
+...Except not the same currency.
+Now you get a currency which is only granted to you based upon how many parts you sell. And how do you get these parts?
+With the completely original and foolproof crate system, how else?
+For just a single match, YOU can get a crate of at least five items that YOU didn't choose. Oh, not even that, though, since one is dangled in front of your face like a pet toy, essentially going, "You COULD have this, but you have to be a PREMIUM MEMBER!"
+And there's the center of the problem. Membership.
+Jesus H. Christ on ice skates, membership costs so much that you'll need to just start paying with your dignity. $1.99 a DAY. That's about $60 a month -- money that could EASILY buy you at least three retail games on sale, or a full-price title -- and about $725-730 a year. 
+You could buy at least 25 decent games with that kind of money.
+
+Oh, but that's not even the half of it.
+What do you get for your money? Well, you get:
+-A color wheel (Did I mention you only get a whopping FOUR colors to choose from, if you're a normal member?)
+-Some rare weapons in crates (that don't do nearly as much damage as they originally did)
+-Instant access to the stronger weapons (I omit the word "tier" because there IS no tier system any more; little Johhny that just joined the game and threw together a gun on a car frame with no armor will go up against someone with 2,000 hours with a fully decked out air bomber. Funny thing is, if you get lucky, you can take down the "highest level" players with entry-level gear.)
+-Some cosmetics and stuff that don't do anything
+
+...I think you get the gist. It's not worth it.
+So, in conclusion, it's a prime example of what happens when money goes to a dev team's head but they want to keep that "free to play" sticker on Steam so poor losers with nothing in their wallet can actually play something. Or, rather, suckers with too much money to spend waste it on their pay to win scheme. After all, winning feels good!
+
+Oh, and did I mention it's buggy and laggy now?
+It's buggy and laggy now.
+
+
+Freejam, I'm not mad, I'm just disappointed.
+This game used to be fun. Now it's a money grabbing, gambling-orientated rubbish. No fun anymore, the whole aspect has been replaced with grind. Just grind grind grind. Want to skip grind? Dish out a couple of thousand dollars to sit through hours of shxtty crate opening you can't skip to accumulate a few hundred thousand "robits" which is worth a couple of legendary plasma guns or SMGs. Only then may you reach the top and stay there for a couple of weeks before more dumb shit is added so you can grind and grind even more.
+
+Previously the game had a purpose and a set objective, which was you getting to the highest tier (TX-1) and unlocking everything step by step in the tech tree. Everything had a tier except cosmetics - weapons, cubes, thrusters, you name it. Each tier cube had a unique colour too. Black cubes was a symbol of respect, everyone followed you around and hid behind you since you could take the most damage, while purple cubes were not a symbol of respect. These days you can colour your whole bot in four ugly colours, white, grey, pale orange and pale blue. All of the nice colours are hidden away behind premium. Oh boy, premium! Just 99p a day! Who do you think I am, the prince of Nigeria?
+
+If you had a T2 bot, you were matched fairly against players from your own tier. Even if you had T6 railguns, you were still put with players of the same level. What about today? Newbies and veteran players all get grabbed in handfuls and mashed together into a "match". Who pays the most for rocket launchers and legendary bull shit is the winner in every match, even if you played the game from the alpha version, you can get owned in 1 second by some snobby spoiled little tw4t with a rich daddy's credit card. Don't even get me started on the crates in this game.
+
+Items were purchased with GC (galaxy cash) or RP (robo points iirc), but you could not buy a million GC with your rich daddy's credit card to get the highest level stuff. Instead you needed tech points to unlock items, which were only available through playing the game. You unlocked items in the tech tree, in which cubes, weapons, wheels, electroplates etc. were unlocked level by level using tier tech points. These tech points are earned after every battle, and were unique to each tier. If your bot is T10 for example, you would earn T10 tech points, with which you were able to unlock a variety of T10 equipment, but nothing higher or lower. You could also convert these tech points to uber tech points (using GC) which could unlock every item from every tier. The tech tree was BALANCED. Why break a working, operational system? Are you really that money hungry, freejam? You should rename yourself to paidjam or gamblejam. Or "piece of shit inc." Keep hiding behind "early access" for it's such a good excuse when people point out what a terrible game you've made. I hate you.
+[h1]Ruined by Developer Decisions and Carelessness[/h1]
+
+This was one of my favorite games back in 2014. It had everything you could ask for: balancing, a good community, active and attentive devs, weapons that complemented each other, fun gameplay, good progression, lack of "pay2win" and so forth. Needless to say, it was awesome.
+
+Then the January 2015 update was released.
+
+The January 2015 update added a new gamemode where you destroy towers, levelled up, and respawn if destroyed. Initially, me and the rest of the community thought "Cool." and waited to see what else was in store. Little did I know that the downfall of Robocraft had begun.
+
+(Order not completely accurate)
+
+"Megabots" (gigantic robots basically) were removed as soon as the update came out, if not before.
+
+Crates were introduced (partially replacing the robits system), level based CPU limits eliminated, and the tech tree removed, eliminating progression, reducing creativity, and generally made the game much worse. Despite the huge outcry and the veterans and other players who started to leave the game, the devs simply ignored the community and moved on.
+
+Helicopter blades were added, enabling people to make flying fortresses (maybe literrally). Personally I don't think much of this.
+
+Then weapons, most notably an anti-air cannon and a minigun, were added, making weapons unbalanced and the game more frustrating to play. As a pilot in Robocraft (a more "traditional" one who used plasma bombers), this particulary saddened and angered me.
+
+A robot shop was added, further reducing creativity.
+
+An intro was added into the game, giving the game a more "cheezy" feel and making it seem as if the developers were copying other games. By this point, I personally felt that the developers were catering more toward children (12 year olds) and no longer valued older players and veterans.
+
+All this time, veterans and other older players were leaving the game as it became increasingly apparent that the developers were not listening to the community. 
+
+A new chat system was added, featuring a clan system that the community had been asking for for a long time. This was not nearly enough however, as the other changes above (as well as others) and the careless developers made the game unenjoyable for me (and potentially other older players, although I can not speak for them on this matter).
+
+I finally left Robocraft for good in mid 2015 (shortly after the new chat system was introduced) after a brief stint operating a hovercraft with SMGs.
+
+In it's current state, Robocraft is unbalanced and unenjoyable. The developers are careless and possibly largely inactive (aside from bugfixes and tweaks). Gameplay is frustrating, gamemodes horrible. 
+
+As another reviewer (spynathan) has said: "From Robocraft to Robocrap."
+
+If, somehow, all (and I mean all) changes to the game were reverted back to sometime before the January 2015 update, say, November 2014, me and other members of the community (read their reviews to see what they have to say) who have left Robocraft may very well return.
+
+Until then, goodbye Robocraft.
+
+P.S. If you're going through old threads on the forums and spot someone with "Dera32" as their username, know that that's me. Please don't question my username choice; I know it's a horrible username.
+I remember when I got this game in 2014. It was one of my first steam games. I immediately got addicted to it and spent my spare time climbing up the teirs. The game reached its height when megabots where introduced. But over time the game got worse and worse. By the time crates where introduced the game was unplayable. I can't believe that you could mess up a great game this much.
+
+EDIT: I just saw that Freejam finally removed those terrible crates. I'm going to leave my review negative for now but if they keep going in the right direction I will make my review positive. Don't disappoint me Freejam!
+tl;dr edit: basically, no matter if you like the game or not, the dev team ignores its playerbase and is going to drive the game into the ground. i do not recommend getting invested in it like i have.
+
+edit #2: if you are tired of this game and want a replacement, i recommend Galactic Junk League. it's a game similar to robocraft, but in space. it's in early access though, but they seem to be trustworthy developers from the few years they've been developing off their website. more trustworthy than the developers of this, as they haven't been in early access for 3 or so years now.
+
+edit #3: galacticjunkleague is actually out of early access now, recommend you go check it out. i only played off of steam so far though so thats why i have no hours in it. in other news, the robocraft devs seem to be trying a little bit but not enough for this review to be positive again
+
+steam link: http://store.steampowered.com/app/562590
+website link: https://galacticjunkleague.com/
+
+and now the actual full review
+
+After 618 hours played in this game, I have learned a few things about this game and everything surrounding it.
+
+-The playerbase is mostly made up of 11 year olds who were trying to find Minecraft but found this instead
+
+-The dev-team is adding weapons to make the game more friendly to those people; such as auto aiming weapons that take absolutely no skill or learning to use, which have basically ruined a large chance of having any amount of fun
+
+-The dev-team is also trying to squeeze money out of said 11 year olds by effectively replacing the currency with a crate system that rarely gives you what you want, causing you to either spend hours in game (me sadly) or spend a large chunk of money on crates so the 11 year olds can get a pair of auto aiming rocket launchers and just annoy everyone with them
+
++The game has its fun moments, when you arent being killed unfairly (like seriously, not just being in a bad place or overextending. Instantly dieing to enemies upon spawn, enemies killing you across the map when there should be no way to, other unavoidable things like that)
+
+-The game doesn't seem to be going in a good direction, and only seems to be getting worse. So I recommend not downloading this game and turning into me.
+
+sorry for the wall of text and any dead sea levels of salt encountered though. cheers
+Robocraft is the epitome of a game whose developers didn't know what to do with it. They had some great ideas, some bad ideas, and overall just can't seem to solidify its design. The game itself, in the end, suffers- it's fun at its core, but the plethora of issues snowball into a massive tidal wave of problems that just can't be ignored. I certainly can't ignore them anymore.
+
+A lot of reviewers seem to suggest the fault lies in a few simple decisions that FreeJam made- such as removing tiers, removing megabots, adding crates, etc. The truth is, those actually weren't that big of a deal- yeah, they may have removed some features some people liked, but those were probably some of the few GOOD decisions they ever had (minus the crates, but we'll get to that in a minute).
+
+So what is it, you ask? What makes this game virtually unplayable now? Well, in order to answer that, we've got to get into... basically everything. Almost every element of Robocraft is faulted and never fixed. While the idea of Robocraft is fun, the way the game works certainly isn't.
+
+#1: The building
+
+Robocraft is a game that's primarily about building a vehicular robot, then fighting other players' robots in a small handful of game modes. Basically, it's that idea you had as a kid- "What if you could make your own lego tank and fight other peoples' lego tanks?". A cool idea on paper- and certainly one that COULD be executed well- but not one that Freejam seems to be able to accomplish. The way the game plays out in practice is more akin to a MOBA- only instead of having a plethora of viable characters and builds to choose from, you can instead use your hand to count how many viable types of robots there are. 
+
+You have a lot of options, it would seem- wheels, various types of legs, tank treads, wings, hoverblades, helicopter blades, etc. They add in things that LOOK or SOUND cool, but certainly don't work in the regular game. Want to fly a robot with wings like a fighter jet? Too bad, drones are better, and you'll get shot down faster than somebody suggesting a good idea to Freejam.
+
+Now, as of writing this, the developers have stated they intend to balance out the various types of robots. They're rolling out an update for wheels and have said they're interested in re-balancing wings. Still, this feels like a bandaid- it's something they should have done from the very beginning. To be honest, I don't have much faith it'll work- almost every supposed balance update seems to just shift the meta, rather than balancing it. Because, again, the developers don't seem to really understand HOW to balance it.
+
+What's worse is that all the promo material and pretty pictures give you this idea that you can play these really cool looking things. Sure, you CAN.... if you want to be a useless team member who gets destroyed every game with ease. The reality is, only a small handful of robot designs "work". I'd be willing to accept that some reasonably work better than others- a lazy "cube" shouldn't work as well as a masterfully crafted tank. But that's not the case- literally almost every 'bot shown in the store screenshots and promotional material are worthless.
+
+This turns the game into a min/max fest which seems to appeal to only a very small minority of players. The rest of the players- long time veterans, or new players alike- get left in the dust. The sad thing is, it doesn't even work as a competitive game- at least fighting games or MOBA's like League of Legends (which also have some character balance issues) have a competitive edge, but Robocraft can't even accomplish that.
+
+#2: The weapons
+
+As with the robot types, weapons have horrible balance. Right now, the short range options seem like the only viable choices- namely, the shotguns (or "Ion" weapons). Of course, it wasn't always like this- once upon a time, it was the opposite, and the long range options were the only option (Railguns, Lasers). That's the problem, though- it's never at a point where all or most options are viable. 
+
+You're just left with the un-said but clearly received message of "Well, you COULD choose things other than what works... but have fun fighting an uphill battle". It's frustrating to be a clearly more skillful player, yet get absolutely trashed by players who are using the "right" equipment. Not even what should reasonably counter your weapon/robot loadout, either- the close-range ion users have absolutely no problem wrecking the long-range railgun users.
+
+Again, I'm sure this will change- but it will only CHANGE, not get better. That's the problem.
+
+#3: Crates
+
+Robocraft seems to have taken a hint from CS:GO and decided to change its match reward system to a "crate" system. Your performance reflects the type of crate you get, which is great... in theory. The problem is that it's all still randomized- you'll very often just get total trash from crates. Recently, they seem to have updated the game to finally include the ingame currency again, but that's still just a bandaid. You're still left with swathes of content beyond your reach without grinding for AGES and selling the useless parts you constantly get (boy, I sure am glad I got another honeydew horn).
+
+#4: Terrible matchmaking
+
+Again, Robocraft is a multiplayer game- its matchmaking system should be its strongest point, but it's not. Not only does it take forever to get into a match, but players can (and often will) leave matches or disconnect randomly. This wouldn't be such a big deal if they could reconnect, or other players could join in- but they can't. Once a player leaves, that's it- the game is basically already over with.
+
+Furthermore, there's absolutely no matchmaking balancing. At all. You're left with terrible matchups, where one team can be almost entirely anti-air, and the other team is all aircraft. You can see how this doesn't work out very well. It's a joke- a bad one.
+
+---
+
+All in all, I can't recommend Robocraft anymore. I did, once upon a time, because it was fun and showed promise- but not anymore. Unless the developers make a total 180 and really balance the game all at once, it's going to die. Don't bother even wasting your time on it- you'll be left yearning for "what could have been" rather than ever getting it.
+It used to be awesome game in 2014/15 
+I remember how i was enjoying every point that i had to destroy to capture it, and defend the core 
+Now it barely reminds me of that game, it only looks the same
+I dont recommend this game to any of you, but if you invent a time travel-machine pick me up to play robocraft back in the days together 
+Bring back good old Robocraft
+Bring our memories back to life
+Make Robocraft great again :(((
+I've written a formal letter to FreeJam in the Robocraft Sub-Reddit, which I will link to, however, I'd like to outline some feelings I've had toward this game. I understand it's in Early Access, and I understand this is only one 'phase' of many. Who knows? Maybe in the future, I'll end up wiping this review and posting another one, but here are some finer key points of my letter, and the reasoning behind those points.
+
+TL;DR Game used to be good, now the balance sucks, and the economy is worse. Wrote a letter, here's some points and clarification.
+
+[h1]Damage and Balance[/h1]
+
+*Lock On Missile Launcher
+
+[quote=/u/RichterRicochet]"...Those were the days, when you could fly and not get shot down by Flak and LOML* walker bots with ease... ...because the Flak system has not been properly crafted to focus on AIR targets."[/quote] This point was my first. In real life, Flak shells are used as Anti-Aircraft weaponry, because the shells can be fired high into the air and explode, leaving shrapnel to tear planes apart. 
+
+However, in Robocraft, the 'AeroFlak Cannon' (aptly named so as to make you believe that it should be used against airborne targets) instead causes significant damage with those same shrapnel explosions to anything not connecting with the ground, whether they're meters in the air, or a few centimeters off the ground. These explosions hit all blocks within the explosion radius and can potentially destroy a bot in as little as three well placed shots.
+
+Not only that, but if the shells don't explode and connect with a player directly, they do their standard explosion damage, though given in a smaller radius. Mind you, the AeroFlak Cannon is a high-powered weapon. The damage is does is very significant, and you're likely to take massive damage, even if you're hit directly. With this in mind, you'd think that the trade-off would be either a very low rate of fire, or a higher power consumption (more on that in a moment). Surpisingly, no. The Flak fires at a steady pace of roughly once a second, however, add more guns, and you're firing more often. Roughly twice a second.
+
+Now, regards towards power. Each robot has a power meter that goes from 100% to 0% and recharges over the course of ten seconds (or eight, if you have the optional Power Booster attached to your robot). Here's the problem that we face with the Flak cannon. It has only a power consumption rate of 10.8% per shot, allowing you to fire off at least 10 before needed to recharge (however, the power is recharging constantly, meaning you may face upwards of 11-13 shots before the enemy needs to recharge completely). Worse still, it does over 30,000 damage a shot, and your average armor cube has 2100 health, meaning at least 13 or 14 armor cubes are getting toasted. (The damage does fall off in the blast radius, thankfully, but not by much.)
+
+But that's not all folks! These cannons are damn near indestructible, with over 130,000 points of health themselves. And, if you do not directly hit the weapon block, it doesn't take damage. The only exception to this is Plasma weaponry, which has a small explosion radius (roughly the size of a grenade), which leads into my next point, surprisingly.
+
+[quote=/u/RichterRicochet]"Those were the days, when plasma damage was actually reasonable, and Plasma weapons were affordable... ...I've taken several low tier plasma weapons and placed them up against walker bots with seemingly little armor... ...even after a full hail of plasma shots... ...only a few blocks are destroyed... The damage is absolutely abysmal."[/quote]
+
+And by golly, is that true! In a recent update Plasma weapons (or grenade launchers, as they could be considered) were actually REDUCED in damage, compared to their high powered counterparts. As a trade, they instead were given a higher blast radius and lower power consumption. But, there in lies a problem. If a player cannot do enough damage to destroy a high-powered weapon at short-to-medium distance (as is Plasma's intended purpose), then what use do they have on a player's robot? Now, understandably, higher tiered weaponry does do considerably more damage, but at that power consumption and fire rate trade off, the Plasmas were more balanced than the AeroFlak Cannon. Need proof? The second highest tiered Plasma, an Epic Quality item (just like the Flak, an Epic quality), has 40,000 health (roughly), does 38,000 points of damage (roughly) with a slower fire rate than the flak cannon, and a lower blast radius. So, while they do roughly the same amount of harm, the Plasma was balanced in such a way that it could be combated and successfully defended against, unlike the Flak cannon.
+
+[h1]Engines, and how useless they can be.[/h1]
+
+[quote=/u/RichterRicochet]"Those were the days, when engines actually had the power to push something, instead of just gently dragging it off the ground to simply float in the air. I have [a ship] which has over eight separate engines pushing it forward... The ship isn't maneuverable in any way, and it's not meant to be... ...I expect it to be able to fly, on even maybe four engines. But, if I lose my main rear engines... ...my altitude drops steadily, and immediately, with no way to get back in the air until a heal; by which time, my enemy has already caught me..."[/quote]
+
+This was one of my biggest issues. The game expects players to have an understanding of physics when it comes to building flying robots, as in where to put wings and how much force required to get a vehicle off the ground. Yet, I don't believe even the developers do. The engines in this game are vastly underpowered, requiring usually no less than five to get someone off the ground. The smaller engine tiers hardly provide any lift at all and I wonder why they're still relevant. Now, I'm going to point out, the robot in reference here has 6 of the highest tier and two of the next tier down pushing it forward, and the acceleration and lift are absolutely meager. I'm surprised the damn robot flies at all.
+
+[h1]Community Backlash, pricing and other various points.[/h1] 
+
+[quote=/u/RichterRicochet]"Those were the days, when Megabots ruled, prices were moderately fair, and recycling really meant recycling and not shredding... ...[Players had] bought all the parts that they needed to sustain themselves for a while, and now [after] the Epic Loot update, those prices were cut from 50% return, which is moderately reasonable to in some cases less than 33%... ...to top that, the prices of some items went up, further blocking progression, and yet again causing more community outrage..."[/quote] God, bored of this review yet? Oh wait, points... So! The economy in the game drastically shifted with the introduction of Epic Loot, because gone were the days of battling for currency, instead now you battled for parts that dropped in a random crate after each battle. The better you did, the better the crate (from Rusted to Protonium). However, you'd be led to believe that Protonium crates would offer higher tiered items, the Epic and Legendary ones. Yet after testing players have shown a very low drop rate for these items. Players would often hope for Movement or Weapon parts, but would frequently receive cosmetics instead, these cosmetics "recycling" for a very low currency count. (I.E. a 10,000 robit flag resold at 750 robits.) 
+
+"At this point, this is not a game I wish to see to completion, it's really not. Because if the current 'meta' is to stand in a similar fashion... ...then there will never be any balance... New players will come in, get rekt, pack up and leave... I've never been one to complain... ...I now understand why people are so upset." As an avid supporter of the game, I've not only poured time into it, but money as well. Originally, I thought my funds were well placed, but I suppose I was wrong.
+
+[url=https://www.reddit.com/r/Robocraft/comments/4px8lr/a_formal_letter_to_freejam/]Read the letter here. Best suited to Robocraft Vets.[/url]
+This may seem like a wall of text, but please read
+(If you are a person who never experienced the older Robocraft, you may go straight to the second paragraph)
+Devs, you screwed up. Over and over and over again, making a great game with potential into a piece of garbage, never truly fixing anything, just making Robocraft worse, into a husk of its former self. When I started playing Robocraft in its early days, I absolutely loved it. I had a great sniper spider(which are now absolutely useless and will win you nothing) and won so many games with it, and got lots of money as well(when you actually won money instead of a bunch of useless parts you can sell for less than 1,000 robits). I stopped playing it for a while, and when I saw there was a new update with megabots, I was all over it again, back with my sniper. It was the golden age of Robocraft, where the only people who didn't like the game were small raging children, though they hadn't taken away what the players liked in the game, but then the update came where everything changed, where the tech tree, that all veterans had laboured over for hours to unlock all of, was trashed, and when you no longer got the sweet reward of cold hard cash after winning a game, the day it became a pay to win game. A game where all you needed was some money and you got all the premium you wanted, where you could get protonium crates till your eyes bled. This, developers, is where you went wrong in my eyes, where you took almost everything aspect that people liked, but why you decided to do that, I will never know, because you probably don't care about those who liked the old version better than this hunk of junk you call a game. You nerfed planes and snipers to the point where you would never see either, because nobody would even touch one with a 79 and a half foot pole. They were once feared, the great weapons of the skies and shadows, but they were already balanced, although you didn't seem to see it as that. They were glass cannons, things you could kill in mere seconds, so it took skill to play them, but you nerfed rail guns and made every weapon a threat to a plane. This used to be such a good game. And now it's absolute trash. You have failed devs, and you failed badly.
+
+This part goes to those who think "this is just some angry veteran who doesn't like the change. Nobody cares!" You people are the ones who probably have never played the older Robocraft, who never experienced the fun of Boss Battles, and I bet you didn't even know Robocraft had boss battles. Well, they did, but they took that away, just like every piece of the game that people liked in the first place. You don't even know how hard it was once to be a sniper, because I bet you probably have never played with one and kept it. You don't know the frustration of the enemy team having a healer when you don't, back when robots couldn't self heal. Let me tell you, a healer, back then, could just about single-handedly change the outcome of an entire game, making them actually useful. You have never experienced your team being destroyed by a singlular plane, but I bet you've never been killed by a plane. None of you were there when it was legitimately hard to go up in a tier because the blocks were so expensive(although that is one thing I would actually change about the old Robocraft, but people just accepted it, and I did too). You never had to unlock anything on the tech tree, and feel the hardships of getting to that gun or block that you wanted. You have no right to denounce the veterans of this game who have actual issues with this game, because you didn't experience this game when it was not only harder, but better. So much better, by leaps and bounds. You also may say that if you don't like the game its become, then don't play it, but the veterans of this game want to voice their opinion in hope that the devs will actually listen to the players and change it to be more like the Robocraft they loved, which you've never experienced. Yes, the old Robocraft was harder, but you actually needed skill to play it. There were strategies going into games, people actually working as a team, but now it's just charge into battle and hope for the best, with guns majorly out of balance, that are hard to get and are just about the only thing you actually need to be good, no actual skill required, just money.
+A message to devs, if you ever even read this, which I highly doubt. I bet if you released to old version of robocraft before all the massive changes(lets just say before the update with the missle laucher), that the new version would have barely anybody to keep it running, because, really, be honest with yourself. The old version had so much higher ratings, and there was so much more love for Robocraft. There might be more weapons and fighting styles in the new version, but nothing beats an actually good game(not what this game has become). At this point, you're beating a dead horse with the way you are trying to improve this game and get people to come back. This game is dying and you're not trying to stop that.
+This game is shell of what It used to be, In the early stages of this games development matchmaking was based on cpu. A 350-500cpu bot would fight other 350-500cpu bots. 2000-4000 cpu bots would fight other 2000-4000 cpu bots. It was balanced by botha  atech tree which limited high end items for end game, and encourage people to make new bots with limited materials. Now we have matchmaking based of mastery rank, cpu doesn't matter, a veteran comes into the game at lvl 80 but no parts due to updates and has to fight 2000 cpu bots. Its unfair. The loot box system basically allows low level players to get very high end loot and dominate at the early level, which is completely unbalanced.
+
+In conclusion, the lack of cpu matchmaking and addition of loot boxes (which lets be honest was just for more monetary gain from kids.) in replacement of tech tree. This game is fine, yeah, but its core mechanics which kept is balanced is gone.
+
+It was fun while it lasted.
+This game is a PERFECT example of developers taking a game that pretty much perfect and absolutely ruining it. No, I am not saying that to just exaggerate it. They literally had the game's core worked out and all they had to do was just add more content(Weapons, maps etc). Thats it. It was that simple and they had it.
+
+Instead, they decide to mess with the core gameplay and perfect progression system and as a result, they butchered it. I do see the devs say things like "Oh yeah your feedback matters, we care" but they actually don't. I mean, when the game is almost constantly going down hill, you have the real answer.
+
+I'm sure anybody could just call me out on not knowing what the game is like these days because its been years since I touched it, but I do look the game up every now and then to see whats up and it still looks just awful compared to what it used to be.
+
+>No pilot seat
+>Self healing
+>Respawning(I believe this might be for a certain game mode so I can give it a pass in that case)
+>Selling/Trading/Sharing Bots
+>Progression isn't like a tech tree where you unlock and work towards what you want(I hear its lootboxes now lmfao)
+>Multiple weapons(This is iffy. Back when I played, I wanted this but it also seems like it would get rid of roles that people might fill)
+
+Now, I don't put this here for the developers to see because they don't care and won't do anything. I put this here to let the players and possible new players know what happened to this once amazing game. Want this game to be good? Roll it all back to how it was but keep new blocks and maps that were added. Its that easy.
+
+EDIT: And its a shame that it turned out the way it did. I look at some of the gameplay footage and there are a lot of blocks and stuff that I would love to play with, back when I played, the newest things were those tesla blades and the spider legs or whatever you want to call them. It genuinely looks like it would be such a blast to go back into it and build new stuff but lootbox progression is absolutely stupid and ruins all of it. Having no driver seat also rewards you less for having a good vehicle design(I had made a vehicle that never lost in a one on one). Myself and the friends I got into this game also all quit because of the direction it went, but I would be very happy if the devs would make Robocraft the great game that it was and I would definately come back to play it.
+This is a very sad day. I tried to give this new update a shot even though i kinda knew it would just **** it up even further than it already was. I do miss the old days. RIP Robocraft.
+
+Here is why:
+Before in the golden days of Robocraft you had a tier system which imo was awesome since it created more balanced matches in higher tiers because you worked your way up learning the game, getting better at building and knowing how to play effectively etc which would make most matches competitive since everyone else in that high tier went through the same process. Yes there were cons to this since you could make tiny bot with an overtiered weapon to troll and kill newbs in lower tiers but that could easily been dealt with by restricting the use of these weapons in the lower tiers but now the balance is all over the place... each Robocraft big update more recently claimed to bring balance instead creating more imbalance by allowing inexperience players to play with veterans so you would get a situation where you are the only vet in the match on your team and the rest seem to be clueless and you are facing a team with more experienced players and they steam roll you or vice versa i'm on the team with the experienced players and we steam roll the newb team.... i find it hard to actually get a good game these days... to me a good game is when both sides find the match fun and competitive not just an easy win. The golden days of Robocraft is when you got good games and the people you played with or against were much more mature than these days.
+
+Now i didnt mind the tesla, tracks update i liked it... i didnt even mind the crazy fit any weapon you want on your bot update i still played even though the game was just a shadow of its former glory... you could still have a lil fun and mess around... but this most recent fast and formidable update is just.... i really dont know wtf to think... i feel like there is no goal anymore.. at least before you had levels to grind so you could get the max cpu... now it kinda seems pointless... there is no progession... they took are tiers, tokens, and now levels away from us.
+
+If you are a new or fairly new player you will probably like this... well hopefully for freejams sake but all you vets out there thinking of coming back, it may just leave a bad taste in your mouth like it did me so thats why i cant recommend this game since its not the same game i fell in love with before it was even released on steam
+
+EDIT: oh and the god damn crates! THE ******* RNG KOREAN INSPIRED ******* CRATES! WHAT THE ACTUAL ****?! i do apologise i needed to get that off my chest... and whats with showing a non premium user the 2nd row of the loot crate? i'm not prem anymore but when i was it actually ****** me off to know that this is the direction freejam took it... oh looky you "could" of gotten these nice epic n legendary items but **** no cos you aint got prem ****! and **** robits! ok i'm done with that rant.
+
+EDIT: you know there is so much more wrong with robocraft than what was said in this review i just cant be bothered to mention them since i am just done... for good. I actually could still find some fun after the F&F update after messing around but now its just too boring. The final nail in the coffin was the recent fast n formidable balance changes... guess what? now you can stare at the protonium crystals on the towers and base long enough to feel bored from the first tower because protonotivity was reduced and some other things played a part too llike certain nerfs to energy n weapons.... matches can be painfully long and more ppl just alt+f4 it just to make the pain go away.
+
+I will be uninstalling the game right after this review.
+I decided to finally review the game which I knew and loved by the name of Robocraft.
+Which my review can be best summarized by:
+._.
+
+
+Robocraft started out as being such a interesting concept. Build a vehicle out of cubes and pit them in combat against each other in an arcade style arena. Robocraft was initially successful, but then the FreeJam lost sight of the original game. Making update after update that made the game worse.
+
+-Flying fast? Nah, speed is boring
+-Pilot seats & Triforcing? Nah, let's just build bricks
+-Teirs? Who needs teirs, let's just make matches unbalanced
+-More parts! Who cares about part balance, just create more!
+-More game modes! So many that you take forever to find a match
+-LOOT BOXES! everyone loves RNG and not get the items they want. They'll surely give us money now
+
+Pros: 
+-Build bots out of blocks
+-Fight other players with your custom bot
+-Different weapons & movement parts
+
+Cons:
+-Devs seem to make the game worse
+-Building lacks depth
+-Poor balancing
+-Very grindy (P2W)
+The game USED to be good.
+
+Back when crates didn't exist,
+RP, the Tech Tree and Teirs existed,
+The Capture the base gamemode was still a choice to play.
+
+Now you get paired up with people who have every module and fifty smgs because they have less blocks than you do so technically they're stronger than you are. Don't install this if you expect a fair game.
+An open letter to freejam:
+Dear Freejam,
+I played the hell out of this game in 2014 before electroplates, planes, legs, or tracks. It was a really fun game that had nearly limitless building. I was here before you guys were on Steam and have many more hours than recorded. You could kick the crap out of anything if you built a bot really well. There was no skillcap to how well you could build a bot and the pilot seat was an amazing mechanic. I would build wheeled railgun tanks with tons of thrusters and a gun frame that was seperate from the armor, and it would literally climb 80 degree walls and I could shoot off cliffs at players, this was before aerial vehicles. I could lose the whole front end and I would still have a gun frame with guns in the front, and I could grind out these resources while having fun in a couple of days, without shelling out ANY money. I could build an insane megabot that I could then destroy players with without spending money if I played average and didn't get upset at dumb plays. I could face a bot that is really good at killing mine. You game was great, anybody could do what I could without spending lots of money if they were decent players. Then came the crazy overhauls, No more pilot seats, lock ons, no limit to parts based on level, loss of tiers. Your game only lives because of the impressionable children that can afford to shell out money just to make some progress and the youtubers you pay to promote your content. You say Robocraft has been built with a dedicated community from the very beginning, that dedicated community is gone, only impressionable children are left. Saying Freejam represents your company is fraudulent now. “Freejam (the developer of Robocraft) has community in its blood. The word Freejam is a combination of 'free' and 'jam', where 'free' shows our dedication to keeping Robocraft always free, and 'jam' stands for jamming with our community to determine how our game continues to evolve. We like to think of Robocraft as a game that has been built from the ground up in collaboration with the community.” You can't enjoy Robocraft for free without tons of frustration, and the word community should be replaced with money.
+
+Don't invest any time in this game.
+This game peaked 2-3 years ago and literally since then it hurts to play. Literally hurts, seeing all of the potential and charm lost is just painful. I used to binge this game and work so hard on making the best bots and getting to the top, now its nearly impossible to get new items. It really hurts to see what happened to this game.
+**Please read the edit before commenting
+
+I have not played this game for over 3 years. In 2015 or so the game was really good until Freejam completely destroyed it and ruined it. (Something you will notice is that Freejam is completely incompentent and has absolutely no idea what it's doing). Yesterday I and a few friends decided we should try it again to see how it is, and we were all pleasently suprised -- It was actually fun, and not nearly as bad as it used to be!
+
+However, I can not recommend this game. The developers have no idea what balance is. They implemented a weapon that completely ruins aircraft and makes them almost unplayable. As someone who as always been a flyer main, this is extremely frustrating. I put a lot of time into designing the perfect craft that is lightweight, fast, and good at taking down other aircraft. All this time is put to waste because of 1 person at the back of the map with lock on missile launchers that you can't dodge, there are no flares, they turn towards you literally instantly mid air and circle around you so that once they have fired there is no chance of survival and they fly toward you and instantly kill you. I mean, I'm sorry I wanted to play as an actual plane that actually flies and not some hovercraft stuck near the ground, but I guess fun isn't allowed. 
+
+You will encounter 1 almost every single game. It is impossible to enjoy flying aircraft while these disgusting pieces of imbalanced mess are on at least 1 robot every battle. Aircraft are not meant to fly in canyons and valleys. Their entire purpose is to fly high and bomb things from above, and to kill enemy bombers. Throughout Robocrafts entire history, ever since they slit the games throat in 2015, the game has been plagued by horrible balance issues that had 1 stupidly overpowered weapon that smites down anyone who dares to try to have fun in Robocraft.
+
+Balance aside, the game is still bad. As a FTP player you have only 4 paints, as a PTP player you have only 20 or so. Modern monitors can display over 16 million colors (The human eye can't even see that many), so why are we so limited? It would be so easy to just add a color wheel! Wait times are very long, and the render distance is tiny. You can only see other bots from maybe 500 feet away. There is also a sad map selection, with maybe only 10.
+
+The new """"progression"""" system is complete garbage. Previously you had a tech tree and would slowly work your way up, and would only fight people with access to the same levels of tech. You could also only have 1 type of weapon on a craft at a time. Now, progression is tied to loot boxes. After a battle, you get a loot box, you open it, and then you're allowed to buy a new type of item. It's as bad as it sounds.
+
+Also, you can now have up to 5 different types of weapons. This leads to overpowered "anti everything" craft. And of course, there is no reason to be creative and build something nice. You will just be killed by death cubes. With the removal of the tech system, the way of tech scaling was also lost. Now, as a new player, you will be placed against people who have had this since day 1 and have all the best gear and the most overpowered death cube of them all.
+
+Edit: Yes I realize that freejam is "fixing" the game and bringing it back to "the good old days," but I really don't care. Stop telling me. Why should I come back again and spend even more time than I already have for the promise that one day it might be good? This is not even a solution to the problem, and only makes it worse and further points to the larger issue. FreeJam is incompetent. They have absolutely no idea what they are doing, and that is that. Frankly, it is worse that are bringing back the old tier system. FreeJam is fickle, and it refuses to make up its mind and get its act together. They keep changing the game, they do this constantly and they always have. 
+
+If you like the game as it is at any given time you can be almost sure that the game you loved will be completely different next month. If you enjoy this game and want to give FreeJam yet another chance of redemption, then great. Good for you. I am not you, and I can't make you do anything. However, I will not and can not support, respect, and forgive FreeJam. Do not pretend like this is going to be the rebirth of Robocraft, and that everything will be perfect. They will drastically change it again, and I would be willing to bet money on that.
+I had started playing this game from almost the get go, I loved it, built so many robots. For most of it I was one of the worst players with the highest ranks. Now, I have 22 full equipped tier 10 (For those of you who remember when we had tiers #BringBackOldRobocraft) but I hardly play. It's utterly saddening to see how much of a train wreck this game has become. It used to let you unleash your creativity, but now you can release your creativity for $24.99
+
+
+As a robocraft veteran, I'd really like to see some justice brought back to the game. Especially for things like tiers, robits from battles (F**k crates man!), removing leagues etc. Some people may not agree. But personally I feel like the game has worsened because of these things.
+
+The game that lost its way . It was unique, fun and something i miss everyday. It used to be a skillful game but now its just a 10 year old kid's game. Now that makes sense. 
+
+Another part
+
+We used to spend hours designing bots that showed the real creativity but now the Robot shop(if i remember) just makes everyone copy all the stuff. There's literally no creativity in the game. I really used to have a hard time designing bots and when they used to work like a beast, it used to be enjoyable moment.
+If they realsed the 2015 verison with the cockpits and varying armour blocks and proper progression system, I would pay 20$ dollars no questions asked.
+
+Cmon Freejam
+
+~Your Target Audience
+[h1]"A machine to turn your time into an enormous amount of frustration, anger and salt, for an absolute zero amount of fun."[/h1]
+That sums up very well what RoboCraft is now. I'm not going to be rude or to be nostalgic, I'm only going to state actual [b]facts[/b] that justify this negative review.
+
+As of today, what do we have now? A game that vaguely ressembles something in which we assemble parts to create a [i]robot[/i] that we bring in battle to fight with team mates and against opponents. [i]Vaguely ressembles[/i] because the reality is a game that terribly lacks anything properly thought like gameplay, balance, progression, sense of achievement, fairness, social network (and communication means), and so on and so forth. The result is a "game" in which parts are more and more numerous, yet the diversity during battles is poorer and poorer. The remaining players are more and more selfish, aggressive, unfriendly, unfair, rude and behave in an hateworthy way. The robots are more and more ugly, unbalanced, while a majority of theorical designs and combinations are absolutely useless.
+
+The result for you, as a potential future player? You trying to build something nice, struggling to do it (because hours and hours and HOURS of grinding), yet you end up being obliterated in combat by atrocities that took 5 minutes to build, because hey they just have the best parts and [i]you have garbage[/i] that cannot possibly do anything good. That is, if you haven't spent an enormous amount of ingame currency in an item that is labbeled as extremely rare, yet it is terrible. And of course you keep being steam rolled by players who already have much better equipment than you, yet this equipment is "combat rated" the same level than yours.
+
+What? You won a battle and you've certainly been the best player of your team? Congratulations, you haven't earned anything more than the other players of your team. You've been carrying over several players who could even have obtained better stuff than you. That is, IF you have a better score than them, because now the score doesn't reflect how useful to your team you have been and rewards only those who have kept stealing kills or who kept shooting crystals while leaving all the dirty job to you. Whatever, you cannot possibly be rewarded for being good and doing what needs to be done for the sake of victory, actually you'll always be punished for that.
+
+The only thing that rewards is being lame, having a nooby behavior, being selfish, working [u]against your team mates[/u] and abusing the features/parts that are perfectly legit, yet extremely unbalanced (or by comparison that do work while the rest is utter buggy garbage). No wonder why the remaining players are so hateworthy.
+
+So now, do you have any feedback to give, or any proposals? Forget it: as much as the devs claim that they listen to the players, they don't. The only thing they will do, is being gadly praised by naïve players who barely have any experience in the game at all, or by kissasses whose goal is to be noticed by "dev senpai" (maybe expecting a moderator position in the process, not for the good reasons, obviously).
+
+The development team seems to be completely oblivious to concepts like product/project management and design. They do and undo things. They plan and unplan. They throw up ideas and hype the playerbase about them, yet they do nothing about them, or at best they half-do them. If something ever gets done, nothing ensures that it will remain anyway: it can very well be removed, for bad reasons. They don't finish anything correctly and neatly, they don't test thoroughly. They don't know what their priorities should be. When looking for an increase of the player retention, they jump to solutions and tools which they don't master at all (or even understand anything about), instead of doing the obvious thing: listening to their players and understand what goes wrong. To have an objective analysis of their game, they favor the opinion of random kids who barely touched the game 10 minutes, instead of asking their experienced players (some of which who also have experience in game/product design or marketting) who are looking for the best for everyone and setting aside their personal needs.
+
+To make it short: they do nothing the right way, favor those who praise them for bad reasons (or who find all the excuses possible in the world for everything that goes wrong) and are extremely disrespectful/neglecting toward those who are truly trying to help them and who will praise them with sincerity if something was done well. If not outright rude and insulting toward the last ones. If anything, the way they work is exactly similar to that of teenagers: no objectives, no methods, no backup/documenting, no tracing, no measurement (to check if the objectives have been met), no feedback analysis, no measurement of. They just do things randomly, basing themselves on their whims, and expect that somehow [i]this will do[/i].
+
+I won't expand on this or that feature, people have already done so before me. I will however point out something crucial that the CEO himself is completely oblivious about: you cannot state that the "player retention" is maintained when you implement a feature that explicitely forces your players to login everyday to get a random reward.
+
+So that's it. All the experienced, fair, creative, sincere/honest and nice people who used to play this game are now gone and have abandoned every hope of seeing the game back up. Now, all you have left to play with are a bunch of horrible kids whose only goal is to thrash you as much as they can with the most disgusting and unfair robot/methods ever possible, an who will kissass the devs. No friendship, no humour, no joy, no laughs, no creativity, [b][i]NO FUN[/i][/b]. Even the features themselves are more and more anti-fun and promote selfishness and unfairness instead of teamwork, skill and friendship.
+
+Please FreeJam, don't take this review personally, but you've screwed up and keep doing so. Your ego will lead to your doom.
+I started playing in 2014, (yeah, yeah. Another salty Vet)
+
+But you know what?
+The game was better back then.
+
+Simply put, the flattening destroyed all sense of progression within the game. The progression was what made playing this worthwile, it was fun to advance to the next tier, it was fun to get the next tier weapon. The tech tree allowed you to spend your hard earned tech points where you wanted to, meaning that you could rush to certain weapons, or certain types of movement to play the way you wanted to.
+
+I decided to try out the new update today (return of megas + new aerofoils) after about a year off from playing RC. My goodness has the game gotten even worse. It's honestly sad, I loved this game 3 years ago. It was probably the best free game I'd played. But now, it's just garbage. Shame on you FreeJam, you had a good game, and ran it straight into the ground. Instead of fixing bugs, you showed the playerbase shiny new guns that were poorly thought out and never balanced to distract them, that's totally how you make a good game.
+I have played this game since 2013 on their own launcher and tbh it slowly became terrible they, got rid of many features and added a lot of useless ones. The game has changed a lot but in a terrible way if you like it I don't care you do you but my opinion has changed on this, and I'm sure other veterans know what I'm talking about.
+I got this game a few years ago. What a gem. There was a perfect XP system, you got points each round, etc. Then the developer's fucked it up. Loot boxes. WTH? They added loot boxes after people asked for the game to be more balanced.
+The game was amazing before mid-2015 when they decided to start following trends instead carving their own unique path.  MOBA, Battle Royale, Crates...no one wanted any of these but they continued ignoring players until we got to where we are now. They're backpedaling on years of updates in an attempt to save their game, I hope the old RC returns but I don't have a lot of trust in the devs.
+WHY....Just why.... this game was my top game, I played almost everyday, actually at one stage i thought the concept and game feel was better than csgo....now just disapointment..... I had tons of fun building my advance bot leveling up on the teck tree was fun... but then... LOOT BOXES...... Absalutly onsloughted the game, shredded its community, im suprised that there is a mosly positive review status on this game that suprises me alot....THe devs are evil.... and now i feel as if the game is for kids and i just cant take it seriouse and when i played 1 match after playing about 12 months ago  it just terned me down i was actuall tearing a bit for the concept and feel of this absalutly amazing game is gone... as if the devs had been killed and replaced with monkeys... thats how i feel about this situaltion and im pretty sure other older players fell the same way. plz Devs if you by any chance read this fix this game take away the super fast shooting flack guns and just bring back the older concepts of the game... bring back robocraft i once loved.... that we all once loved...
+I've played Robocraft for many years and I'm going to make this simple. I agree with the thousands of paragraphs that the veterans holding their torches and pitchforks write on their huge rant. I loved the older Robocraft a lot more than the current one and FreeJam is honestly stupid if the devs can't see the huge change in ratings. And before the noobs come and attack me I'd like to say I still do love Robocraft. Robocraft is an amazing game and I've no other like it. But you guys need to keep quiet if you've never played the OG Robocraft because it was the shit. The updates ended up making my friends stop playing. I tried getting him back after offering 50 USD to spend on Premium and crates and stuff, but FreeJam has ruined their game so bad that offering him money so he doesn't have to spend any on this pay to play game wouldn't even change his mind. Think about that. Someone absolutely loved Robocraft, but the updates were so bad that even after I offered money for the pay to play, he refused. I still play but I don't enjoy it as much. You don't have to bring back the OG Robocraft, but come on. Listen to damn community and try and add some actually helpful updates. I beg.
+I used to play robocraft a lot. It was great because it was free, it let you unleash your creativity and the only thing premium gave you was more hangar spaces and decorations. as time went on it became more money focus and eventually it lost it's appeal entirely. Not recommended.
+[h1]When you have a game where most of the many bots on the store that are heavily bought are "robits guide" and "R0SEFALL" bots that make no sense and have exploited the system, and a meta where tesla blades (a melee weapon) is your one way ticket to the top of the scoreboard through literally pointing your mouse at an enemy and clicking a few buttons, you know that the game in question is... questionable.[/h1]
+
+Robocraft started out as an incredibley enjoyable game, with unique building, fun gamemodes, and constant updates. The game was not only fun, and had great potential, but the developers were out to make a game, not a profit. They listened to their community, and strived to improve the game. After the "New Meta" update, a lot of people were angry, but a minority supported this direction. 
+
+This resulted in many neutral updates, and one of the most hated updates of all - Team Orders. The update removed what made Robocraft fun and enjoyable, and turned Robocraft into another Dota 2, except instead of heroes, you had bricks with guns attatched. Despite Freejam noticing, their attempt to fix the problem with "Unleashed" was not the Trump Card everybody wanted. They removed tiers, replacing it with "Mk", and added a whole lot of gimmicks. Soon, they completely removed tiers. 
+
+After that, they continued to remove what made Robocraft unique. First tiers, then ranking, then level in general. Although I do like the paint system, tier flattening led to a lot of unbalanced items. They also unnessarily added new weapons - additions NOBODY wanted. And now they're still adding MORE weapons, while people are suffering from ghosting. Robocrafter YouTuber Lathrix had SEVEN games IN A ROW where somebody was ghosting (which is when a lagged out player damages and destroys other players even though they are destroyed). When the devs should've been fixing the game, they were adding to the game. 
+
+Now, the average match is very simple - build a tesla plasma bot. Wait for your team to severely damage an enemy, and then go in for the kill. If you deal 80% damage to an enemy, killing the enemy will reward you with more points, which brings me to say the truth: In any Robocraft gamemode (The developers SPECIFICALLY stated that kill stealling was an option in the FFA gamemode "The Pit"), you are forced to fight against YOUR OWN TEAM. People become utterly selfish, not healing, and stealing a kill you worked hard to get. 
+
+Just go to the reviews section of the Robocraft Steam Community, then scroll down, and savour the red square boxes with thumbs down symbols. It's so clear in the reviews. 3,691 recent reviews have been submitted, and 55% of those reviews (~2,030 reviews) are negative. Freejam is also silencing moderators who oppose the company, and actively responded on Twitter to the community "deal with it". Yet, they are still adding more weapons, that will a) add a potential risk for unbalanced weapons and b ) makes you want to spend real world money even more.
+
+Freejam has gone from a small indie developer team that made an award winning small free to play game that people put thousands of hours into, to a money hungry profit machine.
+
+[h1]How Freejam could improve the game:[/h1]
+• Make crates mono-tiered (or squashed), or just outright remove them. They're completely based on RNG and they just steal money from you. Premium doesn't change a lot of it. 
+• Revamp the points system so that if you say deal 50% CPU damage, you earn 50 points while if you kill an enemy, you earn 10 points. This will counter kill stealing.
+• Fix ghosting. It can make a Protonium Crate earning hover bot that made someone put ten hours of their life to make the bot get to a Bronze Crate because a ghoster killed them.
+•Get rid of the Premium Paint system. It defeats the purpose of being "creative".
+This game had terrible reviews before they when to 1.0, so the new 'Mostly Positive' user rating is very wrong.
+
+It used to be a great game, then the devs stopped listening to their player base and everything went south. The devs got heaps of pressure from the investors to start making money. The gameplay changed, it got way too complex, the balancing went out the window and the match making got worse. They removed a whole heap of features that the players loved (like mega bots). They changed the exchange rate for blocks and made everything very expensive. Then the crates hit, and everyone left. Look at the Steam charts and everything will make sense... Play the game if you like it, but just know the devs will never listen to you, and will always op on the side of making more money. This game is now GRIND TO WIN or PAY TO WIN (it never used to be like that).
+2014 Used to be good.
+
+Lootboxes
+Lootboxes
+Lootboxes not just for cosmetics but also for progressing the game
+
+Adding more money to get more chances at progressing the game and therefore progress the game faster than others.
+
+Tier system gone -> unbalanced games where whoever paid the most wins. 
+
+Before it was good. Get currency for playing games, buy parts with currency, not a huge grind.
+But now, each box only gives such a small amount of currency (including recycling)
+The grind just to get more parts became much much longer.
+
+Railguns.
+Completely broken.
+Make a small vehicle with 70%+ damage buff
+Legendary Railgun
+Easily destroy huge tanks 
+
+Suddenly, all the huge tanks have railguns.
+
+Now no one can even play drones anymore.
+
+What happened to Robocraft?
+The new update to the game is terrible , well more than terrible but little children may have to read this.
+Losing the tech tree means that all weapons are available to any one in the game, this means that weapons like the Proto Seeker or the lock on missile launcher are really easy to get making any match boring and tedious.
+Any blocks that you want to add to your robots have to be "forged" with the new "Robits" which can ONLY be got by scraping previous blocks, you cant even get them by playing a match anymore.Losing the match gets you the base level of the crates giving you the base level of blocks which are worth as much as a chocolate firegaurd meaning that you are stuck with rubbish weapons on a rubbish robot. 
+
+To conclude the new update to this game turns a previously enjoyable and exciting experience into the pay to win rubbish that you would typically find on a mobile,if you want to be highly frustrated or enjoy Dungeon Keeper on your phone then this is the game for you! 
+
+P.S if you want either of these things then you may want to seek immediate medical attention
+This was a really good game, however it just got ruined with all the updates. Won't go in full detail cause there's allot of stuff that just make this game absolutely atrocious, but I just gonna go over some. Before the crates came in the game was still fun, even with all the unbalanced guns and match making. But now, you could be playing for hours and get nothing. The items you get from crates at the end of a game are just complete useless, so useless that selling them for money is not even worth it. They are more useful as a "dust collector" then anything else. There is no more skill involved anymore as the devs also took that away. Brining in lock on missle launchers, and making that if you shoot your self you dont lose energy, which takes away from the entire point of being strategic with your shots and conserving energy. The distinction in classes which were; medic, sniper, support (plasma, laser) are just gone. Anyone can be eveything, which just takes away the fun of using strategy and working together to defeat the enemy.The 10 second heal which is that if your not shot with-in 10 seconds your robot heals. This just makes everyone go rambo cause they pretty much charge in, shoot, then heal, needing no medic or team-mates to help them defeat the enemy. And lastly, the pay-to-win aspect of the game (buying crates to get items, being able to buy legendary guns, buying items to boost heal regen, etc...) are just so damn gamebreaking that even with hundred of hours of grinding (which I have done in this game) someone spending money on the game could match you and destroy you with no problem. Overall, I woudn't recommend this game as there's too many things that just take away from the gameplay being fun.
+edit: Added developer comment at the bottom.
+
+[b]Robocraft has gone through many changes. Some for the good, mostly for the bad.[/b]
+My previous reviews have always been positive, albeit quite criticising. 
+
+After the recent removal of the megabots from the game, i installed it again. In ignorance? With hope?
+Or perhaps it was because FreeJam has given me that tiny bit of hope, that they would make robocraft great again.
+
+Unfortunately, with the recent edition of the shotgun, they just completely messed up and lost all of my trust.
+
+Increase of TTK (Time to Kill)? That was a "maybe". Well, TTK is getting lower and lower with each passing day.
+Skill should be an important factor! Well, with the addition of 3 guns that really don't require much skill, really doesn't strengthen that comment. 
+[b]FLAK[/b]: Introduced to sooth the pain of the players that lacked the skill to deal with drones. (What is shooting me? I don't see it? I'm looking everywhere, except of course above me, because i'm a ground vehicle)
+
+[b]LOML[/b]: Yes, this gun is as awesome as it sounds. Lock on and fire, no need to aim as the rockets will find their way to your target,
+
+[b]Proto-seeker[/b] (or as i call it, the turdgun): On first introduction, it was litteraly a gun that fired crap. It hardly did any damage and was just plain annoying. And you could fire it without your enemy even seeing you, due to the ridiculous range. Just aim in the general direction of your enemy and you would simply hit aim. No skill required.
+In the next update, the range was nerfed, but the damage was buffed. "Great" job FreeJam.
+
+Let's talk about the "making robocraft a competitive game" comment that was made. It was most definitely a priority.
+https://twitter.com/MarkDJammer/status/613285367886667780
+
+- The leveling is now a lot easier. What used to take weeks/months to do, can now be done in 1 week or 1 month. Depending on how much and how often you play.
+- There is no more steadily unlocking of items. Meaning, combined with the leveling, new players who reach the end game in no time.
+- There are no tutorials in the game, so what you learn you learn by doing, without having any clue what or where to start. 
+- The removal of the pilot seat: The importance of building a good (and competive bot) is no longer as important anymore. To "balance" this out, FreeJam decided to let your bot die, when it's at 25% health. It could still be functional and combat ready, but that no longer matters.
+- Regen: Another "awesome" addition to the game. Because removing a part of this "competitive" game wasn't enough. And likely to make up for that *facepalm* die at 25%, you will heal up if you're not being shot at for 10 seconds.
+- Tactical gameplay: Also note the irony in this part. In order to help the megabots (weren't they removed? Yep) move about more easily, about 50%+ of cover on all maps has been removed.
+- Ranked: Just because you call a square a ball, doesn't make it a ball. And "ranked" in Robocraft is as much ranked as a pig is a carrot. It doesn't matter what "rank" you have or what "rank" your enemies have, the end result is still the same.
+All that matters is win and loss and if you lose, score. Be in the top half of the scoreboard when you lose and you will not lose "rank". There are 5 "ranks". Bronze (1-5), Silver(1-5), Gold(1-5), Diamond(1-5) and Protonium(1-5), with Protonium being the highest.
+This is one of the biggest fails FreeJam has made, as far as competitiveness goes. As a bronze player, you can be fighting with and against even Protonium players. The matchmaker doesn't really care (if at all).
+Then there's the "ranking up". Just win and you'll rank up. Currently 6 wins in a row, will get you to the next "ranking league". 
+Combine this with the "awesome" matchmaker and perhaps you will guess that being a high-ranking players doesn't mean anything, there's also no point. Whether you are on the bottom or the top, you'll be playing with the same kind of players. Even new players, who don't even know what to do (yet?)
+One little note: The one reason to rank up is to get the league badges. They do look really nice.
+
+Now let's be honest... it can't be all negative, right? No, you are right. They did remove the tiering system and all armor is now the same. This means that artbots are actually viable. They also decreased the cost of the cubes you need to build your bot. AND... they added the paint tool. (4 colors standard, 16 (or was it 12?) with premium).
+
+Secondly, they added the CRF (Community Robot Shop) in which players can upload their own designs and allow other players to buy them. However, the rating system has a big flaw. You can only rate a bot after the first real battle. As such, the ratings mean little to none, just like its ranking system.
+
+Conclusion: Robocraft is turning more and more into a game that you'll play for a while when you are bored. All the promises are basically ideas that can be withdrawn/changed or be completely the opposite.
+Would i recommend it? No. Not anymore. Robocraft Developers are basically like a 5 year old kid that has an attention span of a goldfish.
+
+Note: I have over 1000 hours in the game. As such, i do know what i'm talking about. I could boast about my ranking, but whether it's Bronze 0 or Protonium 5, it just doesn't mean a thing.
+
+Developer comment
+[quote]
+By Sergii Design Jammer
+
+Surely we have no plans to revert everything we was working on for a year. Surely we avoid removing content from the game if we don’t absolutely have to: after all, this will surely make many players unhappy.
+
+But we are spending years of our lives working on the game. Surely we don’t want to make the game worse.
+
+It’s well known fact that without content updates online games die quickly: players get bored and leave. So even if it was true that before Aeroflak the game was perfect, this perfect game won’t last long without things like Aeroflak (i.e. without content updates making big impact). So to survive, the game needs to evolve constantly, even though many mistakes happen along the way for sure.
+
+So the choice for us is to let the game die, or to evolve it. We understand the disappointment of players who liked the old ways more, but honestly leaving the game as is wasn’t an option at every stage in the past and won’t be in the future. Changes are painful, but there’s no evolution without change.[/quote]
+This game used to be really good. 
+
+(Last time)
+
+Pros:
+-Takes time and effort to grind for items
+-Requires skill
+-Tiers 
+-Simple weapon system
+-No mechs (like wtf where did that come from)
+-No screaming lady in your ear
+
+Cons (last time)
+-You would have these insanely fast bots that couldn't even be hit by smgs
+-Hackable
+
+
+Pros (now)
+-Like 600 different weapons (It's an indie game ffs)
+-Buying other people's bots bc you are too lazy
+-Daily rewards to try and keep old players from playing this
+
+Cons (now) 
+-LADY SCREAMING IN YOUR EAR
+-I have no idea whats going on
+-You don't need to aim
+-Completely pay to play
+-Removed all the things I grinded hard for
+-No more skill required, either click as fast as you can or just aim in the general direction and lock your missile thingy
+-No more teamwork
+-No more boss battles ;3;/
+-No more megabots
+-I still have no clue what's going on
+-Level system jacked up
+-Wanna get more items? FEED MONEY
+ 
+
+Robocraft. Lets get this straight. Robocraft used to be a great game, i have over 700 hours on it. in my experience the old robocraft was balanced, didnt have this awful crate system, and the matches were balanced.
+
+now the have this awful crate system, the matches were not balanced, playing with 500 cpu and small smgs going up against 2000 cpu enemies with like 3 legendaries. This game is awful and i do not recommend it to anyone
+Now I can't see any point of playing the game. Infinite amount of parts, new unlocks after max 3 (if you're unlucky) battles. Especially if you are long-time player (I've been playing since 1st January 2014), you litteraly have nothing to grind or play for. I can play it half an hour maybe, as new metas are not really fun for me and you have no goal or anything. With so many removed mechanics and features I can harldy play it even just for the joy of playing. (Mostly I mean UWD, T-Sticks, Armour, Megas in standard battles and many more.) 
+I remember when they addad early control points mode (crystal towers, overclocking and stuff) around 2015. I wasn't a fan of it but back then I still had a lot of fun playing it. 
+Always remember where you came from Robocraft.  
+
+PS. If they could at least bring back megabots vs megabots, maybe we can have some fun then.
+
+PPS. I would also like to have old armor block colors now as they added like 30 new in this update so why not more?
+
+PPPS. Old mothership skin would be cool too.
+Game was great when it was first released. Got gradually better and better. Then went into debt and became a pay to win trash. Paying for better items over other people should not determine a good game. 
+
+On yet another note with the horrid game my friend who also happenend to play the game was recently trying to join the game once again as mega bots were reintroduced!
+
+Sadly to find his account suspened again. He hasn't played the fucking game in OVER A FEW MONTHS! His account was suspened once by a bad dev who was removed for banning people for insulting him becuase he is a horrible fucking dev and person to begin with. The game has a profanity filter you can turn on and off. The fact that you a player can determine whether you want to see that or not should not allow you to be punish for said swearing. 
+
+I helped him the first time he was suspened and got his account fixed. However after a few weeks he grew bored as I did and we stopped playing it. Some how he was magically rebanned. Asking a Dev for some explaination as to why he had been banned the dev simply made a remark on his previous supsension which was only one seeing as they have a 3 strike system in place. The guy them proceeded to tell him if he wishes to continue playing the game to MAKE A NEW ACCOUNT. Seriously fuck this game and these people.
+On another note, building in the game is a free platform for creative construction. If an indivdual wishes to build a giant cock that flies and shoots lazer then so fucking be it. The face that they gave the freedom for someone to contruct whatever they want means an individual should be alloud to do so in the first place. To tell them they arn't alloud to build what they want is fucking moronic. If they do no wish for said things to be built they should disallow it in the first place with some sort of system that detects it. Personally I feel there should be no limit to ones imagination. Limiting people is the reason why this game is slowly fucking withering away. 
+
+They are trying everything they can now that the game is dying at an incredibly fast rate. Re-adding megabots, trying to give some currency for playing matches. Making crates easier to obtain. All invain of course seeing as they have already lost the majority of there players. The crate system didn't help and forcing people to progress at an incredibly slower pace than ever before.
+Also on that note there is no balance or moderation with the bots anymore in matches. This is also leading to why the game is getting no high amount of new players. Anyone who joins will be thrown into a match with people who have far greater and more massively powerful bots then they have. They get destroyed in an instant and with only one or two games they see no fun in just joining and dying over and over again. Instead of obtaining new players and having them stay and want there friends to join boosting the player base, they are instead leaving the game and telling others around them that it's not worth the time it's just another pay to win game that requires grinding to no end. 
+
+Really sad to see how this game has just fallen apart. Introduced to me by Jerma and Ster, I thought the game was fantastic and I couldn't stop playing it, every update was fantastic and packed with new content and changes to fix the game and older broken things. Now well it explains itself for new and old players alike. 
+
+If any of the Dev's read this, stop this nonsence with banning people for calling you names or buiding a dick. It's a joke not cancer understand the difference.
+
+as of 6/27/2018 this is an update to point out how yet again freejam has ignored players and just straight up lied to them. Logged onto my account to see how the new update of finally removing these stupid crates was going. As per usual they made plasma bombers op as all hell and made healing stupidly to strong to the point where I couldn't kill a single enemy in a fight that lasted 2 minutes. I'm not even kidding that the fight lasted 2 minutes with both of us shooting each other with medics healing from the side line. 
+
+On another note I went to set up my old tesla combo for the front of my car that I usual run for healing and ramming people who try to chase down my hurt teammates. I went from having 4 of the 3 blade tesla's to 0. Along with a bunch of my other parts for some odd reason they have vanished. I don't honestly fucking know why my shit has just vanished I just enjoy the fact that the tech tree is also not fully unlocked as I have over 110 fucking levels and some of the things like the flak cannons and tesla's are now locked and need to be unlocked with tech points. I love having to grind to get something I already owned all over again. Nothing like having my tesla blades vanish along with them being locked with various other parts i'm missing. 
+
+Also on this magical point that I'm making about my missing parts other people have posted about this in there reviews and on many complaint forums to get the same generic responce from the dev community guy saying he "looked at there account" and saw nothing was missing bullshit responce. What a fucking joke. It's as about as hilarous as there fucking "free fair play rules" What a fucking load of shit. Banning people perminantly off there game REALLY fucking smart great way to show that your a company is just fucked along with the still rapidly dieing game. 
+
+WE ARE REMOVING CRATES!!!! hurray oh wait it doesn't fucking matter. It was announced and done far to fucking late for it to matter. The dev's and other people should have realized this when E.A. was going through this crate shit and seeing how fucking horrid the backlash was. Maybe it should have given them the thought that maybe this design could end up harming there game far more than i would benefit them at making fucking money. The honest to god thing you should not be focusing on as a fucking developer and game creator is how to make as much money as possible and should be focusing on oh I know "THE FUCKING GAME" your community is everything and as far as it seems the community dev is about as reliable as my fucking to go to space by sitting on a firecracker. What a fucking let down honestly. I wish this game hadn't fucking gone straight into the ground. 
+
+So for further note if my account is looked into and they claim nothing is missing I'm going to just laugh as my two friends I played this game with fondly remember me fucking gunning it into the battle that they where running from to fucking ram the nearest guy with my tesla fucking "car pusher" as the joke was implied. 
+
+lastly as the most ammusing thing for all the people who posted about this game not being pay to win and shit the community post following the removal of crates just puts the cherry on top as they specifically call out and say they are sorry about the pay to win design. What a fucking laugh that gave me. Anyway off to play something that doesn't just ban people for cursing (when there is a profanity filter) and suddenly removing blocks from your well earned account just because fuck you.
+I used to play robocraft when tiers existed.  There was a clear game progression and you could build a bot to play at specific levels.
+
+I recently returned to the game and I am extremely dissapointed in the path the developers have taken the game.
+
+I tried playing my old bots which used to be very good at their tier and they are now useless, not because they are badly designed, but because the game has turned into a massive P2W scheme.
+
+For example: To maximize damage on my SMG bot, I need 8 uncommon SMG weapons giving 60k dps for 80 CPU.
+To maximuse damage with epics, I need 4 epic SMG weapons giving 80k dps for 104 CPU.
+That is a 33% increase in DPS that I can do nothing about to compete with and the CPU difference is so small that I will always be paired against those superior bots.
+Stay away from this game. Simply put, the development team (FreeJam) is utterly incompetent. There have been so many points in time where the game could have become significantly better with a few minor changes here and there (primarily related to rebalancing weapons/components or various quality of life changes). Instead, FreeJam ignores those high-impact low-hanging fruit, and instead decides to flip the entire game on its head and release major updates that change everything in a big way. This accomplishes nothing other than introducing a multitude of new problems, while rarely addressing those issues that could have been easily fixed. Sure, during the course of the coming weeks and months, FreeJam will slowly but surely resolve some of the screw-ups they made during their last update, until the game once again gets to that point where it could be great with just a few small changes...but then the cycle repeats itself and as expected, just on the horizon is another game breaking update.
+
+Other major issues with the game:
+
+1) Building/engineering used to be a major component of the game, and high level players used to take pride in their building skills. Nowadays, building skill is hardly worth anything anymore. Any new player can slap something together in 5 minutes and compete toe-to-toe against a bot that took hours to complete. In fact, don't even bother building anything, because within weeks, FreeJam will render your bot utterly useless by breaking it. Either they'll nerf your movement or make various components 10 times heavier, etc. Regardless of how they break it, just be ready to say goodbye to your favorite bots, as they won't be able to perform nearly as well as they once did "because FreeJam said so."
+
+2) Significant weapon imbalances and easy-mode weapons. Simply put, FreeJam rarely gets weapon balance 100% right, or even close to it. In the current state of the game, there are weapons that are grossly overpowered, and there are weapons that are grossly underpowered. There are also weapons that take little to no skill to use, and yet have been high-impact weapons previously (a new patch attempted to address some of these issues, but the jury is still out). 
+
+3) FreeJam doesn't care about players who have been around for years, players with thousands of hours in the game, players who have been active and have helped spread the word about the game. They won't listen to your feedback, no matter how good it is or how well-written it is. Instead, FreeJam does its own thing, with a bias towards catering to new players. Basic things that the competitive/veteran community has been requesting for years...still not here. Things like clans have been "on FreeJam's radar" since mid-2014 or earlier - and guess what? Still not implemented, and it is almost mid-2016. The sad part is, by the time FreeJam actually decides to implement clans, all of the top clans in the game will be dead, as all of their veteran members will find better things to do with their time than to play this. 
+
+4) Minimal skill required. If you were looking for a game where putting in tons of hours would give you a significant skill advantage over new players, please look elsewhere. FreeJam has stated that they want the game to be more accessible to new players. This might be good for new players, but for anyone who has invested a significant amount of time into the game, it is just a slap in the face.
+
+FreeJam: One step forward, two steps back. Always.
+dont waste your time, all progression is locked behind lootboxes vs the old tiering system. no creativity in bots, everything is gun cubes. no more strategic and interesting building mechanics (at least not that i know of anymore. the whole pilot mechanic was neat and triforcing was a must for higher tiering.) 
+
+what happened?
+Once was a great game but after many developer mistakes and bad new features I think I have finally shifted over to the not recommended side because of the new features that gradually brought down the game, including the loot crate update which ruined the game for around 70 percent of users, and dropped the number of people playing the game by half. This once was my go-to game when I get home from school, but now i'm looking for new games with cool game mechanics that I can dig.
+Uninstalling today, after nearly two years of playing
+
+This game is not enjoyable anymore. Keep this one as an example of how to destroy something that
+was once beautiful.
+
+Sometimes I  feel the need of coding a game like this by my own, just to play it again as it was in the past.
+
+Time will say.
+
+I feel sad.
+[h1] TL;DR - This game has been ruined by "The Glorious Democratic People's Republic of Freejam". I highly recommend that you don't play it.	[/h1]
+
+
+[h1] I ask in [u]Your[/u] best interest to Not Play this game	[/h1]
+
+[h1] Enter the Shredzone [/h1]
+
+The Shredzone update could have been the update to fix all of the problems the community has with this game. I would like to bring your attention to the could have part of that statement. Starting with the recycling rate. 10% of the part cost is returned to you. Only Bloody 10%! We can't even come close to buying any of our desired parts. All hope for the parts we want is now based on RNG-sus. This is all thanks to the Loot crate update which added these idiotic loot crates for us to gamble our parts. Most of the time, the parts are useless to us. 50% of the recycle price would be nice as it would finally make things affordable instead of needing to pray to RNG-sus in hopes of gaining the parts we want. At least this update has added an great tutorial for newer players, giving them false hope that they will enjoy the game. By the time they realise that the game isn't actually that much fun, they would have spent money on the game, to gain the advantage of [i]having more blocks[/i]. However, i honestly doubt that using this method, FreeJam will be able to claw their way out of the abyss of debt that has been accumulated. They have finally taken account of some feedback from players which is a step in the right direction. The changes are mainly to the weapons and not outstanding issues which many players are trying to bring to light. Finally, the new chaingun, another weapon added to "balance out the game". Laughable due to the fact that this type of weapon can be achieved using multiple wasp SMGs. This game is finally unsavable. All we can do now is sit back and watch the game run itself to the ground.
+
+[h1] Battle For Earth (outdated) [/h1]
+
+New update, new edit. Welcome all to the "improved" Robocraft, Battle for Earth. Here we shall squeeze every last penny off you, through methods which have been tried and tested by multiple one-hit-wonder android games. The grind, i assure you, will be real. But who cares about that when you can spend countless amounts of dollars to be able to buy protonium crates. These crates will give you the advantage against others as you will be able to build not five, not ten, but only one decent robot a day (provided that you keep buying 300 crates every day). Pleas for changes are fallen on deaf ears as the developers have not addressed any issues raised in the previous update.  If any existing players are reading this, i ask you in your best interest to boycott this game. Any new players can refer to the title. (I'm lazy that way, don't judge me too harshly)
+
+[h1] Epic loot update (outdated) [/h1]
+Well Well Well... Finally, new update is out and once again, the update has broken the game to an even more unplayable state. Anyone who has played the game since the very beginning has seen the evolution of a once promising game, become a hideous monstrosity. With the new "Epic Loot" update, the game has now sunk deeper in to the lowest common denominator. Copying other games. Of course we all know which game this is trying to copy *cough cough* CS Go *cough cough* it is now almost impossible to progress. The game in my professional opinion has become so unplayable that even i, who have never reviewed a game before, have reviewed this game to comment on how horrendous it has become. The game is still in early access. I mean for crying out loud, this has to be an bigger scam since the Nigerian prince (still waiting for the transfer) and the metropolitan police (need to wait for the money from  the Nigerian prince to unlock PC). It is just a horrible excuse to change the game dramatically without much consideration for the existing player base
+
+[h1] The Epic Loot Update	[/h1]
+
+Now this update is obviously released out of greed. Play one game and you will see what i mean. The loot crates give premium users more than double (epic and rare items) what players who play for free get. Although you may argue that premium users should get more, it demonstrates the desperation that the developers have for [b] Money	[/b]. This is what the update is released for. The rail cannons now use more power per shot and smgs don't fire as quickly as before. Medics are now obsolete, repairing robots slowly enough that i can make an cup of tea, write this review as well as watch an couple youtube videos before they are fully healed (excluding the 10 second self repair of course).Ask any person who journeyed with robocraft throughout the years and they will tell you that "[u] Robocraft has been ruined	[/u]"
+
+[h1] What to expect	[/h1]
+
+By playing for free, you only get four colours, less Robits (previously known as RP), stress from grinding as well as high blood pressure from realising that most, if not all, shotgunners that killed you were or are premium.  The battle arena is a blatant attempt to copy [spoiler] League of legends and DOTA	[/spoiler] and incorporate MOBA into the game. Team death match is just destroying robots (No respawns). The main point of the game is building robots and fighting, which this game does quite well. However, needing to destroy at least 75% of the enemy's robot, now without the pilot seat, is an absolute deep pain in the ass. Especially if all that is left is a thruster and a single block. The reduction in speed of the SMGs have definitely bent each one of us over and screwed us, since it only takes 10 seconds to start auto repair, the singe thruster bot would have full repaired by the time we tracked it down.
+
+[h1] Explanation	[/h1]
+
+"It isn't all that bad" you may say, innocently or while the developers are elbow deep in your rear and skillfully puppeteering what you type and say. Most of my hours came from the very start, but there are quite a few things which turned me away from wanting to play this game:
+[list]
+    [*]Removal of tech points
+    [*]The removal of megabots
+    [*]The addition of extremely OP weapons
+    [*]The removal of the tech tree
+    [*]The lack of consideration to long time players
+    [*]Removal of the pilot seat 
+[/list]
+That is barely scraping the surface of the problems. I am not demanding in-game items to be given to me. What I am asking for is [strike] for 25% of their stock with a certificate to be served to me on an silver platter and 10 percent of their profits	[/strike] change. For example, adding in again the pilot seat will bring the fun back into building to defend the seat (the description [u]still[/u] says "Jump into the pilot seat of your robot and drive it into battle...), adding in the challenge mode to encourage team work(with megabots of course).
+
+[h1] Final thoughts [/h1]
+
+There are a number of things I quite like in robocraft right now, but listing one or two them would require more effort than the developers have put into the new ideas. Each update is well presented, but taking a massive dump on the game and putting a bow on it [u]Does Not[/u] conceal the fact that the game has been defiled (well that ship sailed a long time ago). Any new idea implemented causes dramatic change to the game from the developers basing the whole game around the update. Download and play it if you want, but keep in mind that it will never be as gripping as it once was. I rate this new update 1/10 but 10/10 for the game's concept. (How this game [u]still[/u] has an overall very positive review is baffling)
+There once was a time when this game was simple, had a simple matchmaking system, and a simple ship building concept. It was a game where you battled to get more stuff for your ship, used the stuff to battle and get more stuff, and eventually unlock cool items to put on your ship. Players were sorted into "tiers", which were general leagues of power for a ship. You simply could not place powerful items on your ship and expect to keep facing noob players. The tier concept allowed good players to maximize ships for specific laugues of players, and for less skilled players to know that, once they place enough items on their ship to go into a new tier, they will be at a slight dissadvantage unless they prepare right.
+
+It made the concept of unbalanced gameplay less unbalanced. Now, unfortunately, you know absolutely nothing about your opponents, or whether specific items will be overspending for your level and land you in a new group of opponents, or if your weapons aren't quite powerful enough to face off with the people at your level. You go in blind, and can't even leave the damn match with any means other than the task manager when you screw up your build. This could mean a solid ten minutes of gameplay in which you are simply wasting your time.
+
+If it's really a concern about unbalanced teams after someone leaves, then just throw in one of those pre-made ships piloted by an AI or something. Or better yet, don't make it a damn trial and error session just to make a ship for a specific group. I couldn't even make a ship with nothing but cubes and a few smg's without getting blasted apart by people outside my preparation.
+
+Seriously, I don't know what to use and what not to use. Do I grab some shielding, or does it raise my ranking a shit ton so I don't know? What guns are people using at my level? Are cubes good armor, or do they even HAVE armor in this game?
+
+This game was once simple, and it was good. Maybe people like what they have now, but I wouldn't know since I have no F-ing clue what they'd be talking about.
+Well this game is interesting! It was amazing at first and it was one of my favourite games, but then the devs decided to push a huge update that just ruined it! They removed the leveling system for blocks and mega bots which were an important  part of the game and took a really long time to save up for and a lot of work to get, then in addition they removed the whole levelled armour system. Having different tiers and strengths of armour brought strategy into the game, making it a fun and tactical game which was amazing and actually made the game balanced, but they removed that as well and replaced it with cubes with no differences in strength. What they thought would make this better is being able to paint the bots cubes, only 3 colours unless you pay constantly for premium to access the other colours of course! I can completely understand the 'colour you bot' idea, but my god what did we gain? At least give us some sort of tier system, or something other than this rubbish. If not, don't lock colours behind a pay wall, as this game was meant to be (initially) completely free to play. That idea went out of the window, along with the good game. Then they add dlc. Not your 'new maps and weapons' dlc, but the ability to pay £25 for a couple of shitty cosmetics and crates. Oh and crates? They're the worst idea you've added yet! You remove a currency system which I put money into and replace it with a random loot chest, removing my £10 off of my account and not reimbursing me at all. The chests don't even give you anything good, and in order to get a somewhat okay chance of getting something more than dog shit you have to pay! This game has gone from an amazing award winning game to something only to steal money from us as, let's be honest, that's what all games devs want nowadays. This game really proves how you can destroy a perfectly fun game and transform it into something that even youtubers say 'shove it' to. You actually disgust me, and everyone else who wants the good, original Robocraft back.
+Man, this game used to be the best. There was an awesome sense of progression and the game was unlike anything before. Then FreeJam removed all of the things that made the game good.
+Now I will list everything great that FreeJam removed during updates:
+1 Tech Tree
+2 Tiered blocks
+3 Megabots (And megabot battles)
+4 Sense of progression
+5 Expandable CPU
+6 Only allowing 1 weapon type
+7 Having all weapon tiers work simultaneously together, not seperatly
+8 Getting money instead of crates at the ends of matches
+9 (Decent) Balance in ALL battle modes
+10 The Pit
+11 True Team Deathmatch (Not this Brawl BS)
+12 The need for medics (Because auto regen)
+13 A good community
+The list goes on and on
+
+Now here are the things FreeJam added to make the game "better" while they were removing everything i just listed:
+1 Paint...
+2 An obscene amount of cosmetic BS
+3 Crates...
+4 Need to rely on luck (crate drops after matches)
+5 Horrible balance between weapon types
+6 Being able to have FIVE weapon types (RIP strategy)
+7 Auto heal (Ruined medics forever)
+8 Crates...
+9 Everyone gets 2,000 CPU at the start because SCREW PROGRESSION
+10 And also Crates...
+11 Removal of the Pilot Seat
+
+I've tried to get back into Robocraft but way to much has changed. There is no point to playing this game because FreeJam gives you everything off the start. There's nothing to work towards. Maybe FreeJam will revert back. But I doubt it.
+
+This game had so much potential to be (and was) amazing, but FreeJam wants your money, not your passion for a game that once was amazing.
+With the new hearing of the crates leaving, and the techtree returning, i have changed my mind, this is exactly what this game needs, i will leave my review nagative until i get to play the tech tree. PS: thank you to Sheep_wielder for noting this
+A shadow of its former self, another game that was MUCH more fun in its infancy with numerous old issues still here even after several revamps, many changes made for reasons unknown, certainly not to enhance the fun factor for us gamers.  The available gametypes of worth are still largely as boring as they were in their original incarnation with near zero attempts to make them more fun/challenging/interesting.  pity.
+Got literally destroyed by Greed.
+Once it was a cool game...
+I stopped playing it for a while and i downloaded it again, I was shocked this game destroyed itself with too much (bad) updates and the devs only want money.
+
+Poor Old Robocraft... Was a very nice game back then I enjoyed it....
+A long long time ago, I can still remember, 
+This game was the hottest thing. 
+The concept was solid, and execution was good enough to get decent enjoyment out of it. 
+The community was thriving, youtubers were maturing their robocraft coverage, and promises of greatness 
+were heard, believed and looked forward to with hopefull hearts and giddy anticipation. 
+But in the last year, each update has made the game in some way less enjoyable. Each update brought more simplification and a dulling of the experience. 
+Thing had gotten to a point where building was irrelevant, playing was tedious and the game modes that no one had issue with were gutted and made for simpletons.
+Then the reversal started. But with each reversal came new problems and more heartache. 
+Giving the developers money to continue this awful trainwreck of an attempt at player retention and balance is nothing short of irresponsible. 
+
+I cannot recommend this game in any way anymore. I used to. I used to tell all of my friends about this, as it was the most addictive thing since CS. 
+
+No more. 
+
+No faith, no more patience, no more time. 
+
+
+I used to love this game.  You used to have many teirs of cubes to progress through and a large tech tree.  Now they only have a "Tech Tree" that goes in a circle simply one after another.  They now only have one teir of block and has made they game so much more boring.  I miss the amazing tech tree they had and the ability to go any direction you want.  now its a simple, no fun, boring game.  
+
+I hope they can get it back to how it used to be.  
+
+-Tyler
+It used to be a lot of fun even with some balancing issues, now it's a complete mess. They added more stuff instead of balancing what was already over powered.
+You can build any nice looking or carefully tought bot, you will still get destroyed by the same op drones that have been the "meta" for years. Now if you even manage to hit them while dodging they can actually flee and auto regenerate...
+Their forums are filling up with the same complaints for years about air drones and heal beams, to no effect. A real shame.
+Played it back in 2014 there it was actualy a game where i enjoyed building stuff.
+
+Stuff i liked back then thats gone:
+-Critical hits e.g. you need to destry cockpits
+-Perma demage, if you lost a part it was gone for the round. That made for a lot of battles when you where literaly on youre last leg and still winning.
+-Tiers? Something to look forward to now i dont get the progression system.
+-Predictable weapons, now its like they shoot all over the place
+
+Thank god I played the crap out of this when it was good...because now it sucks. 
+
+This game now sucks. Seriously, if you don't have a gazillion blocks from playing a hundred hours before they ruined this game, good luck collecting any at this point. 
+
+You don't earn currency from winning battles anymore. You get THE WORST OF ALL F2P GAME loot systems ever.......
+
+CRATES
+
+Crates suck, if you win a battle you get to roll 4 random parts...ooooo 
+
+Awful, now you can sell the parts...for a very low low fraction of the original part cost.
+
+Or you can just pay to win.
+So, the last update has made me update and expand my review. 
+It seems it is so bad that only handful of players left, since I am seeing exatly the same names and afker's since yesterday and almost no new players.
+
+What changed and introduced?
+
+Forge?
+Reforge values are atrocious. If the prices won’t be fixed, then it is way too grindy to do anything, reforge values are incredible (75%+?). For example, from items that cost 20000 to forge you can only recover 25.
+For newbies, I assume, it simply won’t do. As well as for players, who don't already have everything.
+They also divided RP/63 to get to Robits balance. 
+However, if you were smart enough to buy thousands of weapons to reforge them, literally millions of money could be saved. I wasn't.
+
+Crates?
+Even with premium I get 3-6 simple blocks from gold/diamond/protonium crates. And some customization trash. And I can’t even recycle it from the crate’ screen. 
+Oh, since you can recover only a few robits from the crate, even protonium ones, good luck playing thousands of battles to get some weaponry. And only BA/LA battles, TDM gives 1/4 reward of BA/LA or 1/3 of The Pit.
+Want to donate to buy 300 crates and get some good items for you bot?
+You will only get thousands of simple blocks and very few movement parts and weapons. But, duh, you will can tons of customization dirt.
+
+Newbie-friendly?
+Ah yes, simple robot blocks. They are now 10x times more expensive, some newbies cannot even build a normal robot since they do not have enough money even for blocks.
+I do not even know how newbies can get into high-tier now, seeing everything is way too expensive even for old players.
+So much of a newbie-friendly game. Also, the matchmaking with FJ' fixes.
+
+Matchmaking?
+Did I mention that even 500 CPU (sized) bots are still thrown into 1500-1750 CPU battles?
+Ah, now I did. 
+Also many afk's, since being afk and wait till the battle's end is much more profitable than trying to do anything.
+
+Robot-building?
+Forget about it, simply place some cubes, just make sure it is not too hollow, some weapons, at least 6 of them, and you are ready to go.
+Building does not really matter for a long time.
+Of course, there is a meta-builds, but why build it when you can buy it from roboshop?
+Obviously, FJ undestands it and now you can buy it for free.
+
+Game-modes?
+The Pit is incarnation of killstealing along with ion distorters little bots. Not very interesting.
+Team Deathmatch is a good mode still, however, FJ hates this mode and to promote Battle Arena they made severe nerfs to rewarads from TDM, so if you like to play TDM you will never get much money (now you really won't get anything, since you get only one item from the TDM and you can recycle for around 50 robits, while new weapons and modules cost thousands and hundreds of thousands).
+Battle Arena/League Arena - gamemodes with highest rewards right now. FJ likes to think they are making game similar to MOBA and promote this gamemodes as hard as they can, reducing rewards from other gamemodes and increasing rewards in BA/LA.
+How bad BA/LA?
+Small maps, countless campers, in the lattest update you are guaranteed to lose if you have Robocraft's target auditory (10-12 year old kids, from FJ's comment on the official forums) and one or more disconnected people or leavers.
+So, if you want to play BA, do not forget that disconnect and wait for two minutes is much faster than try and lose in the battle witch lasts for 15-20 minutes in average. 
+
+Weapon rebalance?
+High-tier battles became way too boring and low-tier battles are full of shotgunners.
+Seriously, a few shots from SMG and you have no energy. And SMG's don't really damage anymore.
+Protoseekers, which I disliked, first were changed into close-combat ones, which was much less fun than longranged annoying weaponry, but now they were nefted into dirt and completely pointless to use.
+Plasma?
+Unless you manage to land the hit into dead center of the robot it is weak and after each strike you can go to make a tea to wait for energy to reload.
+Rails?
+Oh, somewhat useful, one of two weapons that can damage enemies now. But you have only two shots before you have to wait ~10 seconds to energy to restore.
+Ion distorters?
+Only weapon of close combat capable of 1-3 shotting any bot. And there are many of glass-cannons on low-cpu battles literally humiliating newbies, who can do nothing against them.
+FJ also told that low-tiered weapons will be useful.
+They are not, however still being a little better than high-tiered ones. Still bad. And forcing to turn beatuful bot into cactus of small plasmas/smgs is a disgrace.
+
+Modules?
+Blink is fun, this much I can tell. One of the best ideas FJ made ever.
+Invisility is strictly limited to shotgunners, has some uses for planes and copters, but not much.
+Megamodule turned into powerboost is a must in high-tiers, without it there is simply too big delay in weapon' fire.
+Disc Shield Module is not really of use now, but I sometimes see someone to use it only to enemy rush through it and kill the DSM' user with ion distorter (shotgun).
+
+Bugs?
+One of my friends can’t play, since he is getting white screen/falling underground/crash issues.
+He is, obiously, not the only one.
+And I got another fps drop, but I am used to it.
+
+Exploits?
+FJ removing bonus to players' score when the latter spot the enemy to fix exploits.
+I really think it is not a way to fix exploits. 
+And desync is still not fixed, FJ cannot into fixes, duh.
+
+EAC?
+Points 1, 4, 5, 6, 7, 8 are still relevant. They are seriously doing almost nothing.
+As for point 2 - I do not see crashes and issues with the game in the last update, but in previous update I could start the game only a few times out of ten, because EAC would simply not start and then the game would crash since EAC is not running.
+As for point 3 - now it is hard to understand if it's FJ's fault for optimization or the EAC's, so I can't say anything about it. To be honest, optimization is not very bad, however, there are lag-spikes and sluttering with micro-freezes from time to time. 
+
+
+I am not saying I am quitting, I already have more than 20+ detail each and some robits, so I will stay to see when FJ hits the rock bottom. Seeing this update it shouldn’t be too far away.
+However, this update is much worse than I expected and I expected something bad.
+I am disappointed in FJ and especially Mark, the latter one could read the forums and not hide in his twitter ignoring any messages that matter and making silly updates which make the game worse.
+I really do miss the classic robocraft without regeneration and with pilot sits.
+
+(Updated 29.04.2016)
+
+
+OLD:
+New anticheat EAC does not prevent hackers to use hacks, yet it:
+1. prevents the usage unsigned drivers
+2. gives absolutely horrible matchmaking, almost always kicks from game and if be lucky enough to get into the game you may get into the middle of the match (and get kicked again), too many false positives and crashes
+3. cause of low framerate
+4. messes with other software outside robocraft
+5. dissallows software like fraps and macroser even when they used on other programs
+6. recognized as malware by some antiviruses
+7. EAC devs suggest you to run the game in virtualbox if you encounter problems like unsigned drivers
+8. There is no guarantees gathered data (screenshots, keylogging, logins, passwords, usernames, chat messages, etc) from you will be kept private.
+
+I do not think it is the full list of the issues.
+By the way, I mostly run the game without turning on steam, so I do not have much hours on the record.
+Also my friend's brother died from this.
+He had serious depression and robocraft was his only relief. 
+But then FJ started "patching" the game and as game progressivly got worse he couldn't bear with it, stole the gun from his dad and killed himself when there was nobody home.
+sigh..... 
+
+
+Really isn't much you can really do to get through to the devs. In fact they don't listen at all. I loved this game so much and put many hours into it. I did manage to play it for another ~20 hours after the "Epic Loot" update somehow but it got repetitive. That update in my opinion being the WORST adition you can possibly put into a game where you BUILD the robot the wa YOU want it. That update has made it literally the hardest thing to do due to it's mechanic. It could've been handled better like just a new reward you get along with earned currency. I got bored with this game real quickly because I couldn't really experiment that often or freely with new weapons and modules because I couldn't buy them. 
+
+overall was good pre box era. Now really difficulit to get a foothold. 
+
+Planes got completely ruined. You used to be able to fly LIKE A PLANE and actually move as if you are in a 3 dimensional space with planes having roll and yaw. Well now they removed all the plane physics and made it like a car thats in the air. BRING BACK OLD PLANES
+This game was fun and new when it was in early access years ago. Not many games can say that they were 100% better in early access. Robocraft went downhill as soon as they took out the tech tree level-up system and implemented a pay-to-win system with loot crates to get items without paying. You could no longer make a cool ship without paying for it. Now it is one of the worst games I have played due to the horrid changes. Thanks a lot FreeJam for ruining what was once an amazing game.
+Hi review readers! I have been away from robocraft for a few months, thought id fire it up to see how things are in game now. Sad to say that all my bots are completely useless now, bots that i spent literally hours researching and creating, bots that got me into the Diamond level ‘fairly’ as they required alot of skill to use, and are equipped with weapons to suit a variety of different combat situations and challenges. These are robots, that I had to grind for hours, to get the parts I needed to make them; the reason i actually played robocraft has been flushed down the toilet.
+
+What on earth have you done FreeJam? What is the point in robocraft now? Did you listen to the wrong end of the player spectrum? What is the point in weapons that are so stupidly nurfed? This was a great game, and I hate being the type of person say this, but you absolutely wreaked robocraft. If this is the direction you want to take robocraft then its a very sad day. In a few more months it will only be your own bots fighting each other, RIP robocraft.
+This game has really taken a Dump. Years ago i liked it, you could buy blocks that you needed, there was a tech tree, etc.
+
+Now its a Grindfest with horrible balancing. You cant even build a decent vehicle/robot with the parts you mostly get.
+Its just Pay to win now, i still wanna know how this game is ''mostly positive'', Must be thanks to the kids that like grinding their life off and buying themself op shit
+
+Good job Freejam, you killed your own game
+ive played this game and loved it but after what the dev team did to it il never touch it again
+
+I miss the days where u had to slowly win games and get kills to lvl up, get in game currency to make your robot stronger etc
+
+what players loved was being able to see the work u do and effort put in to become better and stronger at the game by knowing maps, earning points/grinding currency, and making bots the way u feel like making them,
+
+it was once a pon a time when armour blocks existed 
+ u had to grind to get money to get armour blocks (it showed who played more/ worked hard to get them (blocks being pretty costy)
+
+Parts: parts where once buyable meaning u can buy as many shields, guns and what ever u wanted for a set price for diffrent lvl of gun or amour. NOW they added a system of fucking chance meaning every fucking point u earn is gambled away to hope u get something u want or need. meaning i could play hours and still never get what i want / had
+
+Weapons: weapons on bots made the game balanced adding only one type of gun on a robot make it good because it specified you 'Role" adding railguns made u a sniper, adding smgs made u a split of power and range almost like support and plasma cannons made u kinda a high dps now u can have all 3 making it a cluster fuck with players who dont have all 3 a downgrade or less powerful
+
+in all honesty if the dev team didint become money hungry and left the original make of the game people would still play to this day, remove gambling, remove odds add amour blocks and grinding and made the tech tree fair again this game would still be just as good, having promotional pre made bots are okay but almost forcing people to buy them was a pain in the fucking ass
+
+in my opinion Robocraft had something no other game had and it was working for them up till the dev team ruined it
+I wish in the future this game makes its way back to how it should of been, balanced, fun and fair for people,
+
+Rip 300 fun Hours spent grinding and loving the game, while getting armour blocks, guns, shields, map knowledge, call outs, team work, and fun
+
+Will always be my fav worst game </3
+I used to like this game. After the recent "MASSIVE EXPANSION" update they added a loot system in and removed the Rp earning system dictating a more microtransaction/cash shop economic. I forsee players dropping out of this game as fast as the finebro's subscribtion numbers of because of this greed move.
+
+
+UPDATE:
+ADDITIONAL EXPERIENCE: DO NOT BUY INGAME CHEST OR CRAP. I DIDN'T RECIEVE MY CHESTS AND WANTED A REFUND, XSOLLA IS MAKING IT DIFFICULT, THEY SAID I WOULD HAVE TO DEAL WITH SOME REFUND MANAGMENT THROUGH EMAIL. REFUNDS SHOULD BE AS EASY AS PURCHASES, THIS HAS BEEN A FRUSTRATING EXPERIENCE. DO NOT BUY IN GAME SHIT. I AM UNINSTALLING TILL ALL ISSUES ARE RESOLVED OR MAYBE JUST INDEFINATELY.
+
+"
+Elly (Xsolla)
+May 6, 4:26 PM
+Hello,
+we are sorry to hear about your issues. Unfortunately we are not able to offer a refund for your payment(s). Please note that according to our EULA http://xsolla.com/eula/ all payments are final snd there are no cancellations."
+its been probabably more than a year since i played because of updates ruining the game. amount of recent positive reviews went up so i decided to try it again. only to have denial of service attacks on the server. this game is probably hopeless. another thing, the legendary plasma bomb is now about as damaging as a smack in the face, by the way, there is no pilot anymore. LOL. BRING BACK ARMOUR AND TIERS. everything is nerfed. the game isnt about stratagy, its about stacking components with the least amount of nerf on them. shields dont really even shield you anymore. and i miss the days where you had to find out where the pilot seat was and when point of impact damage was actually a thing. chisel out the pilot as if it was a crit and boom they dead. now it doesnt matter what i do, what used to make me great at the game with hundreds of hours logged, is now making me nerf king of the worst losers in the game
+There's a reason this game's awards are all from 2013/14, this game was great. It was amazing because it was dumb, it was amazing creative possibilites leading to theraputic mindless destruction. But then they starting adding moba like properties to it, then ranks, then they put all creative possibilities behind a paid subscription wall. haven't played it since then. They could even just revert to a previous version and it would be better than the current one. Don't waste your time on this shit game.
+This used to be really good.  You removed RP.  Okay I can take that.  You add crates.  Ehhh, ok I'll deal with it.  But now... NOW YOU DO THIS?  You guys ruined the game.  I'm so sad right now... I used to love this and now it is unplayable.  First of all, the matchmaking system is still HORRIBLE.  I get matched with players probably 100 levels lower than me.  Second of all, the new game mode not only got rid of the tower based system, but is full of flaws.  Probably the most irritating one to me is that it FORCES you to get a rank.  I made a vow to never get one and you guys just ruined my whole Robocraft career by forcing me to do so.  Plus, the protonium eruption FLIPS YOU OVER.  We still don't even have a built in voice chat function to coordinate our team.  Please Freejam, at least bring back the old game modes.
+First off, I have played well over 1000 hours so I know what I'm talking about. 
+
+6 months ago this game was in my opinion perfect, you could play whatever mode you wanted, there was armor ranking etc
+
+Then you changed the block system to one type of block and a color wheel, ok except all of the non ugly colors are premium and I wanted this to be a fun FREE game. 
+
+Next every week you added a new weapon each more insanely overpowered than the last, combined with shitty matchmaking and you get people with those things going up against people who still hadn't payed. At this point I was kinda getting turned off the game. 
+
+Then you add the modules and energy and at this point I don't really play anymore 
+
+Now you have ENTIRELY Changed the basis of the game, the part which  made it unique, fun and interesting. You got rid of the old tech tree and now have these boxes. You also decided to destroy any attempt at matchmaking so new players get to go head to head with missile launchers. You have successfully turned many people away recently including newcomers and me. And I'm hoping that if you read this and don't believe me please at least be weary as you enter the game
+This game was AWESOME when it first came out. I was spending time leveling up and having lods of fun while doing it. The first big update I remember is when they added new battle modes. I Loved the new battle modes and I spent even more time playing with every update. After 200 hours, I finally got to MEGABOT! The game was so fun after I got megabot. One day I opened up the game after an update. Basically it said, we are removing megabots and giving everyone who had megabots at that time about 2400 gc (can just buy a pile of crap). In addition to the bye bye to megabots, they decreased the amout of rp earned in a battle by like 90%. I just stopped playing then. I was angry, and the robocraft team got alot of complaints from me. Another update came along and I tried it. They took out all currency and replaced everything with crates you earn after a battle. This brought a little money balance back but the game still is not even close to as good as it once was. I just can't recommend it. It is ok right now but it was so extremely good at the beggining that it is horrible compared to what it used to be.
+Good game but  COMPLETELY RUINED by the most recent update! Please, please, PLEASE! make the building bays go back to normal, I normally have fun playing robocraft but I had spend ALL of my game currency on a build bay just I could have a plane. I understand the reasoning but it was the wrong way to go about doing it.
+Id like to say that the latest update "Epic", has gone south in the way i feel about this game. The game WAS fairly good and was pretty much even, this includes the premium etc but now the way this game is aheading is the P2W route. I feel like the game will run down or have the people who spend hundreds of real money for so many crates or so long premium. At first i agree with premium, it gave plenty of goodies and so on, it persusaded me that much that i almost brought a few days. Now i am not. Why? Because its basically useless. You get 4 more slots to get items and you get 4 slots in your platoon...thats it? Last time you got more in-game money when you finish each match, this money could be spent on getting parts which were RANKED! Speaking of Ranked, this system of being ranked? Where did it go? What is with the new players getting weapons like the photo-...? This weapon is crazy, it is the most used and most powerful weapon i have seen. 
+
+Concluding this, dont get the game until the developers actually listen to the public and remove the things which they fucked up on. Simple.
+
+Your welcome for this review, i hoped it helped you to stay away from this game
+Used to be an amazing game that I really enjoyed, although the new updates have ruined it and it's not worth playing anymore. I really miss the old version
+Once upon a time this was a good... no GREAT game, I love to build, I loved everything about this game.... until their latest update. Epic loot is complete garbage... Why? you can play hours and get nothing for your efforts, you can get the best loot chest in the game, AND STILL GET CRAP LOOT! why not buy gear with robits? HA! that feature is no longer worth while, now there are 2 ways to get robits, sell the shit loot you get for minimal robits, or have other players buy the robots you make, yeah if you're lucky, plus you only get 25% robits from selling a robot. You can also buy the best chest with real money, only problem is... you still have a high chance to get nothing. 
+
+Premium is no longer worth it, instead of double robits and experience, you now get double the amount of crap loot and ooooooooo more colors to paint your ship, I ALREADY HAD ALL THE COLORS!!! now im stuck with 4. On top of every thing else, they had to add energy usage when using weapons, my favorite build was healing guns, now it's terrible, now I can't keep my team alive, oh and everyone can heal/repair. after 10 seconds of not taking damage, you rebuild yourself... now snipers rule the field... Why Freejam?... why?
+
+If your game isnt making money, you shouldn't call it "free to play" nor should you change it, if it's not making money, it's not the games fault, it's yours.
+this game... i just tell you
+this game use to be something diffrent back then, something that was creative and cool
+later on, they started to update it with the mega smg, decent but nice to see something new, then the mega plasma, also really nice, then after awhile they changed the game so much to were it became annoying and always frustrating to play.
+i played it some times here and there and then 1 day it became a pain to play and was always frustrating unless you were in the winning team.
+respawning is way to long later on in the game, the games grinding just is annoying, then later on they add mega only weps and some other stuff, it first started with the LOML, which then everyone started to use that and man was it op
+they debuffed it but now it was the new areoflack that they added, now everyone was using the areoflack, soon they added the most annoying harrasment gun (i forgot the name .n.; ), and then finally we have the worst one of all, the shot gun, almost a 1 hit kill and can kill robots in seconds, you can only counter it if your a flying robot, and it makes me sick that people are only doing the same designs over and over, the creativity was lost and you can only do mega guns if you want to be effective, the matchmaking is broken like crazy.
+i use to love this game, now its ruined as robocraft seemes to be more and more pay to win now, heck they added these crates to be like the other games like tf2 and that, its stupid.
+
+anyway this is my opinion on this game i use to love, as it was almost my fav game back then, now its almost my most hatted game ever.
+i still love this games building and creativity, but its matchmaking and the robomarket and how people just go for the most overpowered weapons over and over and seeing the same robots to were theres nothing original/crative anymore.
+wish i could replay the old robocraft, but sadly i cant .n.
+
+if you still like the game then you still like it, its not my cup of tea anymore as it has changed to another game i just cant injoy.
+i wish i could just injoy this game now adays.....
+
+Last updated ruined the game.
+
+You get crates instead of RP after the game which gives you probaly and most likely (NOT) the item you wished for.
+You need to salvage them to get robits and to craft stuff which is too damn expensive.
+
+But the best of it....most of my robots, and most likely yours too, are useless now.
+
+Thanks Freejam.
+I used to really love this game. But they've added and taken so many features out since the alpha that I don't know if it's really worth it to get reinvested anymore due to a bot or playstyle will still be in the next time I log in.
+
+I really miss the large maps with teams of 10+.
+
+The lack of stability is really makes it hard to recommend to people anymore.
+What happened to the game? It used to be *GOOD*. Now I don't even know how to define it!
+
+The Skill Tree throws everything off, and is rather unfair. Someone could use a bot or autoclicker to farm for Experience in build mode, And just unlock absolutely everything.
+
+The game is awfully unbalanced. Most of the players I see use the most unfair stuff in TINY vehicles, Which is obviously them bypassing High tier weapons into basically Tier 2 matches.
+
+I would've recommended the game long ago, but now it's gone to such a low end that It's very unplayable. You can't be creative with design anymore because someone will rip-off a design that's available for grabs off of the market or whatever it is now.
+
+No wonder it has mixed reviews. I'm just waiting for the reviews to go from Mixed to Negative.
+Was an almost good game (as most microtransaction games are), then they added crates, divided everyones savings by 63 and made it so you have to grind for random items to build anything. Grinding with no guarantee of making any progress is not fun.
+This game used to be the shit, but then slowly over time the crackheads that made this game just fucking ruined it. The second that the crate update was out, the game died. Change it back to what it was years ago or it will never be good again.
+
+
+The "Epic Loot" update completely broke the economy. Battles are still fun, but progress is almost nonexistent, and the random drops rarely give you the parts you actually need. Building a bot is painfully slow, with you repeatedly having to wait for RNG to drop a specific part.
+
+Sadly there is no sign of the developers admitting that this is a problem, so don't expect a fix in the near future.
+The market is now broken, this game was fun. This game no longer allows you to win cash to buy items. Now you get a box that gives you an item worth 1 or 2 points to buy an item that costs 1million points.
+
+The Market is BroKEN , with the new patch, you can no longer enjoy making robots as you imagine.
+
+Even using real money to pay you still can't buy what you want. 
+
+Maybe the developers will loot a box and random some intellegnce.
+I tried, i tried to like this game as much as i did in 2014 and 2015, but it's refusing it, he doesn't allow players to love him anymore.
+
+I had so much hope for him, he was so promising, but those who led his growth took every possible wrong turn while being deaf to the community, like a madman driving into a ravine, we are close to the ground now, and i'm not sure if still want to be here when it happens.
+
+I don't think there is any going back now, and this is sad, just sad, he died years ago already, had those in charge of him not been spoiled kids, we would be happy, but no, everything that gave the game it's personnality has been twisted or outright torn-off.
+
+I don't know how long i'll be able to stay anymore, i though steps in the right direction were taken, but it doesn't compensate what had been done and not done at all, i wish the best for the veterans, and apologize for the new ones who couldn't experience what Robocraft once was.
+The good thing about this game it's that is free to play. You can just binge play it how much you want until you're satisfied.
+The early days of robocraft were really great. You had 10 tiers and each tier unlocked a set of new weapons and armor. You were able to buy as many cubes and weapons as you want ( well there was the tier limit ).
+
+Nowdays you'll have more chances to pay in this game in order to win or binge play it until you made a kill. Since the loot crates got added and they limited the item-tree, everything went down the hill.
+
+Also the reason my playtime is low it's because i quit the moment they limited the item-tree and indirectly forced you to add money into the game to buy more items.
+Welp, with the update today the devs did everything in thier power to destroy the economy. Everything is now based on rng, and it takes 4-63(yes 63) times as long to get new items. I liove this game, but in its current state it is unfortunately unplayable.
+The game was good, but nowadays it is ruined. Player base is going down due to poor decisions of FreeJam and immature, irresponsible admins. The game is not balanced with many features useless due to that imbalance.
+It was a good game at first but since their new update with the tech tree and stuff where you have unlimited stuff once you unlock it just made the game stupid and to easy
+When they removed 10 armor tiers they killed this game. There was a balance between weight, strength, propulsion,  and agility that made the game play unique with every fight. And, as you unlocked higher level armor and items there was an actual progression in ability. Now it's copy paste.
+
+Bare-bones floaty snipers for which detection meant death but execution meant victory. Heavy, slow tanks that would deliver punishment if you got in front of them. Small and zippy glass-cannon wheeled craft that would flank, undetected, to assassinate a single opponent then run away. A team of two could active tank a team of 5 with a simple bot and a repper. Even the hover craft impersonating pirate ships, while whimsical to watch, carried plasma cannons to broadside their enemies and deliver balanced punishment. 
+
+There used to be creativity in each design and now there is only knockoff. It's been dumbed down so much to meet larger demographics that the design of the week is easily duplicated and you see it everywhere. Even the maps now lack any individual personality. Earth, Mars, Gjob whatever; small area with an open patch in the middle of simple lanes. Go die.
+
+I started playing this game at the end of its height in 2015. We had so much fun and, if you had 5 to put a purposed team together, it was ridiculous what you could do. Since it's “launch” it's been let down after creative loss let down and now they've sunk to a ptw dlc bundles. It's a shame really, there was so much potential.
+Was hoping  I wouldn't have to write a negative review about this game, but here it is. The Epic Loot update that happened on 04/28/2016 has ruined the game entirely. The previous grind to get enough money to make more  bots, was easily  bearble and fun. This new crate reward system though, kills the fun in  the game.  I'd much rather be rewarded for my skill in a game on a definite  basis that I can predict.  
+I for one, cannot stand carrying my team, getting a protonium crate, and getting a bunch of blocks, and shields. Maybe  if FJ tweaked the robit prices of stuff, and possibly fix the loot crate isssue.  I could  consider staying on this game full time again,  and dropping some cash on it. But,  until then I think I am gonna be searching for another MMO Arena game.
+
+Before:  4/5
+Now: 1/5
+
+Will not recommend at all.
+A game with great potential. But the developers have killed it. I propose to make Robocraft 2 or the same game with graphics, real-life physics and newer games.
+this game is cancer now with the new update. the new loot system with crates, yea it sucks ball. dont get the game until they fix it. pretty much from the origonal game its changed so much that it might as well just be renamed call of duty except with bots.
+This game was awesome. I hate the update 2/14/2019. The agility update sounded nice, but its terrible. there is no way a helicopter is that agile. half of the guns became useless, even with good connection and small ping delay, totally accurate shots just pass through their Robo and "miss" because they are wiggling back and forth.
+Thank you freejam for destroying this diamond of a game completely. First the Schotgun and now this. Balance those weapons finally not make everything weaker. We need more ammo. What is the use of seven plasmaguns if i can fire only three pojectiles bevore running out of ammunition. 
+Snipers are overpowered and so every game there are at leased four bots camping around and making it impossible to move 100 meters without beeing demolished. 
+Smgs are shooting so slow and unprecise that it reminds me of a person with parkinsons desease tossig stones.
+Thanks to the new update almost all my bots are completely useless as i loved to build all kinds of planes an helicopters.  I think my 40 Euros and my 500 hours of gametime were wasted. 
+The game was perfect as it was half a year ago. all weapons were basicly balanced and even the bots were basicly balanced in firepower and durability. All i wished for was more maps and more gamemodes like only planes.
+
+All in all my favorite indy game is now ruined.
+Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance after Re-balance 
+
+And The game still has more exploits and Meta strats than every other game on the market put together.
+1/10
+(Would be 0 but I managed to build a Pixel art of papyrus from undertale which was fun)
+Dead game. You play the majority of your time against AI bots that the devs try look like players. Unfortunately the current devs are not very good at coding so the bots just get stuck against walls.
+Was a really good game untill they decided to add lootboxes and destroy the flying system...
+Also they destroyed the beloved tier1-10 robot ranks, after that weapons were added and shields and plasmas nerfed into the ground. Basically they nerfed the skill factor by addind rockets flak etc. 
+oh and robot blocks are now made out of plastik.
+The actual system of the game is back to a scuffed version with 5 tiers ;)
+
+Cool game overall but there were times it was 100 times better
+Honestly what everyone is saying is true...
+
+When this game first released it was extremely fun, and competitive. You really could build whatever you want and go into battle, plus you had satisfaction in knowing that the thing you pilot was created by your own hands from nothing. Now we have pay to win and generic combat... game is not fun, devs are weak DO NO GIVE THEM ANY MONEY ONCE SO EVER, IT WILL ONLY ENCOURAGE THEM AND THEY SHOULD BE ASHAMED.
+https://steamladder.com/ladder/playtime/301520/
+
+
+Fake accounts used in sole purpose of creating reviews for an otherwise dead game.
++Abuse of Charity Donations using sick kids as scapegoat.
+
+Congratulations, You Played Yourselves.
+
+R.I.P Martin Smelling and team hobocraft.
+
+Why you always LYING.
+Robocraft has lost its strategical aspect in almost every way. Before recent updates different tiers of the same weapon had their own strengths, such as different fire-rate and energy consumption. The game in its current state has no differentiation between weapon tiers other than damage output, this effectively makes the game into a "If you have the best guns you will win" type. Damage and health boosts based on Robot CPU has also been removed, further decreasing tactical thinking when you're building your bot. I do not recommend this game as it is right now.
+As much as I love this game, I can't recommend it to anyone anymore. The Community for it is dying and the developers can't seem to make updates that keep the players wanting to come back. It's gotten so bad that 80-90% of my matches include at least a couple bots instead of REAL players. This game IS fun, it always has been to me, but when you see all the sh*t it's been through over the years, it makes you feel like just giving up.
+Why are people playing this game when they don't understand the concept of teamwork? The game does a beautiful job of theoretically matching up equals, except when one's teammates refuse to participate. Even worse, one's teammates turn tail and run and refuse to defend the rest of the team. This game desperately needs a "kick" button to get rid of the hangers-on that only want the XP but don't want to actually fight. It is not fun to get one's ass kicked over and over and over again because it's not possible to carry a match single-handed.
+This game was amazing in alpha form. I put 100 hours in back then at it was a blast to play. Now however the game is just paytowin. tiers aren't separated enough and there are no more massive teks.
+The game was good back in 2015 when there where tiers 1-10 and no damage boost. After the color update Robocraft went downhill from there. Freejam was completely focused on satisfying its new player bases needs and completely ignoring the veterans, the ones who have been playing and enjoying the game since the start.
+The game was alot more fun back in it's alpha stage, where it was just rails, smg and plasma launchers. And your bot could be a walker, heli, plane, car or tank.
+Nowadays its just a clusterfuck of closet neckbeards shoving money onto their screens and f2p are left in the dust.
+At least get better matchmaking, so maybe the game is playable at a casual standpoint.
+
+Cmon guys, i know you can do better...
+Ive started the game up to check the changes that where made over the last 3-5 month but i think they are joking.
+A Tier 0 laser draws the same amount of energy as a all other tiers, same with the plasma launchers. Only difference is the damage per shot. Is this some sort of joke?
+Was an avid player back in 2014. Stopped playing around late 2014-early 2015. After coming back and seeing what's become of this game I'm appalled by what they've done to what used to be a pretty fun little game. 
+Sadly It's now your typical cash grab crap.

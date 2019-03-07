@@ -1,0 +1,1283 @@
+Insurgency is a strange animal - a blend of various ideas characterized by other games like Counter-Strike, Red Orchestra, and the cult classic Firearms mod - that manages to do a very good job at providing a tactical, hardcore shooter experience.
+
+On paper, Insurgency seems very normal - two teams, the classic push/conquest/objective style game types, and guns. However, that's pretty much all Insurgency has in common with its modern military shooter bretheren. Insurgency is mechanically a very different beast. Let's start with spawns - instead of having reinforcement pools like Battlefield or Red Orchestra, Insurgency uses spawn waves to regulate gameplay flow. It sounds weird, sure, but it works extremely well in practice. 
+
+Let's take a basic game mode, Skirmish. Five objective points, conquest style. Each team's closest points to defend are objectives that can be destroyed, which removes them from the map and tightens up the cap order. Each team starts with 2 spawn waves. These spawn waves kick in every 60 seconds or so. Anyone alive by then stays alive, anyone dead by the end of this timer comes back. Every time an objective is captured, another spawn wave is added to the capping team. This means that players are not only incentivized to do objectives in order to extend their own playtime, but it also increases the team's overall effectiveness. It also means that rounds can take a while or be over extremely quickly depending on the degree of teamwork and individual player ability to stay alive.
+
+The other thing that this game does very well mechanically is its gunfights. In other tactical realism games like Red Orchestra or ARMA, an average engagement is a sniper fest - whoever sees 'em first ends it pretty much instantly. Now don't get me wrong, Insurgency has its share of ingloriously quick deaths and sniping corridors, but an average medium-range gunbattle can often devolve into a stand-up fight involving suppression, repositioning, and grenades, much like a real fight. Part of this is enabled by the fantastic sound design and particle effects - guns are spectacularly loud, a blinding amount of smoke and dust gets kicked up from fully automatic fire, and suppression effects seriously mess with a player's accuracy. Ducking away from a window to have a burst of automatic fire rip up where you were just seconds ago is quite unnerving. Insurgency also seems to be one of the few games that really understands that shooting a real firearm often results in a sort of almost-blindness from the muzzle blast and recoil, which makes attempting to shoot enemies less of a "line-up-and-click" moment and more of "frantically fire in their general direction and hope they don't shoot back". tl;dr: the guns feel realistic and meaty, and getting shot at is freaky.
+
+With that said, however, I must be clear with you - Insurgency is NOT a game attempting infantry combat simulation like ARMA or Red Orchestra. The accuracy and damage dealt by the game's large selection of weapons is on par with those kinds of games, but this is also a game tuned for balance and fun. There isn't any superflous mechanics like changing the zeroing on your ironsights or wounding (like RO2 does), but it does make thematic concessions, like fully animated fire selector switches. The inventory and loadout system also emphasizes that it's still very much a game . The end of rounds gives your team Supply Points, which you can then use to build your character's weapons kit. You can equip armor to hopefully increase your survivability by a shot or two, attach a 4x scope to your SKS to plink at range with it, or shunt your points into a slow-handling rocket launcher, which is good for objectives and heavy suppression. There is  no grindy metagame progression system like Call of Duty. It's just the loadout and inventory - all based on your team's performance in and out of rounds. Kind of like Counter-Strike!
+
+As someone who cut their teeth on games like Red Orchestra, I can say this about Insurgency: it is NOT the most hardcore, realistic shooter I've played, but it is most definitely the most FUN I've had with a realistic team-based shooter! For an early access game, they have a very good product released as of this date (12/29/13). I haven't had a single crash yet, it looks amazing, and runs like a dream! They also have quite a selection of maps and well-balanced gameplay to top it all off. If what I've said sounds good at all to you, go on and get this game, even if it isn't on sale. It's worth it.
+I decided to hold off on writing a review until there were a few more updates and for me to have at least 500+ hours invested into the game. I am going to keep this straight up what i think about it as a whole with no fluff. Short and sweet.
+
+Should you get it? It depends on what type of fps's you like. Many CS players have fell in love with it because they like the realism and they've grown tired of the arcade feel that most other shooters have. Don't doubt it for a second, this game is hard to pick up on but once you do, you realize how well reflexes really help if you're rushing but don't expect to be 360 no-scoping people because there is almost no chance in hell that that will happen. Those with good aim that are looking down sight as you turn a corner will get you every time so this is a game best played instinctively and safe (just don't be one of those snipers that sit at spawn and let the enemy capture everything). There are few grenade, C4, or launcher spots that few people know of and use at the start of some maps which can be frustrating, so that is why I'm really hoping that much larger maps will be released in the future that are more open and don't feel as constrained/guided (Heights and Buhriz are like that but i still love them). Maps that were easy to spawn camp have been updated heavily to prevent that which is great. The devs are absolutely brilliant at balancing and opening new areas of maps, always on top of it so kudos to them. 
+
+Community engagement is stronger than i've ever seen it, there was a public playtest of player submitted maps that were voted on in hopes of them being added to the game and the rise of The Digital Gaming League is starting their first official Insurgency competitive season with a multitude of teams signed up. 
+
+The Nightfall update just added so much more to the game, it feels totally different than it used to in every good way possible. Noises are made when crossing though brush and leaning, leaning mechanic feels more 'stiff' (meaning not fluidly unnatural), the night vision is spot on and well-balanced, flares look awesome in the night sky, but my only complaint is that the running animations with weapons look kinda wonky now, i preffered it the way it was before but i won't nit-pick things for the sake of the length of this review. Also the new co-op survival is an amazing idea, i could see myself spending hours on that alone with friends. 
+
+I could write a list of 10,000 reasons to get this game but none of that could possibly describe the feeling that it would give you if you were playing it yourself. It needs to be experienced, the feelings it gives never dies and that in itself says something. Kills are rewarding, objectives are highly valued, teamwork is vital. You need this game in your life if you are looking for a realistic shooter!
+
+*12/20/14 edited formatting*
+
+NEW UPDATE! 5/3/16
+
+1,290 hours logged, i just can't seem to get enough. New maps, improvements, feautures, etc. OH and a new Insurgency game is coming out soon hell yea! Community is growing steadily, a lot more Pick Up Games (PUG's) than there used to be when i wrote this review for those interested in competitive. My only wish is for ranked competitive matchmaking to exist instead of the typical unranked. The future of Insurgency is looking very healthy!
+[h1]Insurgency[/h1]
+
+[i]Note: Each field is weighted differently, and thus affects the overall score differently.[/i]
+[table]
+ [tr]
+  [th]Field[/th]
+  [th]Rating[/th]
+  [th]Review[/th]
+ [/tr]
+ [tr]
+  [td][b]Graphics[/b][/td]
+  [td][h1]7[/h1][/td]
+  [td]Visually, Insurgency isn't anything special, but the detail put into the guns is extremely well done. Nothing here will jar you out of enjoying the game, though there are some quirky animation glitches that give some good laughs.[/td]
+ [/tr]
+ [tr]
+  [td][b]Gameplay[/b][/td]
+  [td][h1]9[/h1][/td]
+  [td]Hands down one of the most intense firefight games I have ever played. If you want to win, you need to be tactical, or you're going to get picked off real fast. The firefights are intensified through audio and visual effects, from the crack of a sniper's bullet, to the hiss of a round passing by your head, to the pings and putters of the bullets hitting the environment around you. The controls are solid, and lend themselves to improve the gamplay (there is lean in this game, use it). With several different game modes to choose from, including playing against AI bots, you're able to have hours of endless fun without getting bored. There is a timer between spawns, but it goes fairly quick, and spectating your friends is entertaining in and of itself.[/td]
+ [/tr]
+ [tr]
+  [td][b]Story[/b][/td]
+  [td][h1]N/A[/h1][/td]
+  [td]You're a soldier in Iraq. That's about as deep as it gets.[/td]
+ [/tr]
+ [tr]
+  [td][b]Multiplayer[/b][/td]
+  [td][h1]10[/h1][/td]
+  [td]The mixture of new gameplay styles (you can't just run and gun here, you'll die), tactics, and some funny glitches on occassion, add up to be one of the most wonderful times I have had playing a game with friends in a long, long time. There are many, many laughs to be had here. If you're into moving tactically, this game is also your ticket to a good time. Even if that's not your thing you'll enjoy this one.  
+Some tidbits of my friend's and I playing, for everyone curious (I did not create the video, was merely playing with them at the time): [url=https://www.youtube.com/watch?v=Ds7Yvskdmw8&list=LLXUlvmI5Nqollgm1Gnswoiw]Insurgency Gameplay[/url][/td]
+ [/tr]
+ [tr]
+  [td][b]Replayability[/b][/td]
+  [td][h1]10[/h1][/td]
+  [td]This one will keep you coming back for a long, long time. With free DLC releases containing new content, and the recently boosted community, there are few things to keep you from returning to play another round of Insurgency with your friends.[/td]
+ [/tr]
+ [tr]
+  [td][h1]Overall[/h1][/td]
+  [td][h1]9.2/10[/h1][/td]
+  [td]I'll be honest, I didn't expect to have such a grand time with Insurgency, but it is easily the most fun I have had with a group of friends in several years. If you're playing this one alone, it's good. But when you're playing it with buddies, it is absolutely grand. A refreshing game in a field of run-and-gun FPS games, demanding you to take your time and not go rambo.[/td]
+ [/tr]
+[/table]
+
+[i]If you liked this review, feel free to check out my curator page:
+[url=http://store.steampowered.com/curator/7035284-The-Tipster/]The Tipster[/url]
+
+You are also welcome to join our group and play/discuss games together, here:  [url=http://steamcommunity.com/groups/The_Tipster]The Tipster[/url][/i]
+This game looks so awesome and challanging.
+NO SPOTTING, NO HIP-FIRE CROSHAIR NO MINIMAP, NO KILLCAM, NO HEALTH METER, NO HIT /KILL NOTIFICATION, NOT EVEN AN AMMO COUNTER.
+it really forces you to trust your instincts and your teamates due to the lack of information.
+It feels so rewarding to confirm a kill or win a game.﻿
+300 hours in and haven't written a review? Well, guess it's time for one.
+
+What do you get when you buy Insurgency?
+[list][*]24 Maps across 10 different game modes
+[*]A large and active community of players
+[*]Thousands of workshop mods to customise your game to your liking
+[*]Regular free updates that bring new maps, weapons, modes, etc.
+[*]Possibility for competitive 5v5 play
+[*]An extremely based development team who actively partake in the community and listen to their fans
+[*]High speed, high lethality close quarter combat
+[/list]
+
+Combined with realistic weapon handling, hipfire freeaim, minimalistic hud and lack of hit markers and hit indicators, you'll be in for a sweet white knuckle grip ride. And all at a moderate price of $15
+
+So what are you waiting for?
+One of the best FPS game I have ever played. It's more realistic than Counter Strike, but not as hardcore as Arma. By default, there are no health bars, no ammo indicators, no crosshairs and no kill messages. Kill messages can be toggled on by the server.
+
+Enemies drop quick in this game if you're using AP rounds; usually in 1-2 shots. The 'sniper guns' (M14,FAL, M40A1, Mosin) will kill in one shot with AP ammo, even if the target has heavy armor. All guns will kill with one shot to the head. Most bullets that are able to pass through a wall, will retain enough energy to kill someone in one shot to the head. Guns shoot straight, you don't get an unrealistic spread cone like Counter Strike and shotguns are still lethal long range using slugs. Suppressive fire exists and it's tactical. However, there is no bullet drop at all. Teamwork, heavy armor and being tactical wins the game. 
+
+This game also has a better community and less 12 year olds than most FPS games such as Counter Strike and Call of Duty. 
+
+The best gamemode and the one I play most often is Ambush. 
+
+Even though I got this game for 25 cents ($1 for a 4 pack in a humble bundle). It is worth the $15 in its entirety. 
+
+I highly recommend this game.
+Best tactical FPS game on the market.
+its a dream come true!
+
+PROS:
+
+-Tactical gameplay
+-No Micro-Transactions
+-No Chests/other shit
+
+-No Dlc
+-No Hackers
+-No Spawn Traps
+-Friendly Community
+-Lots Of Depth
+-Value For Money
+-Totally Fine Single Player Content
+-Hardcore Gameplay
+-large Fields with Large Scale Battles
+-Fine weapon Customization
+-Balanced Gameplay
+
+CONS:
+
+-Low Population Sometimes
+-Not Rewarding For Casual Gamers
+-Few Classic Gameplay Modes not Present
+
+in short this is probably one of the best fps games you could play, and i am glad i got it when it is at its very best.
+No paid dlcs 
+No paid weapon skins 
+No paid gloves
+No paid underwear
+No Filthy Online Gambling App where you have to pay real money 
+No artificial scarcity of in-game cosmetics
+[h1]Intense & Atmospheric // Attractive For Team-Players[/h1]
+
++ Agreeable balance in multiplayer
++ The game's audio is superb and offers some of the better sound effects I've ever heard in a multiplayer FPS
++ Weapon-kit customization is excellent, intuitive and well-rounded
++ The game boasts a healthy variety of firearms, peripherals and equipment
++ Movement feels largely fluid and realistic (save for some hit-detection issues when entering doorways, but to this, one quickly adapts)
++ Menu interface is very minimalist and aesthetically pleasing
++ Multiplayer places an overwhelming emphasis on vocal communication and team synergy; while this can be problematic in a new server, it makes for an incredibly rewarding experience when you insert yourself into a competent group of individuals
++ Variety of entertaining game-modes (despite many large and glaring similarities between them, though this does not take much away from the game in my experience)
++ Seemingly realistic hit-detection and bullet-spread
++ There is no microtransaction or pay-to-win mechanic in this game, and the unforgiving gameplay makes the multiplayer entirely skill-dependent
++ All weapons and equipment are, for all intents and purposes, 'unlocked' from the outset; weapon selection is based upon selected class and available weight distribution, which appears to be more lax as your account accrues experience
++ Detail put into firearms is impressive
++ Very, very high replayability
++ Healthy, competitive player-base
++ No HUD, which lends a feeling of maturity to the experience
++ Night maps serve to give the existing map selection a greater measure of replayability, and add significantly to the level of challenge
+
+- Quite a few bugs and glitches; this includes a handful of CTDs
+- Environmental textures and visuals are lacking (though not drastically)
+- Learning curve is initially a bit steep, and may deter more casual gamers
+- In regard to night maps, night-vision is near mandatory (flashlights make you a prime target in a game that distinctly punishes such behavior), yet it sucks up a massive portion of your weight limit, severely hampering the usefulness of the rest of your kit; it seems to me that the weight of the item is unbalanced and punishes newer players to an inordinate degree
+
+[h1]LockeProposal's Big Day Out[/h1]
+
+[url=http://steamcommunity.com/groups/bigdayout#]Community Group[/url]
+[url=http://store.steampowered.com/curator/7611703/]Curator Page[/url]
+[url=https://www.reddit.com/r/SeriousSteamReviews/]Serious Steam Reviews subReddit[/url]
+Is mod supported
+Almost no cancer
+Almost no cheater(thanks battleeye)
+No skins
+No gambling
+No squeakers
+Is cheap(currently at $1.50)
+Is optimized
+11/10
+
+
+===[ ❤ Audience: ]=== 
+☐ Kids
+☐ Everyone
+☑ Casual players
+☑ Pro players
+
+===[ ☼ Graphics: ]=== 
+☐ Potato
+☐ Really bad
+☐ Bad
+☐ OK
+☑ Good 
+☐ Beautiful 
+☐ Masterpiece
+
+===[ $ Price/quality: ]=== 
+☑ Full price
+☐ Wait for sale
+☐ Average
+☐ Refund it if you can
+☐ Don't do it
+
+===[ ☣ Requirments: ]=== 
+☐ 90' PC
+☑ Minimum
+☑ Medium 
+☐ Fast
+☐ High end 
+☐ NASA computer
+
+===[ ☼ Difficulty: ]=== 
+☐ You just need 2 arms 
+☐ Ez
+☑ Easy to learn / Hard to master 
+☐ Hard (first few hours)
+☐ Dark Souls
+
+
+===[ ۞ Game time/length ]=== 
+☐ Really short ( 0 - 2 hours)
+☐ Short ( 2 - 8 hours)
+☐ Few hours ( 8 - 12 hours)
+☐ Long ( 12+ hours)
+☑ Endless
+
+===[ ♬ Story] === 
+☑ It doesn't have (Planning to release)
+☐ Still better than Twilight
+☐ Average
+☐ Good
+☐ Fantastic
+
+===[ § Bugs ]=== 
+☐ Game itself is one big BUG
+☐ Bugs destroying the game
+☐ Lot of bugs
+☑ Few Bugs
+☐ You can use them for speedrun
+☐ Nothing
+
+===[ ✦ Others: ]=== 
+Multiplayer: Yes
+Singleplayer: Yes
+[b]For 15 dollars, I got:[/b]
+-24+ maps
+-Interesting gunplay mechanics
+-32+ weapons
+-Fun and balanced gun customization
+-Fantastic mod support
+-13+ gamemodes
+-Immersive and detailed gameplay mechanics
+-Arguably some of the best graphics you'll see on source engine
+-An awesome community (players and developers)
+-Free DLC 
+
+[b]For 15 dollars, I didn't get:[/b]
+-Microtransactions
+-Season Passes
+-Half-assed "DLC"
+
+What I'm trying to say is, support the devs! Thank you New World Interactive!
+*UPDATED* - I bought this in the sale for like £3 and I honestly feel like I've scammed the developer...
+
+Realistic atmosphere
+Great guns
+Incredible community
+Sniping is... just so much damn fun and it's one of the few games which actually gets the scope-zoom right!
+
+Imagine Counter-Strike, Battlefield and Red Orchestra all got together and had a baby
+
+10/10
+
+Update - After owning this game for about 2 and a half years now, I am truly astonished with how New World Interactive is treating this game. The game, even in Early Access (I think it was EA anyway, or could've been just a beta) was pretty damn good and yet they have never stopped improving it and trying to make it the best it can possibly be. Even now, they're starting to port the whole game over to Unreal Engine 4, add a campaign story and also add esports elements.. If I had the spare money, I would honestly buy the game again and gift it to a random friend who may want it just to show my gratitude to such an incredible development team who deserve every penny that they make. Bravo, NWI! It is just a shame the 'big boys' don't copy you.. (Ubisoft, EA etc). A truly incredible development team with an even better game! <3
+Insurgency is a refreshingly new intense multiplayer FPS.
+
+Expect no kill cam, no crosshairs, no radar, no medic or healing. No enemy damage notification. This is all hardcore realism of fun!
+
+Maps offer a good mix for long open lanes for snipers and confined areas for short range encounters. 
+
+8 Game modes from Firefight, Search & Destroy, Skirmish, Strike, Push and so on. There are also Co-operative missions.
+
+Gun loadouts lets you choose various amount of classes before the game starts, from support, rifleman, sniper, assault, sharpshooter and so many more. While customising your build, each costs a amount of points, but your choices will also effect your weight, the more you carry the slower you move.
+
+It's still has a active server population of roughly 1500 people online who play it daily. And the developers have continued to add new content to the game.
+
+If you are into these tactical shooters, and you're also looking for a truly immersive combat experience, then this game could be for you. I've been enjoying playing for many hours now, so incredibly addictive and challenging. Highly recommended!
+Insurgency is a HARDCORE FPS at its finest which doesn't follow current FPS trend. The game strips you of most realism shooter mechanics such as a cross hair and simply says hunt or survive. From my point of view it combines all the best features of Counter Strike , Red Orchestra and Arma. This game has a very good sense of realism in that there are no hit indicators to tell you where you've been shot from, it doesn't take many shots to kill - fewer from the neck up - and the only feature that breaks the realism is the small indicators to show you that the person next to you is a teammate, and also where the objectives are. That's it! No radar either, which makes the game even more involving. And friendly fire is always on at any time and it is forgivable. However, I would not recommend this game to people who ONLY like really arcadey shooters like CoD and BF since these two are really casual comparing with Insurgency. But if you really try to explore this game, well I would say you may find much more teamwork and strategies here. What I love the most about this game is how difficult it is, and how it focuses upon tactical play and cooperation with your teammates. I haven’t seen a game like Insurgency for a long time(except for CS:GO), We need more games like Insurgency, and less of the CoD Advanced Bulls**t that we are overwhelmed with nowadays. This is a game will never disapoint you .
+One of the great tactical shooting game available on steam/pc.
+Game community is also great, but there's some admin abuse server available on this game(Just blacklist the server if you find any)
+I've spent some quality times on this game. Totally worth it!
+this game is really weird...
+
+
+no crosshair
+no minimap
+no hit feedback
+no red triangles above enemy heads
+no medipacks
+no killcam
+no colorfull weapon skins
+no +100 popping up when kill someone
+no matchmaking
+you can't call a airstrike after a killstreak
+you can't aim while crawling
+you can't bunny hop
+moving sideways is much slower
+you don't need to go for the headshot, 2 chest shots with ak/ar are enough to kill
+you can kill your teammates
+you have to find a server in a server browser
+
+and so on... so what is this game?
+
+IT'S THE MOST REALISTIC AND INTENSE, BUT STILL FAST PACED AND VERY FUN TO PLAY, MP SHOOTER AVAILABLE.
+
+best 2$ i've ever spent on steam. can't await insurgency 2.
+
+//edit
+
+the gameplay is like battlefield3 infantry only hardcore but more realistic (see above + ammo left doesn't stack, every mag is separate. a rocketeer has only one rpg. roles have limited slots so 10 snipers in one team is not possible and so on... ).
+
+beside the source engine and the fact that you can be oneshoted and have to be very carefull, the gameplay has not much common with CS:GO.
+
+if you play cs:go because you think it's "realistic" (it's not:) and you don't really enjoy it - this game is for you.
+if you like bf3 infantry only but want more realism - this game is for you.
+
+if you want to cod akimbo p90 spray and pray run n gun - this game won't make you happy
+
+i hope this answers the questions about the gameplay...
+No paid dlcs 
+No paid weapon skins 
+No paid gloves
+No paid underwear
+No Filthy Online Gambling App where you have to pay real money 
+No artificial scarcity of in-game cosmetics
+if you're looking for a semi-realistic first-person shooter, go buy this game!
+
+here's some information about insurgency:
+[list]
+[*] no crosshair
+[*] no hitmarker
+[*] no healthbar
+[*] no healing
+[*] no radar
+[*] no ammo count
+[*] no kill notification
+[*] no mini map on the HUD
+[*] no enemy damage notification
+[*] no instant respawn
+[*] friendly fire is on
+[*] guns have high recoil
+[*] it takes time to reload
+[*] it takes time to switch weapons
+[*] it takes time to throw an explosive
+[*] you can't aim while crawling
+[*] you can hear the sounds of footsteps
+[*] you can hear the sounds of your breath
+[*] your screen goes blurry when you get shot
+[*] the price is cheap
+[*] the game is stressful
+[*] the game is about teamwork
+[*] get killed with only 1 bullet in the head or chest
+[/list]
+
+7/10 would get killed by an RPG again.
+TL;DR: Rainbow Six + Red Orchestra + a bit of Counter-Strike and a sprinkle of attachments like Battlefield but without dumb unlocks.  A solid tactical shooter with a slow pace and punishing time-to-kill where a few bullets will take you down.    
+
+Insurgency is Rainbow Six in Iraq with lots of sudden death and PTSD and jumping because you're shot out of nowhere.  It's a game of hide-and-seek with laser sights betraying their owner's position and footsteps betraying your own position.  Imagine if Red Orchestra had a baby with Rainbow Six.  It's got a lot of that in its blood.  In fact, one of the original devs for RO is the guy behind Insurgency.  Now, the hypothetical RainbowOrchestra child was raised by Counter-Strike.  Some round-based game modes and not all of them have respawns without some major coordination.  
+
+It's a tense package where you might go with no kills or a lot, depending on how well you can plan ahead with your teammates because if you don't get the drop on your enemies, you're dead before the bullets leave the chamber.  If you liked the mod, you'll like this.  If you like Red Orch but in the scale of the older Rainbow Six games, you'll like this.  
+
+On a scale of 20, I give it three thumbs up and -25% off coupon to a medium 2-topping pizza at participating locations.  Would recommend.
+No paid dlcs 
+No paid weapon skins 
+No paid gloves
+No paid underwear
+No Filthy Online Gambling App where you have to pay real money 
+No artificial scarcity of in-game cosmetics
+
+
+Insurgency is an absolutely blast to play. This game is pretty much the best multiplayer military shooter I've played in years. These guys, although indie have the decency  to add bots for solo play unlike Battlefield 3, 4 etc. The maps are great, the action is tight. The guns roar and the sound effects are just top notch. There are a ton of maps to play, with varying and intersting game modes. Good job devs. Keep it up. I just hope the next Insurgecy game carries the same moto of not milking the player base like Counter-Strike Global Offensive does. Cheers :)
+i love reading negative reviews about people complaining and saying "omg i bought this game X days/months/years ago for $X and now it's free REEEEEEEEEEEEEEEEEE!!!!!" that's your own fault, it doesn't make it a bad game.
+Red Orchestra: Modern Warfare.
+The gunplay is amazing: I never thought that such detailed recoil and bullet penetration are possible on Source.
+
+
+If that alone is not enough for you, here is why you should buy it:
+ [b]*[/b]  Game is under active development. The version I bought in August and what I have at December are different. It feels like it's a sequel already: map design, ui, gameplay, sounds - everything evolved and changed in a positive way. And developers are not afraid of hotfixes. That's how you do an Early Access.
+
+ [b]*[/b]  The sound. If you have good sound card and speakers/headphones setup, you'll hear one of the best gunshots sounds. At Least the best I ever heard. Yes, it's better than War Tapes settings for BF:BC2 or BF3. While it's not yet enabled for all maps, ones like District are just a joy to listen in 5.1.
+
+ [b]*[/b]  The weapon handling is very well done. It feels like the real thing, it looks like the real thing, it kills. Like the real thing. Attachments are done right too. You don't consider them like an upgrades, they are to change weapon behavior in a special way. Most of the time I'm using the gun in plain ironsight mode because it fit my play style more.
+
+ [b]*[/b]  Contains 5 different game modes for each map, like Skirmish from the original mod, all classic team deathmatch, Firefight (last team standing), VIP escort and everyone's favorite Push (aka Rush, aka attack-defense).
+This game is basic.
+Or, rather, all about the basics.
+It's you.
+It's your gun.
+It's your team.
+It's the enemy.
+
+There are no health bars, no kill streaks, no indicator on how many enemies are down, or if you did or did not kill someone. It's simply about trying to best your opponent.
+As someone who leads a team of over 30 players into the field, lemme give you a piece of advice. Learn the maps. Knowing where your enemies are most likely to be expected will win, or loose the game for you. Coordinate with your team, this is one of the games where the VoIP feature is realoly an asset instead of a nuisance.  Sound is important - listen to the footsteps around you. Maybe one of the enemy team is distracted enough to call his teammates on the radio close to you, enabling you to hear their strategies. Find the balance between being aggressive, or waiting for an enemy's failure - One shot can and will often mean your death, but being too slow can mean inevitable defeat. 
+
+If you're not that much into the PvP high pressure aspect, however, this game also features an extensive CoOp-mode with five (!) different modes and loads of servers out there. 
+
+If you will, please trust someone who spent over 300 hours into INSURGENCY: This game, although extremely cheap, can rival every single triple-A title in terms of content, with the only disadvantage being the game's somewhat inferior graphics (Source Engine) and a lack of a real Ladder or Ranked-system.
+
+Just, don't expect to be instantly rewarded for kills like in CoD, in BF or even in CS:GO. Killing someone is fine. But at the end of the day, You Are A Team. And you will Win Or Fall as a team.
+A real dose of action in this one.
+Great standalone version for one of the best Source Mods.
+
+Pros:
+
+- Astounding sound effects.
+- Nice combat, and gun mechanics.
+- Very optimized and well polished game with plenty of content.
+- Great variety of game modes and maps (including cooperative and versus).
+
+Cons:
+
+- Nothing that is worth mentioning.
+
+Notes:
+
+Best played with friends.
+One of the best shooters I've ever played, why? Cuz : 
+1. No crosshairs 
+2. Surprising realistic gun sounds
+3. MODS!!!( unlimited content potential)
+4.one shot dead even with armor(if playing against bots at brutal difficulty)
+5. Planning and allocating resources to maximize gear usage
+6. Sweet handguns ( needs a lil improvement on m45/m1911)
+7. Great with friends 
+8. Although trolls exist ( I'm talking to all of you flash bangers) it's still has a friendly community
+I'm not Rambo, so I was never in a war. But seriously, when the devs talk about realism on this game, they mean it. With that being said, this is an FPS I'm terrible at, but I will give you an honest review.
+
+The Gameplay:
+
+There's a variety of gameplay types, but I won't go into detail because the essence of the game is basically the same in all of them. For example:
+
+-Cover matters on this game, and if you have played other FPS games that stressed the importance of cover, this game will probably stress the importance of cover even more. Forget running around aimlessly and looking for someone to kill. You definitely won't be going up the scoreboard using that approach. 
+
+-Staying hidden and scanning the area is very, very important even if you're not a sniper. If you don't know your surroundings, you're going to get killed by the person who does. Staying hidden and waiting for the right time to shoot is also an aspect of this game you need to apply. You'll have to station yourself in buildings, hide behind rocks, anything that hides you from plain sight. The people who get the most kills on this game are the ones who know how to think tactical. It's not about how good you are at COD. It's about how well you can apply tactics. 
+
+-You can die in much fewer hits than on most shooters. While it is possible for players to take quite a few bullets in the torso (depending on the armor, that is), for the most part you can die in as little as one shot from a pistol. Keep in mind if you're not used to this type of playing, chances are you may find this game unappealing. 
+
+Nevertheless, this mechanic allows the game to keep its tactical gameplay, forcing players to use cover rather than just running around like headless chickens on a rampage. 
+
+-Lastly, teamwork is very important.
+
+The cons of this game:
+
+-You can die very fast. While some people might not mind this, I honestly don't think it's that fun to get killed by your enemy without even having a chance to react. Yes, you saw me saying earlier that dying fast on this game is a good thing. It can also be a bad thing imo. I wouldn't mind if players were given a bit more HP but not too much. That's basically all I got to say. Is it a bad con? No, it's not really a bad one at all. More like a minor nuisance.
+
+-Almost every server I try to join only plays on game mode called VIP. On VIP mode, one team has a special person, hence the name VIP, that they must escort to a checkpoint. The other team must defend their two checkpoints and kill the VIP before they can escape. It's not a bad game, but it gets really boring if it's the only game mode people are interested in.
+
+Conclusion:
+
+It's realistic and very fun to play, and while it does have only two annoying cons, I'd say this is a great game that you should consider buying if you're sick and tired of all the other FPS games out there that are all about running around like a complete moron and mindlessly firing bullets to get as many kills as possible. 
+
+In short, using your brains will make you better at this game than your itching trigger finger.
+Play this if you want a game that is not about getting aroused by a $12,000 dollar knife.
+Play this game if you want a game where 13 year olds dont f**k you mom verbally.
+Play this game if you want a game where you don't need to shoot someone 30 times to kill them.
+I started playing Insurgency: Modern Infantry Combat many, many years ago as a mod. As soon as I heard they were making a standalone, I bought it without thinking twice. Throughout early access, the developers listened to what the community had to say, and made changes accordingly. I have heard the developers say several times that they 'made it to play it.' This is the best mindset a developer could have, and it shows. Even though the kickstarter for Insurgency failed, the developers managed to keep it alive long enough to enter early access on steam. Their dedication to this game is really amazing.
+
+	The game has a minimal HUD, meaning your screen isn't cluttered up with useless things, such as a minimap. They also implemented a 3D VOIP system that allows you to hear anyone, including the enemy, at a realistic distance. If you decide to talk to a squad member over the radio and an enemy just so happens to be on the other side of a doorway, god bless. It requires a good amount of teamwork and communication in order to win. 
+
+There are a large amount of original game modes. Some of these modes were taken directly from the mod (such as Push), and some are brand new (Ambush). All of the game modes are original, and are mostly based off of capturing points, rather than getting kills.
+
+	One of the main problems I had with Red Orchesta 2 was the super clunky movement controls. This game has very smooth controls, but still manages to keep it medium paced. You will find it necessary to rush a corner sometimes, and other times you may need to wait for the enemy to move up. Running and gunning in this game is very, very hard to do. 
+
+	When Insurgency was released from early access, the developers decided that it was in their best interest to LOWER THE PRICE. Games that come out of early access usually RAISE their prices, but the developers of Insurgency decided to cut the price down and increase the playerbase. If that's not dedicated, I don't know what is. 
+
+	This game is easily up there with the $60 games, and you can get it for 15 bucks or less. I have played over 600 hours, and I loved every minute.
+Wow... just wow. I've been told this game is just a standalone upgrade of the Source Insurgency Mod and I'm very sad face that I missed that gem. Hands down the best infantry game(not too sim not too arcadey) I've ever seen / played. It still runs on the Source engine so you won't be see amazing graphics but the upside is that the source engine can run on a potato so you can still run 200+ fps with ease (in case you want to take advantage of the client speed being slightly faster with higher fps even though your monitor won't render past the 60/120 refresh rate).
+
+Interface wise, It's the closest thing to minimally immersive that I've seen in a shooter. You get the basic UI showing what points are capped, your fire mode on your weapon, and how many magazines you have left (It won't show you current ammo so you have to estimate how much you have fired from the current mag). The weapons you carry will appear in the fade-out box only when you switch weapons like usual. No minimap showing you where the enemies or your teammates are so you have to figure it out for yourself, be it the bullets flying by to clock your enemies position, or calling out through voip to make sure no friendly fire happens when you cross flanks. There is a label on your teammates to give you that little help in deciding who is friendly though if you pay attention (hopefully they will add a server option to disable this).
+
+The bullet count is even realistic, which so many other shooters try to simplify. The magazines left are just that, magazines. There is no magical extra pouch that you dump the unused rounds to somehow top off the last mag you have, so you have to decide if you want to top off or risk running out of rounds mid firefight, although for some reason you get an absurd amount of spare mags. The mags you replaced without being empty will actually go the bottom of your stash, then when you get to them you end up shooting like 2 rounds then having to switch mags again. Kind of annoying but kind of an awesome way to use up the unspent rounds when you are low on ammo.
+
+Now I'm not a fan of free-aim (where your gun isn't locked in place on the center of the screen) but it fits so perfectly in this kind of game. It isn't overly done like in RO2's full screen free-aim, there is a deadzone that will free-aim, then turn when you reach the edges. It will force you to ADS (also not a fan of in other games) if you need the accuracy, which also isn't ridiculously instant like in other action shooters(visual delay only); and the movement in ADS mode will actually sway instead of snap making OP drag shot a little less potent. The free-aim deadzone is pretty realistic, giving you realistic accuracy, and rewarding you for instinct shooting from high ready. There is also emphasis on crouching in front of teammates so you don't get shot in the back, prone to get better cover, or even feigh death behind cover (there is no kill confirmation). The realism really has a Red Orchestra feel to it but in a modern setting.
+
+The respawn system really makes you value your life because anyone who dies won't respawn until your team has captured a point or the next wave comes in sustained mode, which also encourages grouping up instead of just running, gunning, and dieing. So the gameplay may seem slow at first because of this but that all changes when you get into a fire-fight. From calling out where enemies are, to staying behind cover and watching bullets wiz past your head. You really feel like you are in the thick of it. The maps are extremely well made, there are multiple places you can fire from (lots of buildings with windows and cover) and encourage teamplay even more with a common tactic being team A advances while team B covers and suppress fire or throw smoke to rush. The maps can feel a bit asymmetrical but this is infantry realism, you are not always going to be on equal terms.
+
+Recommended that you have a mic on the ready because the VOIP is pretty crucial in communication. It's somewhat positional audio so it's easier to tell who is talking just by the direction of the voice; but beware, enemies can hear you too if you are too close to them, positional audio is just that. It will also help when flanking, calling it out so you don't get murdered by your own team when you come around a corner.
+
+Also, don't expect neglectful devs. The devs for this game are very involved and determined to make this game happen. I've even run into a few devs while playing and constantly responding to forum posts, so it's not like they are going to easily give up on a game they actually play.
+My first match in PvP went alot like:
+
+*spawn in and mess with loadout for a bit*
+"RPG! GET DOWN, GET DOW-"
+*entire team is wiped out*
+"wait no, there's one dude left..."
+"xxFartblastxx?"
+Fartblast used all of his supply on thermite nades and tricked out his revolver with AP ammo and speed loading.
+NO ARMOR.
+"Well he's screwe-"
+He proceeded to run and slide his way through enemy fire, leaning around corners and scoring lethal shots.
+His gentle humming could be easily heard through the mic.
+The dead were all in the chat with "Godspeed" and "U GOT THIS" esque messages.
+Once he was out of thermal nades, he picked up RPG's and removed the rest of the caches himself.
+With no reinforcements left, he picked up an AKM and went to work.
+Once all was said and done his voice icon blared on the corner of the scree.
+
+There was a sharp inhale.
+
+"WELCOME TO INSURGENCY BOYS!"
+A overall amazing game, has potential to compete with shooters like CS:GO, Battlefield and even Arma to some extent.
+
+Gun mechanics are finally a break from the "you have 90 bullets in your ar-15 and they magically go in your mag when reloading".
+
+Some quality-of-life and realism improvements/Things I'd like to see:
+-More guns
+-More character interaction (the character voice interaction is A1 in this game)
+-Surpression being more useful (making your screen a little bit blurry doesnt do that much. Especially support classes would benefit from this, as their main role is to lay down surpression fire over long distances. Maybe make it so if you get surpressed, you start to yell more, giving away your position, and maybe being more innacurate)
+-Maybe make it so, when you are being surpressed or in adrenaline rush, you reload faster or something?
+-When you aim down sights while standing for too long, your hands get tired and your sights/scopes start to sway (depending on gun weight. (This will help against rpg's maybe?)
+-Clips for Mosin?
+-More voice interaction
+-Make it so when you are in need to switch to your handgun/get a grenade you can drop your weapon instead of holsting it then slowly taking out your throwable/gun. Maybe we will see inclusion of shoulder gun belts?
+-More voice interaction please
+
+Overall, I rate this game 8.9/10
+ 
+Also, props to /k/ for suggestions
+
+EDIT: 
+-Guns are noisy as fuck in real life, especially LMG's, sniper rifles and shotguns indoors. If you keep spamming that LMB you will probably get some ear disease. Add earpro as a accessory. This will also make surpressors more useful (by the way, surpressors DON'T make the gun go "phoosh". They're still loud).
+-Make going prone faster, like plunching yourself on your belly, when getting fired at
+-Muzzle flashes are a big deal when shooting at night.
+
+EDIT 2:
+-Add a .357 revolver that you can load either .357 rounds or .38spc rounds (obviously, the 357rounds will do more damage but will kick a lot more, and the .38spc rounds will have much less recoil (due to the low power and gun weight) but will damage less, making it a good hit-and-run weapon maybe?
+-Maybe add so you can adjust grain ammount in bullets, maybe make a Hollow point +P abomination rifle that will one-shot unarmored opponents?
+---{Graphics}---
+☐ Masterpiece
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Will do
+☐ Bad
+☐ Awful
+☐ Paint.exe
+
+---{Gameplay}---
+☐ Try not to get addicted
+☑ Very good
+☐ Good
+☐ Nothing special
+☐ Ehh
+☐ Bad
+☐ Just dont
+
+---{Audio}---
+☐ Eargasm
+☐ Very good
+☐ Good
+☐ Decent
+☑ Not too bad
+☐ Bad
+☐ Earrape
+
+---{Audience}---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Everyone
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+☑ Minimum
+☐ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{Difficulity}---
+☐ Just press a bunch of buttons
+☐ Easy
+☐ Significant brain usage 
+☑ Easy to learn / Hard to master
+☐ Not so easy
+☐ Difficult
+☐ Dark Souls
+
+---{Grind}---
+☐ Nothing
+☑ Only if u care about leaderboards/ranks
+☑ Isnt necessary to progress
+☐ A bit grindy sometimes
+☐ Average grind level
+☐ Too much grind
+☐ Insanity
+
+---{Story}---
+☑ Doesnt have
+☐ Something isnt nothing I guess
+☐ Not great
+☐ Average
+☐ Good
+☐ Lovley
+☐ Will make u cry or smile alot
+
+---{Game Time}---
+☐ Long enough for a cup of tea
+☑ Short
+☐ Average
+☐ Long
+☑ Depends on u
+☐ Endless (Custom levels)
+
+---{Price}---
+☐ Just buy it
+☐ Worth the price
+☑ Wait for sale
+☐ Maybe if u have some spare money left
+☐ Not recommended
+☐ Dont throw money into a trash can
+
+---{Bugs}---
+☐ Never had any
+☑ Minor bugs
+☐ Few bugs 
+☐ Can get annoying
+☐ Ruining the game
+☐ The game itself is a big terrarium for bugs
+[table]
+    [tr]
+        [td][b]Title[/b][/td]
+        [td]Insurgency[/td]
+    [/tr]
+    [tr]
+        [td][b]Developer[/b][/td]
+        [td]New World Interactive[/td]
+    [/tr]
+    [tr]
+        [td][b]Publisher[/b][/td]
+        [td]New World Interactive[/td]
+    [/tr]
+[tr]
+        [td][b]Release[/b][/td]
+        [td]22 January 2014[/td]
+    [/tr]
+[tr]
+        [td][b]Graphics[/b][/td]
+        [td]3D[/td]
+    [/tr]
+ [tr]
+        [td][b]Genre[/b][/td]
+        [td]FPS[/td]
+    [/tr]
+[tr]
+        [td][b]Price[/b][/td]
+        [td]€9,99[/td]
+    [/tr]
+[tr]
+        [td][b]Rating[/b][/td]
+        [td][b]8.5[/b]/10[/td]
+    [/tr]
+[/table]
+
+[h1]The game.[/h1]
+[i]Insurgency[/i] is a rich and deep tactical FPS with a heavy focus on teamwork and tactics. Developed by New World Interactive and released in 2014. After a few years in the process of improvement, it’s one of the current best FPS in the market. The price is too attractive, towards the quality that the game presents. This FPS is a mix of the two of the better online tactical shooters: [i]Counter-Strike[/i] and [i]Red Orchestra[/i]. 
+
+[h1]Gameplay.[/h1]
+The game seems too normal where there are two teams, the classic push/conquest/objective style game types, and guns. However, there is more than seems be. [i]Insurgency[/i] is mechanically different of others popular known FPS games.
+
+If you usually play COD or BF and enjoy these styles, then [i]Insurgency[/i] isn't for you. It's a game for those who like difficulty. The sights, the aim, the recoil, everything is heavier. 
+
+People that start play this game will said [i]Insurgency[/i] is bad or strange, I guess. The recoil is totally different than CS:GO. Anyway, CS:GO is more popular but in these terms, I think [i]Insurgency[/i] is more realistic. The game is really realistic and unpredictable how bullets can kill an enemy with one shot through a wall, and it makes matches a challenge. If you stand staying in one place for too long, that's can be a problem, forget that. After a while, you'll realise that [i]Insurgency[/i] have entirely different gameplay mechanics than COD or BF.
+
+The controls are solid and the game offers to you one of the most intense firefight games I have played. They're intensified through really good audio and visual effects, that make a spetacular environment around you.
+
+[i]Insurgency[/i] is a truly tactical FPS. The teamplay here is more important than in any FPS. Don't think about running through the open countryside. If you want to win, you need to be tactical, otherwise, you'll be quickly discovered.
+
+Graphically talking, [i]Insurgency[/i] is appealing, particularly the detail put into the guns is extremely well done.
+
+Instead of having reinforcement pools like BF, [i]Insurgency[/i] uses spawn waves to regulate gameplay flow. It can sounds weird, but it works extremely well in practice. 
+
+The game offers a nice customization to your weapons, everything is unlocked, so that there is no level up.
+
+The maps are amazing, sort of based in places like Israel and that. [i]Insurgency[/i] removed the massive maps and endless walking that features [i]Arma[/i], e.g., delivering a fast-paced, intelligent FPS game unlike anything in the market. It's an amazing game in almost every way I can think of. Don't expect kill cam, no crosshairs, no radar, no medic or healing. No enemy damage notification. Totally hardcore.
+
+[h1]Modes.[/h1]
+The game offers a several game modes to chose from and they're well-made, too. You can play on solo (with bots, against bots), and it's the same game modes as Co-Op (with people vs. bots), some of which are: Hunt (prettty much kill a certain number of people and blow up a cache), Survival (cap points to gain the in-game currency which you buy weapons with; however this in-game currency is different to the in-game currency is CS:GO), and so on. There is a timer between spawns, but it goes fairly quick, so don't worry. You can spectating your friends that is still entertaining.
+
+On multiplayer there is all the gamemodes like Firefight and Ambush, which are preetty much king of the hill but harder and protecting a vip until he reaches a certain point. Sometimes, this game really forces you to trust your instincts and your teammates due to the lack of information.
+
+[h1]Excellent community commitment.[/h1]
+The community is overall good. There are people who help you, who communicate with you to fulfill the goal, that give you support, is good.
+
+About the commitment to the game, the community engagement is strong. The players submit maps that will be voted on in hopes of them being added to the game. New maps, improvements and features are added with a positive frequency.
+
+[quote][h1]Positive points. (+)[/h1][list]
+[*]The price is very accessible,compared to some FPS.
+[*]Menu interface is very minimalist, pleasant and easily understandable.
+[*]Extremely realistic mechanics.
+[*]The gameplay is truly good.
+[*]Diversity of entertaining game modes.
+[*]Optimization is good.
+[*]Cool graphics. Great details of the weapons.
+[*]Very appealing maps.
+[*]Heavy focus on teamwork and tactics.
+[*]Agreeable balance in multiplayer.
+[*]The game's audio is amazing and offers the better sound effects that could have in a multiplayer FPS.
+[*]There is no microtransaction or pay-to-win mechanic in this game, and the unforgiving gameplay makes the multiplayer entirely skill-dependent, it’s all based on your team's performance in and out of rounds, what is awesome.
+[*]Very high replayability.
+[*]Hardcore-realism-teamwork are the three centrals aspects of this game.
+[*]Nice inventory system/weapon-kit costumization is intuitive and truly good.
+[*]Helpful community.
+[*]Rather difficult, a challenging game.
+[*]A lot of workshop modes to customise your game to your liking.
+[*]Great active playerbase and the community is growing steadily.
+[*]Great devs, always worried about the game. They're absolutely brilliant at balancing and opening new areas of maps. Regular free updates that bring new maps, weapons, modes, etc.
+[/list][/quote]
+
+[quote][h1]Negative points. (-)[/h1][list]
+[*]Quite a few bugs and glitches, but nothing really important and that influence the gameplay.
+[/list][/quote]
+
+[i]Insurgency[/i] is made for fan of tactical FPS, who likes to study the map and have all his movements coldly calculated. Totally recommended.
+If Counter Strike feels too arcade-y, but Arma III feels like too much micro-management, Insurgency may be the FPS for you. The weapons and setting feel very authentic, the sound design makes every bullet flying past your head terrifying, and the damage model means that getting shot HURTS. There will be times when you die and you don't even know where the shot came from, and times when you've shot into a room or alley, and THINK you've killed your target, but aren't SURE you've hit anything. You take a step, not really wanting to move forward. Suddenly a grenade flies out of the dark room, and with no time to react, you're dead. The tension and terror feel very real. It sounds overly dramatic to say, but playing this game gives me a tiny sense of how real life military personnel end up with PTSD.
+
+Gameplay is solid, with most action happening in the PVP matches, but the Co-Op mode is also very solid, with you and a small squad of other players cautiously advancing toward an objective. Even once you've learned when and where Co-Op attacks will happen, there's something gripping about you and a few human players trying to survive a rush of incoming attackers.
+
+On a closing note, I really appreciate that a game set mostly in the Middle East doesn't descend into the standard "Americans=good, Arabs=evil" cliche. For instance, when playing as an insurgent and starting the match, you'll often hear your character yell things like "Let us push this invaders from our homeland!" The game doesn't celebrate or denigrate any of its characters, it just soberly presents the conflict between them, and captures the terrifying, violent desperation to survive.
+It still hasn't sunk in that a vision I had in the bottom of a trench during basic training has now turned into reality.
+
+I want this game to be nothing less than one of the greatest FPS of all time. Thank you to everyone who makes that happen.
+When New World Interactive released Insurgency in 2014, it garnered much praise for its high-stakes kill-or-be-killed realistic combat situations. It's been a few years since release, but Insurgency still holds a strong cult following, and with all the free weekends NWI organises, a lot of new players get to experience this unique first person shooter.
+
+[h1]Gameplay [/h1]
+
+Having been built on the Source engine, Insurgency employs only a few different mechanisms than other games built on the engine. You can shoot from the hip and use iron sights to shoot your targets with one of the game's limited, but extremely lethal weaponary. The game gives you different classes to choose, and each have their own selections of firearms, as well as access to ordonance and other gadgets pertaining to that class. 
+
+You will die. A lot.
+
+When you get used to seeing your deaths higher than your highschool grades (does not apply to everyone, of course), you will appreciate the slow pace of the game, and how it forces you to think tactically. You'll be forced into some situations where thinking has to be immediate and accuracy has to be of the highest standard, or else you'll get a bullet to end your pixelated life.
+
+Whether in Co-Op or PVP, Insurgency provides a fun and addicitng shooter experience that keeps you on the egde of your seat, as you hunt down your enemies.
+
+
+[h1]Story[/h1]
+
+Error 404; Story not found.
+
+
+[h1]Media (Graphics, Sound)[/h1]
+
+The ambience and atmosphere of Insurgency's maps increase the sense of immersion once the player is dropped into the match. Did you know that only one person on the production team did all the voice acting in the game? His voice is the first you hear once you're thrown unto the fray. Furthermore, the music highlights key moments during a match, whenever your team is lagging behind, or when you're moving forward. It gets even more tense when you have to hold out and protect an objective from enemy counterattack. Adding to this, gunfire sounds are near-perfect to the real life counterparts of the selection of firearms found in-game.
+
+The exhilirating combination of believable voice acting, gripping atmosphere and the cacophany of bullets everywhere will be sure to have you engaged.
+
+
+
+[h1]Verdict[/h1]
+
+One of, if not the best realisitc shooter experiences on the market. Highly recommend this one!
+
+[u]Final Words[/u]
+F****** Hell, that was a lot of 'em!
+The most exciting, immersive, fun, and lethal multiplayer FPS I have ever played.
+
+[h1]The Battlefield...[/h1]
+
+If I had one word to describe the experience, it's TACTICAL.  First, if you're coming from BF3/4, the COD franchise, or CS:GO/S, forget everything you've learned about gun fights. Two, or often one, hit will kill you which means you need to use cover, suppression, smoke, and flash to get around. Gun fights are TENSE - this is partly due to the lethality of weapons, but also the suppression mechanic: you can hear the bullets wizzing by your head, your screen blurs, and if you pop your head out at the wrong time - THWACK, and your dead. 
+
+MAPS are expertly designed, consistently updated, lots of variety, and new ones are created suprisingly often for such a small developer.
+
+WEAPONS have character and I've found new favourites for given situations even 100 hours into playing. UNLIKE CS:GO where you have to memorize spray and spread patterns for each weapon, Insurgency weapons perform realistically in that, wherever the sights are pointed, THAT IS EXACTLY WHERE THE BULLET WILL GO - weapons still recoil, but you know exactly where the bullet is headed when it does. 
+
+GAME MODES - brilliant. Co-op is awesome, multiplayer modes are relatively diverse and awesome. What's really unique here is the emphasis on teamplay. You really need to coordinate with your team to win certain modes, whether its popping smoke or having someone cover you while you move up. What sets this game apart, other than everything else, is that players work together here - you're not playing with the silent majority on BF4 or COD - people are on their mics, strategizing and celebrating the game - mostly adults too (well, adults who yell "Alloha Snackbar" as terrorists while throwing grenades at American Soldiers, haha). If you get this game, get mic please, you miss out on a lot of the fun and you contribute to making this game less fun for everyone.
+
+[h1] Final Words...[/h1]
+
+One of my favourite games on PC. Kudo's to a great development team who keep this game alive with frequent updates and tourneys. They obviously have a passion for what they do, and it's part of what makes this game great.
+
+[i]It also happens to have a total conversion mod for my first multiplayer FPS (TPS*) addiction, Socom 1 & 2 ([url=https://steamcommunity.com/groups/socomsource] "Socom: Source" [/url]).[/i]
+You' re in the middle of it. You are all in the room guarding all entrances. Palms are sweaty knees weak arms are heavy. But on the surface your team is calm and rea-ARRRRRRPEEEEEGEEEEE!
+
+-Team Defeated-
+Pro:
+Games is stable,
+Update regular by the developer,
+Really fluid,
+Realistic,
+One of the only game where semi-automatic can work better than automatic,
+The feels when you kill 3 or more enemy with semi-automatic gun in succession,
+No health ragen
+Cons:
+Realism can be stressing, nade and at4 can kill you easily
+Incredible game. High on my list of best tactical shooters. I was rather skeptical during the alpha, but Insurgency is one of the few games I've seen transform into a masterpiece during its early access phase. I highly recommend buying this game.
+> Joined a server
+> A random dude in the insurgency team keeps trowing grenades and yelling allahu ackbar in mic
+> Other dude keeps playing arabic music
+
+So far so good
+Sometimes people ask me, what is your most favourite realistic fps game of all time? Can you guess what I reply back with..
+Insurgency, that is all I say.. Insurgency.
+
+-Amazing audio (Especially with the realistic sound mod)
+-Plenty of mods in the workshop
+-Awesome community, always willing to help a newbie out.
+-Sweet, intense firefights
+-Satisfying to shoot RPGs. 
+-Game doesn't assist you in any way, it's just you, you're gun and you're survival instincts. 
+
+Game needs a bigger playerbase, so please.... do yourself a favour and buy this game. 
+
+Do you enjoy getting 1-shot by basically any gun?
+Do you like not having a crosshair, mini map, kill conformation, ammo count, etc?
+Do you enjoy not seeing where that one sniper that keeps killing you's spot is after death?
+Do you enjoy having your teammates eyes watching you, judging you when you're the last man alive?
+Do you enjoy grenades, RPGS, and grenade launchers 1-shoting your team? 
+Do you enjoy getting pinned down by gun fire, and being unsure if you're gonna survive?
+Do you like getting yelled at by your team if you make a mistake?
+Are you a masochist?
+
+If you answer "yes" to a few or all of them, then you'll probably love Insurgency.
+
+
+
+1. No bullet counts
+2. No health bar
+3. No health regeneration
+4. No 'walk faster when using melee' or 'reload faster when HP is below 10%' kind of stuff.
+5. Kill or get killed with only 1 to 4 bullets.
+6. Run and gun? You are dead for sure.
+7. Night map are absolutely black. Night vision goggle may come in handy, at a cost!
+
+
+
+Wow, sounds like this game is pretty hardcore, so how do I win a match?
+
+Answer: You can hear foot steps when someone is approaching, so grab your gun and ready to SHOOT!
+Alright, where do I start...
+
+This game, Insurgency, is one of the best titles I own in my library, and every day I find myself wanting to come back and feel the gritty pain this game can give. 
+
+Now, I'm going to assume, if you're reading this rather than just buying the damn game, you're someone who's spent a lot of their time on CoD or Battlefield and has never really branched out... well, this game is gonna kick your ass and make you eat shit by the time you're done. The game features heavy suppression mechanics, near constant getting-one-shot-by-some-guy-on-mcdonalds-internet-from-across-the-map, and lots of times you wish you had counted how many rounds you were just uncaringly spraying out of your M249. 
+
+This game is great tactical gameplay for a cheap price, and even with the limitations Source has, this game is a wonderful example of tense urban combat that will keep you really wanting to throw out your Apple Earbuds and get a 7.1 surround sound system just so you could hear the guy sneaking up behind you before he brutually filled your spine with .30 caliber bullets. 
+
+Now, personally, my favorite part of this whole game is the modding. This game has workshop support, and with such geniuses like Mr. Brightside and Hyper out on the loose, you'll have a plethora of fine weapons to murder terrorists and Marines alike. You'd rather have an L85A2 over your M4A1? Oh yeah, there's a mod for that. Maybe a STEN gun over your Sterling? Yep, you best believe. Perhaps you've got a hankering for Soviet engineering and wanna make every gun in the game a Kalashnikov? Well sorry but there isn't a mod for that, that's too much. 
+
+Anyway, with Insurgency: Sandstorm on the way, which to me seems like it's gonna be a modern day and more brutal Red Orchestra, this game is a wonderful title to add to your collection, and will provide you with countless hours of frustration, gunplay that's so satisfying you'll shoot randomly at things just to feel the power behind a .45 M1911, and tons of times where you're running into battle just to see your buddy get shot in the face, and promptly fall back, cowering, and really wishing you brought a teddy bear.
+
+
+Welcome to Insurgency.
+[b]Insurgency: [/b] An indie team of gamers turned modders turned developers.  [b]Everything about this game was done right.[/b]  From the attention/engagement with the community to the sales that basically give this game away for free, which in turns invites more gamers, modders, and FREE content for the game from both the community and developers.
+
+I got the game for free from a friend and what attracted me the most was the modding support and the open modding community.  This allowed me to jump right into modding my own server out immediately.  Under 2 years later, I host the most popular coop servers in the game with a continuously growing [url=https://steamcommunity.com/groups/SernixINS]700+ member community.[/url] 
+ 
+[h1][u]Bottom Line[/u][/h1]
+If you enjoy immersive PvP and or Coop with tons of different servers, mods, and content.  You'll enjoy Insurgency.
+You dash toward the corner, barely escaping a rain of bullets down the hallway, mowing down your teammates in front of you. You take a second to adjust your position, then quickly peek around the corner and unloaded a burst of AK rounds into that barely conceivable shadow of the enemy behind the counter in the dark room.
+
+You go flank alone, sneak into the next room and see three enemies' back facing you. You swore under your breath that you didn't spend a few points on a suppressor, take a deep breath to stop yourself from panicing out and shooting uncontrollably, then fire a short quick burst into each of their asses before they realize what's happening.
+
+As you charge toward the bomb site, you literally run into an enemy. Both of you freak out and started blind-fire, your gun start to shake as his bullests thunder by and your vision turns blurry from his muzzle blast, but you get lucky and managed to knock him down before he gets to it first.
+
+You're sure the sound of that shot came from above that giant rock in front of you. You kneel down, slowly and surely move up the gravel slope, trying to cover every angle in front of you without making any sound. As you climb to the top, you look around carefully and finally see that sniper bellying behind that bush, his giant boots betraying his position. You smirk, switch to your knife and sink the blade deeply into his exposed butt.
+
+=======
+
+Those are all real Insurgency moments I had during the beta. Long time Insurgency player since the original mod, and dare I say that Insurgency is the best infantry combat game out there. It's slightly arcady in the sense that you don't need to learn 25,000 key mappings to do things down to knee-jerking. It's realistic in the sense that your HUD is stripped down to minimal which means, one, you actually have to look hard to tell what you're shooting; two, your view is super clear for you to do so.
+
+Insurgency managed to explain the term "firefight" in the purest form. On smaller, Tactical game modes, you'll see players break into small groups or single out, followed by short gunfights breaking out across the map. On larger, Sustained game modes, it's common to see many players grouping up, taking points, pushing and holding for objectives while exchanging franantic automatic fire.
+
+Those adrenalin rushes. Oh, so good.
+OMG... no crosshair!
+OMG... no minimap!
+OMG... you can't tell who is friend and who is foe!
+OMG... no HP indicator!
+OMG... there is no instant spawn!
+OMG... you die easily!
+OMG... so hardcore!
+______________
+OMG... it is perfect!
+I literally stopped playing cs since i started this game. original cs 1.6 i still love. But this game is a beast compared to csgo. No colorful toy guns.. haven't encountered hackers yet and the immersion is epic. Very realistic fps game. And after the last 'night' update, it just got so much better. For me it beats all the other fps games that are out there right now.
+
+PS: Its hard to find good servers from SE Asia, but I play fine in European and other servers even with 200 ping. Wish we had servers here but game still is very playable for me in that ping.
+I bought this game a year ago and completely forgot about it. Now it's on sale and people talk about it a lot so I decided to give it a chance and I'm impressed.
+
+Insurgency is a hardcore realistic first person shooter. There is no HUD, no minimap etc. You have to count every bullet otherwise you won't know how many of them left in your magazine. One or two hits usually mean you're dead. Team communication and your own eyes is everything you have in this game. Thanks to this the gameplay is very unique and very different and I really like it.
+
+The performance and optimization in general (SteamOS / Linux) is excellent altough Steam has some problems with detecting in-game status (easy workaround/solution - run "chmod 644 crash_handler" in your insurgency2 folder).
+
+I can fully recommend Insurgency to anyone. Just keep in mind that this is not a casual game. Insurgency needs many hours if you want to be good and it's really hard to get into it.
+
+
+Many of the games at a 60$ price aren't worth that amount. This game is definitely worth MORE than 15. It doesn't matter if it's on sale, you should get this game and tell your friends to get it. Here is why:
+
+I have accumulated over 1,200 hours on this game and have actually founded a competitive insurgency team. It's only fair that I give the game the review it deserves. If you want to know about a lot about the game before you buy it, you're reading the right review.
+
+The Competitive Scene:
+
+The competitive scene, while not as big as CSGO, has been mostly developed by the players-many of which have played the game for a long time. These leagues (DGL, ESL, ANZ) spread across every region of the world and have offered regional seasons, tournaments, draft tournaments and even world cups. No matter what region you are from, you can play this game. I've played with guys from South America, America and Canada, Eastern and Western Europe (from the UK to Ukraine), Australia and New Zealand, etc. The game does not boast ten's of thousands of players but the players that play this game in the competitive scene are very dedicated. It is not as hard to learn how to play as it used to be because the game has been allowed to develop and the players have figured out how to play the different maps in general. If you're wondering what "game type" the competitive scene revolves around, it's a game mode with 3 points that you can capture, objectives similar to that of the battlefield genre or starwars battlefront. You own one, they start owning one, and then there is a neutral point. If you cap a point, you bring your whole team back. You start with 5 players and they start with 5 players, you fight to the death to kill the other team, using all sorts of strategies and tactics, but also try to potentially cap a point (or bait a cap) and bring the rest of your team back. Sounds fun as hell, right? It's awesome.
+
+Game Types:
+
+If you're not a competitive guy, there are a ton of game modes to suite your fancy here. Want to play fast paced with 32 people and respawns? Choose Push. Want a slower paced mode much like the one I described for competitive, but with 16 players instead of 10? Choose firefight. Want a mix of Push and Firefight, with points you can capture but also respawn waves? Choose Skirmish. There are a few others as well- ambush for instance puts you on an attacking or defending side, where you are forced to escort your VIP (a player who cannot die) to one of two possible objectives. These are the 4 most common game modes, in that order. 
+
+Server Activity:
+
+Insurgency recently broke the record of an all time high in the number of players online at once. No matter what time you get on to play, there are always active servers to play on. 
+
+
+Gameplay:
+
+The gameplay is quite different from any other game. It's a lot like the Call of Duty 4 Pro Mod or hardcore mode. You don't have any HUD's or ammunition/health bars. You have your gun in front of you, the time of the round, the points and their status at the bottom of your screen and that's pretty much it. It's a source engine game, a lot of former COD 4 guys and CSGO players like it, although it's not really anything like CSGO.
+
+Pace/Mentality/continued comparison:
+
+It can be pretty fast paced- especially push. There are people everywhere and they're all trying to kill you. Other modes like firefight and ambush can be much slower paced. Yeah, you can go for that initial kill, and if you're good you might get it. The other team might also be playing slowly, and you might pay dearly for a risky move. I'd say it's relatively realistic enough to make it different from COD or Battlefield but still arcady enough to be fun for the guys who like that aspect of games- it's a good balance. Reloading takes a little longer than your average FPS, but not too long. Sound is really huge in this game- you can hear tons of things and when you run around people can hear YOU in the next room. You don't know how many bullets are left in your mag unless you've given it at least a little attention, etc. The game requires a lot of mental attention if you want to do really well, but also is arcady enough to where it's completely in your right to mindlessly shoot virtual people at 3 AM. For instance, you can't really mindlessly play Arma or Squad, but COD or Battlefield doesn't require quite as much mental attention. It's hard to be really good at CSGO- but for different reasons. CSGO is a lot about aim. I'd say it's relatively "harder" to be good at insurgency than it is to be "good" at Call of Duty or Battlefield, although prior shooter experience certainly helps. The mental aspect of insurgency and attention to detail isn't really found in another shooter. You'll definitely get a new experience here.
+
+What are you waiting for! Go play the game!
+The most exciting, immersive, fun, and lethal multiplayer FPS I have ever played.
+
+The Battlefield...
+
+If I had one word to describe the experience, it's TACTICAL. First, if you're coming from BF3/4, the COD franchise, or CS:GO/S, forget everything you've learned about gun fights. Two, or often one, hit will kill you which means you need to use cover, suppression, smoke, and flash to get around. Gun fights are TENSE - this is partly due to the lethality of weapons, but also the suppression mechanic: you can hear the bullets wizzing by your head, your screen blurs, and if you pop your head out at the wrong time - THWACK, and your dead.
+
+MAPS are expertly designed, consistently updated, lots of variety, and new ones are created suprisingly often for such a small developer.
+
+WEAPONS have character and I've found new favourites for given situations even 100 hours into playing. UNLIKE CS:GO where you have to memorize spray and spread patterns for each weapon, Insurgency weapons perform realistically in that, wherever the sights are pointed, THAT IS EXACTLY WHERE THE BULLET WILL GO - weapons still recoil, but you know exactly where the bullet is headed when it does. 
+
+GAME MODES - brilliant. Co-op is awesome, multiplayer modes are relatively diverse and awesome. What's really unique here is the emphasis on teamplay. You really need to coordinate with your team to win certain modes, whether its popping smoke or having someone cover you while you move up. What sets this game apart, other than everything else, is that players work together here - you're not playing with the silent majority on BF4 or COD - people are on their mics, strategizing and celebrating the game - mostly adults too (well, adults who yell "Alloha Snackbar" as terrorists while throwing grenades at American Soldiers, haha). If you get this game, get mic please, you miss out on a lot of the fun and you contribute to making this game less fun for everyone.
+
+Final Words...
+
+One of my favourite games on PC. Kudo's to a great development team who keep this game alive with frequent updates and tourneys. They obviously have a passion for what they do, and it's part of what makes this game great.
+
+It also happens to have a total conversion mod for my first multiplayer FPS (TPS*) addiction, Socom 1 & 2 ( "Socom: Source" ).
+This game is pretty unique in how it feels. The guns have a nice feeling to them. Gun play is hardcore. Taking down an enemy also feels great. I find myself coming back to it time and time again.
+
+You usually die in a single shot from whatever weapon unless you are wearing heavy armor. This does a couple of interesting things. You can easily get wallbanged through objects. (Almost everything is wallbangable). You can also get taken out easily if you are running around in the open. These have the effect of constantly keeping you on your toes. It's like the "hardcore mode" you can find in other shooters but basically the whole game is like that. I strongly suggest watching some gameplay footage on YouTube, you'll see what I mean.
+
+It also has a good competitive scene. I have a lot of hours in this game and most of it is playing in competitive mode at the Pick up Games or Scrimmages. These PUGs are held in several discord channels (mostly "The Gym" nowadays) and are the next level of gameplay if you have mastered pubs. I strongly suggest trying them if you are slowly getting bored of dominating in public servers. It almost resets all your knowledge and presents a new level of improvement. 
+
+Basically you join up, teams are picked and you play a 5v5 in Firefight mode - 20 rounds total, first to 11 wins, you capture the OBJ to spawn dead teammates and have majority control. Analogous to ESEA in CS:GO but more of a community and less organized. Don't worry as people will teach you the map callouts and point you in the right direction. For those who are already familiar with competitive gameplay from other shooters, come try this one, it's sort of unique in it's little ways with plenty of fun.
+
+With the new game Insurgency: Sandstorm coming out, the scene will probably migrate there but it's still active as of yet. There are even two tournaments that are going to be held in Summer of 2018 - probably the last events for Insurgency 2. 
+
+Whether you like pub stomping or more structured competitive gameplay, this game is really fun and worth it at the low price range it's usually offered at. You won't be disappointed. And who knows, maybe it'll be your gateway to Sandstorm.
+And you thought peeking in CS:GO is hard. 
+<peek>
+<die>
+Welcome to Insurgency, it is about time I welcome you to one of the most rage inducing games in the world.
+No hackers (Amen to that)
+You are actually 
+PROUD when you get in a kill. It is something of an Achievement, and, you have the right to camp, like they do IN REAL WAR.
+The sounds are absolutely amazing, visuals are a bit better than CS, effects are TOPPITY NOTCHITTY.
+I definitely recommend this game to anyone who wants some realism in their system.
+EDIT:
+I would like to also say that when you are being SHOT AT IN A BUILDING IT IS THE SCARIEST THING YOU WILL EVER EXPERIENCE IN YOUR LIFE.
+After 580 hours of play, Should I say anything?
+
+Grab this great indie game, this game's developers are very honest and still developing this gem released at 2014..
+
+If you join a team acting as a team (in pvp and coop), your pleasure is %100 guaranteed. 
+
+In this game, don't think your personal scores , try to move with your team.. 
+
+For example, if you're a sniper, try to find a good position and eleminate you opponents as much as you can, don't try to rush objective points.. if you're a support, try to provide covering fire on objective points while moving your team together not to try to rush objective points before your assault team..
+
+finally thanks to the developers for their efforts to enhance this great game time to time and continious supports
+[h1]Flawed, relatively simple and not really innovative by now, but more than recommended at the current full price (€9.99) because of the excellent gun action and mostly nice maps[/h1]
+
+[b]General info for potential buyers' benefit: what you get is a slow-paced, relatively hard PvP and coop shooter which is much less casual than Call of Duty or Battlefield, but it's far from being a milsim like Squad or Arma. You can die from a single shot. There's no vehicles or XP system. You fight the same enemy infantry type the whole time as there's only two factions. On vanilla servers you play with eight players in a team. The setting is Middle-Eastern, reminiscent of the early 2000s Iraq and Afghanistan wars.[/b]
+
+[u]What could be improved, mostly from a coop mode POV:[/u][list]
+[*]Some game modes aren't really worth playing IMO: outpost for instance (defence against the same waves of the same old enemies) can potentially go on forever, but at level 50 you don't really feel like you've achieved anything. In conquest you have to kill endless waves of enemies and hold three objectives at the same time, it's impossible to complete with a lowly populated server and the 8 player limit doesn't help.
+
+[*]There's no sense of progression, no XP to gain.
+
+[*]AI of bots is still terribly broken: sometimes they do nothing at all while you shoot at them, other times they're terminators with aimbot. Smoke is OP as the slightest puff of smoke in their vicinity makes them completely blind. It's absolutely possible to just stock up on smoke grenades, not even select guns and get far by just throwing smokes and knifing enemies. The bots have their own OP tool: the RPG, which they like spamming the whole time resulting in simultaneously frustrating and hilarious game overs.
+
+[*]Maps only allow full movement in some game modes. In most coop modes which are nonetheless worth playing the play zones are tiny and the allowed play zones don't always make sense. Situations like bots around the corner know the team is there and they're throwing grenades, but the game doesn't allow me to peek around the corner and shoot them. The devs have fiddled with the layout of the maps over the years, which can be good, but sometimes they should have left things as they were.
+
+[*]Minor glitches remain, some of which are funny. Hovering and/or T-posing characters, people holding a rifle and pistol that are fused together, invisible fires. Every now and then hitboxes refuse to register clear hits. It can get janky sometimes.
+
+[*]I've seen a medic class added on custom servers, I feel like it's a missed opportunity to include it in the main game as the only difference between classes now is some of the main weapons and explosives you can select. Some of the classes are also very circumstantial, on most maps you feel useless as a sniper and select the good old M16 instead. Some classes can get a better kit than others with the same amount of points (compare the cost of the M4 for "recon" and "rifleman" for example).
+
+[*]The game isn't that fancy or pretentious about what it's trying to accomplish with nice visuals and effects, so objects in the environment can't be destroyed and the physics aren't that impressive.
+
+[*]Servers should automatically kick inactive players.
+
+[*]Circumstantial negative: since the game went free, there's been an influx of trolls and cheaters.
+[/list]
+P.S. Some of this is fixed in the next game Day of Infamy by the same devs, while other things linger on, so if these things concern you, look into Day of Infamy.
+
+[u]Why the thumbs-up:[/u][list]
+[*]It does well what a shooter is supposed to be good at: the gun action, ballistics, how guns behave, attachments for guns, simulating environments realistically where recent wars in the Middle-East were fought, this game nails it well if you take into account it's an indie game from 2014. After 760 hours I still like shooting bots and other players. It's relatively simple once you get over the short learning curve but hard and team focused, with a hint of more tactical gameplay.
+
+[*]It's more satisfying if you're looking for a military experience than games like CoD or BF and at the same time getting into a quick match for twenty minutes is easier than the devotion and seriousness which Squad and Arma require. It fits a certain niche for days when you're not feeling up to playing a real milsim and communicating and cooperating with a huge team simulating military hierarchy and different tasks.
+
+[*]Custom servers make this game better still and more complex.
+
+[*]I would be more positive about it than I already am if I played PvP modes more as this game lends itself well for competitive gameplay.
+Def takes skill and tactic
+
+There's no HUD 
+
+You have to watch your ammo
+
+Reload gives the enemy a chance to kill you
+
+Everyone dies in 2 to 3 hits 
+
+Ultraviolent / Ultrarealistic
+
+You will Die but you will also Git Gud XD
+
+More Hardcore than COD or CS
+
+
+Insurgency feels like a crazy blend of CS, CoD and ARMA and plays as such. It is tactical yet fast paced, as well as realistic and arcadey at the same time, which is an extremely difficult feat to pull off within the multiplayer FPS genre. Insurgency does exactly that.
+
+Extremely fun, great community, great gameplay, a lot of diversity and sheer infinite fun. One of my most favourite shooters of all time.
+
+Insurgency is probably [b]one of the best first person shooters[/b] I have ever played. 
+
+It is unique and stands out from other games. Something that shook me was that there is NO crosshair. Just sights.
+
+This game uses the source engine which gave me the good Half Life/ Counter Strike vibes :D
+
+It's cheap, $9.99 Isn't a lot outta your pocket. The game is so awesome, I am suprised it Isn't more expensive
+
+It feels awesome and satisfying to get a kill in this game as well, I haven't felt more victorious getting a kill.
+
+You definitely need a normal Nvidia video card for this game, if you have a low end PC (Dell/Intel) you won't get the best frames. It would be best to follow the system requirements. Thank me later :D
+
+Probably the best thing about this game is that the community Isn't toxic. It's all the more silent than friendly or mean. (To me at least)
+
+One complaint I have is servers. There are little servers to play on and all of them are empty. There are always 2-3 servers that have almost max players. If all the active servers are empty then you are in a pickle, having to play on a server with 2-5 people.
+
+I would rate Insurgency a 9.5/10. It has barely any cons, and It's very cheap. So I recommend this stuff.
+I bought CSGO, then at the last moment of the sale, I hesitantly bought insurgency, initially regretted it, but played for a while, then regretted buying csgo, this game is this awesome, in a fair world this should be more popular game than cs. absolutely recommended
+>have to press ctrl+shift to skid
+>live in Canada
+>in Canada ctrl+shift sets a keyboard to French mode
+>start typing and letters are in French accents
+>mfw Ïnsùrgénçÿ dévélôpérs àré trôllîng Wést Çànàdiàns
+Finally decided to give a review. I love this game. Never gets bored. My goal now is to unlock 100,000 kills achievement on PVP.
+PUSH mode is intense, fun and challenging when you're on offensive side. The battle is large scale, with shots and explosives everywhere.
+Get a good audio system, and you will be mesmerized by the sounds, boom boom bang bang!!!
+Already spent 1800 hours, the most of all and it is still the cheapest game in my library. Many thumbs up!
+Insurgency is the most realistic shooter / FPS I have ever played.
+
+- Takes 1 bullet to kill someone unless they have heavy armour, If they have heavy armour it takes 2 or 3.
+- No jump packs / No jetpacks.
+- 15+ Guns.
+- 30 maps / Night and day maps.
+- Great gamemodes.
+- 10+ Classes.
+Worth every penny.
+
+Insurgency is one most realistic fps I have ever played, no kill cams or flashing score logo's as you down someone. Makes me cower in the corner some times scared to peep out when bullets are flying.
+[h1]A good tactical realistic FPS[/h1]
+[list]
+[*]The stage is set in the Middle East
+[*]Balanced modern warfare gear/weaponry 
+[*]Firefights take place at close quarters combat range
+[*]One shot one kill; The person who shoots first wins
+[*]No perks, no unlockables and other BS
+[*]Tense gameplay, knowing that one bullet can put you down
+[*]Minimal HUD info like no ammo counter and health meter
+[*]Taking cover and teamwork are crucial
+[*]Realistic sounds; Impact of bullets, gunshots etc.
+[*]No vehicles, it's just man to man
+[*]Supports Solo, PvP and Co-op (PvE) play
+[*]Easy to pick up controls
+[*]Smooth movement and animations
+[*]Community is alive and the game gets updated frequently
+[*]Poor AI (they're still improving it)
+[*]Patience is required for its slight learning curve
+[/list]
+This game is not designed for solo mode. Don't buy for singleplayer only, it's a poor implementation. These types of games are rare nowadays especially the CQC ones. I wish there were more of them. I only play the game in Co-op mode which is quite enjoyable despite its questionable AI. Not a game for everyone but if you like most of the above points then pick this up.
+Amazing game, stunning graphics at 50-60 fps on my potato computer. Has the tactical feel of R6 Siege, but the player size of Battlefield. Most realistic shooter that is enjoyable.
+Insurgency is, for my money at least, the best shooter currently on the market. I've put nearly 100 hours into it and my main thought is why didn't I buy this game earlier. I'd seen it on the store before and just passed on it cause it seemed like some bog standard FPS that i'd spend 20$ on play for a week and never touch again. I couldn't be more wrong. I picked it up while it was on a 3$ sale, my god was it a steal.
+
+There are two sides, Insurgents and Security. Two different styles of games, COOP or Multiplayer. Personally I don't really play COOP much so I don't know much about it. But the one match of survival on tell I did with about five friends was incredible. Made it to wave 63 in about an hour n a half. Bloody amazing fun.
+
+As for multiplayer you can play in three different types each with a few different modes, except for competitive. In Sustained Combat you can choose from: Strike, one team tries to destroy three weapons caches while the other team defends. Occupy, both teams try to capture and hold one point in the middle of the map. Push, where one team tries to capture a series of three objectives then destroy a weapons cache at the end. And Skirmish where both teams fight over three objectives each while simultaneously defending their and destroying their enemie's weapons cache. In tactical operations you can choose one of three modes however this one everyone only has one life except for firefight. In ambush one player is the vip and must be escorted to one of two zones and the other team has to stop him. I've honestly never played elimination before so idk what it's about. The last is firefight where there are three objectives, however you only can respawn if your team takes an objective while you're dead. The last game type, Unranked Competitive is a 5v5 version of firefight.
+
+Now onto the guns n shit. Well for starters it's asymetrical balance that actually fucking works. Security can only use Security guns and the tererrists can only use tourist guns. Weapons range from the AK-74U to the MP5K to the fucking M1 Carbine. Each class has different loadouts however it stays fairly simple. MGer get MGs, riflemen get M16s or AKs, snipers get bolt actions and semi auto battle rifles, and engineers get shotguns and SMGs. Now there are a lot more roles than the ones I listed and there is overlap but that's basically it. All of the guns are useable unlike many other games. I've seen people go ham with the MP40 as much as I've seen amazing killstreaks with the UMP-45. You can choose from shitloads of different attachments, optics and ammunition types. You can also choose from 4 different grenades, C4/IED or RPG/AT4. You can also take light, heavy or no armor at all. Most everything will be a one burst kill so it pays to be accurate.
+
+Now for the maps. Holy shit. There are some absolutely amazing maps: Ministry, Embassy, Verticality, Panj, Kandagal, Siege, Tell, Station. The list goes on and on. Maps range from complete urban combat like Ministry to entire rural like Panj and many have a mix of both. Maps are also asymmetrical. Certain maps Insurgents get to this objecive faster or this map Security gets there four seconds faster. Still all of the maps are very well designed and I haven't found one that I absolutely dislike, even Buhriz which this community for some reason loves.
+
+Random shit about the game. Currently the game is run on Source so it's a bit dated but works very well for potatos. Next year the Devs are planning on introducing Insurgency Sandstorm which will be on Unreal 4. The community is rather small which is the biggest problem. It's not so bad that you can't find a match but if you have a group of say 6 people and are looking to play a specfic mode with a populated server it may be a challenge. The community quality is about as good as you'd expect. I've met some really nice people, but honestly, it's 10$ there's lots of idiots around and lots of people who really don't have much FPS skill. There are also two announcers one for each side. The Insurgent one is okay, a bit bog standard. But the Security one, oh man. He's fucking hilarious. Actual quote when you're the last guy alive and you clutch it "Man I thought he was just gonna fucking die."
+
+TL;DR
+Fuck you I spent a long time writing this go fucking buy this game.
+Hands down the best shooter ever created (without a story mode). 
+
+There is none better. This is a fact. You can not beat its quality for the price, and honestly it's worth as much as any call of duty that has ever been released.
+Here I am, 1050 hours in to a game I got for free from a Skype group because a friend was giving a copy out from a humblebundle. I can tell you now that this game is unique to a large extent, but also quite flawed but fun still.
+This game has two categories of modes, Sustained and Tactical combat. I tend to mainly play Tactical combat.
+Tactical combat is anything where you only have one life per a round by default such as Firefight, Elimination, Ambush ect. Sustained combat is for the much more chaotic style of gameplay where M249's set up firing arc's, RPG's fly everywhere, grenade launchers are used and it's just pure chaos. You get to spawn multiple times, and it's very fun for a lot of people but it doesn't suit me as much and so I will be mainly talking about this game from the point of view of some one who spent a lot of time playing firefight and in particular 5v5 Firefight.
+
+I spent over 700 hours playing Firefight in this game mode and I would suggest you to as well because of the clutch situations that Insurgency lends itself to. Your team controls one point, and the other team controls a point and then there is the neutral point, Bravo or B.
+You are able to do some very intelligent things such as stepping on a point for a second or two to bait an enemy away from a very powerful position to help your team or to just bait them to kill them. The players who are not on a point can't tell how far captured a point is and so intuition comes into decision making a lot, and being able to communicate with your team how far captured a point is, and if you are stopping the enemy team capture or not ect.
+
+Despite all of this, and there are a lot of other things that are exciting in this game that compel me to play it, but there are some base underlying reasons for advising against getting it at full price.
+
+For one, the 5v5 community that understands callouts, the mechanics of Firefight, the meta ect is minute, at only 100 or so. A lot of people have left and haven't returned because the game is just so buggy in a lot of respects and the developers have moved onto Sandstorm and Day of Infamy. The bugs are mainly to do with the hitboxes and hit registration, and this has been a continious issue that never was resolved. Keep this in mind when playing and shots aren't landing.
+
+Secondly, the developers never delivered upon their promise of 5v5 ranked matchmaking. If that is something that would have appealed, it isnt' in. On the other hand a friend of mine, Outlawled, has been kind enough to actually develop a third party application for matchmaking through Java and so when that is open for testing, we will have a matchmaking source.
+
+In conclusion if you are looking for a more hardcore FPS than CoD, Battlefield or anything else in that realm of being quite casual, then this will be for you. You die in 1-2 shots from nearly any range, and it is quite fun. Despite this, I will insist that this game is not realistic. If you are coming from Arma 3, VBS (highly unlikely as very few individuals have a working legal copy), Squad or Project reality, do not expect this to be realistic in the vanilla version.
+Hey All ! I've had this game in my library from ages ago and truth im not a real fan of Modren War FPS (normaly im into WW1 and WW2 and Futuristic FPS War games)  , being if i want to see this stuff ill just watch the news. I had some friends telling me to play this more so i would pop in time to time and i have to say they have done some killer stuff to this game.
+
+For single player the AI isnt bad though on Elite settings and  it could use some work or tweaking...bigtime on your teams bots lol The games feel and movements are 100% nice and very well done for a indie game. The sounds and maps are top notch ! Hats off to the map makers on this game. Online play is intense and tactical but also has that run and gun feel.
+
+The Workshop also is a nice touch being you can add and change almost anything in the game to fit your liking. So im going to pass this one to the get it pile ! I also think Sandstorm will be real good also for this game once its out ! So give it a SHOT !
+Brutal? Check.
+Realistic? Check.
+Solid Controls? Check.
+Balanced? Check.
+Dev support? NWI has provided an incredible amount of support and free updates for this self-published indie game. If you wish more games did near Valve level patches for years after release then please support this developer. Triple Check.
+Insurgency has one of the most authentic FPS experiences I've ever had the pleasure of playing. The authenticity of this game is due to HUD realism (no radar, no hit markers), sound realism (let's just say you'll understand why people are hiding behind cover when you hear the bullets whizzing by), weapon feel and control, and loadout customization. The variety of guns, maps, and modes lend to its replayability. The AI in this game is probably the best I've seen so far, sometimes rivaling the skill of real players. The game supports the Steam Workshop where you can find some of the best maps, gun mods, and audio packs that really spice up the experience. One of the biggest personal selling points is the dedication and passion that the developers show for this game. Since release, they've released huge free content updates that include new maps, weapons, gameplay updates, and most recently, Linux support.
+
++Authentic experience
++Loadout customization
++Night mode
++Great AI
++Free content updates
++Steam Workshop support
++Linux support
++Achievements
++Trading Cards
+
+
+No cons.
+This is the best infantry based FPS out right now.  Period.  Before I begin, if you liked America's Army 2.x or Red Orchestra 2, you can skip my review and just buy it now.
+
+Insurgency combines highly deadly weapons (1-2 hits across the board for the most part) with Squad based combat.  Unlike games like Call of Duty, you choose a role on a fireteam and certain weapons and equipment are available to you, while others are not.  This promotes teamwork which you otherwise wouldn't get in games where every player can equip themselves as a one man army.
+
+There is no crosshair to help you to fire from the hip.  And players can't put a dot on their screen to cheat their way around that, since your gun moves independently of your screen to a certain extent.  This makes firing from the hip that much difficult, but also more rewarding if you can pull it off.
+
+The maps feel immersive and set in Middle Eastern environments ranging from Iraq to Afghanistan.  They aren't the shoebox style maps present in other mainstream FPS, but shaped and structured like real cities or outposts that you'd find in that part of the world.
+
+In most game modes, your team will respawn in waves based on capturing objectives.  There is no run and gun team deathmatch mode here.  Nor are there killstreaks, perks, or other rewards to help bad players.  When you die it will be your fault, not some UAV or airstrike.
+
+You'll die a little bit before you get the hang of it because it's unlike anything you've played before.  But once you master it (I've seen friends of mine get good over the course of a day), this is the most rewarding FPS you'll ever play.
+
+It only costs $15 but is easily worth $60, IMO.
+
+[h1]Update: About this BattlEye stuff[/h1]
+Two years and over 2,000 hours later... still love the game.  But about this BattlEye stuff on the front page... 
+
+The developers conducted multiple polls over the years to gauge what their playerbase wanted.  More weapons?  Got em.  More maps?  Got that too.  Mac and Linux support?  Done.  Performance improvements? Yep.  Anticheat?  Finally, yes.  We asked for it, it took some time, and we got it.
+
+So what's with all these negative reviews about BattlEye?  On a technical level, it's not accessing or doing anything that VAC or any other anticheats aren't already doing.  So what's with the hate?  I don't mean to paint with a broad brush here, but consider GabeN's comments about the attacks people make against VAC...
+
+"There is also a social engineering side to cheating, which is to attack people's trust in the system. If "Valve is evil - look they are tracking all of the websites you visit" is an idea that gets traction, then that is to the benefit of cheaters and cheat creators. VAC is inherently a scary looking piece of software, because it is trying to be obscure, it is going after code that is trying to attack it, and it is sneaky. For most cheat developers, social engineering might be a cheaper way to attack the system than continuing the code arms race, which means that there will be more Reddit posts trying to cast VAC in a sinister light."
+- https://www.reddit.com/r/gaming/comments/1y70ej/valve_vac_and_trust/
+
+So take that into consideration when you see people coming out of the blue bashing Insurgency for adding something literally everyone was asking for.
+[h1] [b] +++ [/b] [/h1]
+Currently writing this review at 570 hours and counting for Insurgency. The learning curve at first glance is hard to get your way around. But once you come to grips on how to play the game as a whole it is overwhelmingly enjoyable for a tactical 1st person shooter, the mechanics are smooth, reasonably optimized, well and though out map/layout design and satisfying to gun down the Tallibans in general. Even if you do manage to believe the game is getting staled for you, there are always workshop mods that you could download, such as weapon/attatchment reskins, new maps, playermodels, graphic fidelity related mods etc. Or even find custom servers that overhaul the gameplay experience of Insurgency to make it fast or slower paced.
+Insurgency is a game that I just keep coming back to from time and time again because of these reasons. Thus concludes my points on why you should pick up this game now at full price or on sale, as either way you're getting a bang for a buck.
+
+[h1] [b] - [/b] [/h1]
+Not to say that Insurgency is a perfect game, no indeed. Having a games core mechanic work well is one side of the spectrum, the other side is having a wecoming and friendly community. Insurgency at most times in [u] public spacing [/u] [b] DOES NOT [/b] demonstrate this, as public servers tend to attract the worst of individuals, where kids, teenagers and adults are on the same page for being childishly immature and sour as people in general, wherever it's demonstrated through ingame voice chat, or deciding to purposely troll the team through killing team members.
+Spawn camping can also become a frequent/frustrating issue that you may encounter when playing PVP on official/non-official servers. In addition, the game itself is not punishing for choosing to "run n gun", thereby making the game feel extremely casual rather than tactical at certain times.
+
+[h1] [b] ! [/b] [/h1]
+If you're looking for a community that resolves around these flaws towards the game - I highly recommend you join this certain group, the: [url=https://steamcommunity.com/groups/REDi1R] REDeye 1st Rifles Battalion [/url] (Military Roleplay), where we resolve around playing with the sense of tactical realism at all times, through the utilization of using communication, discapline, tactics and working as a squad/team to achieve victory on the battlefield. Lastly, the most important of all... we are a community that promotes the idea of being respectful and inclusive to others around us allowing the group as a whole to abolish the meaning of toxicity from within the battalion. 
+
+https://www.redeye1striflescompany.com/
+
+https://steamcommunity.com/groups/REDi1R
+I decide to play this game after 2 years of not playing it.
+
+Amazed for the new menus, I join in a game as a support with my heavy machine gun.
+
+Not sure what to do, I follow a squad of 5 teammates to capture a point.
+
+Suddenly, a fucking big-ass rocket flies quickly to us and fortunately we survived because it didn't hit us.
+
+But when that rocket went past my head (1 meter of distance, btw, I was so close of being fucked), the character I'm playing with shouts "Holy shit dude!"
+
+I'm so impressed that the characters say shit like that in these moments.
+
+I'm aware that this is silly, but that gives realism to the game imho.
+
+11/9 will holy shit dude again -IGN
+[h1] Gameplay [/h1]
+This is a tactical game so don't expect it to be like Call of duty or Battlefield. You are NOT a super soldier , you are not the priority , every person helps the team.
+So you want to buy the game but you are not sure what the fuck it is about ? Well.. You start the game , you join a server and you are thrown into a menu. From there you will choose your class and choose your weapons blah blah. BUT THEN , you finally get to be thrown into the field. You should use smoke grenades as they help you pass trough flanks. Never rush head front in the battle as you will get oof'd extremly fast.
+
+The core gameplay is fun if you are looking for a challange. Though if you find Counter strike hard then this game will be hell for you.
+
+[b] The Weapons [/b]
+Mostly all assault rifles are a one shot in the upper chest - Head , two to three shots in the chest , and about five shots in the legs.
+The snipers are a one shot everywhere except the legs. 
+The pistols are 3-4 shots in the chest , 2-3 shots in the upper chest and one shot in the head.
+The shotguns are trash unless you shoot someone directly in front of you. (Melee weapons are better than shotguns lol)
+Here are all the weapons listed:
+
+--------------------Security Forces-----------------------Insurgent Forces---
+SMGs-------- •MP5K ,•UMP-45------------------------•MP40,•Sterling
+Carbines-----•AC-556 • Mk18 • M4A1-----------------• M1 Carbine • SKS • AKS-74U
+Assault rifles--•M16A4 • Galil SAR--------------------• AKM • AK-74 • Galil
+Battle rifles----•L1A1 SLR • M14 EBR -------------------• FAL
+LMGs------------•M249----------------------------------• RPK
+Shotguns-------•M590-----------------------------------•TOZ
+Sniper rifles---•M40A1--------------------------------- •Mosin Nagant
+Handguns------•Makarov • M45A1 • M9---------------• Makarov • Model 10 • M1911
+Melee-----------•Knife------------------------------------• Khukri
+
+
+[b] The Community [/b]
+The community is pretty casual which is pretty weird for a tactical shooter.
+But at the end of the round when a team wins/loses everyone starts screaming into their microphone so uh.. watch out lol.
+This game is worth more than it's retail price, yet I got it for free because one of the developers sent me a key. Now, 180+ hours later, I'm still addicted to it. I bought the Humble Jumble Bundle just so I can pay back the developers in some way, and gave away the key I got. The devs are awesome--they are a part of the community. The community is awesome, too. One of the most mature communities you'd find in FPS games these days. You will truly enjoy playing and will always have a sense of fullfiment when you win because communication and coordination with teammates are required to win. This game is worth more than it's asking price. I completely stopped playing CS: GO after I got this. Hopefully more people discover the beauty of this game.
+
+TL, DR:
+Awesome devs.
+Awesome community.
+Awesome game.
+A mix between REALISTIC and TACTICAL.
+
+Let me jump right into an example:
+Unlike most realistic shooters it doesn't necessarily force you and your enemy to stay behind cover for over whatever minutes and fire at each other from long distances AND at the same time you could die just by taking one bullet (no, i don't mean a headshot) and not listening to your surroundings.
+
+This is the perfect game for someone who wants to become good at other FPS games, simply because it plays very similar to them but harder to execute.
+This game is good. Developers made this game to relate with real life combat because this game has no mini map, no bullet hit mark or sound, even no kill confirmation (there have no kill feed). This game based on tactics. Play this game with your friends and then you can find this game really good.
+An amazing realistic shooter. The guns feel and sound great, and this game is very detailed and feel very authentic. You have to play it if you are a fan of realistic shooters, one of the best ever made.
+Really fun game. Hard at first, but learn the maps a little bit and you are going to have the best time playing this game. The combat can be slow and fast, you need tactics and good positioning to win a game, but you can still rush a building and get a few lucky kills.
+
+Visuals and sounds are great. It looks and feels realistic. A supressor actually makes a difference especially on snipers from long distance. More than worth it for the price.
+10/10
+It's as realistic as it can be for a mostly fast paced FPS game. Plenty of mod support. If you into games where a 7.62x51 can kill in a single shot center of mass, or even a .45 ACP could take you out from 20 yards, this is for you.
+Amazing game, the amount of tactics that you need to use in a single round is just insane, because in this game bullets do hurt and so you cant just tank all of the damage. The only thing that sucks is that there is no peer2peer, so if you want to play with a few buddies you need to either join an open server that has high chances of other people joining, or to use some dedicated server programs which some people are not familliar with or just don't want/cant run one. Otherwise the game is amazing!
+The game is fun as hell as long as you avoid pvp matches. Its like hell on wheels. The coop is pretty chill and gave me some joy despite the disappointment I get from flashing myself.
+It's just like one of those games where it requires hefty teamwork and taking the game seriously to win. Contains mechanisms closely similar to RS6, but alot more newbie-friendly. It's worth your money and that's for sure, knowing how the community is vastly friendly and welcomes you with open hands. The game is massively about camping, well that depends on your playstyle, or ehether you're good or bad at the game.
+This is still the best shooter I've ever played! Insurgency is more realistic than CS and COD but still makes fun to play (not like ARMA ^^). I really like the weapon physics and there is a great modder community.
+Hardcore, realistic, and unforgiving first-person military shooter that can give you PTSD. Had a lot of fun and terrifying experience while playing, and it's easily became my favorite FPS game of all time.
+immersive and realistic. i like it personally but game keeps crashing. i use a 2048mb vram integrated intel gpu. please fix the bugs because this is a very good game!
+Hate to say this but I like this better than the new Insurgency Sandstorm. Currently as I write this the average player count for both games is about the same. So if you're worried this game is dead, it isn't. I think a lot of people are coming back to this because Sandstorm is such a buggy, laggy piece of shit.
+Its pretty good but you will get killed a lot and will be really confused on where but when you get good at the game and are able to play the game its a lot of fun
+Pretty good team shooter.
+
+If you like squad based, online FPS, you might really enjoy this.
+
+The game behaves realistically for the most part which is always a good thing.
+
+It's one of those games that are easy to jump in and out of and good to play once in a while if you need your tactical FPS fix.  Don't expect a really expanded game though; it's something to plunk around on.
+
+
+E.Wolf's +5
+
+1. Hardcore gameplay. No player score, no hit markers, no kill indication, just what you see. No need to worry about aiming for the head as bullets will drop a person, just as it is in real life. Keep in cover and remember that firing your gun makes you noticeable, or else that one bullet will find you and kill you.
+2. Decent graphics but with detailed settings that make you feel like you are in a Middle Eastern town. It truly feels like some of the modern wars.
+3. Incredible sound effects. From the grenade explosions to the automatic screams for help, the sound truly immerses you into the battle.
+4. Fun and suspenseful game modes putting security forces against insurgents. With hardcore gameplay and quick death, this is not a game to just lean back and relax while playing.
+5. If you do want to lean back and relax, you can also play cooperatively with other human players against waves of easy A.I. enemies. Do your best to avoid death and you will easily rack up hundreds of kills in a few games.
+Take my short review as a warning.
+This game is hardcore and realistic shooter. The community build likes it and is small but strong.
+
+No radar, No deadspeak, No bullet count, No crosshairs NOTHING.
+
+Pick it up, It's fun.
+The fact that this is made on Source engine is really suprising compared to games like CS:GO
+The grafics are beatiful and even low spec gamers can run the game on 60 fps on low-med settings
+And the gameplay its just amazing 
+
+  Game had a lot of promise, but was abandoned by devs. It feels like community was never heard and issues that could have been solved or improved was not their focus. Instead they rushed to focus on the Sandstorm project, which I heard has the same problems. 
+
+Overall a good game to grab for a few bucks, looks all right, has a realistic feel to it. 
+I like it, but it is what it is and it will not get any better.
+I love the concept
+
+but have you ever play so good that you get pass a guy that is always been the number one and you get friendly fire from him? again and again and again to make you leave the server?
+This is cancer. I had enough.
+Why would I install your stupid BattleEye when I want to play just coop? Stick it to your darkest place thank you. Stop updating games with stupid unfunctional updates please. I really aprisiated that my character seemed unvisible but it starts to be annoing. Not mentiong the fact that sometimes I cant fire at all.
+I dont like this game for these reasons:
+
+1. people are REALLY bad at aiming
+2. they have no skill so they camp and hardscope
+3. teammates are terrible
+I recommend this game for people who have no money. If you do have money buy the new one. Play on a Turkish server to see what's wrong with this game. It's a spawn kill fest. Bunch of 15 year olds shooting RPGs and planting C4s on each other's spawn. If you are 15 or younger get this and spawn kill immediately but if you are a tactical shooter fan this is just a hardcore CoD with a really low time to kill that no one communicates.
