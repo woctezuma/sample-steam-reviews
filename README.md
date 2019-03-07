@@ -45,6 +45,15 @@ python display_review_data.py
 python sort_review_data.py
 ```
 
+### Learn char-level models
+
+```
+# Char-level n-grams:
+python char_level_ngrams.py
+
+# Char-level RNN: either run this script, or or the `char_level_rnn.ipynb` notebook on Google Colab. 
+python char_level_rnn.py
+```
 
 ### Download app details for Artifact and for the top 100 most played games in the past 4 weeks
 
