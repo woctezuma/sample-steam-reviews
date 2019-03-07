@@ -11,7 +11,7 @@ This repository contains Python code to sample Steam reviews for the games calle
 
 ## Requirements
 
--   Install the latest version of [Python 3.X](https://www.python.org/downloads/).
+-   Install the latest version of [Python 3.X](https://www.python.org/downloads/). For CNTK, you will need Python 3.6.
 -   Install the required packages:
 
 ```bash
