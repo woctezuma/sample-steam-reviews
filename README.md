@@ -55,6 +55,15 @@ python char_level_ngrams.py
 python char_level_rnn.py
 ```
 
+### Learn word-level models
+
+**Caveat**: this does not work for now (too much RAM used due to one-hot encoding of words).
+
+```
+# Word-level RNN: either run this script, or the `word_level_rnn.ipynb` notebook on Google Colab. 
+python word_level_rnn.py
+```
+
 ### Download app details for Artifact and for the top 100 most played games in the past 4 weeks
 
 ```
