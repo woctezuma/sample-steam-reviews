@@ -1,0 +1,1133 @@
+Before I begin, let me clear a few misconceptions that are common in the negative reviews:
+
+"Fuck the micro-transactions in a $15 game."
+The in-game store only sells cosmetic items such as costumes and ship decorations. You cannot gain an in-game advantage by paying $$$. Half of the catalog can be earned without paying real money by levelling up your classes and doing achievements.
+
+"Long waiting times in lobby, takes forever to find/start a match"
+This problem has been solved in the latest patch with the addition of an actual matchmaking system. The lobby now has a time limit (Forced start after 4 min).
+
+"This game requires voice chat."
+There is a voice and signal command system accessed by pressing the V key that allows you to give a variety of commands spoken by voice actors. Voice chat is no longer required, especially if you are an Engineer or Gunner as you most of the time you receive commands instead of giving them. 
+
+"New players are stomped by experienced players."
+True. However there are new player-only matches that cannot be entered by experienced players. New players are automatically put into these matches, although they may opt out of them. Also, the new matchmaking system is effective in avoiding stomp matches as long as there are enough players online.
+
+"Balanced matches are hard to find."
+This problem has been solved in the latest patch with the addition of an actual matchmaking system, except when there are less than 50 players online.
+
+"Poor graphics."
+It's actually quite good for Unity graphics. There is 12x AA, water reflections, real-time shadows, dynamic lighting and a post-processing filter available.
+
+"Laggy FPS."
+This is usually caused by unexpected bugs in new patches that are quickly fixed. 
+
+"Laggy Ping."
+Low ping is not required to play this game since it is not a twitch shooter. I live in Hong Kong and regularly play with no issues on US servers (150ms ping) and EU servers (350ms+ ping).
+
+"Huge rebalancing between patches."
+UPDATE 1.4.1: Flamer/Carronade nerf (Most frustrating/Most OP gun) :) No huge rebalancing (only slight) for other stuff. Meta shift because of Stamina and not because of nerf/buff.
+
+"Shallow game, no strategy or skill required."
+This is like saying Counter-Strike is shallow and requires no strategy or skill because it is a game about shooting back at enemies on de_dust2. In fact Guns of Icarus not only has a lot of high-level strategic depth, it also gives many opportunities for players to show off and excel with their mechanical skills. Examples of high-level play include ship positioning, flanking, ship loadouts, and min/maxing of engineering efficiency and gun damage. Examples of mechanical skills include engineering parkour tricks, reactionary piloting, and using hard-to-aim or long-range guns. 
+
+https://www.youtube.com/watch?v=xK9hOU92chE
+
+
+The game's long-time competitive community (going all the way back to beta) is a testament to the depth that this game actually has.
+
+"Lack of new gameplay content."
+UPDATE 1.4.1: New gun, STAMINA SYSTEM!, Steam Workshop hooked up. CO-OP MODE IN PLAYTESTING, IT'S LEGIT BOYZ!
+
+"Game gets boring."
+If you like the game, appreciate its strategic depth, play with the mindset of improving yourself or simply find and play with friends, you'll discover this game's longevity in the same way people have played Counter-Strike or DotA for a decade. 
+
+"The community is horrible."
+This question needs to be answered in two parts: trolls and the actual community:
+
+1) Trolls are introduced every time this game is on sale. Since they only buy the game to troll around, they leave after a week or two to troll the next multiplayer game on sale.
+
+2) I won't deny that a sizeable portion of this community is made up of largely veterans, or that a precious few veterans can get extremely elitist, abusive and salty towards new players. However these people are quite rare and are drowned out by a mass of helpful and friendly players that are happy to help cooperative newbies. 
+
+"The game is dead (no one playing)."
+http://steamcharts.com/app/209080
+Concurrent players (off sale) peak at around 300. Most players play in American and European timezones. UPDATE 1.4.1: Still hitting 300-400 on weekends, 250+ on weekdays.
+
+"No Australian servers."
+UPDATE JUNE 2015: Oceania Servers are REAL now!
+
+
+"No co-op/VS bots mode."
+This is in the works for 2015. The co-op mode has already been demoed at PAX 2014 as recently as September. https://www.youtube.com/watch?v=ACr0aUNSXoY UPDATE 1.4.1: IT'S IN PLAYTESTING, HYPE
+
+Now for the review: 
+
+What should I know before playing: This game requires a lot of teamwork. Individual skill is rarely enough to win a match. Not listening to the captain's order or recommendations, running around the ship instead of cooperating with your fellow crew and leaving your allies to die while you try and fly past the edge of the map is not fun for anyone. It will only cause your ship to die over and over again while your team loses in five minutes. 
+
+This game has a steep learning curve. While most of the game's basic knowledge can be grasped within a few matches, the intricacies of piloting, the efficiencies of engineering and the specifics of gunning will take you many deaths and many losses to get good at. Very few people have truly mastered everything the game has to offer even with thousands of matches in game (UPDATE 1.4.1 myself included, hit 2466 matches, I'm a god Engi but can improve pilot/gun). 
+
+
+What's really good in this game: The requirement for teamwork combined with the setting and competitiveness of airships haphazardly wrecking each other makes for some truly magical highlight moments, as well as providing an environment that fosters communication and encourages friendships. 
+
+The game's high skill ceiling allows for continuous self improvement. It feels great to discover something new about the game, learn ways of maximising the efficiency of your ship, or find out how to beat a specific strategy and apply this knowledge in the next matches you play. As you cleverly circle into a Pyramidion's blind spot while you maintain your gun arcs, you smile as your recall how, once upon a time, you didn't know how to accel/decel (R/F btw). 
+
+JK it isn't that romantic. In reality you'll just suffocate yourself laughing while you crush an enemy ship into a building as your teammate is burning them into a crisp. 
+
+The huge amount of possible combinations of ships and weapons makes sure that, most of the time, no two consecutive matches will have the exact same ships in play. Also, you can experiment with new load outs or strategies and feel awesome when they work.
+
+
+What's meh: Dealing with unresponsive teammates. In game that relies so heavily on teamwork, having crew members that refuse to change classes, take stupid loadouts and then steal the gunner's gun can get extremely frustrating.
+
+Crazy King. [strike]Crazy King games...[/strike] UPDATE 1.4.1: Mode reworked, not a stallfest anymore, kills count for points, if u have more ships u can cap the point instead of having to kill all enemies.
+
+Flamethrowers. [strike]Playing with flamethrowers...[/strike] UPDATE 1.4.1: Flamer nerf+Extinguisher buff+Carronade nerf, not frustrating anymore.
+
+Analogy using another game: FTL, but your crew are real people.
+
+Would I recommend: 11/10 would fly again, especially once you make some in-game friends. 
+
+There is simply no where else to get Guns of Icarus Online's unique blend of teamwork, strategy, airship flying and crazy highlight moments.
+This game taught me one thing: Metacritic score is bullcr@p! It's an absolute gem with more than 95% of the reviews being positive, and what score do the critics give? 62/100? Are you serious?
+
+Yes, it's still not as polished as TF2, let's say. Yes, it's somehow harder to wrap around it, to understand the mechanics (rather unique). Yes, there are bugs and there is an in-game store (purchases are purely cosmetic - like other games like TF2, CS:GO, DOTA2, etc.). But the GAMEPLAY is amazing. 
+
+You'll definetly need a microphone. You'll need good communication skills and hope to get an experienced captain (or become one). And then, you're set to go. It's loads of fun and it's worth it, both your time and money.
+
+Play as one of these three classes : navigator (captain) - one per ship; engineer or gunner. Four guys on the same ship (captain's choice) form a crew. You'll repair and rebuild components, you'll shoot down other ships or just speed past them, you'll flank, you'll use flamethrowers and mines, you'll develop strategies with your allies and have the time of your life doing so. Even if you lose, cause defeat IS imminent. But when you taste the success, oh it will be SWEET!
+
+I see people giving negative reviews, but they've played for 1 or 2 hours. It took me 1 hour to finish the tutorial and 2-3 more hours to understand the game playing novice games. Yes, if there's no communication between crew, it's just a game where you run on the deck, hit things with your wrench and put out fires. The whole thing comes alive when you're communicating, when you're making strategies. It's that thrill when you're an engineer and your haul is down, but instead of repairing it you take the cannon and shoot the enemy, knowing you'll be able to bring him down first. It's that split-second decision that makes it thrilling. It's that pre-buffing that you put on your weapon that makes the difference. It's that able stearing that lets you evade or flank, hide just enough to repair or get on your enemy's blind spot with a flamethrower. And yes, you won't understand all these things after 3-4 hours of playing. There's a learning curve, but in the end it's worth it!
+
+Also, people complaining about the "latest" Matchmaking system - it has been changed. Developers are trying to listen to the players and the community is fun and friendly (for the most part).
+
+Some later edits:
+1. Don't buy this game for your 4yo son / daughter. It actually requires some maturity and sense of responsability to be played. Please, just don't. Rather play it yourself.
+2. NO SPEAK ENGLISH - NO GOOD! Find someone that speaks your language to play with, don't jump into a random ship with people who can't understand you and who you can't understand and start wondering why you're losing all the matches.
+3. Respect more experienced players. If you're level 1-7, and all the enemy ships are high-level, you might lose the game for your team. It's frustrating for you and is frustrating for your teammates. Try to hop into balanced games for the best experience.
+4. Just wanted to say last Satuday I had the best time I've ever had on my computer, and it was playing this game. If you manage to make some friends in-game, chances are you'll bump into cool and funny guys. It's both the in-game jokes and the funny, weird ship-loadouts and strategies that shouldn't work yet they do that will make you not to want to go to bed (even if it's 5AM and you're working the next day).
+This game. 
+
+Just, this game. 
+
+I saw one of my favorite YouTubers do a let's play/review of this game, and I figured my friends and I would get a 4 pack. 
+
+It was on sale, so we all pitched in 2 measly dollars (with me throwing in the extra 2), and we entered the world of Guns of Icarus as James T. Kirk, M. Scotty, Chekov, and Mr. Spock for a weekend of fun (and cheaper than going to see a movie, at that). 
+
+As you can tell by my hours in-game, I've spent a bit more than a weekend playing "GoIO." 
+
+I'm not going to lie to you guys, it's a little difficult to get a grasp on how EXACTLY to play when you first hop in at the moment, but I know for a fact that better tutorials are in the works. 
+
+But you have an even better resource available to you: the players. 
+
+Pretty much anyone who's played for more than a few hours can tell you that the playerbase is incredible. I'm here to tell you that this is 100% true. If you ever have any questions on what to do, you can ask in 'Global chat.' Chances are they will be quickly seen and answered by any random player. 
+
+You'll also notice that there are a fair number of players in-game with yellow names. These people VOLUNTEERED to help out new people, so if you ever see one and have a question, give him or her a shout.
+
+This is also the only game I know of where you can actually play with the developers regularly. 
+I'm just a random player, and I've gotten to know a few of them on a first name basis. 
+
+Once you get good at the game, it should be mentioned that the competitive scene is easy to get into. 
+Most clans are openly recruiting, and a few even have 100% acceptance rates. 
+Just be aware, while some clans are on a play-to-win basis, other clans are a little wackier, one even has few other goals than to burn everything. 
+And we still see them come back week after week. 
+
+If you can collect 7 people to fly with you, you're more than welcome to join the big-dogs in almost any competitive event. 
+
+The game's also a hell of a lot of fun. 
+
+Thanks for sticking with me through this long winded, scatter-brained review; there's just so much to say, and so little space to say it. 
+
+I hope you seriously consider buying this game. 
+-James T. Kirk
+TLDR at bottom.
+
+-Do you enjoy intricate team based gameplay, where you need to trust in the skill of your allies?  
+-Do you enjoy relatively easy mechanics that are tough to master? 
+-Do you fancy yourself a leader, that likes to communicate and see his orders carried out by real people?
+-Do you love a game with a close tight community, where people follow the rules and everyone is willing to teach you?
+
+If you said yes to any of these Guns of Icarus has a place for you.
+
+-Do you not like having non transparent game mechanics? ( engines below 50% im looking at you )
+-Do you not enjoy getting absolutely assblasted by people at the top tier of gameplay when you yourself are new?
+-Do you not enjoy a shallow tutorial? Leaving your woefully unprepared at your class job ( Pilots )
+-Do you not like NOT having an option to remove disruptive persons from your ship without having to remake a lobby?
+
+If you said yes to any of THESE things.  Your early adventures into Guns of Icarus are going to be a nightmare. Beware this is not a game that you will enjoy, on your own, with no friends, to help guide you into things. Although to be fair, the community is always willing to answer questions and help you learn.
+
+I have played this game at the highest tier of play, as Pilot, Gunner, and Engineer.  Theres almost nothing else like this game out there. Its intoxicating. Knowing that your ship is a well oiled death machine of personal indiviual skill AND complete trust in your companions. When I play with my clanmates,  and we get matched up against other clans of equal footing, its indescribable.  Sticking through the learning curve and getting to that lvl of play takes honest time effort and repition. 
+
+When I play for fun ( which is all I do nowadays ) I find that matchmaking is underperforming, claiming that a hidden MMR rating is used to match me up against people that have had this game for a couple days, whereas I've put over 1000 hours into this game. DISREGARD ALL PRETENSE OF MMR in public lobbies. There is none or near enough as to make no difference.  
+
+If you buy the game, find a clan of people that seem friendly and play often. and just learn the game from them.  There are weekly and bi weekly tournaments that are streamed on Twitch, Community fights VS the Developers where the winners get FREE item choice from the store ( pretty awesome tbh )
+
+Almost forgot the steam workshop, where player created items are hand picked by the community to appear in game, if your creative. You could put your hand to work designing cosmetic items that could charge for or let go up for free. Its your choice.  In my opinion the process of created work waiting review VS getting it into the game takes way too long. Some of these created icons look simply A-M-A-Z-I-N-G and need to be in the game right meow.
+
+Gonna wrap this up before I start rambling. 
+
+TLDR: 
+-New players are going to suck for a DAMN LONG time unless you get knowledge from higher lvl players.
+-Hard to enjoy on your own, que with friends. 
+-This games community is the best I have ever encountered in 14 years of video gaming. ( besides new players spamming dumb shit in global, I promise you they are the minority )
+-Easy to learn, difficult to master mechanics, ( when charged ammo is better in a mortar then greased ) 
+-Community events out the ass. Get free stuff.
+-The top tier of gameplay is deeply rewarding on a personal lvl, and the memories of your triumphs will go with you to the grave. 
+
+This is just my TWO SILVER CENTS. that I decided to leave because I hate seeing stupid reviews saying Oh dis gaem is best buy it!
+Guns of Icarus Online, is by far one of the most promising games I've seen in several months.
+
+The game takes place in a charming Steam Punk-ish, apparently post-nuclear world, where the few fractured remnants of the human race are battling for territory, and resources. The primary means of transportation over a barren, unforgiving world, littered with wrecks and ruins from an age long past, is by a type of Zepplin battleships, which are built out of spare parts and scraps from various wrecks found on the surface. The ones you experience in Guns of Icarus Online, are the military types, armed to the teeth with innovative, obviously home made weaponry, featuring lots of Gear wheels, and some greasy, messy technology.
+
+Gameplay:
+
+The Gameplay, as far as I've experience, are primarily a type of Death Match. In a 2v2 match, where two ships are paired against another pair, and a 3v3, same thing, but much more expansive and difficult combat.
+There are multiple ships to choose from, each with their own strengths and weaknesses...Small and light? Large and Heavy? Armed to the teeth? Favoring defense? Somewhere in between? It all depends on the specific captains style, which is where the really exciting part of this game comes in.
+
+This game is entirely unwinable without team work, and here's why:
+
+Each ship has a crew of 4 total players.
+
+The standard layout of a ship's crew is as follows:
+1 Sailor(Commander)
+This person is the Captain of the ship. He controls where the ship goes, at what speed, when, and how they attack, if they attack at all, and when its time to get the heck out. They also coordinate with other team captains to launch flank assaults. They order the rest of the crew, such as what parts of the ship needs repairs the most, and what guns should be manned in preparation for a broadside. The Commander is the backbone of the ship, and sports several utility/maneuvering abilities that can do everything from speed up the ship, to increase evasion and defenses(However, this wears on ship parts, and threatens to cripple the ship if used recklessly, demanding a Commander to be clever in his ability usage, to avoid stressing his crew)
+
+2 Engineers
+The Engineer is the heart of the ship. Without engineers, the ship would rapidly become a floating heap of scrap metal, and fall apart within a few volleys of enemy fire. An engineer is the only means to which a ship can take a gigantic beating, and still remain functional. They also sport the ability to put out fires, and buffing the equipment temporarily to give defense boosts, minor speed boosts, and damage increase, depending on the parts they buff. An engineer needs to keep an incredibly cool head in a firefight, and always heed the call of his commander, lest he misses a vital repair on a ship part. Due to each part having a cooldown timer after being worked on, an engineer needs to be a professional 'schedule' keeper, and be able to keep a steady, constant rhythm to go from part to part to part, fixing them as required, and knowing when to break the schedule in favor of higher priority pieces(1 engine going out with 2 working, is not more important than a leaking balloon...Cause you drop to your death....)
+
+1 Gunner
+Gunners are the tooth, claw, and nail of a ship. These battlehardened warriors of the clouds are the only means to laugh in the face of an enemy's fire and shoot back with a mighty old "IS THAT ALL YE GOT!?". They're hardened, vicious, merciless killers, who favor sitting down at a weapon station, and using their expert aim, and large arsenal of ammunition types, to unleash hell on their ship's enemies. A gunner's primary job is being entirely offensive, though they are equipped with a spanner in case their weapon should be destroyed, allowing them to atleast make it operational until an engineer comes around to bring it to full potential. A Gunner's best moment is when they know what ammo type to use in what situation, to out-damage their opponents with clever, innovative use of their chosen weaponry.
+
+These together, make a ship, and the most cordinated, best tactically skilled ship comes out on top. It is 4 players, being forced to corporate as 1, collective player, fighting against another behemoth of a collective of players. Imagine the Commander being the brain, and the engineers/gunners being arms, legs, etc.
+The game permits clans, even preset crews that you can join a match with, to create not just a single crew, but an entire navy, that you can take into battle.
+
+You are of course fully capable of customizing your character(Or your ship, should you wish to be captain!), choosing which gender, what hairstyle, what ethnicity, and what fashion statement you wish them to display; Are you a noble sailor of the high clouds? Favoring honor and good sportsmanship, who dresses in proper naval uniform and behaves like a true man/woman of the royal navy? Or are you a pirate, the scoundrel of the skies? Do you dress in rough leather, cover your face in masks, and sport threatening hairstyles, spiked helmets, and a Jolly Rodger? or something completely your own concept!? It is up to your own personality, and more items are added regularly, to both customize ship AND character as you wish! (Dyes(for characters) and paints(For ships) are available as well!)
+
+Graphics
+The graphics 'could' be better, but they are still very poweful, and are very demanding, even on the higher end rigs. My best advice, if you're having lag issues, is to turn off Post Processing, it increases your framerate dramatically, without losing too much fancy looks.
+
+Also, you'll lag when there's fire. Get used to it!
+
+Community
+This game's community demands to be of a different caliber than your average MMO. Due to the high level of maturity, and ability to take orders, as well as the demand for being able to have an ability to take the game seriously when fighting starts, the players who are trolling/refuse to accept orders, or simply do poorly and decide to screw around rather than play the game, thereby ruining the fun for the others? These people don't last long, as griefing/trolling is considered extremely tabboo in this game. Due to this, the game's community sports a far higher number of reasonable, mature, adult individuals, who are courteous, and friendly.
+
+Developers:
+Muse has gained a new level of respect from me. They are engaging, and listen to the playerbase, without mindlessly giving into them. They have fun-loving, but still mature and talented employees, who consistently log ONTO the game, and permit people to not only hang out with them, but to even play the game with them! They are even offering events where you can test yourself against them for a chance to win free stuff, should you beat them!
+
+Progression:
+Progression in this game is quite strange. First of all...Levels? After level 4, levels no longer matter! Between level 1 and 3, you are a 'novice' player, which means some harder aspects of the game are turned off, to avoid you making progression impossible for you(Such as customizing weapon setups, and some harder to use ships). Upon reaching level 4 with ANY type of crew, be it sailor, gunner, OR engineer? These limits are lifted, and the game opens up its highest difficulty in all its splendor.
+However, after you exit Novice mode? Levels are no longer anything but a bragging rights number. There are no skill trees, which set you apart from others by building the 'best build' for whatever patch you play in. THere's no 'gear' that makes your ship better or worse than the other, depending on what they have equipped. The only means of 'progression' you have? Is your own skill, your own experience, your own capabilities. You rely ENTIRELY on -yourself-, not a 'talent tree' or 'hot bar' with 'specced skills'.
+This is all why, this game is worth it. Come play it with me, come serve me aboard my ship, and I'll see if you're worthy of serving under me ;3
+How could I possibly summarise over 2000 hours of gameplay into a review?  I think it's the teamwork aspect that creates the social aspect of this game that doesn't exist anywhere else along with the depth in strategy created by the ship designs that keep this game fresh.  Also, the mine launcher.
+
+I'll try to remember to update this review when I hit 3000 hours.
+[u]This review is long over-due[/u]
+
+[b]Update 16.8.17[/b] [i]Not sure what happened but now there are less games to choose from. I have had to log out due to lack of PVP playable matches.[/i]
+
+[b]Update 1/9/17[/b] 2 active lobby's 56 people online including alliance. Out of 91 friends who own it; only 9 now play it. in it's current form I can not recommend this game to anyone. The player numbers are far too low.
+
+
+[b]Why Guns was worth a Try.[/b] 
+
+It was a game of two halves, "lobby's of Icarus" and "Guns of Icarus". Both modes were worth playing. My hours consist of both modes, but mostly lobby There are 100's of customizations for the ships and your player from the workshop. Dyes & hats can be unlocked as you progress. 
+
+Game modes; King Of The Hill, Crazy King, Death-Match. 
+
+Guns of Icarus was the most socially intensive game out there. Where "Team-work was King and communication was key". 
+
+
+GOIO Player-Base was Small and incredibly friendly. Some taught the "Scrubs" (new-players) as often as they could with no thanks. 
+
+Roles are an Engineer (my main class), pilot or a gunner (least important class (imo) only needed for ammo and gun arc buffs) on-board any airship; from a Speedy Squid to the Slowest Pyramidion or the Multi-Manticore Hwacha Galleon. 
+
+Doing Battle against other airships for control of resource points (Crazy King), or the total destruction of the enemy team in DeathMatch. It is brutal, there will be salt, you will have commands barked at you, it is nothing personal. "REPAIR the HULL!" But the Satisfaction Can always be heard come match end. 
+
+A good Captain  will always pass round the virtual Bottle of "Seppuku-Das Moonshine" comments in crew "how did we pull that off? That was F***** Amazing! Are common-place after a good match.  Every match ends with "Good-Sportsmanship" the victors congratulate the losers and some of us offer a Rematch.
+
+Update: [b]The best comment will be gifted a copy of Guns Of Icarus if you don't have it. or a little something something[/b]
+
+3 copies gifted so Far.
+
+1 more Collectors edition will be gifted 22nd December.
+
+1 more copy gifted during the promotion.
+Captain's Log: Day 63
+My gunner still won't fire at my intended target. No matter how obvious I make my intentions, he insists on firing at random objects, be it a neutral bridge, a mountain, or our ally. I feel he's doing this in a petty attempt at attention.
+
+My senior engineer will not repair a damn thing, and is passing off bad habits to the rookie. He insists on repairing guns we never use, refuses to put out fires, and never rebuilds the engines that he's let fall into disarray. I'm beggining to wonder if the man suffers from some undiagnosed mental illness.
+
+The rookie, for his part, knows absolutely nothing.
+
+Gunner's Log: Day 63
+My captain is a horrible pilot, and never brings me in range of my targets, then insists that it is a result of my horrible aim and lack of attention. I'm half tempted to attempt a mutiny, to overthrow her tyrranical rule, but I know the engineers are too weak willed for such a task.
+
+Our senior engineer seems content to stare at our engines while they are on fire, rather than attempt to extinguish them, and it is horribly annoying. I'm getting the feeling that he doesn't wish to fly on this vessel, and is attempting to bring us all down with it.
+
+As for the rookie, I'm getting extremely tired of having to reload my ammunition because he's replaced it with some obscure new bullet type.
+
+Senior Engineer's Log: Day 63
+My captain is driving me insane. She has no empathy, and refuses to give me a commendation for my hard work. She expects me to be at every position at once, and will not hear it when I suggest we attempt to retreat for a few moments to repair our ship.
+
+The gunner is being a jerk, as usual. He still doesn't believe that my fire extinguisher is broken, and won't stay at his gun while he has a perfectly good shot at the enemy. The bastard needs to stay at his own station, before he breaks something while attempting to fix it.
+
+The rookie is useless. He never listens, and insists on trying to use guns that could not possibly be aimed at our opponents. Why am I always stuck with the incompetent crews?
+
+Novice Engineer's Log: Day 63
+After careful observation, I've concluded that nobody on this crew knows a damn thing about their job.
+A truly great concept for a game, fairly inspired content, gameplay heavily based on co-operation between each player. Despite it being a quite niche project thing, it's a neat alternative to the current video-games market, even if this game has seen its better days (and it has).
+It's such a shame that so few people come around to try and learn to appreciate Guns of Icarus.
+
+I find it really hard to enjoy non-coop multiplayer games these days. It seems like competition and rankings is all they're about now. Getting in a matchmaker, being thrown out there against a couple of faceless opponents you're never gonna see again, have a minute or two to pick your champ/hero/loadout/whatever, go. No wonder communities go to shit if you don't even have a moment to think about the fact that those other players are actual human beings.
+
+But GoI? It's just different. And I couldn't even exactly tell people why, at least not without wasting a couple of paragraphs overanalyzing every single aspect of the game and my own personality. Somehow it manages to take away all the angst, salt and frustration that usually comes with multiplayer (well... most of the time). Instead of always competing in some sort of league where everyone is his own overzealous soccer mom, it feels more like a nice evening at a board game bar, playing with some friendly strangers, not so much against them.
+Guns of Icarus is something that very few multiplayer games can call themselves in my opinion. A thing I can only describe as "comfy". Something I haven't experienced like that since way back when I would spend my whole time playing WCIII fun maps with random people and I'm so glad to have found a game that could give me that again.
+
+If recent multiplayer experiences just don't really seem to do it for you anymore absolutely give this game a try! Maybe It's just what you need!
+[u]Pros:[/u]
++ Almost everyone in the player community is completely mad in a delightful way.
++ There's a steep learning curve but once you get the hang of something (a ship, gun, ammo type, role etc) it feels great.
++ The soundtrack is subtle and atmospheric.
++ Lots and lots of customisation for ship and crew loadouts.
++ Teamwork really is the core of this game.
+
+[u]Meh:[/u]
+= While there are a variety of maps, they quickly become repetitive.
+= The game modes also become repetitive, although this is mitigated greatly by the variety of loadouts. I've seen users band together to improve this by creating their own rules such as escort missions (agreeing beforehand that the loser will surrender). Hopefully the new Adventure mode will remedy some of this.
+= The lobbies can take awhile to fill. This is getting better, though.
+
+[u]Cons:[/u]
+- Lag spikes are a problem, especially when your ship is an inferno. OTOH, you can use this to your advantage by setting other ships on fire (Captain: "Quick! Reduce their framerate!")
+- Very very rarely you run into the type of player who thinks they literally are an airship admiral and cuss out their crew accordingly.
+Ignore the Metacritic scores - most of those reviews were based on the beta, not the finished product.
+The game has a bit of a learning curve and random pub-games might not be much fun, but most of this comes down to communication - communication is [i]vital[/i] in this!  The pilot needs to know when the gunner doesn't have a clear shot, engineers need to be alerted to critically-damaged sections of your ship and everyone needs to let everyone else know where the enemy is.
+
+Once you get past that; the game is a sheer blast to play!  Hammering an enemy vessel with rockets and seeing his engines and balloon fail, knowing that he'll be dead in the air until his engineers fix everything and giving you a chance to reload and come around for another pass.  The whole team frantically trying to keep the engines and balloon running as the pilot tries to get you the hell out of dodge.  An excuse to shout things like "Enemy off the port bow!" in accents and with overacting that would make BRIAN BLESSED seem sedate!  What's not to love?
+[h1] A GoI-Veterans Impression[/h1]
+
+As you can tell by looking at the 4 digit number above this post, this game has entertained for quite some time already and I will likely stick to it a while longer. The learning curve for Guns of Icarus is quite steep, but once you get the hang on it you will be able to enjoy the tactical depth and the rich variety this game has got to offer to its full extend. I for one can state that Guns of Icarus is the best game I've ever played since I've picked up videogaming about two decades ago.
+
+I think what I like most about this title is the strong Teamplay focus. Guns of Icarus encourages you to run the ship like a well oiled machine by coordinating yourself with your fellow crewmates. As communication is the key to success in this game, a large fraction of the player base talks via microphone or is at least active in text-chat. As everyone on your ship is forced to play WITH you for the better or the worse, tips and gameplay-relevant info is commonly shared through these channels. Perhaps as a result of this GoIO has got the friendliest and most communicative game-community I've ever encountered.
+
+Another aspect I really like about this game is the rich variety of loadout option you've got for your ships. Right from the start everyone has got access to a large arsenal of ships and weapons which can be combined by the captains as they see fit. Depending on your own fleets loadouts and the  enemy fleet you encounter, you have have to adjust your playstyle, which ensures the game stays interesting in the long run. Sometimes the best way to engage an enemy is a straight rush to their position to force them into close and personal brawl engagements. In other Situations such tactics are doomed to fail and you might want to to stay back isntead as you've got the upperhand on mid or long range engagements. Sometimes it's a good choice to pick weapons which allow to kill your opponents as quick as possible. In other situations you might want to mix in a ship which is really good at taking out key components like weapons or balloons instead, even if this implies it isn't as good at delivering the killing blow.
+
+To enjoy Guns of Icarus you will need to be able to understand spoken english. As mentioned previously, communication is a key-element of this game and english is the lingua franca. There are a few sub communities which speak different languages, but if you want to hop into the game without previously setting something up, it's very unlikely you will find a ship which is filled with french/german/russian speaking people.
+The most teamwork oriented game ever created, fly, fix, or fight, your way to victory aboard several varied airships as a Pilot, Engineer, or Gunner class. Each with their own uses but all needed working in synergy to win. Not to mention the outstanding community and the fact that the Devs take an active part in things also.
+
+Pretty much Mic required, since good communication is a must.
+Your armor drops, health soon to go fast. Engineers desperately clamor to rebuild what they can to buy every second of life they can squeeze out of their wrenches. Gunner twitches anxiously for the enemy's armor to drop to unload that blessed lochnagar heavy flak. Looks like he'll be waiting a while longer. Pilot's dodging what he can, ducking and diving between buildings hoping for an escape, but the foe's just too persistent. Things are dire now. Seconds left to say your prayers at best.
+
+Then the hwacha hits. A steady stream of brilliant explosive rockets slams your pursuer's guns and engines with the only kind of divine retribution 24 explosive rounds understand: The good kind. You don't know where your ally came from, and right now you couldn't care less. You've found your opening. 
+
+Engineers to the spare gatling guns, topping off the hull can wait. Ally turns his side to lend a gatling gun of his own. Doesn't take more than a second for the once-ruthless pursuer's armor to drop. Gunner's patience finally pays off as he fires his lochnagar-loaded heavy flak. The second it takes that round to fly to its target might as well have been an eternity. Boom. One shot square in the unprotected hull and the ship crumbles. Job's not over yet, though.
+
+One enemy left, lamenting his ally's over-extended pursuit. Your prayers were answered. Let's see about his.
+If you have friends to play offten with this is a good game to try out and play.  it has great co-op and awesome PvP to boot.  Be a Couragous Pilot, Deturmined Gunner, or a Paniced Engineer, all together you can (maybe) keep this ship alive!
+the sad part of this game is the lack of players now a days, as an MMO it has an average of 100 people on at all times but with a little help this game will come back from the dead just like other games have!
+Guns of Icarus Online is a different type of FPS. It is warfare in the sky between ships that resemble pirate ships (somewhat). Ships battling other ships, all being held up by hot air balloons. Steampunk at its' rawest.
+
+Let's summerize the classes: 
+       
+-------First: The Gunner, the one who operates the main offensive guns on the ship. 
+       
+-------Second: The Engineer, the one who goes around the whole ship repairing each part of the ship (Hull, Engines, Guns, Balloon, etc...). 
+       
+-------Third: The Pilot, the one who maneuvers the ship forwards/backwards up/down, and who usually captains the crew. (Though the pilot doesnt neccesarily need to be the captain; a gunner could be the captain telling the other players what to do, including the pilot).
+
+
+With all this being said, there are a few options for different types of gameplay. I prefer to be a gunner. But if you're the type who doesn't think they're very good at shooting accurately, there's the option of being an engineer or a pilot. Being an engineer is probably the most demanding job on the whole ship, which is why there's usually one Pilot, two Engineers, and one Gunner. Most of the friends I regularly play with prefer to be engineers, they are never idle, always doing something (unless the ship isn't engaged in battle and is fully repaired).
+
+If you do not like the stress of having to run around in first-person/third-person keeping everything in good condition, or if you don't like having to have the burden of being the one who HAS to take down that other ship before it takes your ship down, then you're probably going to choose the pilot.
+
+The Pilot is in control of a lot during battle, he has to keep the ship in the right position for The Gunner to be able to turn the guns enough that the other ship is within range, but he also has to move around in a way that makes it hard for the other ship to shoot at you. Personally, if I didn't mainly play a gunner I would probably play the pilot. Being in control of the ship is really cool, and fun, very fun (and hard as hell).
+
+The gamplay is pretty amazing to say the least. The three-dimensional battlegrounds make for very interesting use of the Unity Engine. The crews are made up of four. Games can be score based or time based, with different modes (King of the Hill, Crazy King, Deathmatch). Battles consist of Team Red and Team Blue, and go from 1 ship vs 1 ship to 4 ships vs 4. That's 32 players.
+
+So if you enjoy a variation from the mainstream/generic FPS, one that involves a warm online community that is friendly and active and willing to teach, and if you enjoy interacting with real people across the world through your mic, this is definitely a game for you.
+
+Just go buy it. Right now, you will not be dissapointed, there's something in here for everyone.
+"FIRE NOW OR WE DIE!" I screamed to my gunners as I leaned hard on the keys, desperately trying to turn the ship a little more to give them a last broadside.  Flames were everywhere, the entire ship was flashing red in my HUD.  It was all broken, all on fire.  My engineer tells me, in a sad voice, that this is it, he can't keep us in the air, and that he will tank the armor to keep us alive for a few more seconds against the incoming attack.  Our ship shudders against another heavy impact, and I can't even see a health bar.  I hear the whistling of our main guns firing.  The enemy ship, nearly as broken as we are, tries to pivot away, having assumed we were done and got sloppy, drifting into range of our broadside.  They didn't count on me grinding our hull into the canyon wall, using that leverage to turn our ship despite having almost no steering left.  
+
+They explode into wreckage under this last broadside.  We're in freefall, and I holler for my gunners to meet me at the balloon pump with wrenches in hand.  Thirty seconds later, we rise again from the canyon, with full steering, balloon, and armor, making a hard burn to help our teammate against the last enemy airship, fixing our guns on the way.
+
+This game makes for some of those movie-level moments, where it is all or nothing, and the best teamwork wins.
+
+Probably my all-time favorite multiplayer.  Going into battle with some friends, requiring intense communication... it was amazing.  The player base fell away, which is the only negative to this game.
+
+Graphics are a wonder.  Standing on the edge of your ship in the middle of some canyons and looking around is incredible.  Sounds are good, weapons are fairly balanced and have roles.  The ships are incredible, both in function and design.  
+
+I would pay a monthly fee to play this game if it had a large playerbase, its so good.  I suspect the main cause of the playerbase is that the devs took too long to implement a matchmaking service.  We used to call this "lobbies of Icarus" as we sat for 20 minutes or more waiting to fill out a lobby (and this is with a big player base at the time), as people would come and go constantly, trying to jump into a game that is almost full so they did not have to wait.  Now, the devs made an effective matchmaking service, but too little, too late.  Their day in the sun had passed as the playerbase got bored of waiting and no new content came out.  
+
+If they could find a way to bring this back, I will be first in line.  
+
+New players, jump in a lobby and let people know you are new.  Some people will gripe, while some kind-hearted souls will tell you to join their ship and will teach you.
+Such an incredible game! A small, but wonderful community, solid mechanics, and interesting and unique gameplay place it among my favorite games.
+
+If you enjoy teamwork. This game is for you.
+If you enjoy tense action aboard a diesel-punk airship, then this game is for you.
+If you enjoy unique weapons with differing stats, and the power of information that goes with it, then this game is for you.
+
+There may not be a multitude of varied gamemodes, but no two matches are ever quite the same.
+A word of advice, though: listen to experienced players and you'll get a boost. 
+
+Bring your friends and rule the skies together!
+Addictive, fun and nice community just wish it had a single player campaign... The idea behind it is awesome just think I would be fun exploring more of the world...
+Our study association hosted a LAN-party for 100 people. When the organisers contacted the devs, we got some keys for free to provide to the people not owning the game. This allowed us to have some epic battles with friends and organise a small tournament around it. (This made the game 100 times better).
+
+tl;dr
+Cool game, awesome devs. +1
+Floating warships duking it out in the skies of an apocolyptic wasteland. All in awesome steampunk fashion!
+4 man crews, many different ships and weapons with very unique mechanics.
+Flamethrowers and mortars and mines, oh my! Come in loud and proud, or pester the enemy to death. There's a good variety to have fun with.
+
+  A simple concept, it's easy to learn but hard to master. It's class based: pilot/engineer/gunner.
+
+  Ships have predefined weapon placements, but you're free to select what weapons to fit(depending on if its a heavy or light weapons spot).
+-Pilots do nothing but fly and bark orders! :D 
+-An Engineers job consists of repairing/rebuilding/extinguishing/upgrading components and sometimes spotting or firing weapons. 
+-The Gunners class is self-explanatory but will often overlap with Engineers duty. It's unique because you're allowed 3 different ammo types which can be invaluable if you learn how to use them.
++Now all classes have stamina that give them an edge in their main duties!
+
+  You learn what components are priorities or when you need to shoot instead of repair, what weapon and ammo type to use at any given time, ect. These are the skills that define a good player from the average and will all ultimately decide the fate of a battle. 
+When it all works out it's an experience that leaves you feeling satisfied and scratches that itch you didnt know you have but now can't ignore.
+
+  There is almost nothing more gratifying than hosing down an enemy ship with flamethrowers and just watching them BUUUURRRNNN! 
+Although, seeing an enemie's futilile attempt at burning yours after youve chem-sprayed is just as rewarding... The weapons are just flat-out [u]fun[/u] to use. Which is great, because that's what the whole game revolves around - shooting down your enemy.
+
+
+  Cooperation and coordination is crucial and key to winning; along with having competent crew...
+If you can get together some friends it can make for some of the most fun cooperative pvp you can find. Who doesnt like being the crew of a well-oiled killing machine!? The game is very balanced, and the only thing that is OP is communication.
+
+Graphics arent too great, sometimes they're kinda lackluster. The audio is pretty well done with just some minor gripes here and there. All-in-all, for $5 it's a fkn steal. I never pay full price but this game is worth a lot more than a few dollars.
+
+This game has been updated sooooo much since i posted this review, it's insane.
+The devs really do put out a ton of tender loving care and hard work into it. I love that.
+Where to begin?! Well lets start with, this game is [b]PvP orientated[/b], but, levels mean [i]nothing[/i], just how much experience you have, the kit everyone has access to is all the same, it's just how well you use it that counts!
+The biggest part of using your kit, is team work!
+Each ship can have a crew of 4 people, Pilot who is often the captain and three crew members (2 engineers and a gunner) and its the crews job to keep that ship up, Voice comms is pretty much a must, unless you're an awesome typist or learn the ingame key bindings! Then there is the added bonus, team captains can communicate in battle, allowing for battle tactics to be planned out!
+This means more ofen than not, clans will dominate the game due to using the same tactics, discussed before the battle. There is no OP weapon or OP ship, just Team work and good communications! If someone is dieing too quick, someone was doing something wrong, or people were not communicating well! Remember, too much communication can be a bad thing too sometimes! :)
+
+The [b]best[/b] part of it all, the community is mostly awesome guys and girls with very few bad eggs. Often the bad eggs are solo players who don't like to play their part, or want all the credit and as you can imagine, they'll not get far in this game! :o 
+
+My personal experience in this game, I started as an engineer as it's often needed and reletively easy to pick up, but during one battle our ship captain went afk so I took the helm while our main engineer gave me an emergency flight school, in the middle of a fire fight! The fight was tough, tensions were high on all our team as I learnt my way around the helm of someone elses ship, but in the end, we succeeded! We played two more rounds together that night and now, thanks to that one guy, I have about 8 people who request me to pilot ships for them and their friends to be the final componant of a good crew! Last night by request to be a pilot of the crew and we had a 7 match win streak out of 8 matches! A captain is nothing without his crew, so don't treat 'em mean! 
+
+The gameplay mechanics take a bit of learning! Read through the tutorials carefully and don't be scared to let your crew know you're new and may needs tips when you come to join fights! You'll be surprised how many people will go out of their way to teach new players how to do well!
+
+Would I recommend this game?
+[b]Why are you not playing it already?![/b]
+
+Stop twiddling those thumbs lad! There's a war to be won! Pack your goggles and bow-tie, Pick up that spanner, hammer and spyglass! It's time for some adventures! Tales of daring do! Tally Ho!
+
+
+
+
+
+[b]Additional Note: Still playing after nearly 900 hours and still thoroughly enjoying it![/b]
+This game is one like none other. It features dynamic aerial combat, stunning graphics, a tight nit, friendly community and entertaining gameplay all in one package. It is a game that draws players from every corner of the gaming community, and gives them the experience they have been looking for. Guns of Icarus Online is backed by a driven developer team who strive to see this game grow for the sake of entertaining the common gamer. It is easy to fall in love with this game, and hard to leave. To all those who brave the battle-laden skies of Guns Of Icarus, I wish to you fair winds, and clear skies.
+GoIO is one of the few games to actually understand what teamwork is. You play as part of an airships crew, where each member of the crew have their own abilities and specializations, this requires constructive communication rather than the usual standard for "multiplayer games" of lexicological abhorrence.
+This is one of the most fun team based games I've played.  With only 4 players per team communication is key.  It may seem, at first glance, to be strictly a shoot-em-up in a gunship, but there is a lot of in-depth strategy under the hood, especially in higher level matches.  One of my favorite things about this game (other than pulverizing enemies and scrambling around a dying ship trying to sqeeuze out another breath of life from her) is the community.  It's one of the best I've seen!
+Overall this game is great fun. I have to rate 8/10. The issue is the lack of a player base. It may take a while to get into a game, and the game might not even be full. 
+
+--{Graphics}---
+☐ You forget what reality is
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ Paint.exe
+
+---{Gameplay}---
+☐ Addictive like heroin
+☑ Very good
+☐ Good
+☐ It‘s just gameplay
+☐ Mehh
+☐ Starring at walls is better
+☐ Just don‘t
+
+---{Audio}---
+☐ Eargasm
+☑ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ Earrape
+
+---{Audience}---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Average Solitare Players
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☑ Fast
+☐ Rich boiiiiii
+☐ Ask NASA if they have a spare computer
+
+---{Difficulity}---
+☐ Just press ‚A‘
+☐ Easy
+☐ Significant brain usage
+☑ Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls
+
+---{Grind}---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isnt necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You‘ll need a second life for grinding
+
+---{Story}---
+☐ If you want story, then go read a book.
+☑ Text or Audio floating around
+☐ Average depends an DLC
+☐ Good
+☐ Lovley
+☐ It‘ll replace your life 
+
+---{Game Time}---
+☐ Long enough for a cup of tea
+☐ Short
+☑ Average
+☑ Long
+☐ To infinity and beyond
+
+---{Price}---
+☐ There is no „price“
+☑ Worth the price
+☐ If u have some spare money left
+☐ Not recommended
+☐  You could also just burn your money 
+
+---{Bugs}---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ Assassin‘s Creed: Unity
+☐ Get a bug spray. Or more. A lot more. Or maybe a flamethrower. Or a nuke.
+Even with 100 hours, I will always remember the friendliest community, tactical captains, capable engineers and dem gunners that always happen to miss every projectile even when the enemy is about 10m close :D
+
+I remember when I bought this game. I was a noob-engineer at first, but second engineers always helped me out.
+Every one was friendly against each other, cheating or griefing people were almost instantly reported and kicked/ banned,
+I will always remember this game and these 100 hours of Guns of Icarus experience.
+Without this community my soul is empty.
+I miss the old days. 
+  - Woara
+My first experience, in One session:
+I went through all the tutorial stuff first, And I found the concepts to be very simple.
+I decorated my character to how I pleased with what I had.
+After that, it was gametime. I had a friend introduce me into the ship types and gun types, as well as what each class would do at all times. We joined an online game, and was put with 2 other people- A gunner and a Pilot.
+The ship was a Squid. We had a flamer and gattling, and Frankly, that was all we needed.
+The pilot Blew at his job... So I jacked the wheel. The control was so easy to finesse, to turn and raise was elegant, timely, and gave me plenty of time and ability to work with my gunners' needs. my friend managed the engines, hull, and balloon like a beast, and the pilot was upset I upstaged him (By far.)
+After that, I found another pilot, my friend left after another game, and I was on my own with this Pilot, a badass gunner, and a random second engineer.
+We lost 2, won 5.
+
+And it was, without a doubt, the most fun and enjoyment I have ever had from an online, player to player combat experience.
+
+I would recommend, No, I would Require, everyone I know, to at least learn of this game at one point in their lifetime.
+My rating of this game speaks for itself when you look at my credentials and see that I have laid down 3000+ hours in to this title. That said though there is a lot this game has to offer if you are considering obtaining this title. Bearing this review in mind I have since become apart of the development team as an intern at the time of writing this, I speak first and foremost as a player with personal opinions about this particular title.
+
+All that said, this game is a steampunk style game, and with it teamwork and strategy is the biggest names of the game here. Communication and coordination with crews as well as allied ships on how each team engages one another is paramount to victory or defeat. Most matches usually run for about a good 15 minutes and are packed with the anticipation of engagements, counter-engagements and various methods for obtaining each map's goals. 
+
+There are several modes of gameplay currently available in the game, King of the Hill (holding a point), Crazy King (holding dynamically active points), and deathmatch (self explanatory) and they are offered in lobbies of 2v2, 3v3, and 4v4 (by these numbers I mean the number of ships per team). Each ship has a four man crew each with specific roles such as a pilot, an engineer, and a gunner. These are asymetric classes that although they offer specialization for ther intended role allow you to take on other tasks as well (such as an engineer gunning, etc.).
+
+Players have the liberal freedom to pursue different manners in which they engage their enemies from disabling components and shutting down ships to going into a brawl and attacking the ships armor and hull directly for a quick kill. There are many varieties and many styles, this is further illuminated by the playerbase and their styles of gameplay. The various personalities you meet will challenge you on coordinating your ship's role with your allies or within the ship itself by the handling of roles and responsibilities when the firefight breaks out.
+
+To add more flavor, the game also gives you the ability to customize your ships with not only weapons but with designs, logos, and themes that uniquely identify you in your team's fleet; While at the same time you can accessorize your avatar with its own flare of looks in all the various classes you dress them up for.
+
+Naturally there are drawbacks of course and they are worth mentioning for the curious. The community of players remain small but is very steady and friendly, this does result at times in very mixed lobbies of experienced and inexperienced players. This mixture can however prove beneficial if there is good communication between the captains and their crews in learning how to handle their roles. A good measure of patience is certainly a welcome perk for those that have it, but overall the experiance of the matches tend to be pretty fun.
+
+It is one of those games where beyond achievements and scores, you build a genuine comradery among fellow players. I feel this is the game's biggest strength. If you like teamwork and high-strategy this is the game for you.
+I have to admitt I'm always very skeptic about multiplayer games that rely on cooperation that much. This game has proven that teamwork is not about shouting at other people while doing all the work together. Teamwork is a pure pleasure of seeing how communication, trust and loyality work together, giving visble results in a form of spectacular explosions on the enemy's airship. 
+
+The key factor and the biggest plus of that game is it's community. Even if I was doing something completely wrong, or when I accidentally rammmed the ship of our allies, I was surprised by the way people react. Usually I meet with friendly advices from better players, or laugh from my fellow newbies. 
+
+Basically, the only situation when I saw (or rather heard) someone flaming someone was when the crewmate did whatever he wanted, didn't response to any communications or direct orders. If you want to play as one-man-army, this game is really not for you. 
+
+Does the game have any minuses? Of course it does. Small number of players is the biggest one. Small number means inequality, and sometimes you might find yourelf facing a ship of well played elite, from which you can't do much. 
+Actually, that's not really true, becouse you can always train more, become better, and knock them off with your superiority, but you get the point. 
+Some people also listed out small number of airships and weapons. I'm not playing that game for long, so I can't tell, but what I saw so far, is enough to provide a lot of diversity and every play is sortof different. 
+Plus, Devs are working on the new update with planes and more ammo, so I think we're gonna have to put that point away soon.
+
+Overall, the game is really fun, and with good team you can work miracles. 
+With friendly community that provides good teammates even if noone of your steam-friends play this game, I highly recommend Guns of Icarus Online. 
+
+Feel free to invite Clockeye to your crew.
+Fly High friends!
+'Tis a fantastic game with an insanely fun community. It earned a place close to my soul in a matter of hours. A full year later and the people of GoIO have become a family, and I personally welcome you to join us! Come do battle with us as we combat our foes, forge new friendships and blast our way to glory. To the skies!
+Especially as female gamer in a voice chat centered game, I was scared shitless.
+I usually played games where I could avoid being identified as a woman, obviously, because video games are still a very hostile environment for a female identified creature.
+Guns of Icarus surprised me.
+Maybe because it's a team effort game.
+Maybe because valuable exchange of information and getting along is the only way to make any progress at in GoIO all.
+Maybe because the developers are actively engaging with us constantly.
+Or maybe because it's hard to single people out, since everything stays a group effort or a collective failure.
+This game has been proven over and over again, to be about teamwork and helping each other out.
+Never have I seen a community welcome beginners so warmly, teaching newcomers is almost exciting to us. I have seen experienced players leave a full lobby, just to show a new player the ropes in the Practice Match (called Sandbox), and I am very proud to admit to be one of them.
+If you are gonna start this game you are gonna make a lot of friends.
+That's not a warning. That's a treat!
+
+If you are a fellow female gamer, new to this game, feel free to add me and I'll introduce you to the other Girls of Icarus :D
+Captain: "SHOOT THE PYRAMIDION"
+Me: "WHICH ONE IS THAT"
+Captain: "THE ONE IN FRONT OF US"
+*I start shooting the only ship I can see*
+Captain: "NO YOU IDIOT, THE OTHER ONE"
+Me: "WHAT OTHER ONE?"
+*suddenly explosions*
+Captain: "NEVERMIND, FIX THE HULL FIRST"
+Me: "HOW DO I DO THAT"
+Captain: "HIT IT WITH SOMETHING"
+Me: "HOW DOES THAT WORK"
+Captain: "FUUUUUUUUUUU-"
+*ship explodes and we all die*
+
+10/10, would annoy a captain to literal death again.
+Ahoy there Ladies and Gentlemen!
+Captain Spigge here, making his review of this marvellous game!
+
+“Let me just find some biscuits and tea and we can get right into it… oh bugger where did I put the bloody thing… oh my! I’m sorry here it is *picks up the kettle... looks around, pours a little rum in there*. Now then!”
+
+Are you a trigger happy maniac who likes to shoot anything that flies? (Yes I mean that terribly annoying fly in your room right now) Then this game is for you!
+
+Or perhaps you like to imagine yourself as the finest engineer that Luftwaffe only could have dreamt of having under their employ? (There really isn't much skill to it, just hit it with the hammer until your ears go deaf) Then this game is for you!
+
+Or… … might you be one of those who doubt captain Spigge's flawless *hick* steering of his mighty ship *hick* The Toddler!? THEN I CHALLENGE YOU… PEASANT! TO A DUEL IN THE SKY!
+
+Some even finds it amusing to steal *hick* their captain's rum, YOU UNGRATEFUL BASTARDS!
+I WILL FIND YOU AND MAKE YOU WALK THE PLANK!
+
+Anyhow, I can only recommend this game from the bottom of my heart.
+
+Yours Truly,
+Captain Spigge
+I find Guns of Icarus to be a great co-op game. The only downfall currently is the lack of players. The solution that I see to this is the developers making the game free, but cosmetics cost money. I don't think the developers would end up doing this, but I'd hate to see this game disappear simply due to lack of an active fanbase.
+
+Edit: Well would you look at that, they made it free on Humble Bundle for a little. I don't know if they listened to me or already had it in mind, but I'm glad they are still putting love into this game!
+This is a multiplayer game, the experience will therefore always be dependent on other players. It is a very teamwork-focused multiplayer game at that, so your teammates will probably have a huge impact on your enjoyment of the game, the optimal way of playing is therefor with a couple of friends.
+
+That said, this game is unique and very entertaining combat game. The various functions take a while to learn, so play the tutorials and stay in noob matches when you start out, but this makes it all the more satisfying when all the factors click and you down that galleon. With entertaining gameplay, frequent updates and a developer that listens to the users, I cannot recommend this game enough. Go play it with your friends.
+Guns of Icarus is a game I'd label as "crewed vehicular combat" with a steampunk theme. A crew of players on an airship with many other crews on other airships of both friend and foe. You fight with various manned guns placed on the ship; damaging the enemys' guns, engines, balloon, hull and armor while keeping your own repaired when you can.
+
+There's strategy, there's teamwork, there's action. Most of all it's a fresh idea! Don't get me wrong I have nothing against other shooters, but this game does something new;something new is incredibly more worthwhile then another game of something that's already been made when it's good.
+
+Sadly this game is on a list of games that's amazing and deserves a lot of attention from many but just doesn't get it. It manages about 300 players at peak times on a weekend right now. While the game is loaded with clans eager to include you to their fleet the game doesn't offer much for the casual player.
+
+The lobby in this game is more than a bit sluggish if I'm honest. Everyone can see everyone else's ship and weapon loadouts. So both sides constantly change their loadouts to be the counter to the opponent's loadout. So it's like watching people play "Paper Rock Scissors" but they're allowed to change their decisions and see what the opponent is using. ...for literally ten minutes I usually wait on the captains over this - usually only stopping because the room ran out of time. This is really the only thing I find glaring about this game; the lobby.
+
+There's been word for a while about this game getting a Coop and adventure mode. While it isn't out yet that does sound like something that'll get a heavy activity boost. I can't say much about that though other than I'm eager to see it.
+Like guns?
+Grab it
+Like flying ships of death?
+Grab it
+Like dicking around in lobbies with friends while you wait for the game to start?
+Grab it
+Like being a 9yr old CoD scrublord?
+Stay away
+10/10 ign- "It didn't make me puke!"
+This is the best co-op experience I have ever had.  In this game, you are on a steampunk airship with three other people and you have to work together to stay alive as well as take down other airships that want to permanently ground you.  This game rewards coordination and cooperation not just with the crew of the ship you are on but also, if you are the captain of the ship, with the other ships on your team.
+
+Outside of the game or while you’re waiting for a lobby to fill up, you will have plenty of things to do while you wait like check your achievement progress, build and customize the ship you will bring if you are in the position of ship captain, and customize your character with a steadily growing list of things that you unlock.
+
+On the ship you can be one of three classes that each have a job on the ship.  You can have at least one piece of equipment from each class and technically you can do any of the other jobs if the situation calls for it but everyone brings three pieces of equipment from their own class that makes them better at that job.
+
+The engineer makes sure your ship stays in one piece an in the air.  You primarily repair damaged or destroyed parts and put out fires using a variety of tools at your disposal.  You also have the ability to sprint for a short time to quickly get to that pesky hull that just went down again.
+
+The gunner brings the pain to enemy ships.  They can bring three types of ammunition that each have their own ups and downs that benefit different types of guns.  You also can quickly reload a weapon you’re on. 
+
+The pilot, which is normally the captain, navigates the ship through the map, lines up the gunner’s shots, and moves to try to give your engineers enough time to repair the damage you have inevitably taken.  They can bring special charms and tools to perform special maneuvers such as quick turns or smoke clouds even though most of them tend to damage the ship in some way they can really give your ship the extra edge.
+
+There are a few things you should know about this game though.
+
+First off it has a very steep learning curve.  The tutorial gives you the basic controls but there are so many tools, guns, and ships that figuring everything out is a real challenge for new players so asking for help and directions early on is a good thing to do.
+
+Second you are probably going to want a microphone.  While you can play without it, not having it severely handicaps you and your ability to coordinate with other captains and crew.
+
+Finally, as of this review, the number of people playing this game is really small.  It’s such a problem that I would suggest using this site ( http://steamcharts.com/app/209080 ) so you can play it when there are a fair number of people playing. (about 150 finds me a game and it’s easier if you play with friends).
+
+Overall, if you are looking for a real original and great co-op experience to play with friends or with others in a small community then this is definitely something to pick up.
+OK. im not even going to try and explain why this is good. just look at it. LOOK AT IT. multiplier team death match in four player controlled air ships. fucking air ships. this game is one of the most enjoyable multiplier games i have ever played. if you think you can just pick it up and go with out having to really talk to any one, good luck with that. this game takes a lot of communication but the community is so good that it doesn't even matter. so pick this game up, grab some friends, and rule the sky's. also the single player is coming and when its here, this may be one of my favorite games on steam.
+Favorite game, dying community, join in to fix it.
+
++Older players like myself are willing to help newcomers that ask for it
++Voice coms is THE way to play
++The hud is simple and easy to use
++Tutorial well designed and simple
+
+-Lack of a community
+-Cloud cover is inconsistent when it comes to blocking LOS to an enemy ship
+-Occasionally won't let you "detect" ships through clouds even though the outline is clear
+
+Review is of my past experience with the game, but throught he losses and the fails, I had the time of my life.
+best multiplayer pvp - pve flying ship game
+downvote comments are all about the lack of people. 
+i find game every 30 second i dont see why they are complaining...
+
+also there are comments from 2012, since then game has changed alot...
+Criminally underrated game, with, frankly, the most open community I've ever encountered in a video game.
+
+It's not perfect, but far worth it's small price tag.
+This game is absolutely fantastic, the game is filled with great fights between two teams of engineers captains and gunners and normally has a non-standard community that is accepting of new players and helps them learn the ropes fast, not to mention the sportsmanship for both the losing and winning teams.
+
+Its very competitive and there are the higher ranking teams that are groups of friends rather than random matches, although with that, as long as everyone knows their part they can help the team win.
+
+Also has a pretty nifty customization of characters to show off anything that you've earned, from birthday hats, to holiday hats, to misc apparel you get for unlocking achievements, these are able to be dyed.
+
+Story: X/10
+Gameplay: 10/10
+Presentation: 10/10
+Soundtrack: 8/10 (Loud does not mean epic. but it does sound good. not great)
+Replayability: 9/10 (You may rage quit.)
+Can I just say, this game is fantastic.  The players have a great sense of humor and, for the most part, are great to be around.  And, when they aren't trying to convince rookies that all crew members should switch over to gunners, they are very helpful.  One of my favorite things about this game is the fact everyone is on a level playing field.  My crew and I have butchered higher level players and yes, we've all been creamed by lower level rookies, but that is what makes this game fun.  The art is lovely, the community is a blast, and the game play is a ton of fun.  Conclusion:  Everyone ought to check this game out.
+[i]Steampunk battles, fleet against fleet,
+Every single airship armed to the teeth.
+You will hear them behind the clouds, coming from afar,
+If you fear those sounds, better wish upon a falling star.
+Their cannons shall burst, and make a loud roar,
+But you haven't seen the worst, you'd be wise to hit the floor.
+In this case the floor is the deck,
+But soon it will also be part of the shipwreck.
+If you are a captain, you'll hope your crew is ready,
+If you are a gunner, you'll hope your aim is steady.
+For from a warship, flying so high,
+You cannot escape, you can only fight or die.
+The time of running and cowering is no more,
+In these skies it is a time of war.
+And that falling star will not help you, if you wished upon it before,
+Because it wasn't a star, it was the enemy's double-barreled mortar.[/i]
+Great game, heavily based on teamwork and communication between players. Very exciting to play when you get the point of what is going on in the game and what you should do.
+
+To new players.
+Some people may find it boring/not very interesting to play in the beginning, but i may say that a little bit of patience and desire to understand how does this game work worth it. Matches become much more fascinating as you are progressing through levels and gaining experience in different classes and start to be more competitive, what draws additional interest to the game.
+An excellent team game with a steep learning curve.  Four man ships where everybody has to pull their weight or lose.
+
+The community is one of the friendliest around, in my opinion for anyone who is interested in getting involved in that.
+
+Having a microphone really helps you get the most out of the game as it is all about communication.
+Fumbled through the tutorial, joined a game, didn't know what was happening, captain didn't have a mic, died.
+Joined a game, didn't know what was happening, captain didn't have a mic, died.
+Joined a game, didn't know what was happening, captain didn't have a mic, died.
+Joined a game, didn't know what was happening, captain had a mic, was enlightened.
+Joined a game, played as captain, won 5-0.
+
+11/10 Would pwn the mic-less again
+This game is a great game.
+It is based around Teamwork, a crew of four people managing an airship, which is trying to destroy enemy airships.
+It includes fullfing different goals, such as capturing an objective or just earning points by killing other airships.
+In concept, it is a great game to play if you have a coordinated team, great opponents, and enough experience to keep your ship afloat. I had a lot of fun palying it with friends and entering skirmishes with them in a friendly battle.
+I found only pleasant moments with the community, and there a steady flow of new content that is put into the game.
+This game does a have a few flaws.
+Despite the great concept and community that surrounds it, most of the lobbies are either full, or empty. You either get lucky and join a game that is about to fill, or you get put in a lobby with no one in it. The game provides a good solution, by including AI's that take over a missing player's spot if you don't have a player to fill it, but every now and then you will see lobbies where half of the people are AI's.
+During the peak times there are plenty of players and you can have great fun, but there will not always be a lobby to join. I hope that changes, since it is a fun game that deserves more attention.
+TL;DR is at the bottom. 
+
+      
+
+      This game is fun...If you play it right. There's no casual gamemode you can play to just goof around and be stupid, as fun as that may be. It's difficult, requires good communication and skilled players; theres nothing more frustrating than having an idiot on the ship. Now, even though all the roles are important, you absolutely need a dedicated pilot. I tried playing this game as a gunner (because who doesn't want to shoot rocket launchers and gattling guns at airships) but I had to stop because  of all the times I was paired with a random pilot who had no idea what they were doing and no mic. It honestly just ruins the game when your pilot is incompetent. So I decided to play as a pilot. I got my brother and two friends to be engineers and gunners and I have never had as much fun playing a game. 
+
+      We we're new to the game but we're able to take on level 30+ players because we had a good crew. We still would lose to the veteran players often, but it usually was a long intense battle that was extremely fun whether or not we won. Another bonus to having a pre-formed crew is that the wait time is decreased astronomically. When we join a game we immediately fill up one ship which cuts the wait time by a lot. Even when I dont have people I know get on with me I still enjoy solo-queing (I dont recommend doing this unless you're a pilot) because competent gunners and engineers are easier to come across and ai can do alright if you're missing a player.
+
+      Another thing that I often hear people complain about is the steep learning curve and "seal-clubbing" veteran players. Both of these are true. Now, after saying that I still highly recommend you get past the difficult learning curve, a crew and choosing one ship and then sticking with it will really help you get through the early game heartbreak. As for the asshole players, theres nothing that can really be done about them. Mute them early on in the game, do everything you can to outplay them, and dont get demoralized if you lose 10 or more games in a row. At the time of writing this review I only have 15 hours on this game, and I believe that me and my crew are past the learning curve; we dont get trash talked by other players, we are nice and inviting to new players, and we always enjoy the game even if we lose. So buy this game! I think it's worth the price but it does go on sale (I got it for $3).
+
+     TL;DR
+Get this game on sale
+Get friends to play with
+Have a dedicated pilot
+Have a dedicated ship
+Have a frickin mic
+Deal with the long que times
+push through the difficulties
+Be nice to new players
+
+I personally love this game and hope that it can develop a larger community. If you get the game you can friend me (Sir. Bretzel) and I'll try to play some matches with you to get you past the learning curve. Also, if you play CS;GO then this community will seem very nice in comparison.
+This game is interesting.It's unique.You will have tons of fun playing with your friends.
+If this game isn't promoted in some website or youtube channel soon,it's gonna die very quickly. 
+Last time I were logged in there were just 125 players in-game.
+
+You know how an Italian chef kisses his fingers and says something in Italian that translates to "A masterpiece" after tasting their own dish? That's how I feel about this game.
+[h1][b] GOOD POINTS [/b][/h1]
+
+[list]
+    [*] Awesome theme if you're into Steampunk
+    [*] Awesome gameplay if you're into games that requires teamwork to win
+    [*] Awesome gameplay if you're that type of guy who is not good in playing games but can follow instructions very well
+    [*] Graphics are good. For an indie game, it has stunning graphics.
+    [*] Cosmetic Skins
+    [*] Despite my high ping and slow internet connection, it doesn't affect my gameplay. My shots don't miss, my repair time isn't slowed down, the control of the ship doesn't get messed up
+    [*] Has different gamemodes aside from blowing ships up   
+[/list]
+
+[h1][b] BAD POINTS [/b][/h1]
+
+[list]
+    [*] Small community. Whenever I play, there are only 200-300 people online. Please buy this game ffs, it's a great game everything you could ask for can be found within this game.
+    [*] The AI is not the best
+[/list]
+My whole life as a gamer I have not met a more friendly community than the one that follows Guns of Icarus Online. The players are mostly very mature and the ability to talk with them with microphone during the game brings the game to a new level. Admins and developers are also very friendly and regulary play with the players, talking to them and responding to every question they have.
+
+The game itself has a very nice steampunky feel and despite it having "only" 3 classes, there is no shortage of fun. There is a role for everyone, and the 3 available classes will keep you occupied for a long time.
+
+Each ship can be customized, every class can choose from a variety of tools to take into the game and once there, there is really no shortage of tactics involved. Will you be able to outsmart your opponents and be a superior crew because of your internal organisation?
+
+As far as the visuals go, game is made to be really pretty. Despite it having good and somewhat demanding graphics it is mostly totaly lag free and runs incredibly smooth. if your computer is a bit on the slow side, you can always try lowering the quality and removing some of the filters. The game very quickly made it into my favorite list and it is currently my most played game.
+
+Recommendation!
+It is such an amazing game but it is sad that it has a very small player base today. The teamwork and coordination need between teammates gives it a really intense and thrilling experience. I just wish a lot more people would play it.
+'why is the enemy ship still alive'
+
+'because everyone is repairing the hull'
+
+I love this game
+
+6th march
+
+Now onto the serious bit of the review.
+
+Guns of icarus online is a team based fps/strategy game in which you will fill out a role out of a gunner which has the ability to carry more ammo types for guns and one repair and pilot item, an engineer who can bring three repair items and an ammo type and a pilot item, and then the pilot who can bring three pilot items and one repair and a ammo type (like a pilot will ever use a gun though) and then do battle with your loadout.
+
+Gameplay.
+
+Gameplay in guns of icarus is really dependant on your role, if your an engineer you will spend most of your time repairing damaged parts of the ship like the hull, guns and engines and fill out time between that manning the smaller guns of the ship, if your the gunner you will be most of the time using heavy weaponry to bring down a ship with special ammo types like lesmok for increased range or charged for heavy damage, where as the pilot of the ship will be responsable for the majority since he/she will be flying the ship and have to give the gunner good shots and minimise damage to help the engineer(s) manage repairs. on each ship there will be four crew members, more often then not the layout will be two engineers and a gunner with pilot but sometimes there will be differances. While there are three base classes the community has made subclasses like the gunineer which is a engineer that uses guns more then repairs or the metamidion which is a pyramidon that is designed to kill ships increadibly quickly with a chaingun and mortor combo. 
+
+Character and ship customisation
+
+Once you start the game up you wont have much in terms of customisation of your appeal but you can unlock most of it by playing classes and ranking them up to unlock pieces for free, while you can buy most of these with real life money from what i'v seen most items can be unlocked in time, in terms of ship though you have the same issue only from what i'v seen so far no ship customisation item can be unlocked for free. i want to also make this point clear, everything ingame that you unlock are purely cosmetic.
+
+the community
+
+The guns of icarus community is by far one of my favorites, will many great clans for both the competitive and casual gamer, I have fond memorys of a certain clan where i met so many awesome people, the GOIO community is by far one of the best communities i have ever seen in gaming.
+
+Game mode varity
+
+As it stands theres only the standard team death match where your team has to get a certain amount of kills before, a king of the hill mode where you have to capture a point and hold it to get points killing ships also gets points for your team and a crazy king mode where the capture point is constantly moving. though i mainly play deathmatch i have never had a game that left me bored and wanting more. i always stopped playing this game satisfied.
+
+Conclusion
+
+Guns of icarus is a really great game, the community will always welcome new players and not berate you for making mistakes and finding a clan that suits your style of play even if your a competitive player or looking for a little bit of fun in your spare time. for now i'll leave with this closing remark, Munkers are so much fun
+Great game, but lack of players. 
+
+Edit- HumbleBundle made the game free, so there's a decent amount of players for now... 
+End Edit
+
+The game is heavily focused on teamwork and communication which personally is great, as long as you have a few friends to play with, but due to there being less than 400 people on at once, finding a lobby can take up to 15 minutes, or if you make a lobby around 20ish. 
+
+On sale it was 0.99 which sold it for me, being I'd seen some YouTubers play this and even played at my buds house a couple years back when it was alive. 
+
+Overall, even on Alternate Buying Sites this game is around 20 cents, and if you have some friends that are willing to buy it I'd say go for it, but if you're the kind of lone ranger type of guy it's not going to be a pleasent expirence.
+Steampunk. Zeppelins. Guns. Cooperate. One of the most original and enjoyable online multiplayer games out there. Being a crew in one of the Guns of Icarus ships is definitely fun.
+
+Community is generally friendly and helpful, most likely because most players are above average age for online multiplayer games (e.g. LoL, DOTA...).
+
+One of the best games I've played recently.
+Before buying this game, I suggest you find a word "cooperative" in your dictionary.
+
+This is;
+
+the best game for truly cooperative players,
+a cramped game for players who misunderstand coop as just multi and play for getting achievements,
+a game to be tried to see your latent power (or to feel stress sometimes) for players who want to play seriously but have such achievement junk on the same ship.
+
+Understanding basics generates innovative, advanced tactics.
+
+----------------------------------------------------------------------------------------------
+Coopが何たるか理解している人にとっては最高のゲーム、
+CoopをただのMultiと勘違いして実績獲得に走る人にとっては窮屈なゲーム、
+Coopしたいのに意に沿わない実績厨と組んでしまった人にとっては底力を試される（あるいはストレスを感じるだけの）ゲーム。
+This is a truly amazing game that lacks the attention it deserves!
+
+A game where real synergy - through communication, cooperation, delagation and leadership - are the only means for victory, on the ship and on the overall battlefield.
+
+The game brings brilliant graphics in the successful designs of each ship and map. An assortment of ships and guns that suit any crew's style. And a quick and smooth fluidity that will make one forgot that it's all just a computer game.
+
+It is definately a title that must jump into VR!
+
+I recommend everybody to try this game at least once. That will be enough to show the reality of joining a crew.
+
+There is no 'I' in the word 'team'. And this game will demonstrate just that.
+
+So choose your role in the crew and help your shipmates rule the skies!
+Teamwork oriented game. Recommend to start with friends to get used to the basic game mechanics with players with the same skill level (also playing with experienced captains helps to learn some smart tricks). Having mic helps a lot to get started. Friendly community is always open to help new communicative players.
+
+At least four captains needed to get a 2vs2 game started (AI only replaces crew members). Matchmaking (MM) tries to balance the lobbies but due to small player base it doesn't work every time. The new MM support makes sure games are started in a reasonable time manner compared to the old lobby system.
+
+Teamwork can outweight lack of skill and all ships/weapons/tools are available to everyone. In game store only relevant for cosmetic items like goggles, costumes etc. There are two days in the week where you can play with the developers and unlock any item from the store if you win (just find a good captain).
+
+Regular game updates to balance ships and weapons.
+
+
+
+EDIT 14/12/05: Matchmaking support.
+It's hard to describe how much of a good game this is, so let me give it a shot here...Guns of Icarus is unique - there's simply nothing like it. It's a genuine idea that's been executed very well thus far. I'll continue:
+
+The absolute best gaming community I have ever seen, the most amazing implementation of teamwork, and the stunning originality of games is all right here, Guns of Icarus online. 
+
+The gaming world nowadays lacks ingenuity, and really needs well thought out games that are very different than the others, I find that Guns of Icarus did this spot on. I admit, at first I had my  scepticisms. I didn’t see how a steampunk game where you fly blimps and fight each other in the skies would work, it seemed bizarre to me. Then I actually played the game, it’s finally a great idea that was executed well. 
+
+Caring developers, kind community members, perhaps the most welcoming game in the world to beginners and new players, and the level of teamwork that they planned to implement into this astounds me. 
+
+I can’t really explain how much of an enjoyable experience this is, all I can say is, this is a must buy and you have to play it yourself to understand what I am talking about.
+
+I haven't played this game as long as most, but I assure you my hours will only be going up. With the coming addition of Alliance, I trust this game will be as good as ever.
+
+See you in the skies, fellow aviator!
+9.8/10!
+A very awesome game and experience for those who like REAL cooperative gameplay!
+Tactics and Strategy are very welcome, but a fun game to play even alone by joining with random people. It has been pretty easy for me to join matches with great people with nice coordination and communication skills. 
+The community is friendly and, sometimes, a bit insane (make a weird noise on your mic and eventually something much more weird will happen). Fortunately  I never had nor witnessed any problems or even stress between players (which are frequent on games that use voice as primary communication, and random teams).
+You can make clans and/or parties to be able to join up matches with your friends. 
+For more information, watch the videos. But this game is EXTREMELY fun and is a must-have for anyone who likes co-op and explosions.
+The 4-pack is a great choice since each ship takes a crew of 4 people - bring your friends on!
+
+The only issues I ran into was the ocassional lag spike and some UI bugs on new features, but it doesn't break anything and don't even get in the way of the fun. I also believe more features can and should be implemented to build up on the awesomeness of the current experience. The devs probably have plans for that.
+
+Note 1: This is NOT a generic FPS. There's no land/boarding combat between ship crews. IMO, this makes the game even better. [EDIT: There's no boarding in the dev plans, the devs believe this would hurt teamwork - and so do I].
+Note 2: This game requires cooperation and communication. If you don't have a mic or don't like talking much, use the in-game signals [press V] to alert enemy positions, to ask your pilot to raise/lower altitude or change direction, or even to ask for repairs. There's a HUGE difference between a well balanced and communicative crew, to a silence-while-everyone-do-their-own-thing crew. You'll be surprised with the amount of cool, nice people who are all interested in having a fun match - even on novice servers. 
+
+Last but not least, if you see a member from the Vagabonds [VGB] clan, make sure to say hi and join us for awesome matches! :)
+
+EDIT: Beware of the review dates about this game. It seems that the initial bugfixing after the release of this game was pretty chaotic, while the devs where trying to balance features and fix issues.
+Currently, however, this is very much a completely different game from the one described by 2013 (and older) reviews. The current issues are all being fixed by the developers - including external issues that are being caused by the server hosting company.
+By far my very favourite game!
+The key to this game is communication. between the crewmembers, crew and their captain and between the captains, not only during the match, but already in the lobby!
+Add some tactics, coordination and use the map (hide in clouds, sneak around mountains and place tactical mines) and victory is yours :D
+
++ Nice Steampunk style
++ Different game modes that each require different tactics
++ Friendly and helpful community, always ready to answer your questions, give advices, coach you or just have some nice chit-chatting. There are many different clans who will welcome you and help and teach you to get into the game.
++ Devs keep adding content, balancing ships and weapons and helped me with every problem I had
++ regular fun events (community and fight-the-devs) where you can win items or titles
++ no pay2win nor play2win: everybody has the same chances, there is no upgrading or unlocking items that give you an unfair bonus, only stylish cosmetics are available. The outcome of the match is entirely based on skill, tactics, communication and teamwork
+
+I bought in on a sale for 2,50€ (actually a 4copy pack for 9,99€), but 11/10 would buy it again for the full price. I never spend money on cosmetics and skins, but here I plan on making an exception to support the Game ^^
+
+Recommend ? Ofcourse. Best fucking steampuk game available. Please BUY It, the community is growing smaller every day. It does not deserve to die. Great game.
+This is by far my favourite game. I've made so many friends, and had so many great times playing. The community is amazing, the gameplay is addicting, and I strongly recommend it.
+I've had this game since 2013, and only now have I bothered to review it, lol.
+
+When I first bought it, it was fun. I would play for a week or so, coming back every few months. The gameplay is unique and really stresses teamwork. The graphics were great, the design was so steampunk/dieselpunk it hurt, and the community was welcoming.
+
+Fast forward to today. The graphics are passable, a bit dated; the design stays true to its original vision but the menu UI has been streamlined. The gameplay is still the most fun I've ever had in a multiplayer game. Your ship is one unit - you fight and die together, so any individual failings become a failure of the team as a whole. 
+
+I have played the engineer class extensively, learning how to repair and when to repair, to be the hero when the edges of the screen go red and the captain is resigned to death, repairing the balloon split seconds before hitting the ground. It's fast, and frantic, and sometimes repetitive, and it's still great. 
+
+Gunner is super fun as well - the satisfaction of letting that heavy flak loose just as the enemy's armor is broken, watching the delicate arc of the shells and knowing, with certainty, that your target is doomed is a feeling that no other game has accomplished.
+
+And the pilot, the captain - it's like an RTS. Every time I take the helm, there is a dizzying rush of strategy and maneuvers and tactical thinking. Are my side guns in arc? Are the engines being repaired? Pulling off a tricky maneuver is exhilirating, and for this reason pilot is my favorite class.
+
+And then there's the community - smaller than what it should be, yes - which is perhaps the most unique part of this game. You'll be welcomed by novices and veterans alike. You'll be invited to event lobbies. Ask any lobby for tips or advice and you'll get a 2-page essay on why triple artemis junker is the best. Despite its size, the community is stable and thriving. So give this game a try. Maybe you'll only play for an afternoon, maybe you'll stay for longer. It's worth it to experience this gem.
+A teambased Game with a tough learning curve. its all about coordination. 
+it may not something for everyone , in fact its polarising ... love it or hate it.
+hate the flaws or enjoy the evolution of the game.
+
+The Comunity is also very friendly .. well at least as long you are not flying in front of a gun i'm fireing ....
+This game is one of the single most enjoyable gaming experiences out there for me right now. It fills a niche that I didn't even know existed, and provides a wonderfully unique gameplay experience that has cost me 300 hours of my life so far (which I don't want back!). 
+
+Communication is paramount in this game, and if you just get the basics of it down, you'll find that you open up to a varied meta of playstyles that are born of different teams mixing their unique strengths and weaknesses together. In other words, no two matches are the same.
+
+Additionally, this game has some of the most organic "wow" moments I have seen in gaming so far. Rather than the fast, montage-bait killstreaks you'll find on many competitive online games, here you'll find the "wow" moments coming from last minute decisions which keep you alive while rockets, bullets and fire engulf your ship from all angles and those other times where a drawn out battle leads you to finally down that enemy ship that has harassed your team the entire match. There's so much satisfaction to be had, knowing that your kill was earned through being the finer oiled machine than the people who bit the dust due to you.
+
+All in all, a wonderful experience that I wholeheartedly recommend.
+
+That doesn't mean all gems come out of the earth without a litle bit of sediment still attached. That is to say, there are some issues with the game that you should take into account pre-purchase:
+
+Firstly, and in my opinion the biggest problem with the game, is the player population is very low at present. While we have spikes during sales and youtuber promotions, it usually settles back down again. This can lead to very unfair matchmaking that can wind you and your fresh-off-the-back-of-a-purchase friends taking on some of the longest standing players in the game. This difference in experience and game knowledge can lead to some absolutely crushing defeats. To combat this, I'd recommend being polite and perusing/posting on the community forums in order to find more experienced players to party up with. Not only are many in the community happy to teach newer players with a patient demeanour, but you'll find much more fun when ever second match isn't furiously stacked in the enemy teams favour.
+
+Secondly, absolutely, positively, definitely, DO NOT SKIP THE TUTORIALS. This game isn't as simple as "shoot thing, thing die" nor is it as simple as "hit thing, thing fixed". The tutorials will provide you with the very basics to be competent in your first few matches without going too far into the higher-level play (most of which you'll pick up through experimentation and advice from veterans). I'd also recommend, again, hitting the forums and reading up player guides. Just a little bit of background reading will make the game mechanics make so much more sense. 
+
+Finally, you may not have a microphone or the confidence to communicate verbally, which is fine, but at least be able to listen if not speak. This game requires more communication than anything else I have played so far, and updates on enemy positions and current priorities make the difference up between life and death.
+
+
+
+
+
+TL;DR
++Game good.
++Strategy is complex and satisfying.
++Unique, nothign else like it.
+
+-Low player population.
+-Tutorials mainly text based, game won't spoonfeed you (get your reading glasses on).
+
+9/10, would airship again.
+A really fun PvE/PvP game that definitely deserves more love. As long as you are able to communicate with others while flying the skies you won't really run into any issues with the community for the most part. Hopefully the upcoming Adventure mode will bring more life into this game.
+As a new player who started playing prior to Alliance (PVE) launch, please allow me to share my perspective. Though some of my points might be hard to swallow, I will try to be as polite as possible in writing.
+
+The original Guns of Icarus Online (PVP) was a good, mostly balanced contender in ship to ship arena battles. The graphics are gorgeous and the mechanics were sound, game play is tight and victories are determined by skill, not levels grinded.
+
+However, that was the case many years ago. Now it is practically a ghost town of its former glory, with its player base down to 30-60 players on weekdays, and peak around 300 during sales. Considering that you need 8 players minimum to start a match, with half the veterans are either idling or busy arguing in lobbies, you will spend more time waiting then playing. This is fact and not defamation. [url=http://steamcharts.com/app/209080]Click to check Steam Charts here.[/url]
+
+Currently there are two major factors that are killing the original, PVP side of things, they are the “existing player base” and ironically, “Alliance” itself.
+
+For the existing player base, most participants are great people, but they are very adamant on how the game needs to be played. Do I blame them? No, I don’t. Since the game is very complex and the tutorial barely scratches the surface.
+
+However, swearing on mic at new players is just uncalled for, spending ten minutes arguing about clan policies while squatting at the only game lobby is just rude as well. There is only one instance where a captain actively tried to teach the newbies how to play, and the guy was awesome, how come none of the other veterans ever do that?
+
+With 30 hours of game time on my account as of this writing, I have only played 50 matches, with each match lasting 5-10 minutes each. This meant I have only played 8 hours and 20 minutes in reality, spending more than 70% of my time waiting in “Lobbies of Icarus”. This is a fact of my experience and not defamation.
+
+I am NOT here to argue whether Alliance should be released separately or for free to old veterans, but the fact of its existence as a fail launch, drags players away from the original PVP and destroy any prospects of flesh blood.
+
+Now that we have mixed reviews on both the original and Alliance isn’t helping either, this is a situation brought on by the failed launch, no mistake about it.
+
+When potential customers are confused between the original and Alliance, this is failed marketing no matter how you look at it. When half the existing player base is split, both in sentiments and in-game (PVE and PVP) by your marketing strategy, it is bad publicity no matter how you look at it. When the developers decided to carry on anyway, this is ignorance no matter how you look at it.
+
+With much respect to the developers, Alliance looks great, it might play great too, but I don't know that; I don’t even care to know either. But I think it is safe to admit that it didn't draw in as many new players as the community hoped. What it is doing perfectly well however, is dragging players away from the PVP.
+
+With an even smaller pool of players for the original, retention is only going to get harder, not easier. With developers ignoring long standing issues and not addressing them, the situation will only get worse, not better. Here are my humble thoughts on how to ameliorate the current status: -
+
+1. Match maker must be fixed, or removed altogether from the game, the developers had years to address the issue, but didn’t.
+
+2. While I have doubts about going F2P, free weekends are a must at this point. Having the original on a semi-permanent sale would help too, since no one is going to spend $5 USD on a dead PVP game. This wouldn't hurt paying customers of Alliance, but it will do the original game a lot of good.
+
+3. Reduce the PVP match requirements to 2 ships minimum and allow matches to start with only 2 human captains. This will allow more lobby to pop up and more concurrent matches, reducing the chance of veterans squatting around the only lobby arguing instead of playing.
+
+4. Alliance related achievements should not be in the original title, there are no possible ways to achieve them without further purchase.
+
+5. Allow level 1-45 players to give merits to level 45+ veterans, merits that only serves as cosmetics on the profile. This might encourage veterans to actually teach more often.
+
+6. Allow Alliance players to recruit PVP players to join their co-op matches, for a “limited amount of times per day”, e.g. 1-3 times. This can help heal the void created by players flocking over to PVE. PVP players can only earn coins, not war effort as usual. While PVE players have a slight boost to their rewards for recruiting.
+
+If the developers can do at least some of those, I may have an excuse to drag more friends back into the fold. So far, I have obtained the title for four other friends but they have all left within a week or so. As it currently stands, I can't find it in my conscience to recommend a dying game.
+I love this game. Guns of Icarus is an incredibly unique game that is best played with friends.   You won't find another game quite like this one.
+
+Now why am I not recommending this game?
+
+Guns of Icarus Online launched three and a half years ago.  With that time, Muse has introduced one new ship, a couple of maps, and as of patch 1.46, another PvP mode.  Oh and cosmetics for ships.  They have been very focused on the tutorial system, which is great to bring in new players, but offers no longetevity of play.
+
+I understand that Muse is not a triple A developer and Guns of Icarus is an indie game, but development time has been at an absolutely agonizingly slow pace.  They spent a good amount of money hiring youtubers to play their game which brought in a surge of players for all of a month before the active player count crashed again.  Muse also incorporates cosmetics on a regular basis, which is a great way to nickle and dime the player base, but doesn't add any new content to play.
+
+This game still has huge potential and I hope that Muse can turn it around with the release of the Alliance DLC, but as of now, I would not recommend picking up this game.
+
+[u]EDIT 6/1/2016[/u]
+In response to some of the comments and hate mail that I've received:
+
+The game being three and a half years old does not constitute my opinion on this game.
+
+I'll say it again: I love this game.  I've shared many fun hours with friends playing it.
+
+I am disappointed with the game because it has vast amounts of potential that I don't think have been realized yet.  The Alliance DLC gives me a lot of hope for the game and when it releases, I may change my recommendation.
+
+I'll even break it down into a list form:
+
+[u]PROS[/u]
+[list]
+[*] Unique, team based play
+[*] Active developer involvement
+[*] Balanced and varied ship and gun types
+[*] Steam workshop items included in the game
+[/list]
+
+[u]CONS[/u]
+[list]
+[*] Lack of new ships, maps, and game modes since launch
+[*] Very small player base
+[*] Unbalanced matchmaking (often due to small player base)
+[/list]
+
+[u]In response to Keyvias:[/u]
+I have definitely gotten my money's worth from the game.  Almost 200 hours of game time for a $10 investment is a fantastic return for entertainment.  I feel like the game has not lived up to it's potential, yet. Integrating new ships and maps at a steady pace (even through paid DLC) would keep the current player base active and help attract new consumers.  
+
+The clan that I was a part of had a solid 50 active members at its peak, but people stopped playing because the game never changed.  The joke we had was: "Hey who wants to play deathmatch on Dunes for a couple hours?" because that option came up almost everytime we voted.   When the Mobius and later Hades cannon were released, we were very enthusiastic and people started playing again.  There was more variety to play and the game didn't feel so static and stale.
+
+The only way to affect change is to state honest opinions.  At this time, I would not recommend this game due to the aforementioned reasons.  In a reviews page full of thumbs up, I think it is fair to state a negative opinion in order to help gamers decide on whether to buy or not.  You have to take the good with the bad.
+I would love to recommend this game, because for what it is its a wonderful experience - however I have to address the single reason its not currently a good investment:
+
+The game is dying. 
+
+As it stands right now (before Alliance is officially released) PvP is the only gamemode. And there are hardly any players left outside of peak gametimes. Even at peak gametimes, its not really that great - mainly 4 semifull lobbies.
+
+Its bad. And Muse does little to help address fundemental matchmaking problems. Guns of Icarus is a PvP game (right now), but in matchmaking lobbies all players can see the weapon layout of enemy ships. Which makes literally no sense, because it turns lobbies into drawn out countering matches and forces a handful of meta-ships to counter specific meta-ships. Lobbies are "balanced", but ship crews are often composed of full-clan ships with crews that have hundreds of games under their belts. The other ships are often newer players trying to dip their toes in the game. 
+
+And wouldn't you guess who gets gunned out of the sky?
+
+Look I understand its how the game works. Its not really anyones fault, thats just how it is. But the simple facts are as follows:
+
+1. Many new players stick it out for a few games and then quit and play other things.
+2. The pool of existing players is shrinking, as vets leave for other games.
+3. The game is requires a substantial playerbase to continue to be enjoyable.
+
+I'll let you figure it out from there. I sincerely hope to see some of you in the skies.... but I'm not misleading anyone into wasting their money. I enjoyed the game, but when 90% of my so called gametime is me alt-tabbed out and waiting for matches to start I can't recommend this in good conscience.
+
+
+--- Edited below for those who are still interested ( As of November 11th, 2016 )  ---
+
+Its now only a short time before Alliance is released, and I've been asked by several people if I would be willing to give the game a follow up try.
+
+I did. And I would recommend the game even less now. 
+
+The userbase that plays this game has decayed to a somewhat horrifying point - people play, but there are serious issues with the game that have become painfully highlighted due to lack of players. 
+
+For one, all the same issues persist in PvP, which is still the games primary gamemode. All players can still currently see the layouts of enemy ships, which forces a horrible counter meta into the game and saps the ability for captains to comfortably diversify loadouts. 
+
+Clan ships still dominate the lobbies, although this has been lessened by the fact that so many people have simply quit the game - logically leading to less clan players. Still, the norm is to see one or more highly veteran ship crews sitting in a lobby and chewing through all comers. Etc.
+
+The real issue is with the upcoming DLC, and the worry that once the DLC comes out, Co-op vs. AI matches will sap even more players from the already struggling PvP modes. Theres also the underlying issue that aside from the addition of a few maps and decals, not much has been added to the game in quite some time - and PvP is planned to remain the same.
+
+Don't get me wrong, flying an airship is fun... but not everyone gets to fly, do they? Those of us who typically crew the ship (gunners and engineers) are usually stationed on meta ships (because of the bloody see-all lobbies), in relatively familiar combat scenarios, for the majority of our games. Tedium (tedious) is the word I feel best describes PvP as it stands now.
+
+Guns of Icarus is more than worth the asking price for the game. No question, its a great value buy. Personally I've gotten more than enough hours out of the game to merit the money I put down for it.
+
+I just wouldn't recommend it. There are other games that I feel would have been better uses of my time.
+Video Review: https://www.youtube.com/watch?v=sN9iK5Or0cQ
+
+Guns of Icarus is an older game now, having released in 2012. In it you play as either a pilot, engineer, or gunner, and run an airship in arena-based battles of up to four ships versus four ships in PvP or four ships versus endless-ish ships in PvE. With 74 hours into the game I think it’s safe to say I’ve played a lot of it over the years. Not as much as others, but more than most.
+
+So gameplay wise you’ll be limited to one role mainly for the entirety of each match. As a pilot you’ll get to steer the ship, use abilities to do anything from speeding the ship up, leaving toxic gas in your wake, or a number of other things. You’ll likely also be in the captain role and get to give orders to either your AI crewmates or player partners who will hopefully listen to you. Occasionally you might go to repair something as well at leave no one at the helm as you can carry one tool for every role you are not and three for your selected role, which allows some capability for crossover and strategizing.
+
+As a gunner you’ll be mainly working on the guns, obviously. You can load your guns with specific ammunition with various effects from incendiary, to heatsink, and even explosive. Of course you might have to do some repairing of your own gun or maybe even of the ship if things get so dire.
+
+As an engineer you will be running around frantically trying to repair things as they blow up, get set on fire, or get shot up. You’ll be able to repair things faster, rebuild things faster, put out fires, buff guns, or even auto-repair things. Sometimes you’ll also be asked to do some gunning if there’s nothing to repair
+
+All of these classes balance each other out really well since no one class can quite completely do the role of another. They also even have special abilities they can use. Engineers can sprint, gunners can reload faster, and captains can move the ship faster and more maneuverable all for a limited time. All in all the gameplay base here is really solid and makes for a really enjoyable experience already.
+
+The graphics are charming and unique but certainly not revolutionary or even “good” for that matter even back in 2012 when the game was released. There’s not really any heavy level of production to this game. It received just enough to not be void or ridiculous, but most attention really went off to the gameplay. There aren’t many issues really. Some multi monitor issues depending on your exact setup but that’s not necessarily the game’s fault as far as I know. For example my friend didn’t have any issues with that, but I did. However we use very different monitors and he runs AMD whereas I run Nvidia and AMD is admittedly much better with multi-monitor frameworks.
+
+You can fully customize your ships with color designs and ornaments and set up exactly what guns you want on it. Your only real limitations in that regard are the things available and the weapon slots you have on every ship. Ships all have different stats. Some are better than others in different situations and excel at doing very specific things sometimes. There’s entire metas on how to play certain types of ships. Although I learned the hard way that things that work in PvP aren’t necessarily going to work in PvE.
+
+The AI in both PvE and PvP are pretty incompetent. They’re not very smart, are a nightmare if you are trying to solo run a ship (although my friend who runs solo constantly disagrees with me, but he only plays PvE), and they just are dumb and do things wrong and play about as bad as a brand new player would. Meaning you shouldn’t really get this unless you plan on playing with other people and I’ll mention more on that later. You can’t really put AI into PvP matches, nor can you have an AI pilot a ship when a player is present or in a PvP match. They can only do that in PvE for some reason.
+
+The game itself gets an 7/10 from me here. It’s a very fun solid base. There’s some small issues with the game itself, but just small things. For what this game tried to be it certainly nailed it on the head. Although admittedly it’s not actually that much so it’s nothing that deserves anything higher than an 8 no matter how well it does it. But this isn’t the end of this review. The most important point has yet to be made and it’s pretty negative and basically why I bumped a point off the score I wanted to give it.
+
+Now this is where things are going to split up between Online and Alliance because this game is marketed very strangely and impractically and I can only recommend buying one of these two.
+
+To start, Online is the PvP only edition of the game. It is the original game and you can pick it up for a mere $5. That sounds like a great deal, right? Well just wait. 
+
+Alliance is the PvE expansion to the game. However, when you buy it you’re getting and paying for both the expansion AND the base game. It’s $15, meaning the price of the expansion is twice that of the original game. That’s a bit odd don’t you think? Well not so much.
+
+Guns of Icarus had a very strong launch. Youtubers advertising it everywhere. Good marketing, good emails, and just solid work all around. It sold many copies and even successfully kickstarted an “adventure mode” which turned into Alliance (which is not even close to what adventure mode was supposed to be) and didn’t really receive any flak over it at all.
+
+The huge issue here is that Guns of Icarus after a while had a very hard problem at maintaining its playerbase. Less than one month after its release there were over a thousand people playing it every day. At its peak there were nearly five thousand every day. This is in a game where you only really need eight people in one match for an optimal experience so these numbers are pretty good. After a while that number descended into only a few hundred every day and the daily peak was around four hundred. Still enjoyable, but harder to find a match given differences in skill level and all. Recently it’s gotten even worse. After the launch of PvE I think the developers just gave up trying to maintain a healthy PvP playerbase because now only a max of fifty to sixty people even play every day. The peak is about forty or fifty and during the night it will plummet down to ten people playing at once. And keep in mind this is across both PvE AND PvP. Ten people playing. A bare minimum PvP match without relying on AI needs eight players. A full one needs thirty two. That’s more people than you’ll even normally find online at this point. Because of this PvP is virtually nonexistent. You can’t find a match and if you can it’s small, uninhabited, and filled with AI.
+
+So when it comes down to if I can recommend Guns of Icarus...this game that I adore and that I have dozens of hours of amazing memories on and and dozens more screenshots saved to steam for....It’s a yes and a no. If you’re looking at Guns of Icarus Online it’s a solid no. That’s JUST the PvP. You will waste a lot of time there finding a match in a nonexistent community. You’re paying $5 to not find any matches. Don’t do that.
+
+When it comes to Guns of Icarus Alliance then I’m going to have to recommend it; especially if you can rope some friends (preferably 3 others) into playing it with you. But do note that you’ll be supporting a company that is simply not trying anymore and that is trying to milk what they know is the last leg of their game by charging three time more than the dead PvP mode by its lonesome, which they’re STILL SELLING even though you can’t find a match to begin with.
+
+I love this game, but the team behind it sucks. Don’t buy it support them. Only buy Alliance if you want to fight cooperatively against AI. PvP is dead and it’s never coming back. Remember. Fifty player peaks. And it only gets worse from here.
+2 years ago it was rare to see it drop below a thousand, even at 3 in the morning (EST)
+
+Back in January it was down to 500 people in the evening, close to 400 by early morning
+
+Now, it's hard to get more than 50 people..
+
+
+In it's current state, I'd recommend avoiding this game. Averaging less than 40 players over the past 30 days, it's gone so far down hill that it's just not worth having installed at this point...
+
+Rip good times, may we one day meet again.
+
+Reviewing Guns of Icarus is tough, because it's a genuinely amazing game and deserves so much better than a thumbs down... But here I am, about to hand it that verdict anyway. The reason is because the playerbase is dead. You'll have an incredibly hard time finding a match, and the matches you will find will be extremely unbalanced. You will wait for 20 minutes to get a match were a bunch of elites at the game destroy you, so you'll have no proper time to actually learn what you're doing.
+
+So, what's the deal with the game? Guns of icarus let's you and a few other crew members run your very own airship into battle. Rather than controlling the airship directly, you all run around on the ship and takes care of what needs to be taken care off. Someone has to steer the ship and fly it, someone has to shoot at the enemies, someone has to repair all the damages and put out the fires, etc etc. A lot needs to be done, and in a hectic battle you'll often find yourself with several responsibilities at once despite the "class" you choose, which is good because the class (gunner, machinist, pilot) doesn't restrict you very much. Together you cooperate on a variety of ships, together with your allies on other ships and try to kill your enemies before they kill you. It's a wonderful game that has given me some really amazing hours put into it with friends, but all of us have stopped playing it now because there's no one else playing it. And no one else playing it means that new people stop playing it upon realizing this.
+
+So I say save your money. The game had a wonderful life, if a bit unappreciated and unrecognized. But it's now resting in its grave, and instead of trying to revive it, we should cherish it.
+ENG:
+
+AirBuccaneers clone & also AirBuccaneers was a better a game then this one. 
+
+
+FIN:
+
+AirBuccaneers klooni & AirBuccaneersi on parempi peli kuin tämä.
+This game had great potential, however its an online only game without a player base anymore. There are no players no match with regardless of what time or day you search.

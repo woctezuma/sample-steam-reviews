@@ -1,0 +1,1390 @@
+[i][written for version 0.51][/i]
+
+In modern parlance Paladins would be described as a free-to-play "hero shooter" - that is to say, an objective based, co-op only, first-person shooter where, rather than your avatar being largely defined by the gun you pick or the items and abilities you equip, they're already fully formed characters with their own unique, pre-defined abilities and specific roles.
+
+There are several modes to play, but the main thrust of the game is Siege mode, which sees two teams of five charge to the centre of a map and try to hold an objective zone. While there's a lot of nuance to the mechanics and conditions of play, the fundamentals are this - capturing an objective zone to spawn a payload earns your team one point; escorting the payload to the enemy base earns you another point; but if the opposing team manages to successfully prevent the payload from reaching their base within a set time, then they earn the point. First to four points wins the match.
+
+Characters, or "champions", technically fall into one of four different roles - front line; "tanks" made to take punishment and hold the objective - damage; made to dish out said punishment - support; primarily focused on healing - and flank; who are all about being sneaky-sneaky and harassing the enemy from behind. I say "technically", because, even though that's how they're labelled in-game, most champions can bleed into a couple of roles to varying degrees.
+
+One important thing to note is you can't change champions once the match has started. So if you're part of a terrible group of players who wouldn't know how to create a decent team composition to save their life, then you're kinda screwed and more or less have to endure a horribly unbalanced game where a team lacks any real cohesion and synergy. But to help with this to some degree are loadouts and items.
+
+Every champion has a deck of sixteen cards that are unique to them, and during your time outside of matches, you can construct your own loadout based on five of these cards which boosts the effectiveness of their abilities. Items are like temporary versions of cards that can be acquired mid game but are only applied for the duration of the match and bought with credits earned during play. And finally, there are Legendary cards, with each champion having three of these but needing to commit to one for the whole match. These are cards which apply a massive bonus to one of your abilities and can make your champ highly specialised in one aspect of performance or another. But this is where you have to be really careful, as choosing the wrong cards or items could make or break how a match goes.
+
+This is actually one of the most ingenious features of the game, I think, as it allows for a lot of strategy and means the player with the best aim or reflexes won't necessarily be the victor. In fact, one of the things I love so much about the game is how accessible it is to so many different skill levels and styles of play. If you just want to do the shooty pew-pew thing, there's plenty of characters that'll have you covered there. Maybe your aim isn't so good but you have a keen sense of timing and situational awareness, in which case healer might be the role for you. Or maybe you just like being a stonkin' great big tank throwing your weight around at the centre of it all. There's a little something for just about everyone.
+
+But the real star of the show here is the ever increasing cast of colourful, creative characters that somehow manage to all play massively differently from one another. Both the design and artwork really shines through, and is topped off with great animation and largely top-notch voice acting. There's an abundance of detail in every aspect of them, whether it's some little nicks and scuffs on the side of a firearm, or even the motions as they actually fire and are reloaded, or just the way a character moves around and performs each of their abilities, or even how they idle. There's a real sense of love and attention that's very clear to see, and that extends to every aspect of the presentation both throughout the UI and within each of the many maps as well. And, if anything, this only seems to be getting better as more and more interesting and creative content is being released with admirable and impressive regularity.
+
+As well as all the artwork (I don't think enough credit goes to the card art in particular, while I'm at it) I think special mention has to go to the audio as well. Sound is very important in this game as every single champion has their own noises, from the sounds of their abilities being activated, to their main weapon being fired, to the stomps of their feet. If you listen out to what's going on around you then there's an awful lot of information to be found just by keeping your ears open. At any given moment you'll likely be able to tell exactly who's firing, roughly what direction they're in, and probably even how far away they are. A lot of players probably aren't even consciously aware of it, but it's always there and making a huge difference, more so than just about any other game I can immediately think of.
+
+It's not all roses, though, as the game does have its fair share of problems. Personally, I think the damage feedback is desperately in need of improvement. Having the very outer edge of the screen momentarily turn a faint red hardly seems adequate in the heat of combat, and at this point I've lost track of the number of times I've died without even knowing I was being attacked in the first place. But a bigger issue than that is the matchmaking.
+
+I wouldn't go so far as to say it's broken, but I'm only a few more bad games away from calling it that. It feels like it's becoming increasingly hard to get games with consistantly matched players of equal skill, and 4-0 stomps are becoming more of a thing lately - which are never fun, no matter what side of them you're on. The rating system, on the other hand, I think at this point I can call broken. In Competitive mode, both your individual champions and your overall account ratings are awarded or docked points based on whether you win or lose, and then (presumably) used to calculate further matchmaking as it attempts to queue you up with players of equal skill. The trouble with this system is, it seems so focused on the bottom line win or lose result and has little bearing on personal preformance. As a result, you could play the best game of your life, but if you were teamed up with bad players, or someone on your team was disconnected or there were heavy lag issues, the game doesn't really care and will still deduct you for it. It's really not fun when you feel as though you're being punished regardless of your own ability or contribution, and as it stands right now, my own personal rating for both my account and many of my champions are in the toilet despite my consistant above average performances. And the worse thing is, that effect only seems to be confounded with time, as it takes multiple wins to make up the points for a single loss.
+
+Also, due to recent changes, the grind for new players seems a little rough going. Cards need to be unlocked through a random loot chest system or bought with "essense" from duplicate cards, which could take a while and doesn't exactly encourage new player experimentation. Although, to its credit, it's nowhere near being pay-to-win, and I think Hi-Rez are generally pretty reasonable, and maybe even generous, with its current financial model.
+
+I mentioned the build version at the start because this is a game that's constantly changing. It's worth pointing out this was a very different game a year ago compared to what it is today, and some or all of what I've written could be completely irrelevent a year from now, for better or worse. But if it does change, I really hope it will be for good, and that I'll still be playing it and loving it just as much then as I do now.
+
+Oh and you can ride horseys!
+I've made it past the 1200 hours mark and I think Im qualified enough to leave a decent review.
+Paladins is a great game with a small and growing community. This game is not perfect, don't expect it to be especially because it's still in "BETA". People Like to compare it to the big O, sure there are some similarities but this game is a completely different experience. It has more MOBA elements to it; loadouts, mounts and the credit system are what makes this game versatile and more complex. It has a great selection of "Champions" and i'm sure you'll find someone that'll match your playstyle. 
+I will List down the pros on cons that makes me hate/love this game.
+
+
+
+[h1]Pros:[/h1]
+[b]+Community[/b] - the community is smaller compared to its big brothers but this community is tight-knit and less toxic. You can see how the community support each other especially on twitch. The Paladins Twitch account periodically hosts smaller streamers but they host a lot of the bigger streamers a lot of times, they need to switch it up soon.
+
+[b]+Timely Update[/b] - currently, they are releasing updates once every 2 weeks. That is very impressive to me. They listen to the players and they make sure updates are pushed on time.
+
+[b]+It's Effing FREE![/b] - If that's not enough reason for you to give this one a try , i don't what would convince you. I mean you have nothing to lose! I honestly think this is the reason why this game is getting so much hate from the other community. It hurts their ego that people are actually enjoying a free-to-play game. 
+
+[b]+Optimization[/b] - Paladins itself is a small file and can run on a potato! this makes it very stream-friendly and also wallet-friendly ;)
+
+[b]+Loot[/b] - you get free in-game stuff everytime you login and when you refer friends. You also get a chance to get free skins, weapons and crystals if you watch the Official Paladins Streams on Twitch. You dont have to spend a dime you can unlock a lot stuff. More stuff at their website.
+
+
+
+[h1]Cons:[/h1]
+[b]-Servers & Downtime[/b] - As much as I love this game, HiRez Servers are probably the worst game servers i've personally encountered. The amount of down time in this game because of server issues is disgusting. Don't even get me started on the drop hacks. By the way SEA servers are still messed up, first game you get 90ping, next  game you get 400ping. It's been months and still not fixed
+
+[b]-Achievements [/b]- [strike] I wish they'd be more creative with their achievements. Add in some Challenging ones.[/strike] Well as of OB60 they added more achievements in the game. Kudos to the devs
+
+[b]-Matchmaking[/b] - matchmaking as of the moment is... crap. I have reached level 200+ and I sometimes get paired with/matched against people below level 20 and it's frustrating. People who are still new and clueless about the game. I'm sure they're working on improving this.
+
+[b]-Yo-yo Nerfing [/b] - Yes the updates are timely but hirez has a habit of "fixing characters" that are not broken. This patch he's nerfed, next update she's buffed. It can be a little discouraging sometimes.
+
+[b]-Grind [/b]- If you hate grind then this game may not be for you. It's not an easy grind especially if you dont have the Founder's Pack. You have to do a little grinding to unlock all cards and champions. This could be a little overwhelming for new players but playing with friends can help it make easier. You get extra XP and gold when u play with friends
+
+[b]-EAC [/b]- Easy Anti-cheat. where do i begin?... this software is a little controversial so im gonna leave it at that. Im sure other reviews have talked about this in depth
+
+
+
+For a free-to-play beta game, Paladins has a lot of content and still has tons of potential. They are slowly adding lore and integrating nice story to some of the characters. New awesome skins and weapons that you can mix and match. If you really want to make the most out of this game, I say play with an open mind and stop comparing everything to other games, only then you will see its own beauty. 
+
+
+[b][i]"Comparison is the thief of joy" -Theodore Roosevelt [/i][/b]
+Update on 9-23-2017 (OB59): Matchmaking is completely unbalanced now. Either my team steamrollers the other team, or they completely roll over us. Champion re-balancing has completely changed the gameplay dynamics - and most of the balance fixes make the game worse to play, not better. Oh, and Talus is impossible to beat in the hands of a good player - his teleport and super are both extremely OP. 
+And, incidentally, the player-base has worsened, with lots of afk, feeding, and general stupidity. Time to give Paladins a rest for a while.
+
+(Original review)
+This review is for  OB52.
+
+Paladins asks the question: with a game this good being free to play, why bother spending $60 for a similar experience? Paladins [i]is[/i] still in beta, but if you’re just looking to go and play a couple of matches every day, level and equip characters, and enjoy fun co-operative versus-style matches, it is a shining example of how good free-to-play (FTP) can be.
+Total size on my hard drive: 6.3 GB.
+
+++  NOT pay-to-win. There are things you can purchase to level faster, but nothing is required.
+
++ Great graphics. Drawn in a cartoon-y style like Torchlight or Kingdoms of Amalur, it uses the old DirectX 9 api, so it’ll run well even on lower-end machines.
++ A wide selection of characters, though only 5 to start with in the FTP version. Some very funny specials, too (like turning an enemy player into a chicken!).
++ Customizeable passives via cards. There are a lot of options to choose from (though not at first), allowing for different rates of damage and effectiveness of special attacks.
++ Maps are perfectly sized for 5v5. Not too large or too small.
++ Quick match-making at the time of writing. Average wait time is between 0:30 and 2:00.
++ Gold drops at a decent rate (bonuses and quests help).
++ A team working together will almost ALWAYS defeat a team of solo artists. If you’re hoping to be a hero and try soloing a group of enemies, you’ll die. Fast.
++ Occasional lag, but overall a very good online experience.
++ I like a ton of maps because it keeps the game fresh. Paladins has about a dozen (some specific to certain modes), with more on the way.
++ It’s impossible for two people on the same team to play the same champion. Prevents excessive trait exploitation and forces teams to try to balance their squad.
+
++/- Unlocking all the characters at the start of the game requires the purchase of the $20 “Founders Pack.” Some things HAVE to be hidden behind a pay-wall – nothing is ever truly free, and the company has to make some money somewhere. $20 is an extremely reasonable price considering the amount of content included. And if you decide to forego the Founders Pack, the good rate of the gold drop means you’ll be able to afford a new hero or two quite quickly.
++/- If 5v5 seems like a low number of players in a match, don’t hope for more. The maps would feel crowded.
++/- Not a fault of the game, but the usual multi-player nonsense is present in Paladins. By that I mean: solo-artists trying to be heroes without playing the objective(s), who then blame everyone else for losing the match.  “Good” matches far outnumber the bad, but don’t be surprised if jerks show up (as they inevitably will) from time to time. The community in general is helpful.
++/- No drop-in / drop-out. Matches only start with a full roster. Not an outright negative because it helps prevent cheating and makes the gameplay easier to balance, but those hoping to join matches that are in progress will be disappointed.
+
+- No weapon loadout customization. What you see is what you get. Again, easier to maintain, implement and balance, but those hoping for customized weapons won’t get them.
+- While maps are generally sized well for the number of players, sometimes it feels like there are only two or three corridors that need to be controlled.
+- Paladins is still in beta, so there are still adjustments to be made. Some champions (like Maeve) are incredibly OP and in major need of nerfing.
+
+I’m basically reaching to come up with outright negatives. If you enjoy a quick-paced, flowing multiplayer game with plenty of fun maps and unique characters, Paladins is worth a look. And it’s free to play! Mind-boggling. An easy recommendation.
+- Very nice visuals
+- Game is optimized very well
+- Good UI
+- Very fair F2P model
+- Good selection of champions
+- Cool abilities
+- Card system which allows for different champion builds
+- Can have multiple loadouts saved for each champion
+- Match buff selection system 
+- You ride a mount to battle
+- Champion/ Weapon/ Mount skins
+- Player stats history/ Match results history
+- Loot boxes which contain cards/skins
+
+ Just very fun overall.  I see myself sticking with this.
+
+Dubbed the poor man's Overwatch by many, Paladins is a game that takes heavy inspiration from its peers. Overwatch isn't alone either, this game has moba elements and also borrows some from tf2. Despite this, I do think that Paladins can stand on its own as a fun experience. It's free to play, so there's really no reason not to give it a shot for now. It does have its fair share of design problems and questionable decisionmaking by its developers though, which I'll get into in a bit. But first, the positive.
+
+[u]Pros[/u]
++ Free to play
++ High performance, lower end PCs should be able to run this game
++ Can play against AI to practice
++ Buying new heros with in game currency is reasonable and doesn't require microtransactions
++ Queue times are short
+
+[u]Cons[/u]
+- [b]Microtransactions in a beta[/b], this one really annoys me personally
+- Some character abilities have little to no indicator, making it confusing as to who is trying to heal you or where you are getting damaged from
+- No indicator for when other players are partied up in a match
+
+[u]Fixed Issues[/u]
++ Training mode now allows players to try out different champtions without restarting
++ There are loading icons when entering a match now to notify players
++ Overtime has been looked at and changed so that the timer decreases more rapidly over time
+
+As time has gone on, Hi Rez has begun to deal with many of the cons I originally listed in this review, this is good news and I feel that anyone interested should give Paladins a shot. I highly recommend playing this game with a group of friends however, because it can be very frustrating going it alone. Clueless players are abound, and this problem is exacerbated by the fact that after a few matches against AI they are suddenly thrown in with eachother.
+Paladins has become my default go-to; it's highly addictive, and is one of the best "free to play" games available. The fact that you can build loadouts for characters, and purchase perks mid game allows for more diverse battles, more so than overwatch. Not to mention you spawn in on horseback, allowing you to quickly return to battle rather than walking. This game has grown much since it's initial release, and has surpassed it's reputation as a "poor man's overwatch" in my opinion.
+===[ Audience: ]=== 
+☐ Kids
+☐ Everyone
+☑ Casual players
+☐ Pro players
+
+===[ Graphics: ]=== 
+☐ Potato
+☐ Really bad
+☐ Bad
+☐ OK
+☑ Good 
+☐ Beautiful 
+☐ Masterpiece
+
+
+===[ Requirments: ]=== 
+☐ 90' PC
+☑ Minimum
+☐ Medium 
+☐ Fast
+☐ High end 
+☐ NASA computer
+
+===[ Difficulty: ]=== 
+☐ You just need 2 arms 
+☐ Ez
+☑ Easy to learn / Hard to master 
+☐ Hard 
+☐ Dark Souls 
+
+
+===[ Game time/length ]=== 
+☐ Really short ( 0 - 2 hours)
+☐ Short ( 2 - 8 hours)
+☐ Few hours ( 8 - 12 hours)
+☐ Long ( 12+ hours)
+☑ Endless
+
+
+===[ Bugs ]=== 
+☐ Game itself is one big BUG
+☐ Bugs destroying the game
+☐ Lot of bugs
+☑ Few Bugs
+☐ You can use them for speedrun
+☐ Nothing
+
+===[ Overall ]===
+☐ Bad
+☐ Ok
+☑ Good
+☐ Nice
+☐ Perfect
+I just think it's funny that Drogoz has to ride a horse into battle.
+
+Anyways, yeah, I was like the rest of you - I went into this experience as a biased little child, convinced that this game was nothing special - just an Overwatch clone. 
+
+But no. No, no, no, it is far from it. Character customization is brilliant, as is character progression. You can equip these loadout cards in-game that give your character different buffs, and rank up your defensive or offensive capabilities during a match, based on how the match is going; the more credits you earn during a match, the faster you can improve your character for that one match. Paladins pioneered this system. Games like Gigantic took their cues from this game right here.
+
+Customization is great. Most weapon skins and cosmetics you can buy with gold, which you farm for by participating in matches. The more friends you play with, the more gold you are rewarded (so bring a friend!). More exclusive items are bought with crystals, which are awarded to you through daily login rewards. If you are impatient, you can buy crystals, but YOU DO NOT HAVE TO. It all depends on how patient you are. (Personally, I have no problem with you endorsing this game. Hi-Rez maintains and adds new content onto the game on a regular basis, and it is worth supporting their balls-to-the-wall efforts.)   
+
+How about queue times? Between 30 seconds and 1 minute. Sometimes longer. Kinda frustrating. 
+
+Visual quality? Okay. I mean, this game could run on a Macintosh if you wanted it to run badly enough. Graphics aren't bad, they just aren't stunning. It would be nice if there was a bit of a texture overhaul. Objects look blurry even on maximum settings and it's a bit sad for those with killer machines.
+
+But lordy-lord is matchmaking fun! Each game is different, everyone plays every hero a bit differently because of the loadout and in-match credit system, so you'll never have a boring time. 
+
+Play this. 'Tis fun.
+They got rid of the Cards Unbound system (OB64) in OB67! Definitely worth playing again if that was holding you back. Paladins is going in the right direction.
+Now that I have reached level 999 on this game and also have more than 5k hours on it I decided to give a small take on it. (I'll probably keep on editing this review as this game constantly changes overtime, and YES I realize it says 2k hours on my steam but all my playtime is OUT of steam!)
+
+This was the shooter that made me like the genre and I grew a lot of affinity for it, I thought the design was unique, the graphics were colorful, the grind kept me engaged, so on and so on. As a point based shooter this game is amazing, all the characters are completely unique and fun to play,the game always felt competitive for me which made me want to improve more and more over time I'm here since OB30 I saw this game growing I know almost all its flaws and pros. 
+
+But I will go into the point already: Should you try this game? If you are into shooters the answer is yes definitely
+I dont think paladins is easy to get into as a new player, not because of the shooting mechanics because these are by far one of the most easiest factors in the game, the hitboxes are very compensating (disgustingly so at times), but the main thing that you want to develop is rather a good game sense and understanding of all the items and loadout cards in this game. As a new player I ditched this as I looked at all of that, got overwhelmed and tried to not mess around with it too much. if I could go back now I would take more time on that since the beginning, see what cards are mostly used and what is more useful for every champion, also items in game are one of the most important parts about this game as it can determine a win or loss, your items matter for your whole team so learning how to buy items is a must for any new player, this is for sure something that would help you a lot on improving.
+
+Not everything is shiny on this game though, tons and tons of bugs are the main issue and def can make some players quit, these can be major or really minor bugs, and many times questionable balancing. If you are going to invest your time on this game you gotta know straight out of the bat that hirez is a very experimental company and they can try anything as stupid as it might sounds to see if it makes the game any better in any way, but also bare in mind that hirez also listens to the community a lot and can revert any bad move the game has possibly taken. 
+
+Regardless you will have fun with this game, its constantly being updated and its easily one of the best free to play shooters on steam.
+===[ Audience: ]=== 
+☐ Kids
+☑ Everyone
+☐ Casual players
+☐ Pro players
+
+===[ Graphics: ]=== 
+☐ Potato
+☐ Really bad
+☐ Bad, but playable
+☐ OK
+☑ Good 
+☐ Beautiful 
+☐ Masterpiece
+
+===[ Price/quality: ]=== 
+☑ Full price
+☐ Wait for sale
+☐ Average
+☐ Refund it if you can
+☐ Don't do it
+
+===[ Requirments: ]=== 
+☐ 90' PC
+☐ Minimum
+☑ Medium 
+☐ Fast
+☐ High end 
+☐ NASA computer
+
+===[ Difficulty: ]=== 
+☐ Depends on your skill
+☐ You just need 2 arms 
+☐ Ez
+☐ Easy to learn / Hard to master 
+☑ Hard (first few hours)
+☐ Dark Souls
+
+
+===[ Game time/length ]=== 
+☐ Really short ( 0 - 2 hours)
+☐ Short ( 2 - 8 hours)
+☐ Few hours ( 8 - 12 hours)
+☐ Long ( 12+ hours)
+☑ Endless
+
+===[ Story ] === 
+☐ It doesn't have
+☑ There is a story but gameplay isn't focused on it
+☐ Still better than Twilight
+☐ Average
+☐ Good
+☐ Fantastic
+
+===[ Bugs ]=== 
+☐ Game itself is one big BUG
+☐ Bugs destroying the game
+☐ Lot of bugs
+☑ Few Bugs
+☐ You can use them for speedrun
+☐ Nothing
+
+===[ Pay to Win ]=== 
+☐ Yes
+☑ No
+First off, lemme start by stating I'm no pro at hero shooter games, since purchase, i recently played my first 10 placements in Overwatch, which landed me (barely) in silver.
+That. and the fact that I have just recently unlocked ranked in Paladins might take away some merit from my review, but I'll go ahead and type down what I've experienced so far anyways.
+Be advised though, that this review will contain some comparisons between the two games.
+
+So, first things first, there's the fact that OW, not counting various sales, is going for a good 40 euros if you're aiming at the standard edition, whereas Paladins is completely free-to-play, so if you want to play a hero shooter with your friends, but they can't or don't want to spend that much money on the game, then you can still go for Paladins.
+But the f2p aspect doesn't come with it's downsides, ofc. As in all other f2p games, people won't be THAT discouraged to risk their account being suspended or banned, since they can just create a new one and hop back in.
+This might be the reason why I encountered some bug-abusers and the like. (Not that OW is completely free of them)
+
+Then comes the gameplay differences, which i heard said in a youtube video, I sadly can't give you the source, it just randomly appeared on my yt feed, where the guy stated a few reasons why he switched over from OW to Paladins.
+
+Symmetric maps.
+Have you had a game on a 2 cp map like temple of anubis, while defending, only to realize that after one bad teamfight, the first capture point was more than likely already lost by the time you get back in there? It happens.
+Here in Paladins, both teams start off the same distance from the capture point, with mounts that speed up the process of getting back into the fight, big time.
+Edit: Please note, that in Overwatch, on two capture points maps, such as ToA that i mentioned or Volskaya for example, both teams play both sides of the map, the same goes for payload maps, with defending\attacking teams taking turns.
+
+Locked heroes.
+A big piece of overwatch is counterpicking enemy heroes, or just picking so called "stall heroes" at the end of a game, to help push the game into overtime.
+This doesn't happen in Paladins, since the hero you pick at the beginning of the game, is the hero you gotta play with, until the end of the game.
+I'm not sure if this is a good or a bad thing, let's just say the two games are apples and oranges in this regard.
+Edit: On the topic of heroes, I'll state that unlike in Overwatch, where all heroes are playable from the get-go, in Paladins, you have three tiers of hero prices, 15k gold, 30k gold, and 60k gold, with the average daily quest giving you 500 gold, but there are other sources of gold income as well, such as level up rewards, daily login rewards, and I'm sure I've skipped some other source of income here as well :)
+
+Then comes the fact of the customization of your hero, via use of loadout cards, so if say, you want to play a tankier damage champion, like Viktor, you can do that, or if you want to focus more on your damage output with a frontline champion, like Fernando you can do that as well.
+
+Another layer of customizing your gameplay is the items, which can range from decreasing the healing received of enemies you hit, through a percentage of lifesteal to your attacks, to basic cdr stuff, to having decreased incoming damage from enemy basic attacks.
+You can turn on auto-items, but the system does not have a guaranteed 100% usefulness as far as i have seen, it can occasionaly buy you items that have zero use in the given match, ie getting the cauterize item (lower healing received), when there's no healer on the enemy team.
+
+And to finally shut things down, the system requirements.
+Not only is Paladins free to play, it ran smoothly in uHD resolution on my not-that-great integrated AMD Radeon vidcard, while OW was unplayable with it, with everything set to the lowest settings and the resolution scale at around 60-70%, and despite these downgraded gfx settings, still experiencing major stuttering.
+(Thankfully since then i had an upgrade, now both games run smoothly)
+
+On another note: sadly, it seems that older Paladins accounts have access to both the older starter hero line-up, AND the updated starter lineup, which can't be said for newly made accounts, which my brother experienced, since he was a late arrival to the game.
+
+So that's it folks, my thoughts on Paladins, and a bit of comparison to the other big name in the genre, hope it helped, and i hope to see you in the Realm!
+[h1]TL;DR at bottom.[/h1]
+
+[h1]While Paladins draws comparisons to [i]another[/i] game that takes inspiration from both the rosters of unique characters with specialized abilities from the MOBA genre, as well as Team Fortress 2's slick, oldschool and stylized FPS look and feel, Paladins comes out on a different end of the same pond.[/h1]
+
+Paladins is a free-to-play Hero Shooter that has a large objective-focus, an arena-shooter-feel, low time-to-kill, can run on potatoes but also looks good on higher graphics, and as any objective-based FPS, your teammates [i]really[/i] want to run all snipers.
+
+[h1]Characters[/h1]
+The characters are varied, and all of the ones I've played so far (a bit over half the roster) have been fun to play, which is unusual for me for any games with large selections of characters. There's even horizontal progression and you can easily customize your heroes out with your own loadouts, letting you tweak and customize them to play how you'd like them to. There are heroes to play that are very focused in one area, or heroes that are quite good at dual purposes (Pip and Waifu!). There's a character style for everyone: 
+[list]
+[*]if you like aiming (Cassie, Kinessa, Androxus), or you like not aiming (Drogoz I suppose)
+[*]if you like sneaky times (Skye)
+[*]if you like being tanky (Ferrrrrnando)
+[*]if you like minisentries (Barik)
+[*]if you am Groot (Groot -- Grover)
+[*]if you're lonely and you've always dreamed of your very own WAIFU (Waifu... [i]fine[/i] her name is Ying technically)
+[*]if you want to press a button for a gauranteed pentakill (Skye)
+[*]or perhaps if you like killing half of the players in the game repeatedly and healing the other half (also repeatedly) while you solo the objective and [b]turn people into CHICKENS[/b] (Pip), there's that too.
+[/list]
+
+[h1]Gameplay[/h1]
+The gameplay itself is very fast and fluid, and the maps offer a variety of ways to flank yet at the same time focusing players through chokepoints that create tense team battles and last stands. The two game modes that are currently out offer different styles of maps as well, with Siege being generally smaller and more focused, and Payload having larger maps with sprawling flank routes. Hit detection feels very good most of the time, though much of this can be attributed to that everything has really large hitboxes.
+
+[h1]TEAMMATES Y R U DO THIS?![/h1]
+The game is ridiculously fun, but much of your gameplay will be dragged down simply by your teammates. This isn't a Paladins problem, just any game that has objectives in it. If you like playing the objective, well, you're going to have to do it for your team. Like playing flank or sniper? Well you have to also be tank and take the point. Like playing support? Well you're going to have to take the point AND do all of the damage for your team, because even though the hitboxes are the size of a Lost Planet alien thus making sniping trivially ridiculously easy, [i] your 4 flankers and snipers on your team can't kill a single person without you doing most of the work[/i]. It'd be nicer to have a large amount of incentive to take objectives, as well as make it glaringly obvious, but until then I'd recommend brining a friend or four with you.
+
+[h1]Business Model[/h1]
+Let's get this clear: the game is [i]really[/i] generous. As a gamer I'd say almost [i]too[/i] generous, at least until there's more of, well, everything. You can get any hero you want and get them decked out in a full custom loadout by only playing a few games. You can get cosmetics (mostly recolors) also through the in-game currency, or get better ones that are actually pretty unique and awesome from the myriad of promotions and giveaways. Almost half of the heroes are free straight up, and they're all good ones. The game has progression somewhat, but it's just so... [i]fair[/i] and easy. We need more things to get! I assume this will be remedied soon though, as the last update already added a ton of new stuff.
+
+[h1]Developers and Content[/h1]
+Finally, the developers and the development.
+
+I think this explains everything right here:
+https://youtu.be/f-GuMIN5aaY
+
+The devs are pretty fun guys and do talk on the subreddit as well. Hi-Rez has both a good and bad past, but their last entry Smite is still going quite strong as far as I know, and now they have Paladins which is their largest yet.
+
+The content in the game right now is much better with the last update, which doubled the game modes to 2, added new maps, a new hero, and lots of things were polished. If we keep seeing updates like these, then the game will be in even better shape in not too long.
+
+[h1]TL;DR: With its objective-based gameplay, the amount of people playing snipers; its refined, quick-to-kill, fluid arena shooter feel; and its sense of accessible but customizable progression, as well as its huge accessibility in being only a 4gb download and being entirely free to play, this game fills its own unique spot in a sprouting game genre and right now is a really, [i]really[/i] good time to hop into it. I think it's a more different game than you think that I know that you think that I think that you do.[/h1]
+quick disclaimer; this is all my personal opinion and experience. i haven't played paladins competitively yet but im working on it. my opinions on the game might change when i do.
+
+as someone who has put over 2,000 hours in TF2, and is over level 100 on Overwatch; and have played both games competitively i reckon i have some grounds on which to stand when comparing Paladins to them.
+
+in short, no, they are not at all the same. it seems like the entire internet likes to jump on a giant bandwagon of hate when a new fresh FPS is released, and it almost always calls games "rip offs" or "copy's" of other games. from experience, i can say that paladins is a game more balanced around the skill of an individual, but still requires good teamwork and cooperation to win games. you can technically still "carry" as certain characters, but even if your individual skill is amazing, you won't win unless you work with the team. in TF2, an individual could carry their team to victory in a non-competitive scenario. one sniper who hits all of their important shots could carry the team hard enough to win the game. in paladins, you could have 50 kills and 2 deaths but still lose the game because the team simply didn't work together. in overwatch, if you don't play by the meta; you're almost always guaranteed to lose. overwatch also relies heavily on teamwork, to the point where even players who have never touched the game before could still win games by simply working together. there are no "carries" in overwatch, and the game is simply reliant on teamwork and having a good handle on characters that work for the meta.
+
+if you enjoy working as a team, overwatch's competitive scene is definitely the way to go. if you enjoy simply carrying your team, TF2 is your way. a perfect blend between them, in my opinion - would be paladins. it's wicked fun, it's free, and you can meet some wicked people. the game is also blessed with having a community and developer group that care and constantly update the game, which is something that TF2 didn't have, which is the main reason why i left it.
+[h1]Lots of potential[/h1]
+I have played 15 hours of this game, and to be honest, [b]it's worth your time...[/b]
+
+[h1]Pros:[/h1]
+Free to play
+Quick matchmaking
+Fast paced
+Plenty of characters
+Beta, so a lot more content to come
+Has a lot of potential
+
+[h1]Cons:[/h1]
+You can get kicked out the game randomly (*fixed*)
+Characters need rebalancing especially skye {op} and pip {up}
+There are not enough maps, there are about 5+ at the moment. I know this is Beta, but the new maps cannot come soon enough for me
+
+[h1]Characters:[/h1]
+[h1]Barik:[/h1] Has too many shields for his own good, can shut down most long range characters and ults with just a shield which to me is frustrating. But then again he is a front line/tanking character.
+After 100 hours: Good character, very tanky with the right loadout, but with no team support, he might as well be getting raped behind some dustbins.
+[h1]Fernando:[/h1] I feel that this character would be perfect with a little [b]more speed[/b], or [b]range[/b], or [b]ult duration[/b], or [b]more health[/b]. He's basically a bag of meat that is useless without someone by his side at all times, he seems to not be able to kill anyone [b]at all[/b].
+After 100 hours: Borderline op, impossible to take down on your own, especially if you have to get close to him because, in close quarters, he will fuck you up. 
+[h1]Makoa:[/h1] I haven't played this hero yet simply because I haven't unlocked him, but he seems like a good tank as long as someone is there to heal him.
+After 100 hours: Not really that good of a character. He's basically a single target killing tank, he'll only work if you hook the most valuable targets. He also gets shut down by other shield bearing tanks.
+[h1]Ruckus:[/h1] Someone [b]PLEASE BUFF HIS JETS[/b].... holy fuck they're useless. I'd say buff his jets so that he can fly for 2 seconds at the speed that the jets are at the moment, as long as you are holding the button down. Then make it so that it starts cooling down 3 seconds after using it, then takes a whole 5 seconds to regen back 2 seconds of flight.
+After 100 hours: He needs a buff somehow, a health buff to get him on par with other tanks would help. An ok hero, but to be honest, if he's anything more than 1v1ing someone, he'll lose.
+[h1]Bomb king:[/h1] Fun as fuck. If you play this character right, you'll be a literal king, however, I think he'd benefit from a health buff, maybe 2800 health or more, [b]he's a little squishy[/b] in my opinion.
+After 100 hours: In the right hands this character is formidable, but those hands aren't mine.
+[h1]Cassie:[/h1] I'd like if the arrows had a charge mechanic, rather than just pinging arrows off the bow. The ult seems a little lackluster as well, but maybe that's just me.
+After 100 hours: Now this character is the broken one, taking out teams of people over and over again. Here dps is so good, she team wipes. 700 damage per 0.75 seconds, it's fucking ridiculous. This is the op character right now.
+[h1]Drogoz:[/h1] An [b]overwatch pharah remake[/b] of sorts, [b]but I don't care[/b], I love this dragon to bits. I just wish he had a bigger explosion radius with his rockets, the further you are from the epicenter, the less damage it should do. Then I'll never leave this explosive lizard.
+After 100 hours: Still fucking love this lizard, despite his 'salvo' ability being buggy at times and not firing correctly, he is amazingly fun to play, and my main 'goto' hero.  
+[h1]Kinessa:[/h1] [b]A nice sniper class, love it.[/b]
+After 100 hours: Deadly if you can aim, 'nough said.
+[h1]Viktor:[/h1] His grenade is a bit funky in physics but, other than that and the run mechanic which seems to be stolen from overwatch, [b]he's a good well-rounded character.[/b]
+After 100 hours: his focus fire damage is powerful, I constantly see viktors' topping the kill counts for both teams. Yet he isn't op, just stay out his line of sight.
+[h1]Grohk:[/h1] [b]Meh[/b]. Nothing special, pretty weak healer.
+After 100 hours: Meh. He's just meh. Not very fun to play, his aoe heal might as well also constitute him doing something else with his time like being raped behind a dustbin.
+[h1]Grover:[/h1] [b]Great all round healer, the best healer in this game in my opinion.[/b] I wish he had a 20% increase to the stock range of his passive heal, however, maybe make it so that he heals 10% slower as a balance, then I'll love him to the end of time.
+After 100 hours: This guy is the best team healer still unless you change the loadout for mal'damba, (many gourds card) then you might be better off than grover. Play mal'damba if you really want single target heals though, he is a beast at that shit.
+[h1]Pip:[/h1] After 125 hours: I should fine tune what I meant originally. [i]He's a [b]waste of space[/b] when he doesn't play with the team & the objective[/i]. [b]This character encourages independent play as a support[/b], which is why I resent Pip so much. I see WAY too many pips playing independently chasing kills that flanks should be, it only works against unorganized brainless teams, which isn't often, thus, we fail because of their incompetence. His heals are also so [b]far a few between[/b], that they only stack up effectively if you're with the rest of the team playing the objective, and even then most skilled healers could do better. Which is why I almost always pick up a healing support role when I see a level 0-15 Pip get picked. [b]I still however believe a [i]Pip rework[/i] is needed to stop this unhelpful independant play.[/b]
+[h1]Ying:[/h1] An ok character, nothing special to be honest. She's a good healer, however, not as good as grover though..
+After 100 hours: She's shit. Way too squishy to be out of the front lines. But that's the trouble you see, she needs to be out on the front lines because she's meant to HEAL PEOPLE. I don't mind people going ying as much as I do someone going pip though.
+[h1]Androxus:[/h1] He has great potential in him if you flank correctly, and hit all your shots.
+After 100 hours: This guy, you need the right mind set to play him, he just isn't my style at all. He's ok, he's just nowhere near my cup of tea.
+[h1]Buck:[/h1] I don't have buck unlocked at the moment, but I don't see many people playing him at all, there might be a reason for this... with bot encounters however, he does appear majorly underpowered. This character [b]needs a major rework[/b], just like pip, but not quite as badly as pip.
+After 100 hours: I take back what I said about Buck, he's good :3 . 
+[h1]Evie:[/h1] Yet again, haven't unlocked this hero yet, she seems powerful, however, is a glass cannon, I reckon she's a good all rounded character... if you play her right.
+After 100 hours: The highest skill ceilinged character in the game me thinks. 
+[h1]Skye:[/h1] Broken, Overpowered, The dps character to beat. She will fuck you if you are a low health class. Something on Skye needs nerfing, she can output a stupid amount of damage, and go invisible, then when you're not looking, she'll place a bomb that has the range of the Hiroshima explosion and at the same time one hit anything with less than 3000 health regardless of shields that are in use at the time.
+After 100 hours: She got nerfed with here ult, and she doesn't seem to be much of a problem anymore, I'm happy. With this character, don't go after a full health tank, it won't work, take out the ones easy to pick off, either with low health or low health cap, or take out the healers and snipers of the game like Kenessa and Viktor (He's sort of a sniper lets be honest here).
+[h1]Mal'Damba + Pip cont.:[/h1] http://pastebin.com/VbaWxSjZ
+
+[h1]Conclusion:[/h1]
+A big potential game which has plenty of room to grow, but needs to do so fast to keep people on board, and keep a flux of new players coming in. Personally, [b]this could easily be the new tf2 for me.[/b]
+After 100 hours: Love this game still, just wish they'd nerf cassie already lol
+[h1]The Poor Man's [i]Overwatch[/i], but that doesn't mean it's worthless.[/h1]
+
+Yes, I saw the trailer.  Yes, I played both [i]Paladins[/i] and [i]Overwatch[/i] (Free weekend).  Although there are many similarities, there is still reason to consider playing [i]Paladins[/i] (which has been in production since before [i]Overwatch[/i] was even announced).
+
+At this point, [i]Paladins[/i] consists of 2 modes:  Siege (Control Point + Payload) and Payload (Push the cart).  Each champion has special abilities and yes, there are waifus with that good ol' TnA.
+
+Sounds too similar to [i]Overwatch[/i]?  Thought so...  "So what makes [i]Paladins[/i] worth my attention?"?  Thought as much too.  To start, Paladins is FREE.  Paladins also offers a customizable system that allows you to use cards to power up abilities on your champion before you even enter the battle fray.  Like MVM mode in [i]Team Fortress 2[/i], you're also allowed to purchase in-game powerups with earnable match currency (exclusive to that match only).
+
+You also get gold (and sometimes crystals) on daily login.  Gold is the free currency of [i]Paladins[/i], which can be used to purchase purely cosmetic things.  Crystals, however, are the paid currency that can be used to change your name, purchase other cosmetics, and to purchase chests (Much like TF2 keys, except these crates auto-open after being purchased and selected).
+
+The only flaws right now include some nerfing / buffing that needs to be done here and there along with a clear lack of content.  Long-story-short, "Over-ladins"  / "Pala-watch" is worth looking into.  I already freakin' LOVE this game!!!  And with a price tag of "Free", you're not really losing anything in trying it out.  (Besides, it's the STEAM version of [i]Overwatch[/i] with achievements)
+
+9/10  Potential in the making.  Ready to see how this game progresses.  Lore + SFM vids when?!?!
+Here we go. A review of Paladins. Let me preface this by saying I have played Paladins for multiple years. I also took a hiatus during the Pay To Win period. 
+
+Would I recommend Paladins: 110%
+
+Yes the game is not perfect and has many, many flaws. But for all of those flaws Paladins still comes out as personally one of the best, if not the best, Free to play game.
+
+Lets start with the champion pool. There are over 30 champions at the time of writing and are all unique to one another. (yes there are assests from other characters in some of these champions but what game/media doesn't take inspiration!). My personal favourites being Mal Damba, a support witch doctor type character with a snake as a weapon and Moji, a flank rabbit character that rides on a two headed lizard creature which shoots fire and projectile spit. That sounds awesome! And trust me. It is awesome!
+
+The maps are varied and all have their benefits, each with their own concepts. The maps are pretty and have many points of attack for tactical takeovers.
+
+The modes in Paladins include, Siege, TDM and Onslaught. Siege is a capture the point and push the payload mix, TDM is TDM lol and Onslaught is Capture and Hold the Point. These modes are very fun and can be enjoyed by many different types of people. The only competitive mode is Siege which makes sense as that is the most tactical and fleshed out mode as it was the base concept for the game.
+
+I could go on for much longer but its wasting valuable time for you to be playing this game. Go and download it. Its freaking amazing. :)
+At first, I only started playing this game to hang out with a new group of friends, but I continued playing it [i]long[/i] after they all moved on. It has had some rocky changes over the years, but the truly horrible ones were reversed and it is now in its so-called "final form".
+
+[h1]What is Paladins?[/h1]
+Paladins is an objective-based hero shooter, similar to Overwatch and TF2. Players capture a point by standing on it, and then lead a payload into the enemy base by standing near it, all while killing and repelling enemy players. This is a team-based game, with five players per team—though you can choose to play against/with AI if you want. [i](Actually, your first five levels you will only play against AI, as training. It goes by pretty quick.)[/i]
+
+One of the greatest tools in Paladins is the Talent & Loadout system. Each allows you customize your characters abilities and base stats to better suit your style of play. In many cases, this can allow you to hybridize a character's class [i](frontline, support, damage, flank)[/i], or to counter your opposing team's comp. There is also a basic in-match item shop, with basic buffs like resistance to damage, bonus damage to shields, or faster movement speed.
+
+[h1]Community[/h1]
+Keep in mind that I do not play ranked when the reading the below.
+
+The community is active, and I personally enjoy frequently visiting the subreddit for art posts and balance discussions [i](although there is a proclivity towards complaining and memeing)[/i]. The playerbase is large enough to have low queue times, at least in NA.
+
+In-game, there is a voice chat, but it is seldom used, and can be turned off completely in settings. Instead, most players use a mixture of the text chat and the VGS system. The VGS system allows players to quickly send out messages by pressing three or four keys. For example:[list][*][b]VVGN[/b]: Nice job![*][b]VHS[/b]: Need healing![*][b]VA1[/b]: Flank left![/list]These commands will either use the voice of the default announcer, or the champion's voicepack [i](see below)[/i].
+
+There is some toxicity, but I've only encountered it every four or five matches. It is generally pretty easy to ignore, due to the preferred communication tools of the community.
+
+[h1]Business Model[/h1]
+There are no pay-to-win mechanics in the final version of the game. All cards are available from the start, and each hero's talents are unlocked as that hero is levelled up. That being said, free players wanting to use champions not in the free rotation will have to grind for them. All champions [i](present and future)[/i] can be unlocked through a single purchase.
+
+Most cosmetics are locked behind loot chests, though they do also have some skins available for direct purchase. Many skins have unique voicepacks. THAT BEING SAID, each champion's voicepacks must be unlocked through a purchase—one purchase will unlock the voicepacks for a single champion, including the default voice and all owned skins' voices.
+
+Premium currency is regularly awarded to free players, but not in large quantities.
+
+[h1]Comparisons to Overwatch[/h1]
+I play both games. [i]A lot.[/i] I've also spent about the same amount of money on both.
+
+While I do enjoy both, ultimately I prefer Paladins. Here are some of the reasons why:
+[list][*]Overwatch's heros are all extremely specialized, with tight mechanical designs. There is a lot more overlap between characters in Paladins, which has two benefits: [b]1)[/b] it is easier to flex between characters, and [b]2)[/b] it is easier to take on multiple roles.
+[*]The customization systems are great, and make up for the fact that you're locked into one champion the whole match.
+[*]Both frontlines and supports spend more time fighting than holding up a shield and healing, respectively. Unless you design their loadout specifically for shielding and healing, that is, which is rarely optimal.
+[*]There's a much larger pool of champions.[/list]
+
+Now, it is much less polished and far buggier than Overwatch, and I doubt that will change. It's F2P and a much smaller developer, after all.
+Paladins is far from a perfect game. However, in my opinion, it's far from a bad game as well.
+
+Before I say anything, I own both Overwatch and Paladins. I do not play this game because I can't afford Overwatch. I play it because I genuinely enjoy it. 
+
+I believe Paladins has enough differences in its mechanics to strip away the "Overwatch clone," name people associate with it. 
+
+The characters are mostly varied and the card system is enjoyable, it allows you to optimize your characters in the way you prefer to play them.
+
+Updates are released often, the devs seem to listen to the community (rip ob64), and I enjoy playing it with my friends. I haven't seemed to have issues with the community for the most part, and I also love the quest system that rewards you for completing tasks. 
+
+The microtransactions are there but are purely cosmetic or in case you want to level up faster. Your level does not automatically make you superior to other players in the game, by the way. I think the DLC is priced & treated appropriately. 
+
+Very dev friendly, easy to get into, hard to master. Many characters to choose from. Heavy team enforced gameplay. Many updates. What's not to like?
+This game is fun,  The BETA is F2P... Go ahead and try it as it can run on low end systems.
+
+Players who enjoyed games such as Team Fortress2 should have no problem jumping into this game.   An Overwatch style of gameplay but does not take things too seriously.
+
+The characters could be fleshed out more as sometimes you feel like you are playing "the Flanker" or "The Support" instead of playing as Skye or Ying
+
+Still in Beta at the time of this review so this review is subject to change,  I like where the devs are headed with this and I plan to play it for many long hours.
+This Game is a good overwatch alternitave. If you have a poorly preforming pc like myself, than this game is extremely good! The gameplay is a lot different than overwatch's (coming from somone who has many hours in both games) so dont expect much to be similar.
++ It is free! No subscription needed. Also no P2Win.
++ You get premium currency (crystals) from log-in rewards, and you can buy skins with them without real money transactions.
++ Battle pass (season pass with content, skins) is also purchasable with crystals.
++ Bonus weekends - double XP, gold, crystals for wins, happen often.
++ Updates released often. (content - each 6 weeks) 
++ Cards and items allowing great customization of builds.
++ Interesting champions + growing lore and story.
++ Active community (including in-game, reddit, twitch).
++ Achievements.
++ Public Test Server accessible about a week before content release
+
+- Balance of some talents and cards.
+- Toxic people (like in any pvp based game).
+- Champion cost for new players.
+- Very long maintenance times.
+- Until level 5, you play with/against bots and the game doesn't tell you. (Maybe + for some?)
+
+Definitely recommended, having so much fun both alone and playing with friends.
+
+The only similarity with Overwatch is the genre. They play like totally different games, each offering something else. But Paladins is free, so why not try it?
+paladins game review
+I don't know when I started playing the game but as you can see I know that I have spent time playing a lot of game match and I can give a good review to the game accurately and correctly without any bias
+
+Great game with not great studios
+paladins have very wonderful concepts, unique possibility to customize your own hero to suit your play style by increasing its strength through cards and legendary cards
+It is really a beautiful and it unique concepts is easy to learn 
+
+The great diversity of game heroes and the different way each hero plays and owning a different play style makes them a fun and entertaining even for beginners
+
+But...
+
+Hi-rez studios had made a lot of bad decisions in the past and I think it will make similar decisions in the future for example
+1. Make the game pay to win (OB 64)
+
+2- Remove skins the players bought them with real money without going back to them or compensating them
+
+3- Issuing the game with many bugs and technical problems
+
+The game is a very nice game but the developer is willing to do anything to increase his profits without even going back to the game community
+In the end
+I advise you to play the game since it is free to play but do not expect anything from the developer 
+
+
++
+Video helps you make your decision:
+https://www.youtube.com/watch?v=lez2EpFzV1I
+Sitting on 578 hours let's see what I can pull out of my ass. Pros, cons, the basics, and a POV.
+
+----------------------------------------------------------------------------------------------------------------------------
+Pros:
+----------------------------------------------------------------------------------------------------------------------------
+• Huge variety of characters with pretty flexible kits
+• Active community and a lot of interaction with devs on reddit, discord, and through streams
+• Stylized, SYMMETRICAL maps
+• Mounts
+• 3 game modes with a multi-queue option and access to test maps
+• Most people will respond if you joke around in chat, easy to party-up
+• New champion about once a month paired with a lore-based, or holiday-based, event and skins
+• Moderate TTK
+• Amazingly detailed call-out menu (VVG)
+• New cross-platform option
+• FREE
+
+----------------------------------------------------------------------------------------------------------------------------
+Cons:
+----------------------------------------------------------------------------------------------------------------------------
+• B U G S
+• 8 Supports. 13 Damages.
+• Vivian
+• Higher your ELO is, higher your wait time is in comp (which is normal, but it gets extreme)
+• You do have to unlock most characters, but it's with in-game currency that you get pretty steadily
+• Balancing is super wishy-washing. If they screw up, it's usually tweaked in the next patch, but it's made me step away from the game a few times (Fussillade Drogoz is a fun example that wasn't adressed for a couple of months)
+• Burst meta
+• Huge hitboxes
+
+----------------------------------------------------------------------------------------------------------------------------
+Neutral:
+----------------------------------------------------------------------------------------------------------------------------
+• Not Overwatch
+
+----------------------------------------------------------------------------------------------------------------------------
+The Basics:
+----------------------------------------------------------------------------------------------------------------------------
+In a team of 5, you fulfill one of 4 roles: a support (healer), frontline (tank), damage, or flank. A support primarily restores health to injured allies and debuffs or stuns opponents. Frontlines focus on pushing the enemy back and letting the team capture an objective. Damages dish out tons of, you guessed it, damage. And flanks are glass cannons, usually with high-mobility that lurk behind enemy lines to disturb the peace or take out high-value targets (like supports). While you can choose to play differently, a composition that is comprised of champions from each role works best. Just don't last-pick Victor.
+
+Items are important, too. There are blue items to help with defense, yellow utility items, green healing items, and red offensive items. You start with 400 credits and open the store with "i" at spawn or during the death screen. You can get more credits by healing, standing on an objective, killing an enemy, shielding, etc.. These are situational, and 1 item stacks for up to 3 purchases
+
+There are 3 game modes: seige, onslaught, and team deathmatch.
+
+Seige is the most popular option. Both your team and the enemies will be fighting over a central point on the map. You capture the point by having 1+ people standing on it, while no enemies are also occupying the space. When the progress bar at the top of your screen reaches 100%, your team successfully gains 1 point and must begin pushing the payload that spawns immediately afterwards. Similarly to the first step, 1+ people need to be near it, and it will move forward if no enemy is also in its proximity. If you or a teammate manage to push it into the second point near their spawn, you gain another point. If you cannot before the time runs out, keeping an ally on the payload will push you into overtime where you can continue moving the cart forward. Leaving the payload at that time will result in the enemy gaining a point for defense.
+
+For seige, the rate of capture depends on how many points each team has. There is a comeback mechanic that makes it so a team with 1 point will capture it faster than a team with 3 points. As stated before, you can get a point for defending a push from the enemies, but you can only get the 4th point by capturing the objective or pushing the payload. First to 4 wins!
+
+Onslaught is a game based around the first part of seige, so no pushing required. Your team captures a larger objective in a smaller map. You gain points by having teammates stand on it or kill enemy champions. If you die or let the enemy stand alone on the point, they gain points as well, but you don't lose any that you have gained. An enemy stepping on the objective will stop you from gaining capture points, but you can always kill them! The first team to reach 400 points, or whichever has the most points after 10 minutes, wins!
+
+Team deathmatch is pretty simple. No objective, just enemies. You and your allies must secure 40 kills before the other team. Good luck!
+
+----------------------------------------------------------------------------------------------------------------------------
+My Experience
+----------------------------------------------------------------------------------------------------------------------------
+
+I'm a support main that goes damage from time-to-time. I play with a damage/flank main and a tank/flank main usually. I have the most fun in a team where we can casually communicate and joke around. Aside from an occasional flame, most randoms are respectful, or at least quiet aside from a gg (or VHS) unless provoked. It's not very hard to get a good team composition, but people seem to play tanks the least. Some of my most memorable games didn't involve the traditional comp though. All support or all flank games can be fun in the dumbest ways. They usually don't end very successfully, but you can put up a pretty long fight. Some champions can even swap their designated role-- so long as you call it ahead of time in the character selection screen.
+
+I am afraid of the TTK slowly getting shorter and shorter and Hi-Rez catering to low-skill players more and more. I'm okay with newer champions that are easy to pick up, but they shouldn't be lower-risk, higher-reward than a mastered champion that's older. Currently the devs are conducting "The Hunt" for bugs, but there are plenty in the game that have been reported for years and not fixed. Usually when one is solved, ten more pop up anyway. They aren't usually game-breaking, but there are a handfull... I wish hotfixes were a bit more frequent, too.
+
+I'm not a huge competitive player, but the flank/damage main was. Kibycat reached master rank and was the #1 global Maeve for season 1. Being calm and admitting to your own mistakes is huge in climing the ELO latter. Partying up with another player helps a lot (there is a barrier if your ranks are too far apart). Good team composition matters. Positioning and gamescene matter even more. People take the game a lot more seriously in competitive games, so definitely take the time to communicate with your team about your decisions. Don't be afraid to tell them where your strengths and weaknesses are. That being said, you should gain some knowledge about all of the champions and be comfortable enough with at least two roles. You can play comp for fun, too, so don't stress much if it's your first time around! But know that it is definitely a different vibe than casual.
+
+Anyways, all-in-all, I obviously have a ton of fun with this game! There are some technical and balance aspects that worry me, but Hi-Rez is aware of them and responsive enough to keep a loyal playerbase. I've made so many friends through Paladins and am forever grateful for that. It has its highs and lows, but it holds a steady place in my lists of all-time favorite games.
+I know it says I don't have much time put into the game, but my ingame profile says that before the Steam release, I had 43 days (1032 hours).
+
+This is a very fun game. Sure, it is known to change a ton with every patch, but that is to be expected with an Early Access game. I've been around since the closed beta release. The game has become much more polished, and I'm amazed at the progress.
+
+The gameplay is awesome. The TTK isn't insanely low, but not insanely high, either. Think Overwatch, with a slightly longer TTK.
+
+The scenery is beautiful with the recent map updates. Sometimes I go into bot matches and turn up my graphics settings just to look around.
+
+The character design could use more originality, but I really like the characters still. Needless to say (if you look at my icon), Pip is my favorite. Very original character, original abilities, authentic personality. Pip isn't the only character like this. Some characters may seem like archtypes, but try to look past that and listen to their voicelines, look at their emotes, and you'll see there's more behind the "standard sexy female sniper" that some call Cassie, or the "cool dragon" that is Drogoz.
+
+The ranked system and balance, unfortunately, is quite subpar. The ranked system (as of writing this) is entirely based on champs. There is no account rank, only champ ranked. Because of this, you get people that dodge because they didn't get to pick their favorite champ, and those who ignore team comp to grind their champ to masters.
+
+I think that though this game doesn't look as nice as Overwatch, it is a great buy for those that want a free game, those who want to watch the development process, and those who "just don't get" Overwatch playstyles. I couldn't play anything for any game before I picked up Pip, now I'm on the international leaderboards with him.
+
+[b]TL;DR[/b]
+Pros:
+[list]
+[*] Fun gameplay
+[*] Good-looking maps and scenery
+[*] Interesting characters
+[*] Free
+[/list]
+Cons:
+[list]
+[*] Not much originality
+[*] Not very many "balanced" champs
+[*] Ranked system that promotes grinding a single champion rather than learning the game
+[/list]
++ Great game, very addicting, cool cosmetics, Immersive maps, champions rotation for free players, 4 game modes ( Siege, Onslaught, Team Deathmatch & Competitive ), Battle Pass, Daily rewards.
+
+- So much bugs, hilarious bugs, overprice store, 200 crystal for every champions voicepacks
+
+8/10
+Coming from 600 hrs of Overwatch and participating in every ranked season...
+
+This game is basically better in almost every aspect
+
+Also it costs 0$
+
+EDIT: 
+When I created this review. I was salty about being hardstuck in Diamond cause of the new season 10 meta, and lack of ranked mode changes. I quit the game for several months and I can now return to express my real opinions. 
+
+In all honesty, Overwatch is a much more polished game with a far more rewarding skill based mechanics. Heroes like Genji, Ana, and Widowmaker are three that I enjoyed playing because of their immense skill ceilings, however none of the paladin's cast elicit the same amount of mechanical skill investment compared to their overwatch counterparts 
+
+One thing I have to give Paladin's though is how they deal with roles. Overwatch very much feels like a DPS-centric game. Everyone wants to be the carry, naturally. Everyone wants to feel like they put in the work for the win, however one thing Paladin's does much better than Overwatch is the support role. 
+
+One of the reasons I left Overwatch was because of the lack of support players, even in the ranked mode. I adopted a flex role mentality to compensate and it was really wearing me thin being a "flex" and ending up looking like a support main by the end of every season. The reason for this is is due to the fact that many support in overwatch are created with low kill potential and with their main purpose being solely to heal. This makes support in overwatch become more of a duty than something people willingly play. The DPS and tank role in general feel much more thought out and "fun" to play because of this, leaving one important role to be reluctantly filled by whichever people end up picking last. 
+
+In Paladins, I feel as if it is the complete opposite. Many of the Paladins supports have great kill potential, are hard to play, and aren't only assets because of their healing. Games are never lacking in support. In Overwatch, I have to pray every game that I get at least one support and not 5 DPS
+
+Overall, Paladin's is a much less polished game in general. Buggy menus, crashing, black screens, etc. But it by no means is a bad game.  It feels like a better alternative to Overwatch in certain aspects, but Overwatch is still the more rewarding game in the end.
+I'd figure since this game is finally going out of beta let's just be a bit meme-ish and compare this to OW
+
+Sorta joking but I'm just gonna do a quick comparison between my experience with OW and this. I'll be doing short comparisons on gameplay, sound, performance, visuals, and "social" potential.
+
+[b]Gameplay[/b]
+I honestly found Paladins significantly easier than Overwatch has ever been, like legit, I can easily get top 3 with kills using a support and most of the time I'm the most useful in Paladins. Sometimes easily getting 10-20+ kills as a flanker (Maeve best girl fuck u fite me) while getting less then double digits in deaths.
+
+Overwatch however, if I were to take a similar flanker like Genji just switch the numbers around and dial it down a bit and more or less the opposite of good.
+
+Now I think Paladins is easier because of the ways you can heal in the game, in Overwatch your choices of healing are either a skill from a character, your supports or finding med packs.
+
+Paladins consists of your skill from a character, items you can buy to help heal, skill cards or just not getting involved in combat for a couple seconds grants you healing.
+
+But this section mostly depends on what you like, I personally prefer not being over reliant on supports to keep me alive however some might not.
+
+[b]Sound[/b]
+So the thing with Paladins is that sound wise it's still relatively buggy, when games end you might hear repeats of a certain gun being shot repeatedly and the bug even happens sometimes during top plays. Those aren't really big issues but it just sorta drags down the presentation over all. This isn't really a problem for Overwatch as far as my couple hundred games recall.
+
+I think this is where Paladins loses this round. Imo. Overwatch simply just has a much better way of letting players take advantage of paying attention to their surroundings, something that Paladins is somewhat lacking. While yes both games let you be aware of who's shooting at what direction at the most part Overwatch just handles it better. Simply due to how Overwatch actually has a mechanic where the enemy actively actually is meant to sound louder than your teammates, not too any drowning degree but it's there and blends in pretty well overall. Even things like enemy footsteps can help you try indicating where they're coming from time to time.
+
+[b]Performance[/b]
+Running this on a 1070/7700HQ/16GB Ram
+And I gotta give this to Paladins, while this is purely an anacdotal section Paladins just simply runs better for me all around. I'm consistently capable of keeping 100+ FPS, mostly 120 90% regardless of what's going.
+
+Overwatch on the other hand nets me some rather jarring FPS on occasions, sometimes going from around 100 to 60-70.
+
+However one thing to note is that I think alt tabbing too much can destroy your current Paladins. It seems like the more I alt tab in the game the worst performance got. I actually got to the point where I was getting 30FPS maxed for whatever reason.
+
+[b]Visuals[/b]
+Visually speaking, Overwatch. While visuals are subjective it's really hard for anyone to say "I prefer Paladins' art style over OW's" without being a blind a fanboy, everything from maps, to hero designs just has an instant level of "wow this is unique" to it. I never really went to a Paladins' map and thought "wow this looks really good". 
+
+[b]Social[/b]
+This is actually the segment which actually made want to do this "sorta review"
+I feel like Paladins should really learn from Blizzard on how to make chat work in a game.
+
+Paladins has little too much lacking that I got spoilt with from Overwatch
+- Overall limited chat
+Okay so when I played OW on occasions I can even make jokes around with the enemies and sometimes they actually do become my friends in game due to how there's a pretty big social reach there.
+I can chat with my team, everyone in the match and whoever else I want to by just pressing tab and swapping between chats.
+
+This isn't really possible in Paladins, in Paladins you only get to talk to your team in a round of Paladins and you're somewhat limited in that regard. 
+
+And what decade do we live in where I have to consistently go /r message (username) (content) just to reply? Seriously? Where again, in OW you can just press tab tab tab tab to switch between chats on the go that's not possible in Paladins.
+
+- There's also no way to spectate your friends (at least as far as Ik) which sorta sucks when you decide you wanna play with your RL friend but he or me doesn't really know how long a match the other friend is going on for. 
+
+- hell you can't even chat when a top play is replaying. Which is again, something that OW spoiled me with. Where you can instantly react to what happened in a POTG/Top Play instead of waiting until you get back to the end game lobby.
+
++ There are a lot less quitters mid game in Paladins than OW.
+Soo... if anyone's actually been playing OW recently you'd actually notice that a lot of people quit pre-emptively before the game even ends just because they died one too many times. However I don't really think this is  a problem for Paladins since you're forced to play the game or quit and wait for it to finish before you can just go "quit match > Find quick match > Join game > repeat"
+
+
+Price of admission:
+40$ or... 0$
+
+Well that was easy.
+
+[b]Extra tidbits I like that OW has but Paladins doesn't:[/b]
+- I do like how Overwatch lets you see other player profiles so you can see what a player mained/mains just so you can get a better understanding of their skill. 
+- Speaking of, you can't really see how well you've been improving/worsening either, you can see a set amount of previous game stats like win/win/win/loss/win for about 15-20-ish? games. But that's about it
+- You can't see stuff like your stats for this mode, your win/loss ratio, not overall or with a certain character. Overwatch lets you see indivual win/loss rates for a single character and time played with said character.
+- You also can't individual configure keybinds/sensitivity for indivual characters. Something, again. Overwatch lets you do. So, you wanna use J/K/I/L as your movement keys for this certain hero? There ya go.
+
+
+While I do think Overwatch is the overall better game I've actually grown to like Paladins, maybe it's because my aim and skills don't actually look like dog shit in comparison but I do believe it really does need a bit more polish here and there,really question why you'd release it out of beta to begin with. Look at Warframe.
+I've just got back into Paladins lately, and I really enjoyed it. I became sick of Fortnite after playing for so long, that I decided to try a game I had hours played in. So tried out Paladins again, and boy, was it fun.
+
+I forgot how fast paced the game is, to give you that buzz the entire game, and how much skill you need to play the game. Overall, I find it more fun than Overwatch, because of that fast pace and that to counter an enemy team, you buy items to slow them down, rather than changing your hero every 20 seconds. I also enjoy the loadouts, so I can customize the champions to my play style, and I can also search the leaderboards to take inspiritation.
+
+The game is also fairly balanced, with all champions able to be competively played as long as the player playing them is skilled. Some champions are stronger than others however, and some are weaker, but it isn't a massive problem. The competitive play is also fun, with teams most of the time cooperating and making teams that are balanced and work together. Of course, there will always be toxic teammates in a FPS, or bad teammates, but you get used to it eventually. 
+
+I would definitely recommend a try for Paladins, as it wont hurt to give it a whirl, after all... it's free!
+A lot of people who happen to be mostly Overwatch fans have been talking trash about this game. And having played Overwatch myself for approximately 2 years now and also having not tried Paladins until now mainly because of the critics about the games from my Overwatch friends. I was positively surprised by how good this game is, it does not solely cater to pros, probably because unlike Overwatch it knows that pros is about 1-3% of the player base and that most people want to play the game casually. But it does not mean that you don't need any skill to win, it does require skill to play some characters more than the others, and the better you are at aimming and timing, the easier it will feel to you. Starting this game, I thought I was gonna get rekt, and to my surprise I was not annihilated by the players like when I started playing Overwatch. I still get rekt in Overwatch in random games not even in comp, in random games. That's how bad the matchmaking and the design of Overwatch is. I regret investing in Overwatch and for not trying this game sooner. Overall, it's an amazing game, does not restrict itself with lore like most Blizzard games do, it allows things such as magic and modern weapons to be in the game. It's not overly complicated to learn and I'm sure you will enjoy it.
+A hard to recommend game mainly because the game and its concept is great  (not to mention its free) if you like hero shooters, problem is that the game's ranked matches are completely pathetic because of unbalanced characters and bad matchmaking. Also its known for various bugs like crashing mid-game and so on. If you don't mind these then its recommended for you.
+Love this game so much! I totally recommend more people play it. Works well with low_end pcs too.
+
+Hope more if my friends start playing this awesome shooter game.
+Fun and free. What more can you ask for? Decent graphics. Fun Champions. Great game to play with games but bit of a grind to get more champions. Rotation feature for champions is a really good feature to test new champions out.
+the game really nice  but the aiming should be more accurate . and the game really need some balanced features . plus there should be loot boxes after winning some matches.
+This game is extremely fun it's a a huge time waster but it's worth it in the end If you like really insane over the top shooters the I 100% recommend this game.
+Absolutely loved this game (I played mainly during the beta stage). Unfortunately I can't play anymore because it no longer runs on Mac. I really miss it.
+Although this game lives on Overwatches shadow, I find it way better than OW. If the actual game came out half a year earlier, this would be as popular as Ow was in its glory year
+[h1]Well it still a good game for me, I hope this game have a lot more players so Paladinz could be a bigger game that could beat overwatch for good, btw Thanks Paladinz for gameplay, I appreciate that!! [/h1]
+This game is so fun with friends can single !
+
+The problem is that i can't play anymore cause the game is now 64-bit and my PC has 32-bit (Yeah it's that bad)
+
+Anyway, I Recommand this game for those you love Team Work and other things :D
+Emm good game to play with friends but got bored after some time of loneliness, help. oh the ya its good would recommend for those like me who cant afford overwatch, well overwatch aint better then this but u know the society wont accept u :3
+I still have to give this a (weaker) Not Recommended. THE CARD SYSTEM DESCRIBED BELOW IS GONE, and the current system is better than ever, which is great. Gameplay currently lacks variety (all gamemodes boil down to 5v5 team deathmatch on similar maps), which made the gameplay get old quick for me, and unfortunately Hi-Rez is still doing some shady things (e.g., "forgetting" to mention in advance that they would change the price of voicepacks from being obtainable with the free currency, to exclusively bought with the premium currency). Daily quests are the main thing keeping me logging in. 
+
+Your mileage may vary; if you can overlook these things, you might still find a game that you like.
+
+-----------
+
+OUTDATED:
+
+I am going to break down what happened in OB64. This is going to be long, but hopefully it helps you make an informed decision. First, I'll try to explain what the game was like prior to this patch:
+
+In Paladins, you had three 5v5 PvP game modes: Onslaught (team deathmatch mixed with king of the hill), Payload (similiar to TF2, one team pushes a cart down a track and then switches sides after the round ends), and Siege (king of the hill, where the team winning the hill pushes a cart similar to Payload). There was also a ranked/competitive queue for Siege. Less popular, but still around are training versions of each game mode where you fight against bots, and custom games which work more like your traditional server browser matches. You would queue up for one or more modes, then select your character, and then select your loadout once you loaded into the map.
+
+Every character in the game had 16 basic cards, of which you selected 5 to make a loadout. Each character had multiple abilities, and these cards modified how their abilities worked, or in some cases the stats of the character (health, movement speed, etc.). These cards had different effects, such as "reduce cooldown on ability X", or "increase distance on ability Y". When making a loadout, you could choose how powerful you want these cards to be, on a scale from 1 to 4. For example, at level 1 a card might increase the distance you travel when you use a dash ability by 10%, while a level 4 card might increase it by 40%. The cards in your loadout had to add up to 12 points; for example, you could have a loadout with card levels 4-4-2-1-1. Each character also had a premade loadout you could use if you weren't interested in setting up your own loadout. When you selected a loadout in match, you also selected one of three "legendary cards" separately, which were similar to the basic cards but had only one level and much bigger effects.
+
+So, one issue with this previous system was how you obtained new cards for a character. You always started with 5 basic cards and 1 legendary card unlocked for a new character, enough to have a loadout ready to go; however, to obtain new cards, you had to open up a loot box that contained all of the cards in the game. You were unlikely to get the card you wanted unless you were pretty lucky, but any duplicates granted you a crafting currency ("Essence") that you could use to buy the cards directly. The lootboxes were a little pricey, but you did receive some from hitting certain XP milestones on your characters and general account, and you could buy them with the currency you earned just from playing the game ("Gold"). Depending on how many characters you played, it could be pretty hard to get all of the cards you wanted, especially the legendary cards which were a lot rarer in the lootboxes and much more expensive for direct purchase. (This was never really an issue for me given how much I played, but it was definitely a bigger issue for new players.)
+
+This brings us to what the developers decided to do about this situation in OB64. They decided to get rid of the crafting currency, and give all cards to you for free. They also changed the old loadout system: instead of modifying the levels of 5 cards to create a 12 point loadout, you instead just select 5 cards that have a fixed level. Some are upset about this second change, since it reduces the number of combinations you can make.
+
+However, the change that has probably caused the greatest outcry is leveling up cards. Instead of having levels 1-4, they are now level 1-10 (now including the legendary cards). When you unlock a new character, your cards start at level 1 and are pretty weak. By level 10, the cards are much, much stronger. A card that increases the distance on a dash ability might given you +5% at level 1 and +50% at level 10. Another card might reduce the remaining cooldown of an ability when you kill a player; at level 1 it's a 10% reduction, while at level 10 it's a 100% reduction. These values are taken from real cards. A player with a loadout full of level 10 cards will have significant stat advantages over a player with a loadout of level 1 cards. (To play devil's advocate, the previous system probably wasn't totally fair to newer players either: the experienced player had more cards, and thus more flexibility in how they built their loadout. It wasn't a perfect system. However, in many cases I think the extra cards opened up sidegrades, rather than straight advantages over other players.)
+
+So how do you level up these cards? By opening lootboxes. When you open up one of these lootboxes you still receive random cards, and after you collect a certain number of duplicates of a specific card it levels up. So many duplicates are required to max out a character at the moment, that even pretty hardcore veteran players (like myself) don't have enough currency to max out 1 of the currently 34 characters. At the moment these loot boxes can only be purchased with the in game currency Gold, or be obtained from your first few wins in a day. Still, even without a maxed out character, I don't feel comfortable having a straight stat advantage over newer players in a PvP game like this.
+
+This system is arguably pay to win as well. One of the services the developer sells are boosters. Boosters increase the rate at which you earn XP and the currency you get from just playing the game. While you still have to play the game, those that pay for these services are going to be able to get more lootboxes, and therefore level up their cards quicker. They have also talked about putting a premium currency option for buying these lootboxes as well, a more direct pay to win (1/16/2018 EDIT: Earlier today, they quietly added an option for purchasing these lootboxes via a currency that can be purchased.)
+
+Now, all of the above said, Paladins might still be the game for you. If you are only interested in the Siege gamemode (the "main" gamemode), there are queues available where everyone's cards are set to the same level, both casual and competitive, a.k.a. "Cards Bound". Card leveling has no effect on these matches at all. You can just set up your loadout and be on an even playing field with everyone else. 
+
+On the other hand, if you're like me, and never enjoyed Siege but did like Payload and Onslaught, you're out of luck. Onslaught and Payload are exclusively available using leveled cards, a.k.a. "Cards Unbound" (technically Payload uses fixed level cards, but that is likely a bug). Also, the developers have stated that any future gamemodes (including the upcoming Team Deathmatch and Battlegrounds) will be exclusive to the leveled cards queue.
+
+I will probably continue to play Paladins for the time being, but I cannot recommend this game to others. This is mainly due to the above reasons, but also a few other problems (groups stomping solo queuers, Payload getting removed entirely in OB65, bugs I care about persisting for months, etc.).
+
+If you read through all of that, I hope it was helpful. If these problems are addressed in the future, I plan to update this review.
+
+TL;DR: Just read it.
+Thank you for adding pay to win mechanics. Unistalled.
+PS You had the best F2P game, thank for ruined it, Good bye.
+
+This is how it works:
+
+New Cards Unbound system introduces card-abilities of tiered strength - level one to level five - and they're inextricably linked to the random contents of loot boxes, which you will of course be able to buy (although not yet).
+
+All bottom-level versions of cards (both legendary and basic) are unlocked for everyone. The grind comes from levelling them up, which requires duplicates found in loot boxes. Loot boxes can be earned for free but as you'll need around 43 duplicates to level a card to five, according to Paladins YouTuber Kami (via Kotaku), this will very much be the long the way. Buying loot boxes will be significantly quicker.
+
+Level five card-abilities are significantly stronger than those at level one. Take damage dealer Cassie for an example (the Open Beta 64 patch notes detail each champion):
+
+Her Blast Shot reduces healing by 8/16/24/32/40 per cent
+Her Dodge Roll distance increases by 10/20/30/40/50 per cent
+Her Disengage cooldown is reduced 1.5/3/4.5/6/7.5 seconds when hitting someone in the air
+Her Tumble (Armor) grants 10/20/30/40/50 per cent crowd control reduction
+And her legendary, Just Breathe, increases crossbow damage 25/37.5/50/62.5/75 per cent over 100 units
+
+The difference in strength between a level one-equipped player and a level five is obvious.
+The further the Open Beta progresses, the more Hi-Rez studios strips Paladins down of its originality. 
+
+Despite the blatant similarities to Overwatch and no shortage of obviously uninspired design choices, Paladins had a spark of genius in it with certain characters and gameplay mechanics. Now, with most of the old lore gone and replaced with new, generic drivel (For example, replacing the lore of a certain dwarf character from him being a tomb raider to a master mechanic; I know! A Dwarf who is a master mechanic? Shocking!) and the card system reworked to support the increasingly predatory monetization model*, Paladins now offers nothing over its competitors. 
+
+Not to mention the recently announced Battle Royale mode. I mean, really? Is this a joke? 
+
+I'll give it one thing though; it does a perfectly fine job of exposing Hi-Rez as what they truly are: trend followers seeking to make as much money as possible, and not game developers following their passion.
+
+*The increasingly predatory monetization model inculdes, but is not limited to: 
+
+1. Price gouging of previously cheaper champions, skins, voice packs, etc.
+2. No longer dropping champion prices as time goes by 
+3. Removing old currencies and not properly reimboursing players
+4. Restricting items that were previously obtainable through the in-game store to chests 
+5. Restricting items previously obtainable with coins to a premium currency and/or chests 
+6. Reducing the amount of gold players can obtain by cutting down on level-up rewards
+7. Removing the reward of getting premium currency for free by logging in 7 days consecutively 
+8. Removing the option of buying skin pieces separately and bundling them into more expensive sets
+9. Removing certain skin pieces from sets and making them only purchasable on their own, thus increasing the total price of the set 
+10. Adding a secondary premium currency which is obtainable through a subscription service ($5 per 2 weeks of subscription)
+
+The changes Hi-Rez have made, have without a doubt hampered the enjoyment I, and many other players get out of the game. Despite all of that, in and of itself, Paladins is not a [b] bad [/b] game and there was a time when I would have called it good, a time when I would have called the monetization model [b] generous. [/b] 
+
+That time has passed however, and Paladins stands as an uninspired, shameless cash-grab that should not be worth a time investment, let alone a monetary one. 
+
+[h1] 5/10 [/h1]
+It's ok for a f2p game but I didn't enjoyed the part where it leaves services active in your pc after uninstall.
+
+sc delete "EasyAntiCheat" (elevated cmd command)
+C:\Windows\SysWOW64\EasyAntiCheat.exe
+C:\Windows\System32\drivers\EasyAntiCheat.sys
+Dropping my "Not Recommended" here. Hi-Rez has a history of killing games with greed. Paladins is not an exception.
+
+I stopped playing after 330 hours. I had a LOT of fun... for a while, with the game in the state it was in 20+ patches ago, but the trends were already clear: Simple fixes to polish the game were being ignored, champions were becoming more unbalanced, in-game currency grinding was becoming more of a chore (and was HARDER ON NEW PLAYERS ESPECIALLY - accessibility to new players [i.e. your friends] was one of the best things Paladins previously had going for it), the minimum requirements to experiment with gameplay in new and exciting ways were being pushed further out of reach, community feedback was being ignored, and unique core aspects of the game that made it what it was - that made it *fun* - were being eroded bit by bit.
+
+... and let's not even get into the bugs - actually, a bug with mouse input (which probably still hasn't been acknowledged) made the game unplayable for me, and that's why I really quit. By the way, mouse sensitivity options were *awful* last I played, where 0 was no movement, 1 was sluggish, and 2 was out of control for me. You don't get to enter a decimal, like in certain other games, like a thriving, polished hero shooter that gives me far fewer reasons to complain. The name starts with Overwat. anyway.
+
+I haven't opened the game for any reason since May, but I've paid attention to patch notes, and occasionally watched gameplay. It's clear that all of these trends have been spiraling out of control, and testing the patience of the community more and more. This last update should be the nail in its coffin: The previous, relatively balanced loadout system NO LONGER EXISTS - BOUND MODE IS NOT THE SAME. Unbound mode - which seems to be the new focus for development - NUMERICALLY PUTS NEW PLAYERS AND FREE-TO-PLAY PLAYERS AT A DISADVANTAGE AGAINST VETERANS AND BIG SPENDERS. If someone were to spend LITERAL THOUSANDS OF DOLLARS to have their champion builds maxed today, the grind for a free player to catch up before facing them would be INSURMOUNTABLE.
+
+What's left of [the backbone of what was once a promising game worth sinking hundreds of hours into] may lure in and briefly entertain new players. Loyal players may want to believe this isn't a big deal. Hi-Rez may offer the equivalent of lots of expired candies with pocket lint stuck to them to keep the above groups from immediately escaping their grasp. But if you're looking for a game that is either currently or foreseeably polished and fair for everyone, don't let anyone convince you that this is it.
+UPDATE: As of 22-02-2018 Cards Unbound will be removed from the game thanks to HiRezChris (oh my god i'm so happy :D). Because of this, this review will no longer be valid. Also, with Steam being Steam, i am unable to change the rating of this review. Let me just say that i will recommend this game again from this point onwards.
+
+Please feel free to ignore the rest of the review :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-Everyone is mad about the time to kill (TTK) being lowered
+-Everyone and their dog is mad about OB64 and the insane grind and pay2win mechanics it brings with it
+-Everyone is mad that OB64 adds extremely overpowered legendary cards
+-Hi-Rez says they are "listening to the community"
+-Hi-Rez decreases the health of almost every tank in the game
+-Hi-Rez increases the grind by increasing the amount of levels on cards from 5 to 10
+-Hi-Rez says that "some legendary cards are overtuned"
+-Hi-Rez proceeds to do nothing about those cards
+-Hi-Rez nerfs the worst legendary card in the game
+-There is even a legendary card that gets worse as you level it up
+
+GOOD JOB ON COMPLETELY BREAKING THE ENTIRE GAME AND EVERYTHING GOOD THAT IT STILL HAD LEFT!
+
+THANK YOU FOR ABANDONING YET ANOTHER GREAT GAME BECAUSE OF GREED!
+
+DO NOT DONWLOAD ANY HI-REZ GAME EVER!
+
+
+
+EDIT 28-12-2017:
+
+Hi-Rez is now actively censoring the community. They recently had a "Dev Insight" stream on Twitch where they look at the most recent patch to see what happened. 
+
+Long story short: 
+-They blamed the 20% drop in players on newly released games
+-They claim they are "listening to the community" and are "asking for more feedback" even though they got buttloads of feedback which they didn't listen to
+-They banned everyone from the Twitch chat that was opposed to OB64
+-They claimed that the release of OB64 went "pretty well" even though they lost major eSports partnerships, about 20% of the active playerbase and managed to provoke massive gaming media sources
+-They are now ignoring ALL feedback from Reddit if your username does not match your in-game name even though Reddit is one of their MAIN sources of feedback
+-They are censoring everyone that is opposing OB64 so the only people they can hear are people that like the change just so they can claim that they "listen to player feedback" which has never happened since OB64 was announced
+
+What a disgusting company.
+
+
+EDIT 04-01-2018:
+
+Paladins is getting a battle royale gamemode...
+
+WWHAAAAAAAHAAHAHAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAHAHAHAHAHAHAAAAAAAAAAHAHAHAAAAAAAAAA
+HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+Sorry... what?
+
+"Battle Royale"
+
+HAAAAAAAAAAAAAAAAHAHAHAHAHAAAAAAAAAAA
+
+This, again, proves that Hi-Rez doesn't care about creating a good game, they only care about the latest trends and jumping on the bandwagons as soon as possible.
+[h1]Introduction[/h1]
+Hi, my in-game name is CzeMarek and I spent about 1500 hours with this game. In every season I played, I managed to obtain the rank of Master. I love the pace and mechanics of the game, however I could not recommend it to anyone.
+[h1]The Developer's Approach[/h1]
+From the early beginning when Paladins was still in beta, it suffered from a lot of bugs. Hi-Rez studios didn't seem to have a need of fixing the bugs as the first priority. This way, the list of present bugs grew with every update. Some bugs have literally lasted in the game for YEARS and are still there! Let me talk about one as an example. Sha Lin is a damage class champion with a bow, that he uses every second of a match. Since the day I started playing the game (which was in the autumn of 2016), there has been a big problem with the champion - everybody has had huge FPS drops when drawing the bow. Now just imagine, there are dozens of bugs that have, just like this one, been in the game for years and haven't been fixed yet! In the present, Hi-Rez are still focusing on new content instead of bug fixes and with every patch the number of bugs is growing; there are even champions that cannot be played in e-sports because of how much they are bugged.
+[h1]The Beta[/h1]
+Paladins was in beta for years. Many times, the developers made drastic changes to the mechanics of the game; they even reverted some patches in OB67 (which was probably the best update in the history of Paladins)! Now don't get me wrong, the long beta was perhaps the best thing Hi-Rez ever came with. During the beta, Hi-Rez released a new champion every odd patch and a new map every even. This would be great, if they also put effort into fixing bugs. In may of 2018, they decided to release the game from beta with the patch 1.0, due to lack of finances. This was the worst thing that could have happened - the game was in a bad state, unpolished and full of bugs. Even now, almost a year after the patch 1.0, I don't think the game is in a state, in which it could be released. In my opinion, this move bought Paladins a one-way ticket to oblivion and extinction.
+[h1]The Matchmaking and Ranking System[/h1]
+The ranking system is basically pointless - it records your personal rating in the team based game, while it doesn't take into account your personal performance! That means it doesn't matter how well you do; if you spend the whole game afk in a spawnroom, you will lose the same amount of points as a person, who unsuccesfully tried to carry your team and ended up with the best numbers in the game. Now you might think that's fine, but it  is really not. Wait times for ranked are awful. You have to wait usually about 10 minutes for the match (if you have a decent ELO), then you pick champions for another 3, then someone crashes, then you wait again and when you finally get to play, you get queued with smurfs and people who have much lower ELO than you, so the game lasts for about 7 minutes anyway and it's just not fun. So in the end, you spend way more time waiting for your games to find than actually playing. Also, let's mention the leaderboards. The list of grandmasters, who are supposed to be the top players in the game is just a joke. Everyone who has thousands of hours to play can get there. There is only a few people in GM that have a good W/L ratio, you can go check for yourself. So to sum up, the rewards and ranks are just an index of how much you play and how long you grind.
+[h1]The Bots and Reconnecting[/h1]
+A bot, character controled by AI, is a definition of evil in this game. In higher ELO matches, when a player crashes or leaves the game due to any other reason, it basically means a lost game - bots are very likely going to spin in the spawnroom or, if they decide to join the fight, just blindly rush and die. Now you technically play a 4v5 game. In other scenarios, the bots get inhuman skills and reflexes and thus you have a 6v5 game. Due to the bugs and bad servers, you are going to have at least one bot in 25% of your games. The bot is even allowed to buy items for you, which is a problem when you have a limit of 4 various items to purchase. Your teammates will probably become afk too, because, seriously, who wants to play a 4v5 game? The afk players will not receive a ban anyway, because Hi-Rez probably ignores all the reports. Of course, a disconnected player can reconnect and continue playing (althought there is a bug that makes you unable to rejoin the match). The problem is that after your game crashes, you have to wait until the anticheat opens (which takes an eternity), then fill out the the crash report or close it and after all that you can start Paladins again. But that's not all! If the game lets you connect back into the match, your bindings reset so you have to open and close the settings and the textures usually become broken too. When leaving the spawnroom after reconnecting, you teleport when passing the exit, which makes the play around the spawn impossible. What's more, your FPS might get crazy and the whole experience you might have gotten from the game is completely ruined. If you or your teammates decide to give up, there is no way to do so, because the option to surrender was taken out of the game for a reason.
+[h1]The Balance[/h1]
+Every champion has 3 talents that a player can modify the playstyle with. This sounds interesting, but in the end this is just an illusion of choice. Most of the champions' third talent is just weaker than the others or completely useless. Many times, there is only one good talent for the champion and if you pick another, you are basically throwing. The reason for this is that some champions have a bad base kit. Let me take Ying as an example. Ying is a healer that can heal with illusions she places. She has a talent that makes her able to heal for a straight 800HP with a right click. Now with this talent she is considered one of the best healers in the game. And without the talent? You're throwing! Another problem is Hi-Rez itself - it takes insanely long for them to nerf the overpowered talents. For instance a card that gave you wallhack every 3 seconds was nerfed after more than a year!
+[h1]The Way Information Is Given to the Player[/h1]
+The game doesn't tell you anything about itself. Only thing it teaches you (in tutorial) is how to walk and shoot, which you can read in the setting. It doesn't say a word about the mechanics of the game. it just doesn't tell you anything! If you are a new player, do you know what does a 'Comback mechanic' mean? I doubt it, even the e-sport casters have to explain it 10 times a day. The game does not even explain loadouts or an item shop!! Only way you learn about it is by noticing an UI prompt that says 'PRESS I TO PURCHASE ITEMS'. And there are more: The killstreaks and their relevance, the effect of silence, cripple and CC... You are not even able to figure it out by yourself at the Shooting range, because the bots there are immune! And I could continue for days. Some mechanics aren't explained at the Wiki either; you seriously have to go and ask a content creator in the chat of his stream or comments under his video!
+[h1]Other Game Modes[/h1]
+There are also other game modes apart from Siege in Paladins. Let's talk about Team Deathmatch. The maps for this mode are often designed so badly, it's painful to play. A lot of them have very bad spawn points and one team has an advantage over the other. The spawn algorithm is so bad, it sometimes doesn't move your spawn point for the whole match (thus you have to travel a long way to the battle or you just might get easily spawn-camped). All this causes that 75% of the map can remain unused. Furthermore, Hi-Rez is still trying to force you to play it by creating stupid TDM missions and other kinds of content.
+[h1]Summary[/h1]
+There is much more but let me post a final verdict here. I give this game 2/10 and recommend everyone to stay away from it as far as you can.
+With Easy Anticheat being added I cannot support the title.
+
+It's a kernel-based anticheat that is known to waste resources even when the game it's supposed to monitor exits, allows the developer to actively take screen-wide screenshots and upload them for them or anyone else to see, can cause system instability via blue screens, and it runs at a root level.
+
+If you favour privacy and keeping others' out of your system, then skip this title lest you install one of the worst anticheats currently in ploy.
+Remember: If there's a bug that can be exploited against EAC, then you can have your entire system compromised by amateur anticheat makers.
+I originally enjoyed this game. However, after update OB39, I cannot recommend this game solely because of one reason: Easy Anti-Cheat. EAC is a well known slack-jawed excuse for a functioning anti-cheat system that works in kernel space. It takes screenshots (full-screen, mind you), keylogs the user, and has been known to privacy leaks many times in the past. My proof for these claims? http://eac.krond.org/
+As you can clearly see in this link, competitions in this game use EAC to track the input of keys, screenshots when it "detects" something, and is in the public domain. In their defense, not 100% of all information they look at is put on a public adress, as this is just an example of information you can see happening in competitions. However, if you can spy on this happening in competitions, who says people can't spy on your login information or even worse: paypal or credit card information from in-game purchases? Just look at what happened with Robocraft, and how the devs tried to cover it up. If you respect your privacy, I highly suggest you not respect Hi-Rez or this game. Hi-Rez has been known to use EAC in their games before, and will continue to do so.
+EDIT: I noticed several people in the comments outlining potential issues in my critique, for example, the link providing content with the consent of user. Before commenting on this issue, I highly suggest paying attention to my comments below. These comments help make my issue with this link more clear.
+EDIT2: 
+If any more people refuse to either 
+A. stop acting like incomprehensive morons and not reading anything more than the first two sentences of the review
+or B. stop acting like idiots and posting the same rehashed vomit from the previous commenters,
+then I will block and remove your comment. Using EAC's EULA, "promise" to not hack you, saying the link I have provided "doesn't count" because more EULA lies, leave an unoriginal rehashed "ur just made xd" comment, or just plain insult me because you're too braindead to come up with original content, all fall under this. You have been warned.
+How can anyone ruin a pretty solid hero-based shooter? The answer is simple: change one of your core mechanics in a way that makes it harder for new/casual players to compete. Let me explain: not long ago there was a card system, 12 points for powerups, a bit of customization for any hero. One can argue that some heroes had better bonuses than others, but it was still not that big of a deal, you can't go too OP with only 12 points. But right now you are not limited by said points, you can pick any 5 bonuses and boost them up with lootboxes or a lot of grind. So to be clear: max loadout you can get on a new hero is 20 points, 5 cards at lvl 4. If you buy a lot of lootboxes or grind 24/7 you can get it up to 50 points, 5 cards at lvl. So basically, with the same skill level a fight with a donator/grinder will always end in a loss just because where you have 20% bonus, he will get a 50% bonus. With that kind of attitude match making (that was already bad cause it often matched you with people with a vastly superior rank/skill) get even worse: not only it can get you into a game with people much better than you, but those people will most likely have better loadouts than you, pushing their level even higher compared with yours.
+So while Hi-Rez got profit from that patch I have to ask myself: is it game even worth my time at this point? Cause I don't think it is.
+EAs Battlefront 2 showed what not do in your game, turns out Hi-Rez couldn't figure it out and has gone the same way and will likely kill this game off with there stupidity.
+[h1] TLDR: [/h1]
+[list]
+[*] Founders pack was not making any money - paying 20 bucks once and receive all champions forever with their voice pack. This is removed and they released "Champions Pack" you will lack the voice packs of all of them though.
+[*] Champion customization was partitioned: Head, Body, Weapon. Removed for static skins, this also meant that you lost your paid for content.
+[*] Terminus has been bugged and dead since he was released, he was viable due to some bugs but they just got worse.
+[*] Hitboxes are jokes, large static rectangle for the body (larger than the body by far) and a small square for the head. Model be damned.
+[*] Character balancing is a joke; Androxus, Evie, Dredge.
+[*] Not fixing the actual problems, small ones time and time again, but the core problems and issues are never addressed, which is a sin for a released game. Some of the bugs (Kinessa's Teleporter, Pip's Healing Potion, [b]Evie[b])
+[*] Limited time events that you have to purchase into to receive rewards.
+[*] Cards Unbound; the more you spend the stronger you are, now removed though.
+[/list]
+
+[h1] Actual review: [/h1]
+
+Steam says I've 658.5 hours on record.
+This is fine, as a lot of my playtime was before it got to steam having been around since Closed Beta.
+
+I love the game itself, I do, but there are so many problems that stem from how Hi-Rez operates.
+A fair few probably won't remember that there used to be a mix and match system in place for creating your custom look in Paladins. It was great, it has been removed. And with it - so did for example the Paid for quest rewards in the form of Nova Strike Visor, Optics and Helm. Gaze was kept.
+
+Or how about the Cards unbound (ha). Now up and coming is patch 2.0.1... oh boy.
+
+[b][u] New Season Pass. [/u][/b]
+This will include: [list]
+ [*] Legionnaire Viktor
+ [*] Legionnaire (war)horse mount
+ [*] An avatar
+ [*] 1500 Crystal.
+ [*] Voicepack (if you don't have the founders pack this is valuable)
+ [*] a season pass limited skin (probably recolor)
+ [*] all talents instead of having to level
+ [*] mvp pose
+ [*] emote
+ [*] an extra uncommon skin.
+[/list]
+What it will not include is the new battlepass - like it did before.
+Oof..
+
+The item store has since the beginning limited the cards you purchase (if you buy Cauterize, you cannot get Wrecker of Deft Hands) this limit is going to be removed. Good luck you poor tanks and healers, because neither of you are going to get anything done.
+This goes hand in hand with removing all instances of cauterize, wrecker, reveal, and crowd control reduction from Champion loadout cards.
+
+The game is no longer Early Access, and in released state (as they're also on nintendo switch), but this is such a massive adjustment that it belongs in the same category as Cards Unbound.
+
+For these things alone, after all these years and the sheer amount of changes that we've gone through. My review is negative. Don't start Paladins unless you are willing and able to do so without spending any money. What you get is not what you have. The game as you know is still changing unreliably so. Bugged and destroyed champions are still there and have been in this state for longer than they should have ever been; looking at you there Terminus.
+Unfortunately the game is getting worse with each patch. Its slowly going in a bad direction. You can sense it and feel it throughout the community, on the forums and in game.
+
+They have been releasing new skins instead of fixing glaring bugs that many players have reported on forums, reddit, etc for months. Playerbase is still good but it has definately started to decline losing around 3,000 players in the last month according to steam stat websites.
+
+Some of the bugs that have been ignored were openly present in the Premiere League streams these past couples weeks and the announcers trying their best to avoid talking about them. It was pretty embarrassing and awkward. 
+
+Most recently they have been making questionable balance changes to the game. This includes buffing and nerfing in areas where its not needed. Not listening to top players concerns and Introducing drastic gameplay and champion changes in a game that has been in open beta for over a year now.
+
+Some balance changes have been good but others have almost completely removed champions from comp play. It's not even the same game it was 30 days ago especially with the most recent two patches OB60 and OB61.
+
+They are basically keeping the beta / early access slogan at this point as an excuse for the existing bugs that are going unfixed. With the amount of skins and other content that requires real life money to obtain that has been released in the past few months it is hard to consider this a game in beta anymore.
+
+Some of these bugs are very old but we have plenty of new skins which cost real life $$$ though! If you take a step back and look at it from an outside perspective It's turning into a money grab.
+
+They introduced 3rd person view in OB60. Which means as of about a week ago Paladins is no longer an actual FPS game. You can bind to your mouse or keyboard and switch between 1st and 3rd person now mid match. FPS should be removed as a tag on Steam but its probably too late for that.
+
+The game is still worth checking out, but I would definitely not invest too much time and definitely not invest any money until the game developer figures out what kind of game they are trying to make. 
+
+With these most recent changes it seems very clear they are not sure what kind of game they want Paladins to be.
+
+
+
+
+Game was fun back in Acension Peak, after that it went donwhill.
+
+- Bugs became more prevelant
+- Devs dont play the game
+- Devs shove off good/relevant critiscm as hate speach or yelling
+- Half the community enables poor development, and the other half yells for bug fixes
+- T E R M I N U S is a character
+- Game forces 50/50 winrate causing steamrolls on both sides
+- Overall drop in visual quality after Acension Peak
+- Skins have become more of a focus over bug fixes and balancing
+- Parts and pieces was better than the costumes we get now.
+- Tutorial needs a huge update explaining in game mechanics (comeback, cards, talents, payload healing)
+
+I used to love the game, but its lack of real attention from the team has caused a lot of us users to leave until it gets better. I'd do the same, but there ain't no other shooter i enjoyed as much as Paladins. All I can do is complain til it gets better.
+This game is a prime example of "how to kill your own game and let the community down" -ob64
+
+Now that the game is officially "released" i can write my review without people telling me that "itS StiL iN BeTa REEEE"
+
+Not going to lie here, i started playing around 2 year ago, it was good, buggy but really fun, mainly playing it with friends so cant say much about how it is solo, but i dont think its any different so, instead of my usual pros and cons i just write a long rant, because at this point, there arent many pros i could write down, but the cons, oh boy the cons
+so get a drink, sit down and prepare yourself
+
+I hate this game, i used to love it, i used to play it daily, then i left it for nearly half a year, came back a few month ago, thinking i would give it a try, maybe its better now, OH BOY was i wrong!
+
+the game is unstable, runs poorly, crashes often, full with gamebreaking bugs, connection issues, and theres just as many toxic person in this as in LoL or Dota 2
+the matchmaking system is a joke, its either get stomped or stomp the enemy, out of 10 match, only 2-3 feels like its balanced, and the fact that hirez cant seem like to know how to balance anything in this game doesnt help a lot
+its probably goes like this:
+
+Hirez emloyee: boss, people complain about x champion being to good, we should nerf him a little bit!
+Boss: nah, lets buff him even more, and throw in a skin so all those metaslaves will buy it!
+
+The company is obsessed with money, trying to milk every single cent out of you, if you want to get anything you either pay or play for a ridiculous amount of hour, just so your fav cham gets nerfed into oblivion the next day without them ever touching it, or as i said, buffed to the point you have this champion in every single game, except ranked, because people just instantly ban this champion here.
+
+The game is in a really bad state, it losing players, and the company, despite their promises, dont seem to care about it
+
+And you might ask "but if the game is so bad, why do you still play with it?" thats simple, i spent money on this game, put a lot of time into it, and i just feel robbed, i feel like if i just stopped playing the game it would be like giving them money for nothing, when you buy a sandwich and it would be empty, you wouldnt just throw it away right? You would go and complain until you get back your money, or a new sandwich.
+
+So yeah, thats probably it for now, im too lazy to write more, im just not motivated enough to even write a proper bad review about this game, i think it just doesnt deserve even that, please dont make the same mistake as i did, dont spend your money on this broken abandoned money milking mess
+[h1]UPDATE: Good news, it seems like they are removing the card changes from OB64 and replacing it with a more balanced system. Im gonna keep this review up just as a reminder that they can do a 180 at any moment, but im happy to report the game is doing better.[/h1]
+
+
+I haven't played this game for the longest time, and i don't plan on doing it as of now. I'm writing this to spread the word to others.
+
+In one of the newest updates (OB64 or whatever its called) Paladins is changing its card system to be more like Star Wars Battlefront 2.
+
+[b]I'm not kidding[/b]
+
+Cards will only be available from loot chests, and the decks level caps will be removed. This means new players wont be able to stand a chance online, while longtime players will have no problem dominating.
+
+As of now, you can't use real money to buy this loot chests. But don't be fooled, they will most likely change this later.
+
+I thought games would learn from Star Wars battlefront's mistake, not mimic it.
+It's really sad to not recommend this game, but unfortunately I fear the game might be close to its end, mainly because of the developers that care nothing for their own game. All they do is promote skins and events with no foundation. I know its a free game and they need to make money, but to shove content in our faces is not the way to do it.
+
+Instead of actually doing what the community asks, bug fixing, quality improvements, champion balance, matchmaking, and so many more, but little to no effort seems to be put on that, the gameplay is horrible due to bugs QoL issues and extremely poor optimization. "Oh so you have a 1080Ti on your setup to run the game smoothly on high settings? Well too bad, because you won't even be able to run the game smoothly on low settings either. Something will always drop your framerate on this 2015 game made on Unreal Engine 3. You're welcome".
+
+In my country there is a big issue with ping on the game in the past 2 months, they've announced to have fixed the issue last patch, but the problem persists. I checked other games and the cennection with them is fine.
+
+I've been playing the game ever since open beta on steam (September 2016). I play the game casually and competitively, I also watch every single patch update to see what's coming and what changes. I've seen the game's highs and lows, and even on the lows I was hopeful that it would come back again to be a better game, the developers always saying that would improve the quality of the game, but the only thing they do is shove skins, skins and more skins on your face so you can buy and give money to them. Well let me ask, why would you bother buying a skin in a game that you can't even play properly? Why would you bother buying a skin that can even bug in the game (Yes, some skins bug the game, especially with sounds)?
+
+Now the balance. I-T-'-S  T-O-T-A-L-L-Y  M-E-S-S-E-D  U-P. It looks like it was made by a ten year old child. Some champions become good, then are nerfed to the ground which makes them being throw picks even in casuals. Some champions are incredibly strong, the community asks for nerfs or reworks on them, and they buff the champion even more, just like Dredge in the last few patches. And the matchmaking, both in casuals and competitive are terrible. It doesn't matter if you´re in Diamond or Masters, you´ll get people below platinum in your games, and sometimes even players that just got the requirements to play competitive (level 15 and 15 champions acquired), which means that they know little to nothing about the game mechanics, because the tutorial only teaches you that you have to shoot and cap the point, that's it. No explaining about the item store, no explaining about the loadouts, no explaining about the roles in the game. If you want to know more about the game you have to search online. And the casuals are even worse, with beginners, trolls, crashes, BOTS, MATCHMAKING. Its all a mess.
+
+The game has its good parts, but the bad parts are the ones that show up the most and end up kill the game. And what the developers do? nothing. They even made an initiative called The Hunt, to try and solve most of the problems of the game, but even helping them DOING THEIR JOB, they do little, to not say nothing, because there are bugs present in the game for more than 2 years, that are REPORTED hundreds of times and NEVER fixed. Also there still no report for cheating option on a first person shooter that has been requested a lot? Well done Hi-Rez or Evil Mojo, whatever.
+
+I really loved this game, but in its current state its unplayable, that all I feel now is hate and disgust for it. I spent more than 2 years playing this game, having fun in the beginning, meeting awesome and awful people, then trying to stand it for as long as I could recently. It was good while it lasted. I really enjoyed this game and tried to help, but the game and the developers won't help themselves.
+
+Good bye Paladins.
+Game is good, but last 2 patches show to us how hi-rez "hard working". I mean we have some problems hi-rez and I hope you will fixed that:
+- Last patch (I dunno why) starting dropping in game frames
+- Not balanced champions (Damage champion with shield and 80 ammo really hi-rez? Other damage max count ~40)
+- A LOT OF bugs and crashes, randoms log out in middle of the game
+- Bad engine and weird hitbox system (Why when AOE champs hit you it drag players down or stop them)
+
+  I love this game but if hi-rez not gonna fix all "small issues" and will not stop focusing on making money this game will die very fast...
+Im sorry but whoever is resposnsible for the latest microtransaction changes should be fired. I mean in the beginning you had only Radiant Chests and could get Crystals/Gems (forgot what they're called) every 6th and 7th day and we only had Radiant Chests for everything, you could get a Legendary Skin from a normal Ass Radiant Chest, there we're no stupid enchanting keys and what not. Later that was changed to only 7th and then came essences, i didn't liked them but overall they didn't change my experience with the game that much. 
+
+Then Hi-rez decided to divide skins and weapons into more ridiculous lootboxes but you could still earn Crystals so it wasn't as annoying even though Radiant Chests itself became quite useless for those who bought their Starter Pack. 
+
+Then came the ridiculous VIP system... i mean that's basically 4th currency in-game... we already have gold which in itself is quite useless if you have all champions (i mean sure you can spend it on radiant chests but these days they only give essences and shitty looking pallete swap skins so if you don't need them then well... they're quite useless), essences that are only needed for crafting champion cards (we used to buy them with gold) and besides the premium Crystals, we now have VIP Points, sure you can earn them in-game by playing, but it is a painfully slow process and to get anything with them, you basically have to buy VIP Membership.
+
+Do you see where im getting with this rant? We used to have a fair and balanced Microtransaction system that basically was far superior to the ones found for example in League of Legends. Nowadays Hi-rez wants you to pay for almost everything... It's open beta for crying out loud you should focus on fixing the broken balancing, disconnections, matchmaking matching people with Ranks much higher then you have (i mean come on last time i've played ranked i was against the team of diamonds and one master rank... and im Plat 3 ffs). 
+
+At this state i simply cannot recommend Paladins, it used to be good, hell i defended it when it came to all Overwatch haters, but at it's current state, if you want a Hero Shooter, buy Overwatch or hell... play Team Fortress 2 (and i thought i would never have to said that again considering how TF2 is a shadow of it's former self).
+To those who are still playing this game after the latest patch:
+HAHAHAHAHAHAHAHAHAHAHAHAHAAHAHAAHAHAHAHAHAH
+
+Introducing unbalanced champions all the time & overhauling the game system more frequently than I change my pants & now adding p2w elements; say hello to the long lost brother of EA!
+
+If ruining a game is an art, then Hi Rez is the picasso of it. As our dear brother "Hound" would say, "Paladins: Overpowered C*nts Of The Realm"
+I have never seen a company kill its best game faster than that ever, OB64 makes EA's usual bullshit look charitable, and thats saying something.
+
+Fix this Hi-Rez and I may consider re-installing this game.
+
+EDIT: Hi-Rez has remove almost all of the changes in OB64, I feel like its a safe game to return to now.
+I cannot in any way recommend this game to players new or old. 
+After nearly 800 hours, I had to say enough is enough and uninstall.
+
+This is no longer the game I fell in love with - it is so far removed and changed from what it once was. 
+It had a huge community, growing player base and so much potential but in the last 3 months every single patch has made the game less and less fun to play. If you download this game, you will no longer have a fun gaming experience, wether you're in it for casual or competetive reasons.
+
+I do not recommend at all.
+EDIT2: Somehow they managed to revive game at OB67 and fix almost every problem the game had, it's all good now.
+
+EDIT: Nevermind everything I said, OB64 is a joke, it's not even funny... Just don't get any close to this game and stop supporting anything related to Hi-Rez.
+
+Don't get me wrong, I love Paladins and had alot of fun like in no other game, but I just can't really recommed this for anyone at the current state because of the current design choices, that are driving ppl away from the game, such as:
+
+1st - The nerf of hypermobility (mobility in the general) which was what made this game so much special, compared to it's competitors
+2nd - The reduction of TTK (ridiculous increase of damage)
+3rd  - Most of old bugs still are not fixed (Pip Healing Potion bug)
+4th - Balance changes are made by ppl who have no idea what the term balance means (they will just overnerf a champion that was doing fine to the point of it becoming unplayable) or give buffs to champions that didn't really need them (buffing Lex/Seris without toching the other champions in need). 
+5th - Implementation of not-fun-to-play-with/play-against-champions, such as Lex, Lian, Strix and the recently added, Vivian.
+Dear New Paladins Gamer ( for the ones that already  play this game... please hold your tears, we are strong ) 
+
+I would love to say "Welcome to the dynamic realm of Paladins  " but I would be lying to you... It was a great game, with it's bug and all but.. yeah in the past ( by that I mean before OB64 ) 
+
+I guess the right thing to say will be " Welcome to the pay2win, no respect for gamers and it’s community Paladins” 
+
+What made Paladins fun is know gone… ok… ok… you still can make some adjustments to you champ but belive me… it’s not the same… it’s way worse then it was back in the “old” days of Paladins… 
+
+Back in the days ( before OB64 ) I got some conversation with  other game players , I can’t say the name of the game because someone may overwatch it, and they said “ Paladins is more fun then _____ because it’s more dynamic and you can and has more variations”  but that is gone , I know… you don’t understand what I mean let me try do explain a bit 
+
+You can adjust some skills from the champ with some card but since you are know you have low lvl cards but you can grind the cards until you get some high lvl card but when you get those card at lvl max it will by your grandchild that plays the game , but since you spend your life grinding card… you have no grandchild. OR you can buy chest so you can loot the crap out of them so you can lvl up ( see the pay2win part?) and well you got your card at lvl max you think “ I’m lvled up… I go play ranked” well…. No meter what’s the lvl of you card it will turned in to a lvl 3 cards ( ALL OF TEAM ) in a ranked game so you cant really adjust your fav champ as you want ( remember these good days veterans , well call us veterans because now we only can think how good Paladins was even with the bugs and OP champs…ohhh good days…. 
+
+I know what you are thinking New Gamer “ what he is saying makes no sense” , that’s because it just don’t make no sense to no one , check on youtube Paladins OB64 and you will see that no one understand this. 
+
+
+I wanted to say “ Enjoy this game” but all I can say is… Good luck… 
+
+Paladins is an FPS MOBA that I used to play a lot before the many many horrible patches the game has suffered through. It's biggest downsides used to reside in people going AFK in matches or trolls ruining games, but now it's much worth than that.
+
+They sell everything, they have 2-3 types of microtransactions and DLC out there, temporary experience boosts to allow you to level up faster and the new cards system look terrible and tedious!
+
+As of now I'm just going to leave this somewhat not-so-detailed review out there because I don't want people to think the game is still great like it used to be. It's slowly becoming something people are hating and I'm jumping in the boat because every patches makes it worst, really reminds me of Runescape at this point!
+This WAS the best game until Cards Unbound. Im highly dissapointed as to what Hi-Rez is doing. Obviously the community is unhappy with this new OB64 patch yet the DEV's are too full of themselves and want to make money. This game will lose thousands of players before they can say "oops". I hope the DEV's realize their big mistake and remove Cards Unbound.
+
+I am going to take a shot at the game after OB64 to see what its like but its obviously without a doubt going to be broken.
+
+The game is fun dont get me wrong but the DEV's are slowly ruining it...
+
+"Free to Play" but "Pay To Win"
+Devs don't know how to fix problems. Only Create them. I kid you not, this game gets worse with each new patch. Don't bother with this crap. 
+
+BTW: The New champ Vivian that just came out as I write this is literally 4 Champions put together. She is pretty much all 4 types of Classes put together. F*cking Beautiful...
+
+EDIT: OB64 Patch... My god, Hi-Rez. WTH is wrong with yall. Yall are ruining what I thought to be one of the best F2P games out there. Please don't do this...
+**TL;DR**: An upcoming patch, OB64, will turn this game into a pay2win MMO. If you are not into pay2win games, don’t play Paladins and don’t support it with your money.
+
+UPD1: At the time of initially writing this review, the  pre-release version of OB64 was PTS 4. The next pre-release version, PTS 5, is currently being tested on a test server, and it has made things even worse, so I currently hold totally no belief that Hi Rez cares, and am not even sure if I stay in the Ranked mode, which is supposed to be unaffected by pay2win. 
+_____________________
+My review is going to be a bit longer than the others, sorry about that: I am this kind of person who writes walls of texts. 
+
+At first I was planning to write a long review that would deeply analyze how does Paladins compare to Overwatch, e.g. "Overwatch has way better graphics and lore, but graphics and lore don't bother me, both games have crappy balance (you can find tons of articles about both games), Paladins have way more interesting gamemodes (compare the boring Payload in Overwatch to the Siege in Paladins), lower time to kill, better average mobility, etc”. Actually, from my extremely subjective point of view,  Paladins wins against Overwatch as it is now. As it is before the OB64...
+
+On December 13th a new update is gonna hit (and most likely kill) the game, with a system called "Cards Unbound", which is gonna turn Paladins, currently a free-to-play session-based FPS/MOBA game, into a pay2win MMORPG. 
+
+Here you can read more about that system's cryticism: https://www.reddit.com/r/Paladins/comments/7glgis/why_cards_unbound_is_an_absolute_nono/
+Don't forget to read the comments, they have some extra points raised. 
+
+Here you can sign a petition against it: https://www.change.org/p/hi-rez-do-not-introduce-the-cards-unbound-system 
+This is already signed by 6241 people as of 7. December 2017, which is around 1/3 of average amount of daily players for the last 30 days (according to Steam Charts: http://steamcharts.com/app/444090). After just 6 days in!
+
+I am lamenting, but not because I can't afford Overwatch -- I own it, but I just don't like the low TTK (time to kill), low mobility, poor optimization, and many more other to-be-improved aspects of the Blizzard game. Neither am I whining because I cannot afford to buy those powerful cards that are to be released and basically require you to pay or grind: I can afford them. But I just don’t want to pay for them.
+
+Playing a pay2win game is unfair in any case. If you win, you cannot be proud of it, because there is a chance that you have won just because you have paid. If you lost, you can always just think that it happened because your opponents have bought better cards. 
+
+If I am going to play Paladins after this update, unless the concept of "Cards Unbound" changes, it is going to be ranked matches: they will not have they pay2win aspect, cards' level will be a fixed number, equal for everyone. However, I am not even sure about me playing ranked after OB64 as it is currently announced, for the following reasons:
+
+1) People who don’t play ranked games, perhaps at all, and only play non-ranked matches, can get fed up with the upcoming pay-to-win chaos, and transfer to ranked games with their non-ranked mentality: for example, not playing to win, but rather playing for fun and for the sake of it, not caring much about the rest of the team, about coordination, picking the right characters for the current situation instead of the one you like to play most, etc. This will spoil the fun for many ranked players, who expect a lot of team cooperation to win. Of course, those unranked-thought guys will unlikely fit in the high-tier divisions like Diamond (top 16% players), but they will likely spoil low-tier ranked divisions like mine (Silver IV, something very low). I am, perhaps, low-skilled, but I am very deeply involved in team coordination, and expect other ranked players to be that way.
+2) This is covered by the Reddit post, but some the balance of Paladins was largely based on the cards. If you drastically change them, you also harm many aspects of Paladins that make it a good game. Some cards that enhance movement abilities gonna get nerfed — means that mobility in general gets nerfed once again, and it is harder to escape when you think that it is time. DPS abilities’ cards are buffed — time to kill becomes lower again, healing is indirectly nerfed, tanky abilities with limited tanking HP pool are indirectly nerfed, DPS heroes are buffed. Some new abilities get introduced during the chaos of OB64 — there will be no testing environment for it. Etc, etc. 
+3) Also covered by the Reddit post, but the game will mostly lose its customization aspect, which I liked very much. 
+
+Overall, it makes Paladins five steps closer to the pew-pew shooters like Battlefield or Quake. Don’t get me wrong, they are awesome! But I liked Paladins for being different: after all, if I want some pew-pew gameplay, I can just play Serious Sam, Battlefield, or Quake. 
+
+This also makes Paladins 10 steps closer to a typical Asian MMO, with a typical grind2win and pay2win fests. While some gaming cultures consider pay2win something typical, any such mechanic alienates the game from the competitive genre.
+
+I am very sad about it, but Hi-Rez, the developer of Paladins, seems to miss the events currently happening to EA and their recent “hit”, Star Wars: Battlefront II, that has lost billions of dollars for their lootboxes problem. 
+
+Another problem is that when the game has so many players, it is very hard to find friends to play with or get your players into this game. They will all learn about they Pay2Win hell that this place will become and likely decline the offer. After all, it will be a bit unfair to know about this and try to get someone to play Paladins. 
+
+I would be glad if they cancel this update, but I don’t believe in this. I will try to find my own place under the sun of this game. 
+Though, I strongly not recommend this game to anyone who is not deeply involved yet.
+
+Yes, I understand that the game developers themselves are *likely* not the ones to be blamed: the executives are. But crap is still crap, no matter who is responsible for it.
+Paladins had everything to be a good game, and so it was in the beggining, but with each new OB it got worse and worse. About the Public test, devs never listen to the players feedback, and now with the OB64 it has become Pay2Win or Grind2Win which is pretty boring. About the so called "Champions Balancing" this game never had it.
+- Global Agenda
+- Tribes Ascend
+- Paladins
+
+Low-Rez is once again killing a great game introducing pay to win mechanics. I fear for SMITE players 
+
+Just when I was starting to enjoy this game... 
+
+I guess I need to thank Low-Rez. Instead of getting the founders pack, OB64 made me buy Overwatch instead. It's not perfect, but you pay once and that's it.
+You would think a dev team that screwed 2 potentially good games up by monetisation (to a point at which a F2P game becomes P2W) in the past would learn from their mistakes.
+Nope, here you go, you started digging a hole next to tribes' tombstone!
+
+I kinda regret buying the founder's pack now 
+
+
+good jop hirez...
+PAY TO WIN. 
+
+used to be good. slowly changed into a lootbox ridden gambling simulator. your success in the game is now determined by how much money you spend to power up your abilities. 
+
+do not try it. overwatch is cheaper.
+"We remain committed to Cards Unbound and its core mechanics." is the new 
+"The intent is to provide players with a sense of pride and accomplishment"
+
+It all started going downhill after the mobility nerfs and lowered TTK but OB64, if it does go live, is the last straw for me.
+Hi-rez is ruining another good game with their greed. Cards unbound is P2W garbage and should just get scrapped.
+This is a real shame. They've stubbornly gone ahead with a patch that a vast proportion of their playerbase was strongly against and obviously so. They pretty much turned a deaf ear and held the stance that they'd planned to implement this new card system so it's going to happen. Sure, they pushed back the update a bit and tweaked it some before pushing it out but it's still unwanted and it has still turned away a lot of people, myself included. I'm not saying I'll never play it again as I may give it a go from time to time, but I've lost a great deal of interest and found myself moving to other games, so we'll see.
+
+To explain the bulk of the issue, in OB64 which launched today, they've changed the loadout card system. Previously, you spread 12 points across 5 loadout cards. Each of the 5 cards costs 1 of those 12 points and with the remaining points you decided how much more, if at all, you want to boost the usefulness of each card until you hit the required 12 points with a cap of 4 points per card. This allows for a good amount of customisation and the game was also pretty well balanced (if you don't count the most recent champion additions which seemed OP to me).
+
+Now they've made it so that you still have a 5 card loadout, but there's no points limitation. You can level them all up to level 10 which is the new points per card limit. However, you can't use a card at level 10 unless you own it at level 10. You level cards up by getting duplicates in RNG loot chests. You won't be able to max out a card without a lot of time and luck... Unless you feel like buying a bunch of chests for real money to save yourself some time. Obviously a player who has all level 10 cards will have an advantage over a player who has all level 5 cards for example. The level 10 player will also probably have been playing for longer and be more skillful than the level 5 player, which widens the disadvantage a new player has. This makes the game unbalanced.
+
+Having said this, you can play gamemodes where everyone's cards are locked at level 4 (they're boosted/pushed back to 4 points each for the match regardless of what level they're usually at). This addresses the unbalancing issue but kills a good chunk of the customisation possible in the 12 point card system.
+
+You may wonder why on earth they went ahead ahead with this. There only seems to be speculation over reasons why, which you'll probably find pretty easily if you're interested in the Steam discussions and on YouTube etc. I won't give any reasons here because it's speculation. I just think it's lousy that Hi-Rez Studios was so determined to go ahead with something that got more negative than positive feedback. They also handled it poorly by making little effort to address the concerns and seeming to mostly ignore the comments regarding this update. If people have concerns you should address these concerns. Leaving them to build will not help the situation. The only time concerns can't be addressed properly is when they're justified and if they're justified then there's a problem.
+
+For these reasons, at this moment in time I would not recommend this game.
+Well in the beginning you could get everything fine and dandy, daily bonuses were fine, balance was fine, and you didn't HAD to pay for skins etc, later the game started getting into downfall, Big changes, Essences, vip system and deleting Crystals which farmed slowly allowed you to get what you wanted, cosmetic shit, also we don't need new champ every 2 weeks, you could buff some other champions that not in the meta, or rebalance some of older champs, skye is out of league i bought both packs cuz i thought game need support it's good it's gonna grow bigger and gonna be better, just listen to the community, well nope... sadly im thinking about quitting this game because latest changes made me sick...
+At almost 1000 hours on record, and around 50-60 euros spent in-game, I have really enjoyed this game for the last year and a half. That being said this game is on a down spiral. Developer HiRez is constantly ignoring the community wishes, they are not fixing the bugs that are in the game for at least a year and a half now, they are constantly pushing new modes, characters and skins, which makes even more bugs, and now they have introduced a new pay to win or play to win aspect that game didn't need and nobody wanted. Every cosmetic item and skin has become locked behind RNG and countless chests. All they had to do was to polish this diamond of a game and release it. Instead of focusing on what makes this game great and fixing all the bugs in the game, they have now decided to make a batttle royale mode :) I feel betrayed for all the money and time I have invested in this game and in its current state I can't recommend this game to anyone.
+Latest update = Pay to win garbage
+
+Don't even bother.
+
+05/10/2018 Update: They left Early Access now, and the pay-to-win garbage was removed a couple of months ago. It's still a buggy mess that should still have an Early Access label attached to it though. Go figure.
+One of my former favourite games. The developer has made very controversial decisions in changing the game. They pushed it too far this time with the new P2W mechanics and totally ruining what made this game fun.
+Paladins was a great game. It really was. Unfortunately, the game has been corrupted and ruined by money craving devs who will alter and mess the core systems that players love in order to suck out every dime they can get their grimy hands on. Saddened that it has come to this.
+This game was alright. It has loads of fun installed in it. But it's just one big cash grab game with too little focus on bug fixes and too much focus on god forsaken cosmetics.
+There are just too many little things that stack up against this game to make it worth playing. I played it last year as I was looking for something similar, but less intense than Overwatch. I thought I had found exactly that with Paladins. Unique characters, the card system, and the ability to balance nearly any match with item choices was just different enough to scratch the team-based shooter itch. As fun as the game is, the constant reminder that they are focused on getting your money instead of making the game enjoyable is just overwhelming. Sound cues getting played twice, frequently, the being forced to watch the play of the game instead of being able to leave to piece together your next loadout or invite that buddy that just logged on, and recently, the mouse aiming not working, but it still showing up and working correctly in the menus just all stacks up to remind you that you should be playing Overwatch even though this game could offer so much more than Overwatch could ever dream of giving you. 
+I will have to put this game away for another 6 months to a year and come back to see if the rumors of the focus on debugging is real or not. I hope to be pleasantly surprised and find this game holding its head high.
+It was a great game until OB64 came. They didn´t fix anything. Now the game is buged even more. It´s unfair. If the goal of the patch OB64 was to make me buy something for real money it´s doing exactly opposite!
+I have moved to Overwatch. Officially. This game is great, so long as you ignore the current "Cards Unbound" system, Hi-Rez's apparent focus on microtransactions over gameplay, or the complete shunning of half of the champions (Skye specifically comes to mind)... Oh, wait, that's almost half of the gameplay experience revolving around the game. Heck. 
+Well, nevermind, this game has fallen so far from grace that it's almost hilarious, and I would be laughing if I weren't crying, mourning this game which I love. Loved. Still, I remember having more fun in Paladins than I do with Overwatch. Even if the matchmaking system was garbage and Hi-Rez consistently ignored my favorite champions (Barik, Ashe, Inara, Sha Lin, Tyra, Grohk, Lex) or some of my friends' champions (mainly Pip and Grover) in favor of either buffing already obnoxious or sometimes overpowered champions (Drogoz, Evie, Maeve) or nerfing already paltry champions (Grohk, Inara, Pip). Either that, or Hi-Rez completely ignored the gameplay aspects of an update, pushing out ten champion changes, max, all of them miniscule compared to the microtransactions that they decided to implement full-force and suddenly that update (See: Essence system, Cards Unbound). Paladins was a great game. I only wish that Hi-Rez would stop taking a page out of EA's playbook. Ignore this game. Go play literally anything else. Steam has some great paid experiences that aren't Overwatch that are more worth your time than the shell of its former glory this game has become.
+After the recent ob64 patch I can not with good concious recommend this game to anybody who wants a free game experience but expects a level playing field.  There's none, the moment you step into the game you will get STOMPED by anyone with lvl 5 or higher cards.  Card levels in Comp are static but paladins comp was already terrible. The game is just not fun any more and  HIrez has made it so grindy for progression they expect you to purchase chests to progress. 
+
+There are better free games to play.
+
+Don't make the same mistake I did.
+I have been playing this game for a while. And while I was playing it i felt a little bit down to the fact that I will end up grinding just for several characters + skins! (And thats in case if you dont buy the champion pack which costs about 30$USD)! All I'm saying is that the has a good pontential but it's not redeeming it's self, and the game should to! The game also feels "overlapped" with the amount of characters that should 100% be fixed and the amount of people want you (The devs) to fouces more on bug fixes, rather then releasing couple more skins every single 3 weeks! But with all of this cons comes the pros!!! First the game is free and it's a very good game for people that are looking for free to play type of games! Second a lot of characters to choose from which makes the game a little bit more fun! The only thing you can buy the in the game is cosmetics (Which none of them change the gameplay at all)! It's much more fun with friends and also a really great game to have a good time with your friends! Every map in the game is desinged well and it's really easy to learn them! overall 3/10! I personally wont recommend this game to anybody!
+This is a great example of a game with amazing potential, ruined by lazy, money hungry, and ignorant to their own community Devs. The amount of bugs, paid for skins hidden behind lootboxes and balance that never seems to sit in the right spot. There are definitely redeemable factors with the gameplay loop, large range of characters, good art style and quality and interesting maps its all majorly let down by the Devs failing. I will play this game from time to time but I will not dare spend a dime on it until it gets into a decent shape.
+Initially very fun and no real pay to win aspects other than unlocking all champions, which you could grind out most of them with playing.  I had gotten to fairly high competive level in just 90 hours with a fun tight community.  HOWEVER
+
+Now they have upcoming skins where even dumping tons of cash into it won't get you to a fair level.  New players are forced into paying just to get their cards to a decent level.  This also levels no way to practice competitive as all cards are locked at level 3.
+
+Was a great game however it has unfortunately now become pay to win instead of pay to get some cosmetics/reduce grind.  Can't recommend the game as it's clearly a cash grab before the game dies out.
+This game has a terrible net code. Its worse then smash bros brawl online with the wii. Filled with bugs. Great game terrible net code which makes it unplayble 65% of the time so i cant recommend it.
+Here is a look in on the paladins experience
+
+Log in, start queue, wait ten minutes in queue until game finds enough people, one of the people on either team doesn't choose a character and match cancels and booted back to queue, repeat ad infinitum.
+
+Or
+
+you get a match but all four of your teammates decide to instantly pick snipers and spend all game acting like they're in death match and refuse to ever go on point and you are again forced to be both healer and tank to jerks with no sense of respect.
+
+To reiterate, it is profoundly bad design to have to patiently wait while a bunch of luddite degenerates throw a hissy fit five out of six matches because someone picked their favourite sniper and force a queue reset and from what I have seen there is no incentive to curb such behaviour.
+
+This is not to mention that twice in my first 15 hours of game play my controls had mysteriously reset and have to go through the tedious process of remapping keys as well as the numerous times while in game the auto-buy for inventory mid-match does not function.
+Played this game and yes it was fun but - this latest version has all the fun sucked out of it - the mechanics have been changed far too much and the unbalance of future systems? Who knows. It was fun while it lasted.
+the game is great concept that devs turn it to money maker only now.. after almost a year and half playing this game since open beta before even they brought gold to game i stopped playing it for like 2 weeks now even more idc but i just had enough here is why 
+1-the game is free to play yeah but now days is pay2win too some skins and cosmitics give u advantage and some skins cause the other players to have frame drops and some skins are too big but hitbox of it is small mean u shoot skin it self but deal 0 dmg on target 
+2-matchmaking is shit what the point of acc lvl if 400 get match making with lvl 20 or 15 or the point of ranking system if master and grand master get matched with silver or golds it doesnt make any sense 
+3-too many bugs every single character in this game have bugs and some characters have 4 or 3 year bugs that didnt fixed yet even the new champion imani get like a month on pts server and released to live with same pts bugs like divs not even care and in game frame drops ping spikes so much shit that ruin the gameplay but no one cares 
+4-no reason to play for old players u just play to farm gold and champ exp its good for new players they have something but old players like me who have every champ and mo0st of champs are over lvl 30 what i play for ? fun ? no fun with these bugs in game old pladins there was chest drops for free u get shit for playing the game rewarded u for playing but now its just gold or free battlepass farming which gives u 0 shit 
+5-everything in this game now is about money  skins or frames or titles its with money even fuckin emotes and sprays who nobody cares about them are have thier own chest now and u get them for mony u wanna enjoy the game give us ur money 
+6-everygame u play there some 1 in ur team who go afk or troll or feeding and report system doesnt even work 
+7-devs doesnt care about community of this game so why should i care about them or thier game 
+i love paladins but i just had enough of its bugs and current state of it if devs keep it money maker the game will be dead soon old players are leaving the game is a joke now or meme some esports players have left the compitive scene save ur game hirez or evil mojo whatever care about the game stop care about money the money will come if u fix ur game make it intersting again
+A potentially great game ruined by unattractive micro-transactions, identity issues, out-dated engine, annoying bugs and poor quality-control.
+Switched from Xbox to PC to try this version and both suffer from the issues I listed above. 
+I really enjoyed my time with this but because of it's problems I just can't stick with it.
+I was playing the game using SteamPlay.
+
+The game was working fine until EAC started detecting Linux players as cheaters. The review will stay negative until it's fixed.
+They turned Viktor from a stereotypical grizzled Russian veteran, into an edgy hipster with douchebag hair, and some lonely developer has apparently taken the time to hand craft boob animations for all the female characters. That really does sum up this game's development since it came out.
+
+This game used to be a straight upgrade from overwatch in everything except graphics. Now it both is and feels like a buggy, amateurish dumping ground for assets they want to use in other games.
+
+TLDR: They had gold and turned it into lead. Great job Hi-Rez.
+paladins had lots of potential when i first played it, before the imani update, but the new update lacks and there are too many op characters. when playing in non-competitive you're almost always to get bad or uneven teams, and there are too many bots/people with macro's. 
+
+i've had a loss streak of probably 10 rounds straight due to teammates going afk, xp grinding, or just leaving the game. 
+
+overall, it's a good game but i'd love to see another update where the developers focus more on bugs and these sort of things rather than new skins.
+A buggy pile of donkey excrement that the devs don't care about except that it makes money. If you don't care about broken matchmaking, a host of gamebreaking bugs, and shitty devs, then, objectively, it is pretty fun.
+The game is very toxic, full of bugs, and broken from the inside and outside. hitbox, broken kits, mess mechanics, and not even a decent matchmakin to play casually. It's just too much toxic for somebody to enjoy this, despite having some characters that I aboslutely like, even in design. In the closed beta everything was so much better...
+
+But it is not worth to endure all the rest
+With the new OB64 update they killed the game. I loved the game before that but now it's even more broken then it already was. Queue times take forever since hardly anyone is playing this game anymore. The grind is impossible unless you're a veteran. I've played this game for more then 200 hours (non-steam version) and I supported the game through thick and thin, but not anymore. Hi-Rez, you've fucked up once more.
+Garbage game that hangs on "loading profile" since January 2019.
+Easily the worst match-making I've ever seen in video games.
+Ridiculous amount of bots in 2/3 of matches because people often crash because of various bugs and glitches and get replaced by bots who often cannot even leave the respawn. All thanks to extremely poor code. 
+Shit ton of bugs that are not getting fixed for years. I started to play Paladins in Summer 2018 but there are bugs like Strix ultimate flash bug that blinds you for extra 2 seconds on DX11 - according to the community this bug exists for ages and was never even announced to be fixed by devs. And there's a lot more of those bugs, including the launching bugs, menu bugs, interface bugs, champion bugs, visual bugs, sound bugs, client-server bugs, poor netcode, etc.
+
+Don't get me wrong, it was actually fun to begin to play the game and learn about the champions, their decks, their abilities and playstyle. 
+But the more you play, the more you get irritated by this game. Without something new to learn about the game you beging to notice how poorly it's supported, how disconnected and unresponsive are the developers and how the core of the game is full of holes like a swiss cheese. 
+There's no joy in playing with bots because people are crashes so often, there's literally no other game that I've seen has so many god damn useless bots that are replacing real players during the match. There's no joy to even attempt to launch the game because it fucking hangs on "loading profile" every single day now. There's no joy to even bother with it because you get an authomated response from devs about "restarting your router". 
+
+Paladins could be improved with a tremendous amount of polishing and actual dedication by the experienced and educated programmers, however Hi-Rez focuses on releasing skins and battle passes every 2 months in 2019 instead of fixing their game.
+Overall a fun game but to many bugs,toxic players,match making same like ow with throwers and complete noobs.
+As a pure cartoon game to waste time or maybe get friends and try comp then its good,its slow paced so it does not take much to reach a high rank.
+I used to play this game so much but left a bit to play overwatch. I came back to check it out in its current state and they ruined. I bought the champion pack and regret it. If you are thinking of buying the champion pack dont save your money and buy overwatch
+This game is just a nerve wreckage, community is toxic and most of the time you play with trolls and bots in matches. Individual skill has no impact on the match and neither on your ranked score. Matches are unbalanced, either in casual or ranked, some bugs, like game crashing, haven't been fixed in 1 year but there are added more and more skins and unecessarry chests that more and more expensive.
+I have a love hate relationship with this game. The game itself is fun but the bugs, unbalance and the community ruins it.
+Good game. Bad devs
+Developers don't care. 
+Skins constantly promoted at ridiculous prices.
+Skins arent even good. 
+Quite a long grind to ranked.
+I cant be bothered to keep playing a game i know will eventually die.
+Its kinda holding onto threads right now imo
+Also up to level 5 you play against bots. Kinda annoying then dont tell you that
+There are 3 types of paladins players
+1) Ones who are team players and do most things right
+2) Selfish Pricks that want to play damage/flanks and pat their stats and give two shits out the team
+3) Ones who are clueless and pick the wrong healer/frontline and screw the team over.
+
+From my experience playing quickplay and ranked. If you really want to play this game, PLAY AT YOUR OWN RISK!!!!
+Having a team of players who actually know what to do doesn't happen often so cherish the moment cause next game more than likely you'll have Selfish Prick or idiots.
+it was my fav game for years now. BUT:
+* i need to start the game 3 to 5 times to get through "Loading profile" freeze
+* imani's dragon hangs mid-air after death. i can't see anything through this flame!
+* today TWICE i was disconnected at the beginning of the game
+* when i'm not disconnected i can't push "Play" button for 10 minutes, and then got "DESERTER" cooldown... really nice
+* half of match i just shooting bunch of T-posing floating models
+* i got chest! yay! can i open it? nope! because this section of store can't load and i see bunch of message placeholders.
+* i know someone in Hi-Rez really REALLY loves dubstep, techno and stuff, but do i really need to listen to Strix music in his Daft Punk rip-off skin?
+* also, Strix and his one-shot gun
+* my hitbox is of the size of a van! you can't see me behind the wall, but feel free to shot somewhere near me and i'm done
+okay, I suffered through this quietly for years
+but you just had to do it with koga! every f*cking game now have koga with his infinite claws.
+So long, Hi-Rez! I'm off to play Apex Legends - game from guys, who spend some time on polishing, rather then designing stupid- a** map with Stan Lee narration on loading screen!
+The game was good at some point, but every single event in the last time was bugged as hell and is just a waste of time ( Quests not counting, Achievements not unlocking ). No fun in this any more. Furthermore are several Paladins totally imbalanced and also buggy...
+The gameplay is great, I love it. But the developers don't care about the game at all. Bugs go unfixed for months, some even years. The matchmaking is broken, and after 1000 hours of playtime I still get matched with people who are clueless about how the game works. For the last 4 weeks or something the game has been freezing on launch, if I restart it a bunch of times it will finally let me in but I don't want to spend 40min doing that every time. I cant understand why this bug isn't a priority, I expected it to be fixed within hours and it's been 4 weeks now. Guess they don't want us playing.
+Some achievement doesn't work and I've been waiting 4 months on a support ticket with no reply.  
+
+Stay away from this game, it will only frustrate you.
+thank god it is for free. the game is quite unplayable due to mouse lags as hell. i can't understand game studios which are not able to fix dis shit, but come up with absurd fix advices to setup this and that to get the shit working. wasted time. don't get it on your fingers and search for sth else to do with your lifetime.
+After over 1k hours i can safely  say that this game is trash .Unplayable and literally game breaking bugs have persisted and been active in this damn game for literally years . Horrible match making , champions balance is all over the place and the devs primarly focus is on making more skins instead of fixing the game .
+Since they didn't fix the problem of freezing on loading profle (it has been like that for 3 weeks - a month already), and some even say it got worse because they can't alt-tab after that screen freeze; I'll say that you shouldn't try playing and giving your time, god forbid money, to this incompetent company. One should not need to jump through burning rings just to launch a game!
+is a good game over all but only brings anger and frustration due to the broken hit boxes of a lot of characters such as  androxus, kinessa, vivian (sometimes), and koga to name a few. if the hit boxes were changed to that of say cassie or lian who's hit boxes are very tiny and precise matching the enemies character body. doing this could (and most likely) bring a portion of your player base back.
+It's a copy of Overwatch with worse graphics, and Fortnite themes. 
+
+Most characters are unbalanced to play together, ranked is very unforgiving to losses and with them making it so that you don't need any qualifications of lvl, like before, you'll get a lot of new players, trolls or people that throw if they don't get their character. Most of the community is toxic, not all, there are a handful of great peeps and when you get lucky enough to get a team of them you can have some of the most entertaining fun matches. Sadly those matches are far and few between and have a better rate while playing Overwatch. 
+
+As you play its not so much rage inducing as much as disappointing and disheartening. You aren't given the option to leave matches either even with someone throwing the game, lag, etc. because then you'll be tagged with a 30 min ban for leaving and longer if you do it again. The game will DC you even with good connection and/or low quality from time to time and  sometimes even give you a deserter tag for "the game" kicking you. While tagged you can't really do anything in the game besides look at the shop or you load outs. 
+
+This is a good game all things considered but unless you are playing with friends, the random people the game puts you will will make it less than enjoyable most of the time. If you just want to kill people and mess around and don't care about winning or losing and just wanna kill time then for sure play this game. That has become the only way I'll play the game without friends usually now.
+
+ The game also has had a lot of drastic changes in the past like a huge health and dmg changes and how the rewards and money and such work, so keep that in mind before investing cash into the game. 
+
+The good things about the game is that it's good for what it is, it's a decent game, and it is free to play save for cosmetics. Though overall I'd say save your time and play TF2, Overwatch or some other game that's more consistent and has a better crowd playing.
+This game is full of bugs,every champion is bugged(some of them have more than one bug),game is unbalanced(matchmaking) and champions are unbalanced too.What to say about maps expect that they are bugged too.
+This game's trash.
+Imagining playing Overwatch but its  trash and you can only play against bots plus it has all of the shitty battlepass that Fortnite has because yeah this game has none of what made these games  popular not good cause Fortnite is pure trash crack for 7 years old broke virgins that have their mom's credit card information by heart.
+This game is not recommended for a few simple reasons;
+1. Absolutely terrible match making.
+2. Constant FPS drops
+3. Constant bugs - some have existed since early beta - Crashing, champions going invisible, some champions literally breaking the moment they use their ultimate, some getting their ultimate blocked from working until they die. The list of bugs goes on.
+4. Hi-Rez doesn't listen to its community, they make attempts to put out messages saying they are working on things but anyone who has ever worked in customer service knows these are just standard lines to take when shit hits the fan.
+5. The games most well known players are moving away from Paladins and the streamers/viewers are falling every day - unless of course there is an event on where you get free skins then people will leave the streams open and make it seem like there are actual people wanting to watch this game.
+
+There is literally no reason to play this game, there are plenty of other FPS games out there without the frustrations of a god awful developer who really doesn't care about you unless you're spending money.
+Game forces way too many bot matches before you can finally play vs. other players.
+
+I've played enough class-based shooters to know the basics, don't force me to do more than 3 bot matches for god's sake.
+
+The newer, more expensive characters often seem to be way stronger than the older paid for, as well as default characters. The newest character literally gets an ultimate ability that turns them into a 7500 HP flying dragon with massive aoe fire breath across the map, AND if you kill it she still doesn't die. That's cool.
+Put 200 hours into the beta.
+Decided to try the game again.
+Start a casual game.
+Everyone picks damage/ flank characters. I pick tank to PTFO, since we have no tank.
+We lose in 5 minutes.
+Yeah, now I remember one of the reasons I quit this game in the first place. Unless you play with a coordinated team, you're counting on your autistic teammates to provide backup. Why should the amount of enjoyment I derive from a game so greatly depend on people not being fucking retarded?
+This game has a lot of balance issues.The hero that being added is frickin powerful compared to the previous hero and make the previous hero unplayable as fuck.
+Sooo....completely new to Paladins and I just got two team kills with Viktor in a matter of minutes without dying. Don't nerf Viktor...because he's completely balanced. (Nerf the shit out of Viktor holy shit.)
+Wanted to try it instead of Overwatch again, just to discover that 21:9 resolution isn't supported. Well, then Hi-Rez obviously doesn't want any returning players. Uninstalling again.
++500hrs and $14 dollars later, I'm done. Buggy mess, unbalanced champions, awful servers, awful matchmaking, garbage community. This is not poor man's Overwatch, this is poor man's Garfield Kart.
+This game is mostly pay2win, where only basically all the people who drop the most money on it will be able to drop you with literally two shots, no matter where they're aiming at. Absolute waste of time, breaks even a nice local party due to shoppers
+The amount of game-breaking bugs in this game is really unbelievable. At this current moment, I can't see anything except my teammates usernames in game. Even if I love paladins go play Overwatch, games are both toxic but atleast you can see in overwatch..
+Like getting terrible team mates due to bad match making? or the fact Rank takes hours to find a match? then this game is for you. similar to tf2 with all its problems of bad balanced team mates and noobs.
+after a full day of trying to get the game to start tryd ever way possble to get the game to lanch it well load the antie cheat then it wount load the game im f sick of trying to play this game what good is it to have a game lancher that wount work im mad as hell waste of time trying to get the game to lanch
+There was a think called ummmmmm ahhhhhhh mmmmmmm oh yea FUCKING OVERWATCH you don't need to play it yes its free i guess that but if you enjoy playing with bots in the first hour or more yea enjoy this but if you want to get in fast ready with full teams in potential ranking system that works soooo well than go to blizzard and buy overwatch instead of playing this get with me i don't think its crap its just a poor mans version it isn't bad again with friends but and of the day overwatch is the must. :(((
+Nothing but brain dead unbalanced gameplay and bugs. I guarantee you won't have fun with this game. You will probably try to choose a champion that interests you then while playing get completely rolled over by people who abuse the games mechanics and play the most overpowered, broken, unbalanced loadouts and champions they can while your team can't even get on the capture point. The rest of the game is nothing but scam level, money grabbing micro-transactions. The devs seem to really try with this game and they want it to succeed, but good god they do not have the ability to make this game good.
+
+TL:DR The game is 20% bugs, 50% micro-transactions, 20% unbalanced gameplay, and 10% waiting for the next update to come out with more of same trash.
