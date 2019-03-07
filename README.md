@@ -32,6 +32,12 @@ python download_review_data.py
 python filter_review_data.py
 ```
 
+### Concatenate filtered reviews in a large text file
+
+```
+python export_review_data.py
+```
+
 ### Display info about reviews
 
 ```
