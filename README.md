@@ -82,7 +82,7 @@ TODO
 
 -   [Andrej Karpathy, "The Unreasonable Effectiveness of Recurrent Neural Networks", 2015](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 -   [Yoav Goldberg, "Character-level Language Models", 2015](https://nbviewer.jupyter.org/gist/yoavg/d76121dfde2618422139)
--   [Keras: word-wmbeddings](https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html)
+-   [Keras: word-embeddings](https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html)
 -   [StackOverflow: word-embedding for word-level RNN](https://stackoverflow.com/a/48230654)
 -   [Keras: sequence-to-sequence learning](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
 
