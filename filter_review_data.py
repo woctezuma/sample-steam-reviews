@@ -45,11 +45,8 @@ def load_english_reviews(language_str='english', verbose=True):
     return english_review_dict
 
 
-def get_useful_reviews(english_review_dict, voted_up=None, length_threshold=150):
+def get_useful_reviews(english_review_dict, voted_up=None):
     review_ids = english_review_dict.keys()
-
-    print('Filtering out reviews with strictly fewer than {} characters.'.format(length_threshold))
-    review_ids = filter(lambda x: len(english_review_dict[x]['review']) >= length_threshold, review_ids)
 
     if voted_up is None:
         pass
@@ -63,6 +60,20 @@ def get_useful_reviews(english_review_dict, voted_up=None, length_threshold=150)
                                reverse=True)
 
     return useful_review_ids
+
+
+def filter_out_short_reviews(english_review_dict, length_threshold=150):
+    review_ids = english_review_dict.keys()
+
+    print('Filtering out reviews with strictly fewer than {} characters.'.format(length_threshold))
+    review_ids = filter(lambda x: len(english_review_dict[x]['review']) >= length_threshold, review_ids)
+
+    long_english_review_dict = dict()
+    for review_id in review_ids:
+        long_english_review_dict[review_id] = dict()
+        long_english_review_dict[review_id] = english_review_dict[review_id]
+
+    return long_english_review_dict
 
 
 def print_useful_reviews(english_review_dict, verbose=True):
@@ -84,4 +95,5 @@ def print_useful_reviews(english_review_dict, verbose=True):
 
 if __name__ == '__main__':
     english_review_dict = load_english_reviews()
+    english_review_dict = filter_out_short_reviews(english_review_dict, length_threshold=150)
     print_useful_reviews(english_review_dict)
