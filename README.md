@@ -36,6 +36,7 @@ python filter_review_data.py
 
 ```
 python display_review_data.py
+python sort_review_data.py
 ```
 
 

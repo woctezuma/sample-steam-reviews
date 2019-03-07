@@ -45,21 +45,20 @@ def load_english_reviews(language_str='english', verbose=True):
     return english_review_dict
 
 
-def get_useful_review_ids(english_review_dict, voted_up=None):
+def get_positive_review_ids(english_review_dict):
     review_ids = english_review_dict.keys()
 
-    if voted_up is None:
-        pass
-    elif voted_up:
-        review_ids = filter(lambda x: english_review_dict[x]['voted_up'], review_ids)
-    else:
-        review_ids = filter(lambda x: not english_review_dict[x]['voted_up'], review_ids)
+    review_ids = filter(lambda x: english_review_dict[x]['voted_up'], review_ids)
 
-    useful_review_ids = sorted(review_ids,
-                               key=lambda x: english_review_dict[x]['weighted_vote_score'],
-                               reverse=True)
+    return review_ids
 
-    return useful_review_ids
+
+def get_negative_review_ids(english_review_dict):
+    review_ids = english_review_dict.keys()
+
+    review_ids = filter(lambda x: not english_review_dict[x]['voted_up'], review_ids)
+
+    return review_ids
 
 
 def filter_out_short_reviews(english_review_dict, length_threshold=150):
@@ -76,26 +75,6 @@ def filter_out_short_reviews(english_review_dict, length_threshold=150):
     return long_english_review_dict
 
 
-def print_useful_reviews(english_review_dict, verbose=True):
-    useful_positive_review_ids = get_useful_review_ids(english_review_dict, voted_up=True)
-    useful_negative_review_ids = get_useful_review_ids(english_review_dict, voted_up=False)
-
-    the_most_useful_positive_review = english_review_dict[useful_positive_review_ids[0]]['review']
-    the_most_useful_negative_review = english_review_dict[useful_negative_review_ids[0]]['review']
-
-    print('The most useful positive review: {} characters'.format(len(the_most_useful_positive_review)))
-    print('The most useful negative review: {} characters'.format(len(the_most_useful_negative_review)))
-
-    if verbose:
-        print('\n[POSITIVE]\n----------\n')
-        print(the_most_useful_positive_review)
-        print('\n[NEGATIVE]\n----------\n')
-        print(the_most_useful_negative_review)
-
-    return
-
-
 if __name__ == '__main__':
     english_review_dict = load_english_reviews()
     english_review_dict = filter_out_short_reviews(english_review_dict, length_threshold=150)
-    print_useful_reviews(english_review_dict)
