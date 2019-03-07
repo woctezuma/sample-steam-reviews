@@ -95,7 +95,7 @@ def get_params(text):
     return params
 
 
-def train_model(text, maxlen=40):
+def train_model(text, maxlen=40, num_epochs=60):
     params = get_params(text)
 
     chars = params['chars']
@@ -145,7 +145,7 @@ def train_model(text, maxlen=40):
 
     model.fit(x, y,
               batch_size=128,
-              epochs=60,
+              epochs=num_epochs,
               callbacks=[print_callback])
 
     return model
@@ -157,8 +157,8 @@ if __name__ == '__main__':
 
     params = get_params(text)
 
-    maxlen = 40
-    model = train_model(text, maxlen)
+    maxlen = 20
+    model = train_model(text, maxlen, num_epochs=20)
 
     start_index = random.randint(0, len(text) - maxlen - 1)
     for diversity in [0.2, 0.5, 1.0, 1.2]:

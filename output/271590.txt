@@ -1,0 +1,1600 @@
+Grand Theft Auto, the series of my childhood, I couldn't miss this one. Let me talk about single-player first.
+
+GTA5 takes place in San Andreas, just like GTA: San Andreas released back in 2004. Rockstar tried hard to make GTA5 as good as possible and it's indeed a fantastic game and a worthy addition to the series and my Steam library. It took me about 40 hours to finish it including side missions.
+
+It's much better than GTA4, at least when it comes to graphics, map design, missions, vehicles... planes are back, trains are back, parachutes are back.. and almost everything is better except damage system (which is undoubtedly worse). The whole time I was unsure if this is really better than the original San Andreas and honestly I can't tell - 9 years passed between both games, the gameplay and style has changed, both are a bit different, but in my opinion equally good.
+
+They still didn't get rid of the old bugs like missing cars (your fully upgraded car can disappear anytime unless you watch it 24/7). It's better, every character has his own car that can be modified and whenever you leave it, it will just respawn near your savehouse but sometimes it just disappears randomly just like the normal cars.
+
+it was fun, it's a must have for everyone who likes open-world games. Definitely one of my top 10 games. Now, about multiplayer... it's... unique. Seriously, there's nothing like this out there. GTA Online offers a new open-world+coop experience, it's amazing. Loading times are horrible even on SSDs but the experience is fantastic.
+
+What else to say - just get it. If you like open-world games you'll love it. I played on Linux, the game natively only supports Windows but thanks to the official Valve's SteamPlay / Proton feature (translation layer from DirectX 11 to Vulkan) it works on Linux.
+
+[h1]System info & performance report[/h1]
+[table]
+   [tr]
+        [td]Operating system[/td]
+        [td]Arch Linux x64 rolling release | Gnome Shell 3.30[/td]
+    [/tr]
+    [tr]
+        [td]CPU/GPU/RAM[/td]
+        [td]i5 7300HQ / GTX 1050 Ti [415.27] / 24GB DDR4 2400Mhz[/td]
+    [/tr]
+ [tr]
+        [td]Settings & FPS[/td]
+        [td]1080p, high (shadows medium) + FXAA | ~40-50 fps outside[/td]
+    [/tr]
+ [tr]
+        [td]Proton[/td]
+        [td]3.16-6 beta[/td]
+    [/tr]
+    [tr]
+        [td]Number of crashes[/td]
+        [td]0[/td]
+    [/tr]
+    [tr]
+        [td]Dual monitor experience[/td]
+        [td]No issues[/td]
+    [/tr]
+   [tr]
+        [td]Controller support[/td]
+        [td]Xbox 360 wireless controller works fine (default Linux kernel driver) but doesn‘t reconnect if you turn it off and turn it on back[/td]
+    [/tr]
+[/table]
+Loadings take long , cheaters are usually found on each game . 
+still , the game is so entertaining you can spend a lot of hours on it
+NOTE : this game is extremely Pay-To-Win !
+- - -[ Audience: ] - - -
+
+☐ Kids
+☐ Everyone
+☑ Casual players
+☑ Pro players
+
+- - - [ Graphics/Animation: ] - - -
+
+☐ Potato
+☐ Really bad
+☐ Bad
+☐ OK
+☑ Good 
+☑ Beautiful
+☐ Masterpiece
+
+- - - [ Price/quality: ] - - -
+
+☐ Free
+☐ Full price
+☑ Wait for sale
+☐ Average (Game has been out a while..)
+☐ Refund it if you can
+☐ Don't do it
+
+- - - [ Difficulty: ] - - -
+
+☐ You just need 2 arms 
+☑ Ez
+☑ Easy to learn / Hard to master 
+☐ Hard (first few hours)
+☐ Dark Souls
+
+- - - [ Game time/length ] - - -
+
+☐ Really short ( 0 - 2 hours)
+☐ Short ( 2 - 8 hours)
+☑ Few hours ( 8 - 12 hours)
+☑ Long ( 12+ hours)    (Somewere between 8-12+ hours in story mode)
+☑ Endless
+
+- - - [ Story] - - -
+
+☐ It doesn't have
+☐ Still better than Twilight
+☑ Average
+☐ Good
+☐ Fantastic
+
+- - - [ Bugs ] - - -
+
+☐ Game itself is one big BUG
+☐ Bugs destroying the game
+☐ Lot of bugs
+☐ Few Bugs
+☐ You can use them for speedrun
+☑ Nothing (I've seen) (People can dissagree, I'm just telling my own experience)
+
+- - - [ Others: ] - - -
+Multiplayer: Yes
+Singleplayer: Yes
+This game has a lot to do. Has Story Mode and Online Mode. Its fun of Ai's and players in game. Fun, silly, a rush and just plain fantastic when your player goes Rag Doll across the street or jumped out of a high places. Its more fun with players then single but very nice game over all. It has a lot of re-play-ability...
+
+7/10 - Controls
+
+8/10-Graphics
+
+8//10- Over All Game Play
+
+Must have a Good PC to handle Graphics (Will lag and freeze if not up to qualifications)
+Highest grossing media title of all time.
+
+probly bc the characters/story/gameplay are amazing, even 6 years after it came out this game still has top notch graphics.
+Honestly, this game is surely one hell of an emotional rollercoaster.
+This game will make you feel like a genuine gangster for the entirety of 12 minutes. After that, the suspension of disbelief is instantly destroyed when someone riding a rocket bike blows you off the street and proceeds to claim that he is, indeed, sleeping with your mom. But, if you can get past the toxic community and the somewhat slow nature of Rockstar, there's a very worth-while and fun experience to be had. From committing vehicular manslaughter with your friends to playing one of the hundreds of absolutely insane gamemodes, this game is definitely worth the 30 dollars, even if the game is being ruined by the futuristic and military aesthetic Rockstar Games is forcing upon us.
+A solid 7/10.
+I love GTA I have since I played 2D to get my criminal life fix that I miss from reality.
+I bought this ages ago when it first cam out on console and then on PC and I thought why not Ill try Online.
+
+FK ME! Online is the laggiest, slowest priece of shit ever and Im putting it lightly. I tried for the last time tonight.
+45mins of loading crap, 15mins of play time.
+
+No its not my computer, No its not my Internet and Im not going to go through a Port Forwarding Procedure for something that shouldnt require anything of the type.
+
+WHAT. A. FUCKING. JOKE. 
+
+Having said all that still love playing single player, still a great game but online can eat my schlong dipped in chilli.
+Poor show Rockstar you should no better.
+Facilitated through the use of traditional [i]Grand Theft Auto[/i] gameplay, [i]GTA V[/i] complements the success of its predecessors extremely well with this modern gameplay adaptation. Story mode is a pure masterpiece of an experience, and the multiplayer offers endless content. The idea of this video game franchise, and committing fictional crimes never gets old.
+This Game is The Legend you will Never ever get game like this If you can afford this then buy and play right now not for story I m pretty sure we all played story mod years ago buy for its online interaction GTAONLINE is whole new game with everything you can imagine and everything you expect from open world online game you will never know this game by watching youtube videos they all are outdated BEST thing about this game is it have regular updates and new contents you will never get boored of online gameplay 
+
+Only one thing i hate about this is its FUCKIN LOADING Literally Rockstar after years of development you guys can't even fix loading time it takes you can't play this game like i have 30mins and lets play GTA out of 30mins 10mins will be its loading jumping sessions to sessions for missions 
+
+Anyway this game is worth of 2k rupees and its loading time is also worth after playing 50hours in last 2 weeks 
+
+
+The graphics 're wonderful!!!
+I also playin' this game online, but I played the story mode on xbox. 
+You picked the wrong house, fool! 
+BIG SMOKE, IT'S ME CARL! CHILL! CHILL! 
+CJ...my dog! Whassup? Hey baby, you okay, man?
+Ops, GTA: SA mode, sorry xD
+[b]Grand Theft Auto V is the seventh major GTA game, developed by Rockstar North and published by Rockstar Games.
+
+Year 2015 scored a moment of overhype among gamers, when Grand Theft Auto V was released on PC, becoming a masterpiece of a game in that time. Certainly, during this long-waiting, the developers have taken full advantage of new animations and graphics techniques in making GTA a perfect game. When it comes to the graphic aspect of this game, it is, hands down, an advanced game for the year of 2015 in the graphics chapter. And the return ,from GTA San Andreas, of a next-gen Los Santos clearly shows the dedication of Rockstar in evolving its games, with a difference of almost 10 years. Unfortunately I bought the game much later, so the graphics weren't something new to me, but every time I took the controller for a relaxing free roam, I was amazed for every aspect of the map, where you could see the smallest details of its content. The citizens of Los Santos are found all over the city, each with their activities. Some walk on the streets now quiet, now not, of the neighborhoods, others drive in traffic, go to the cinema with their friends, work, relaxing in front of their house and still hundreds of thousands of possibilities they can make. A life-catching city. The map extends with Blaine County near Los Santos, but as most of the Singleplayer's action is happening in the city, the countryside is good just to visit and explore. The details are present anywhere in this game, from the reflection seen in rain's puddles, to footprints left in the grass; I guess I wouldn't have to distinguish real life from the world of GTA.
+
+GTA V Story Mode introduces three playable characters: Franklin, a young black man, a gangster wannabe from his neighborhood; Michael, a rich man who wants to live quietly with his family, but this does not really work for themself; And Trevor, a sort of madman who hasn't abandoned his old habits of selling illegal merchandise through his company. All three characters meet at some point in the story, and their adventure, for some of them, will change their life in many aspects. Also, the secondary characters have a significant impact in their character development and influence their decisions in good or bad, as well as they are, of course, influencing each other and gradually develop through their friendship. That's why at the end of the story you can attach to a certain character, or like me, to all three of them. The story is decent and tells you many ideas about people not good of course; but GTA is not a game for Christian ideas, but a roller coaster of murders and sins, where you are the greatest gangster of the city. Ideas like from a nobody, with help from proffesional relationships, you can become someone; or as much as you want to forget your old habits, temptation always arise and you cannot resist; or being influenced by those next to you can lead you down the path and regret that you have lost what is dearest to you. Most missions are fun; especially those with gunfights, preparations and heists, have offered me a mood of adrenaline during the gameplay.
+
+The game animations greatly affect gameplay because many of them can interrupt the flow you've caught in battle, driving, or any of your other actions. GTA was never a game based on parkour, so the animations are heavy and slow, plus the lack of jumping in length from distances greater than 2 meters high, resulting in a shame head landing. But instead the driving mechanics are realistic and fluid, and the car you drive has a major impact on your driving performance; Their diversity is extremely high, and they can be improved or not with tuning at the mechanic's workshop; not to mention their customization is ok developed, where physical combinations along with metallic, matte or chrome colors are infinite. The controls in the game are suitable and easy to learn for any gamer-type, the menu is easy to navigate and very detailed with many types of changes in gameplay or graphics, people from Rockstar putting serious prowess on customization and personalization. Despite the consoles, this game can reach on any decent PC a fluid 60 FPS in high graphics, except for the "long render" ones, and using a mouse in comparison with the controller for shooting and character control is the best way to play this game. Despite GTA IV, there is no need to make the change from mouse and keyboard to controller through game settings, because with a simple push of a button of one of these peripherals, the game automatically switches on one of these 2 options.
+
+Because this mod of GTA is very popular, GTA Online is the most overhyped game-mode in the history of GTA. After a long loading screen, the map is still Los Santos and Blaine County; this time: your Criminal Empires. Online servers are sessions up to 30 players, where everyone has the freedom to do whatever they want and how they want it. Activities are many on both sides of farming and just having fun with players. Countless racing circuits with cars, planes, boats, trucks etc, deathmatch maps, co-op missions with different objectives, the popular Heist missions where 4 players can get rich through a few setup missions and a robbery bigger than the one at the beginning of The Dark Knight movie. For beginners, first time in Online is quite confusing. What to do first and where to start because of these multiple possibilities, but with a bit of thinking and information about every job in this game-mode, you can start your criminal empire and observe how it grows gradually. Very hard you will get bored of this game especially if you play it with your friends; says to make money in an illegal way are many: you can sell forged documents or counterfeit cash, drugs, weapons and many other types of black market merchandise, and what you can buy and develop with this money have probably the greatest diversity that could exist even in the present moment. As all I praised the prowess of Rockstar in developing a so great system of customization, your character in Online can look the way you want and what the characters in other games, movies or even real life look like (Jacob Frye, The Joker, mumble rap artists etc), and the clothes full of possibilities can complete the look of these characters. For some players it may be too much freedom, but those who do not have something to do with their time, can witness and even take part in how the Online Los Santos tear itself apart through the explosions of other players or cops who will not stop until they will kill them.
+
+At the end of the day, Grand Theft Auto V is still a lively and active game thanks to its Online, one of a few masterpieces in the video game industry and a model for other companies that want to achieve these gameplay and multiplayer standards.[/b]
+
+[h1] GTA V Singleplayer Rating: 8/10 [b]Full Shield[/b]
+GTA Online Rating: 9/10 [b]Full Shield[/b][/h1]
+Maybe the story of this game is simply amazing, a guy trying to get rid of a life with his kids to be the best dad as he used to say trevor wtf because it's a game where you do everything without fear of the impossible, and becomes the offiline franchise the better than online because the history of the 3 characters together becomes one of the best games more does not overcome all lol, because the story is a set of friends that you live the story of 1 in 3 do everything, everything and this will be your fav game for a long time, the online version is not very good, because it has its purposes more, it's still a very good game, when OFFILINE
+
+
+I pressed play...........
+Got a wife..
+Fucked her..
+Have 3 kids with her..
+Rised the kids..
+Divorced bcz she was a bi4..
+..
+Found another woman..
+Married her..
+Made few kids with her..
+Kids grew up..
+Got on the computer to see if im in and the game said 'unable to connect to online servers you will be sent back to Singleplayer mode'
+i cryied and died....
+>
+<
+I defenetly recommend this game if you have friends to play with bcz there are tons of griffers
+10/01
+u can dress up as a squid and go around killing 8 year olds because they blew up your faggio with the the cannon on the tank that they bought with their parents credit card. and there's golf!!!
+Story mode is immersive and fun. Engaging story, compelling and comically cynical world, great customization and the list goes on. If you're here for a single-player, open world, story based experience GTA5 is worth your dime, however if you're seeking a fun online experience set in the same beautiful world of the story mode, I strongly recommend turning back now while you still can.
+The Online mode of GTA5 has become a hackers luxury getaway, oftentimes you can work up for something such as special cargo, and watch it all burn as some hacker blows you up (or someone with an oppressor)
+GTA5 online is also riddled with toxicity and griefers, who are almost as bad as most of the hackers (some hackers are nice and money drop). As said earlier, if you want story, buy the game, if you want multiplayer, find another game.
+Wasn't too appealing at first, especially the price but I ended up getting it anyway in 2016 just to test my new (at that time) graphics card. Recently I saw some streamers playing it and it made me want to play myself.
+
+And what can I say? One of the best open world games. I really like the engine, mechanics and graphics, I think these particular things are the best from all the open world games out there.
+
+The story is very nice. And you can say whatever you want but for me it's the best one from all the GTA games.
+And I also like GTA Online, it feels like a whole lot of fun, especially with friends.
+⚌⚌ { ♞ Audience } ⚌⚌
+☐ Children
+☐ Everyone
+☑ Casual gamers
+☐ Professionals
+
+⚌⚌{ ϟ Graphics }⚌⚌
+☐ Fortnite (Horrible)
+☐ Minecraft (Bad)
+☐ Average
+☐ Awesome
+☑ Gorgeous
+☐ RTX Worthy
+
+⚌⚌ { € Price for Quality $ } ⚌⚌
+☐ Do NOT buy
+☐ Free
+☐ Try then refund if you don't like
+☑ Wait for sale
+☐ Buy Now
+
+⚌⚌ { ✔ Requirments } ⚌⚌
+☐ Minimum
+☐ Laptop
+☐ Good
+☐ Average
+☑ High end
+
+⚌⚌ { ⚠️ Difficulty } ⚌⚌
+☑ Can I play, Daddy?
+☐ Easy to learn / Hard to master
+☐ Novice
+☐ Average
+☐ Difficult
+☐ Play, Rage quit, Play again
+
+⚌⚌ { ⌛ Game time/length } ⚌⚌
+☐ Really short ( 0 - 4 hours)
+☐ Short ( 4 - 8 hours)
+☐ Several hours ( 8 - 12 hours)
+☐ Long ( 16+ hours)
+☑ Endless (Almost no limit!)
+
+⚌⚌ { 📖 Story } ⚌⚌
+☐ No story
+☐ Some story, but not full
+☐ Okay
+☐ Good
+☑ Fantastic
+
+⚌⚌{ 🐛 Bugs 🐞 }⚌⚌
+☐ Game is unplayable
+☐ Bugs impact gameplay
+☐ Several Bugs
+☑ Few Bugs
+☐ Pestfree
+
+⚌⚌{ 📶 Online/Local }⚌⚌
+⚔ Multiplayer: Yes
+⚒ Singleplayer: Yes
+
+
+✯ Overall Rating ✯
+10.0/10
+
+≛ Conclusion ≛
+1. Shoot people
+2. Steal their money
+3. Run away from police
+4. Repeat
+I'm all for games rewarding the players who took the time and effort to play the game a bunch, but gta 5 takes it wayyyyy too far, to the point where you are literally unable to fight back against someone not because they're skilled, but because they're around 200 times your level and by extension have money out the ass to afford total death machines. Besides this total bs of a gameplay mechanic everything else is nearly solid, the driving, shooting, surviving, missions and heisting is pure fun besides some mild annoyances on my part with fps and crashing. If you got some time to waste and some friends to play with the game is a complete blast. (I don't know where to put this last bit so I'll just put it here: I really do not like how the game no matter what time of day or what year it could be or where I am, every npc will on the clock every 10 minutes it feels like spam you with messages along the lines of ''please waste all your money on this thing so I'll shut up xoxoxoxo''
+Great story, amazing missions and mechanics! This game has been supported by developers in the online version with a lot of new content, "way too expensive" DLC-s, but the fun is still there! I'm level 100 and played the missions almost solo, even though it was clearly intended to be played with a crew.
+The game is amazing, but GTA Online is what keeps you going back to it. It's incredible. Every other week, there's a content update. If you have friends that want to play with you, it becomes even more fun. You can plan heists, the visuals are amazing, and there's always something to do. A lot of people disliked the online version for many reasons, but the issues have since been solved. I recommend this for anyone who likes to have fun!
+Everybody knows what GTA V is about. Everyone knows its a great game. Everyone knows it has some annoyances, but if its on sale, you should give it a try. The singleplayer story is great and the mulitplayer even better.
+Grand Theft Auto V is a thoroughly enjoyable experience provided by Rockstar Games. If you are familiar with Rockstar's work, you pretty much already know if you're going to enjoy another title of their's or not. I for one love this game and highly recommend it. The single-player campaign is cheesy, tongue-in-cheek fun. Some of the social commentary hasn't aged all that well (though to be fair, when does it), and it is not as deep or engaging as other stories under Rockstar's belt. It feels a bit lazy, convenient, and fake. The story lacks any genuine emotion, which might be a joke that it is set in a notoriously fake environment akin to Los Angeles, but why sacrifice a good story for a meta joke? Aside from that, it's still funny and grand.
+
+The online mode has many critiques from me. Cheaters and griefers are lame and unwelcome. Some of the gameplay feels a bit repetitive, the eceonomy is a bit unbalanced, and sometimes the servers feel unreliable. That being said, I still have fun with it in a controlled environment. It isn't as hard to make money as it once was, so in due time you'll be able to achieve your online empire (if you have the time to play, that is). If you're on a tight schedule in life and can't afford to grind, I recommend staying away unless you don't see a problem with the microtransactions. That's all personal taste, I won't judge you. The free content added over the years keeps it exciting enough for me.
+
+I highly recommend Grand Theft Auto V. It is far from Rockstar's best title, but it is still really good.
+This game is amazing. single player is cool if you wanna just chill and be stupid but GTA online is just amazing so many amazing updates, amazing things to buy and crazy missions to play
+TLDR: unbelievably fun world to be a part of and (for the most part) fun missions, online isn't as great \: 8/10 would recommend
+
+Pros:
+-Amazingly cool world with lots to do and fun to explore
+-lovable characters who interact well
+-mostly fun missions (mainly heists)
+-great graphics
+-immersive
+
+Cons:
+-A fairly large amount of boring side missions and some boring main missions
+-online takes FOREVER to load, and then you have to get into a mission (which also takes ages)
+
+--{Graphics}---
+☐ You forget what reality is
+☑  Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ Paint.exe
+
+---{Gameplay}---
+☐ Very good
+☐  Good
+☐ It‘s just gameplay
+☐ Mehh
+☐ Starring at walls is better
+☐ Just don‘t
+
+---{Audio}---
+☐ Eargasm
+☑  Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ Earrape
+
+---{Audience}---
+☐ Kids
+☐  Teens
+☐  Adults
+☐ Human
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+☐  Decent
+☑ Fast
+☐ Rich boiiiiii
+☐ Ask NASA if they have a spare computer
+
+---{Difficulity}---
+☐ Just press ‚A‘
+☑ Easy
+☐ Significant brain usage
+☐  Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls
+
+---{Grind}---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☑ Isnt necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐  You‘ll need a second live for grinding
+
+---{Story}---
+☐  Story?
+☐ Text or Audio floating around
+☐ Average
+☐ Good
+☑ Lovley
+☐ It‘ll replace your life
+
+---{Game Time}---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Long
+☐  To infinity and beyond
+
+---{Price}---
+☐  It’s free!
+☐ Worth the price
+☑ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{Bugs}---
+☐ Never heard of
+☑  Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+Conclusion: ☑
+
+This game is pretty good overall. Script Kiddies (cheaters) are twats, but there is a way to avoid them and be able to do the free roam missions, etc.: Open your resource monitor, then go to the CPU tab while you're in a GTA V online lobby, then find a process that should be called GTA V or something similiar (not GTA V Launcher). After that you press mouse2 (right-click) on it and you suspend the process. Wait for 15-ish seconds and resume the process by pressing mouse2 (right-click) on it and then click resume process. Then tab back into the game and you should be in an empty lobby! (be aware that pretty soon or after a while people will start joining, because it's a public lobby.)
+
+Overall, this game is pretty good, but some of the people that play it can really ruin the online experience, and the getting money can be really not fun sometimes, but a buddy or two (hopefully 3 for heists) may definitely improve the experience.
+
+I used to play GTA V on ps3 alot, so it's nice to upgrade and see all of the new stuff.
+The single-player is good. Online is fun when playing with friends and when you are actually able to purchase expensive items after grinding for hundreds of hours. Toxicity, cancerous behavior, and hacking is also unfortunately prevalent in Online. All the DLC is free, but there are purchasable shark cards that boost your progress towards expensive goods. (I do not recommend buying these scams) Overall, though, GTA Online has its enjoyable moments with friends, but if you are without people to play with, then you'll likely find it quite boring.
+This game deserves all the money it is a cool game full of things to do i really recommend it if you want a cool game at a decent price you can make so much things in it is the best game i ever played i really recommend it but first check if your pc will run the game...Good Luck an have fun!
+What is not to like? If it isn't broke don't fix it applies here. As many installments in the series as have been released, it still feels fresh but has that familiar comfort.
+
+The details and random encounters that occur are still jaw dropping at times and you really do become immersed inside of the world. 
+
+Replayability is high and the game is such a value that if you have not played Grand Theft Auto V pick it up already ! Story mode is long with so many extras to unlock and discover there is always something to do. Bundle that in with online play that still is getting updates and features with an active community you will not run out of content anytime soon.
+
+With that being said the game is mature and has graphic language and content, but it does fit within the narrative very well and I personally found it to be funny and realistic to a degree all at the same time. I thought I might have been put off by some of these elements at first but never found that the case.
+===[ ❤ Audience: ]===
+☐ Kids
+☑ Everyone
+☐ Casual players
+☐ Pro players
+☐ Hackers
+
+===[ ☼ Graphics: ]===
+☐ Potato
+☐ Really bad
+☐ Bad
+☐ OK
+☐ Good
+☑ Beautiful
+☐ Masterpiece
+
+===[ $ Price/quality: ]===
+☑ Full price
+☐ Wait for sale
+☐ Average
+☐ Refund it if you can
+☐ Don't do it
+☐ Free
+
+===[ ☣ Requirments: ]===
+☐ 90' PC
+☐ Minimum
+☐ Medium
+☑ Fast
+☐ High end
+☐ NASA computer
+
+===[ ☼ Difficulty: ]===
+☐ You just need 2 arms
+☐ Ez
+☑ Easy to learn / Hard to master
+☐ Hard (first few hours)
+☐ Dark Souls
+
+
+===[ ۞ Game time/length ]===
+☐ Really short ( 0 - 2 hours)
+☐ Short ( 2 - 8 hours)
+☐ Few hours ( 8 - 12 hours)
+☑ Long ( 12+ hours)
+☐ Endless
+
+===[ ♬ Story] ===
+☐ It doesn't have
+☐ Still better than Twilight
+☐ Average
+☐ Good
+☑ Fantastic
+
+===[ § Bugs ]===
+☐ Game itself is one big BUG
+☐ Bugs destroying the game
+☐ Lot of bugs
+☑ Few Bugs
+☐ You can use them for speedrun
+☐ Nothing
+
+===[ ✦ Others: ]===
+Multiplayer: YES
+Singleplayer: YES
+I cant asure you on the onlline, its just not my thing(its just not intrusting to me) 
+this is single player review
+
+but wow, 100m dollars I think didnt really got to waste like at all.
+I think that it takes about a bit less then 100 hours to complete 100%
+and ho boy its hell of a fun, the style is perfact like the fact that every thing is a perody just makes the game complete.
+
+really recommend if youre advantorus 
+
+really recommend if you like to get a sweet laugh, or refrances 
+
+really recommend if you want to be amazed about game realisim 
+
+really recommend if youre want to have a simulation of well: driving, walking, perashooting, swimming, diving, sailing, hunting, stealing and killing pepole or animals in ways you want.
+
+really recommend if you just wanna be a gangster
+Graphics: Low-Mid-End-PC
+Story: OMG RLLY(AMAZING OFC) !
+Multiplayer: What can I say(AWESOME,DON'T CARE ABOUT CHEATERS) !
+
+I give 10/10 with a little story:
+
+4 years ago in April me and my friend decided to buy this game awaiting tirelessly this game, I would to everything to get this game, when me and my friend began playing this game, none of us knew how to play and we were salty. We were playing the old heists, and doing races for money.2 months after we bought the game , we discovered some people that made us use cheats
+That period was fun because you could teleport anywhere and give yourself money and you could buy almost everything except lvl and you wouldn't get banned ! The time was passing and the time for us to pay has come, for us to get banned.
+We got mad and after 1 month, we decided to buy this game again. The time was passing, it was 2016 another people that made us cheat but we decided not to cheat ever again ! Time passes until today,now we have a crew, we don't need to cheat like before, and we don't like what happened 4 years ago because it's very nice to play legit and people don't call you cheater only for some ingame money ! And now we all are happy and we are having fun in this game, and I can't wait for the big project Grand Theft Auto VI !
+I changed my mind, this game is better than Grand Theft Auto V, amazing, good online, good story, amazing mods, and a ton of fun! Hours of gameplay and just a pure masterpiece, amazing for a game made 5 years ago!
+Single player mode of this game is a god tier.
+Online is horrible.
+
+I bought this game mainly for single player and I love every seconds I spend in this game
+If you want to play singleplayer it's good.
+
+Online I'd avoid. Rockstar hasn't figured out that people just want to freeroam together and make up their own fun. They'd rather have you grind through endless bullshit and incentivise "shark cards.:
+Fun game, I really like the story mode and the campaign. I know a lot of people like to play online mode, however, I never got into that. I just really appreciated the story and world building of the campaign.
+Disclaimer: The main reason I'm writing this review is because of the increased negative reviews this period (According to Steam; early January 2019). Although I do agree with some of the critical comments I also believe that plenty of players are picturing things way too negatively. There's more to this game than some realize...
+
+Don't buy it for single player alone!
+
+Don't get me wrong: the story mode is definitely enjoyable, you'll be taken into an adventure and see how easy it can be to fall into the darker regions of society. Unfortunately though there are three stories rolled into one and as a result the game is lacking some severe character development. Think about it: there are three stories to tell within the length of a regular game play. That simply doesn't work too well, some things feel seriously enforced and don't always add up where storyline is concerned. But... it probably doesn't help that I'm also an invested GTA IV player and that I know where the idea of having three main characters came from. In my opinion GTA IV did it better ;)
+
+But the main problem with the story mode is that it's trying to tell a story but due to the somewhat rushed method it also feels rushed and doesn't always leave you with that sense of satisfaction you should be getting after having accomplished something. One of the main reasons is that there's little to accomplish. After all: all three main characters are already established within the city, so from a storyline point of view there's usually nothing more to achieve.
+
+Unfortunately it also doesn't help that R* didn't bother to add anything which could account for that. Although you can buy properties which should give you new random missions to do the problem is that they're so expensive that you'll never be able to make enough money during the single player campaign. That doesn't help at all for getting that satisfying feel of accomplishing something. The main reason for this also doesn't help: you won't get paid for most major missions ("heists") because you're basically trying to raise funds in order to get something done... for other involved parties. And the three main protagonists just see it through and let it happen without doing anything about it. See, all those missions usually require plenty of shooting, and ammo isn't free. So the little money you do make will probably be spend on ammo, better weapons and protection (body armor).
+
+Basically it boils down to the open world being truly amazing. But the missions and the way they've been set up often not so much. Lineair, bad AI and often predictable.
+
+Grand Theft Auto Online
+
+For me GTAO provides everything which GTA story mode (single player) is lacking: a chance to truly accomplish something and get some satisfaction out of the game. The main problem though is that GTAO is a non-forgiving environment and if you make a (costly) mistake and put your money into stuff which doesn't pay out then you might end up having a hard time. In other words: if you spend all your money on getting every car in the game then you obviously won't have enough left to invest in things which could help you to make even more money. Which you're going to need if you also want to upgrade those cars as well...
+
+But in all fairness it also doesn't help that once again R* doesn't put much attention into storyline and gameplay and are basically only pushing their own agendas forward. A good example of that can be seen if you're new to the game: you get constantly bombarded with plees to buy into high end equipment which you really won't be able to afford for a long period to come. But strangely enough you won't get any calls about the availability of missions which can help you progress further into the game. I've been playing for 70 or so hours now and I've only got 1 call from Gerald (for a contact mission) and got 1 car repo request from Simeon. That's plain out bad for the new player experience!
+
+And about those modders and hackers?
+
+Question... You spend hours on filling up a warehouse and finally managed to reach a value of around one million GTA$. This is going to seriously push you up the ladder and will help you to buy all those cool things you've been aiming for. Unfortunately during the delivery mission you get attacked by one or more other player(s) and they destroy your cargo with ease. Goodbye investments, goodbye 1 million GTA$... all gone "just like that". So is that other player simply really good in playing the game, just a plain out jerk or was this too easy for them so he obviously had to be a hacker?
+
+I'm heavily invested in this game. Up to a point where I also roleplay. When my (female) avatar finds herself in a mission which requires to go on a boat she'll hop into her swimsuit. I can't tell you how many times players accused me of being a hacker merely because I changed my clothes during missions. Even though this is a fully legitimate option provided by the game itself! It gets worse... You can eat snacks and items during missions which can help you restore health. Now, this doesn't happen very often anymore, but I've also been often accused of being a cheater simply because I used snacks to boost my health in order to complete a mission (when other players die during a contact mission they get to spectate the others, it wouldn't be the first time where I was the last one left and managed to finish the mission on my own).
+
+Of course that's not saying that there aren't any problems. But it's also hardly as bad as some people want to make you believe. Especially because there's plenty which you can do yourself to avoid issues. For example: see (or hear) people talk about hacks in your session? Then why not do the smart thing and find yourself another session to play in? Or maybe you don't enjoy multiplayer at all? Well, there are also plenty of solutions for that. The so called 'public solo sessions' if you want to do CEO missions or the down to earth friends or invite -only sessions.
+
+But I also hear people talk about grinding?
+
+Yes, if you want to earn some good cash you're going to have to work for it. But if you use some strategy and can have some patience then it really doesn't have to be as bad as some players claim. I haven't timed myself yet, but I can roughly make around 150 - 200k per hour. Let's do this safe and say 1,5 hours. So if you play for 1,5 hour every evening you will have gained yourself 1 million at the end of the week. And that's without using any of the more enhanced ways of making money; such as the import/export business (stealing & selling cars), coke business (= best paying MC business) and fully utilizing the bunker (weapon selling). At the time of writing I'm working hard to get a vehicle warehouse for the import/export missions.
+
+GTA 5 is what you make of it!
+
+Seriously... in a way I sometimes compare GTA 5 to Minecraft. Yes, I know i'm crazy ;) But it's true: in the overall it all boils down to you making your own game. Devise your own strategies, plan your own route in earning some solid cash. And do try to have some fun while doing that!
+
+And if you don't succeed on your own try making friends. There are good ones out there, trust me on that!
+Fantastic game the graphics still stand as a beutiful game to this day, as a great gaming experience. The singleplayer experience is very great but the ending is kinda short thou it was short it was very fun.The online game was very fun at first but reduces to grinding money and the mini games were fun the game starts to become stale after a while but if you have friends to play with this game it starts to be great again
+One of the greatest games of all time, and fantastic on the PC. I'm on my second play, and I'll probably keep playing for some time to come. 
+
+But  F!*K Rockstar for no Red Dead 2 on PC, and GTAV online is horrible.
+NOTE: This is a single player review only. I'm not reviewing the online aspect because I haven't played that on PC.
+
+I've currently played this game for over 40 hours and that was a whole story playthrough along with completing most strangers and freaks and random encounters the game had to offer and it is only about 68% complete. I highly recommend this if you want to just relax while running and gunning people down on the streets of Los Santos (because that's really the main thing the game has to offer apart from it's amazing graphics, story and heists). You also get a wide variety of stuff to do on the side to pass the time, if you're really into that. 
+
+If you're planning on using mods for this game though, DO NOT go onto online without disabling them first, otherwise you'll get instantly banned (from what I've heard).
+
+TL;DR: Great game, lots of content and great graphics that still hold up as a PC benchmark today. 
+
+
+Don't use mods online though.
+It's a fun game over-all. The story mode is perfect, however, GTA Online should deal with hackers more strictly. I was about to lose everything to a modder who kept burning me wherever I spawned. Although, playing with friends, even GTA Online is a great experience. Being a GTA series fan from the age of 10, I enjoyed this version a lot too. It's totally worth the buy if you're a sucker for an open-world experience! And in this era of the Battle Royale obsession of the entire gaming industry, there are a very few games like GTA V which give people the freedom to roam around and literally do whatever they feel like, along with a well-written storyline for the story fans.
+[i]Disclaimer[/i]: The main reason I'm writing this review is because of the increased negative reviews this period (According to Steam; early January 2019). Although I do agree with some of the critical comments I also believe that plenty of players are picturing things way too negatively. There's more to this game than some realize...
+
+[*] [h1] Don't buy it for single player alone! [/h1]
+
+Don't get me wrong: the story mode is definitely enjoyable, you'll be taken into an adventure and see how easy it can be to fall into the darker regions of society. Unfortunately though there are three stories rolled into one and as a result the game is lacking some severe character development. Think about it: there are three stories to tell within the length of a regular game play. That simply doesn't work too well, some things feel seriously enforced and don't always add up where storyline is concerned. But... it probably doesn't help that I'm also an invested GTA IV player and that I know where the idea of having three main characters came from. In my opinion GTA IV did it better ;)
+
+But the main problem with the story mode is that it's trying to tell a story but due to the somewhat rushed method it also feels rushed and doesn't always leave you with that sense of satisfaction you should be getting after having accomplished something. One of the main reasons is that there's little to accomplish. After all: all three main characters are already established within the city, so from a storyline point of view there's usually nothing more to achieve.
+
+Unfortunately it also doesn't help that R* didn't bother to add anything which could account for that. Although you can buy properties which should give you new random missions to do the problem is that they're so expensive that you'll never be able to make enough money during the single player campaign. That doesn't help at all for getting that satisfying feel of accomplishing something. The main reason for this also doesn't help: you won't get paid for most major missions ("heists") because you're basically trying to raise funds in order to get something done... for other involved parties. And the three main protagonists just see it through and let it happen without doing anything about it. See, all those missions usually require plenty of shooting, and ammo isn't free. So the little money you do make will probably be spend on ammo, better weapons and protection (body armor).
+
+Basically it boils down to the open world being truly amazing. But the missions and the way they've been set up often not so much. Lineair, bad AI and often predictable.
+
+[*] [h1] Grand Theft Auto Online [/h1]
+
+For me GTAO provides everything which GTA story mode (single player) is lacking: a chance to truly accomplish something and get some satisfaction out of the game. The main problem though is that GTAO is a non-forgiving environment and if you make a (costly) mistake and put your money into stuff which doesn't pay out then you might end up having a hard time. In other words: if you spend all your money on getting every car in the game then you obviously won't have enough left to invest in things which could help you to make even more money. Which you're going to need if you also want to upgrade those cars as well...
+
+But in all fairness it also doesn't help that once again R* doesn't put much attention into storyline and gameplay and are basically only pushing their own agendas forward. A good example of that can be seen if you're new to the game: you get constantly bombarded with plees to buy into high end equipment which you really won't be able to afford for a long period to come. But strangely enough you won't get any calls about the availability of missions which can help you progress further into the game. I've been playing for 70 or so hours now and I've only got 1 call from Gerald (for a contact mission) and got 1 car repo request from Simeon. That's plain out bad for the new player experience!
+
+[*] [h1] And about those modders and hackers? [/h1]
+
+Question... You spend hours on filling up a warehouse and finally managed to reach a value of around one million GTA$. This is going to seriously push you up the ladder and will help you to buy all those cool things you've been aiming for. Unfortunately during the delivery mission you get attacked by one or more other player(s) and they destroy your cargo with ease. Goodbye investments, goodbye 1 million GTA$... all gone "just like that". So is that other player simply really good in playing the game, just a plain out jerk or was this too easy for them so he obviously had to be a hacker?
+
+I'm heavily invested in this game. Up to a point where I also roleplay. When my (female) avatar finds herself in a mission which requires to go on a boat she'll hop into her swimsuit. I can't tell you how many times players accused me of being a hacker merely because I changed my clothes during missions. Even though this is a fully legitimate option provided by the game itself! It gets worse... You can eat snacks and items during missions which can help you restore health. Now, this doesn't happen very often anymore, but I've also been often accused of being a cheater simply because I used snacks to boost my health in order to complete a mission (when other players die during a contact mission they get to spectate the others, it wouldn't be the first time where I was the last one left and managed to finish the mission on my own).
+
+Of course that's not saying that there aren't any problems. But it's also hardly as bad as some people want to make you believe. Especially because there's plenty which you can do yourself to avoid issues. For example: see (or hear) people talk about hacks in your session? Then why not do the smart thing and find yourself another session to play in? Or maybe you don't enjoy multiplayer at all? Well, there are also plenty of solutions for that. The so called 'public solo sessions' if you want to do CEO missions or the down to earth friends or invite -only sessions.
+
+[*] [h1] But I also hear people talk about grinding? [/h1]
+
+Yes, if you want to earn some good cash you're going to have to work for it. But if you use some strategy and can have some patience then it really doesn't have to be as bad as some players claim. I haven't timed myself yet, but I can roughly make around 150 - 200k per hour. Let's do this safe and say 1,5 hours. So if you play for 1,5 hour every evening you will have gained yourself 1 million at the end of the week. And that's without using any of the more enhanced ways of making money; such as the import/export business (stealing & selling cars), coke business (= best paying MC business) and fully utilizing the bunker (weapon selling). At the time of writing I'm working hard to get a vehicle warehouse for the import/export missions.
+
+[*] [h1] GTA 5 is what you make of it! [/h1]
+
+Seriously... in a way I sometimes compare GTA 5 to Minecraft. Yes, I know i'm crazy ;) But it's true: in the overall it all boils down to you making your own game. Devise your own strategies, plan your own route in earning some solid cash. And do try to have some fun while doing that!
+
+And if you don't succeed on your own try making friends. There are good ones out there, trust me on that!
+Hands down, one of the greatest games ever made. Rockstar, the developer, has been making GTA games for two decades, and Grand Theft Auto V is their masterpiece. It is has more attention to detail than any other game I've ever played. The story is unique, well written, hilarious, shocking and heart breaking all at the same time. If that's not enough, there is an online mode that has been supported with updates and new content for years. This game offers hundreds & hundreds of hours of some of the best content in video games. If you haven't played this, stop what you are doing, and start GTA 5 now.
+After more than 1000 hours, 3 shark cards invested, no mod, or exploit used ever I was banned, account reset, everything lost, no explanation given, ticket closed by support: " banning decisions are final and may not be appealed"
+Grand theft indeed, of your time and money.
+I login to GTA online after not having played for six months, play completely fine for two hours and was driving around, minding my own business, when a giant black message takes up my entire screen saying I've been banned and my characters will be reset. I have never hacked nor cheated, and my over 300 hours should show that I've been trying my hardest to level up my character in a legitimate way, as hackers would get bored rather quickly and just quit the game entirely.
+
+Take Two's algorithms for detecting hackers are abhorrent, to put it kindly. Actually, the correct word to use is random. The ban algorithms are entirely random. I see modders in nearly every lobby, exploding players from inside apartments, spawning hundreds of objects onto players to crash their clients, spawn mountains of money for dozens of players, and yet it's the players with the most time played and have nothing to gain from hacking who are the most suspicious, it seems. 
+
+Rockstar flat out states that bans are final and can not be appealed. Even if you explain that you haven't touched in six months, that you've put hundreds of hours into the game, that there's no evidence of you hacking, bans are final and cannot be appealed.
+
+I feel like I've been robbed.
+I've been playing this game for 3 years, never modded, glitched, hacked, etc. Still got banned for God knows why.
+Tried Rockstar's support and all I got were automatic responses saying "All GTA Online suspension and banning decisions are final and may not be appealed" and "In addition to being suspended, all GTA Online characters, progress and inventory on PC will be reset".
+So basically it doesn't matter if you play fair and honest, if theirs stupid anti-cheat go full retard and ban you, there's NOTHING you can do about it. All your progress and time invested is simply gone.
+Don't get me wrong, the game IS fun, but Rockstar's lack of support and care for the community is simply DISGUSTING.
+GTA V pre purchase $69.99
+Megalodon Shark card $100
+Megalodon Shark card $100
+866hrs played
+
+Banned from GTA V Online for using single player mods.
+
+Thanks Take-Two, thanks Rockstar.
+I have been playing this game for over 5 years. From PS3 to PC.
+
+I have never cheated or used hacks/mods. And suddenly Rockstar decided to ban me for no reason.
+
+Once my ban is lifted, 5 years worth of progress will be gone.
+
+If they won't rectify this issue, I'm going to turn this into a full-blown media scandal.
+
+EDIT:
+Just in case my claim sounds dubious, here's what I was doing in the 24-hours before I got banned:
+
+- I just received the Stone Hatchet and completed the 25-kills challenge (and didn't receive the 250,000 GTA$ bonus for it).
+- I received the 750,000 GTA$ moneydrop for watching the official livestream event (https://www.facebook.com/rockstargames/posts/10156559856180097).
+- I was promoting my Nightclub and waiting for my supplies to fill up.
+- I logged out to take a nap for a couple of hours.
+- I woke up, tried to log in again, but the Social Club verification was taking too long, so I quit out of the game and restart.
+- When I restart the game, I received the message that my account has been banned for 30 days.
+
+I have sent multiple messsages to Rockstar Support, but all of my tickets were closed immediately with a preformatted response:
+
+- "You did something wrong but we won't tell you exactly what you did."
+- "Your account will be reset: Character, Money, EVERYTHING."
+- "This is final and cannot be appealed."
+
+So, yes, I'm being banned for something I didn't do and the punishment is 5 years worth of LEGITIMATE PROGRESS, gone.
+This review is very much a game of two halves, but please do read all of it, the bad part is last, be aware.
+
+
+
+GTA V single player.
+
+Comedy gold, great characters with OTT humour blasting their way around Los Santos, couldn't be more fun.  Buying on sale for the single player even if you never go online.... worth it.
+
+
+
+GTA V Online.
+
+Well, where do I start.  The online part of the game leaves you rattling round in public lobbies trying to grind away the cash to buy anything fun, then more stuff comes out that looks fun and you spend more time grinding for that.  Commonly griefed while doing it, often hassled by modders and frequently stuck in the clouds. 
+
+Of course there is stuff like the pvp arenas, all the racing types and heists that can be done without joining a crew as well.
+
+But, find a good crew..... and all that changes.  With a good crew you can help each other make money, kick the griefers out of sessions, roleplay a motorcycle gang riding around in leather and the game becomes a lot better.  Like most online games, finding decent people to play online with makes all the difference.
+
+
+
+Rockstar Support
+
+No review of GTA would be complete without a quick look at R* support.  Yes the online game has a modder problem, so yes a fairly aggressive anti-cheat is welcome...... regrettably it sometimes functions like a rabid dog and bites whoever it sees.... and from late on 24th to 26th March 2018 it bit a lot. 
+
+24th - A bit of code is updated, thousands of people start getting banned for 30 and accounts wiped.
+
+25th - The bans continue, thousands and thousands of bans and accounts wiped, thousands of hours of gameplay gone.  No word from R* about it, support tickets relating to bans autoclosed with a polite "f**k off reply"
+
+26th - Bit of code changed on 24th changed back, no word from R*, media gets hold of it, steam reviews tanked.  No new bans
+
+28th - People still banned, no word from R*, support tickets relating to bans no longer autoclosed.  So yeah, that's progress.
+
+29th - So R* has started lifting the false bans, which is great, the downside, when they log in they are getting autobanned again.  The mess continues.
+
+So finally, about a week after people got banned, and unbanned and banned again everything is getting sorted out.  I was lucky, I got told what was happening so I didn't log in.
+
+Now a lot of people say "cheaters always whine about getting banned hahahahaha", but these are people I play with every day, in a crew specifically focused on avoiding cheaters, people I trust in a crew I trust.
+
+GTA is a genuinely great game at times, frustrating at others, and a miserable piece of shit when you have to try dealing with R* themselves.
+
+Single player 10/10
+
+Online 5/10 rising to 8/10 with a decent crew.
+
+Support and respect for their customers 0/10, nothing, nada, f**k all.
+If you are looking for a great singleplayer experience, you can ignore this review. You're getting what you pay for there.
+
+If on the other hand you're looking to play GTA Online I cannot recommend the game anymore. It's fun in theory but the way Rockstar handles stuff is just awful. Not only are they completely helpless with the cheater situation in the game but their attempts to stop them actually hit legit players as well. I've earned quite a good amount of in game cash during one of their double money weeks shortly before the last major DLC hit and Rockstar in an attempt to remove cheated/modded money removed 7 million (thats the equivalent of about 80 real life bucks) from my account. In-game money I had earned through their event. I've contacted the support multiple times only to receive responses that either claimed the money was cheated or threatened to ban me.
+
+After about 5 support tickets I gave up. Rockstar Games is scamming their own customers, and that's why I can't recommend being a customer of Rockstar Games anymore. If you already have the game and still play GTA Online I'd recommend doing the following: Go online and search for a cheater willing to give you modded money, proceed to get as much modded money as possible and spend as much of it as you can. Never even think about playing the game legitimately to earn money and for god's sake don't buy shark cards.
+
+Cheers.
+You think every single review here is fake and they're all salty cheaters? 
+I thought so too.
+
+Recently, Rockstar decided to remove cash from players' accounts because "they have illegitimate money."
+The last two weeks were really good for GTA:O with profitable events and discounts, making money wasn't so bad.
+But the moment they released Smuggler's Run trailer, they started purging accounts.
+They literally "stole" 8.7 million from me. Some people lost 150k, some lost 20+ million. This is not PC exclusive, people lost money on PS and XBOX too.
+I'm not saying all these people are innocent but i know i've been playing my *ss off (activity;280 hours past 2 weeks) but apperantly they don't like it when you earn too much. I still have decent amount of money, but that doesn't change the fact that they stole cash from my account out of nowhere. Too much real life parody there.
+
+I lost millions because of the business bugs, glitches. (Supplies never arrive, 75k worth of supplies produce 63k worth of product, no production even though business is active etc...)
+I lost millions because Import/Export bugs. (Vehicle starts burning for no reason, sometimes 15 minute delivery timer reduces itself to 2-3 minutes. When you're about to sell, a long loading screen then cars are gone or invisible,etc... )
+
+I lost hours, when you're done with a sale, sometimes you receive "Transaction Error, price is invalid." or "Transaction error, too much activity in your account." I'm sure that was suppose to be against modders. Guess what? I play legit, i get an error. In the next session a modder's dropping 50k cash every 30 seconds. What happened to my business? I lost some of my product, recieved no money. I can try selling it again and hope i won't get any errors this time.
+
+What about Rockstar Support? 
+They're worse than Nexon.
+Nexon doesn't give a sh*t.
+Rockstar doesn't give a sh*t plus they damage your in-game experience.
+
+I sent about six tickets, i got three different responses. No, it's not because they ignore your ticket. They have a support catalog or something where they copy&paste the best answer for your question.
+
+Please take a look at these responses. These are real.
+
+Response for the transaction errors. "We're good, your connection is sh*t, go away"; 
+https://image.ibb.co/dz0HEq/cockstar2.jpg
+
+Response for the lost Import/Export vehicles. I don't know what to think about this;
+https://image.ibb.co/b0BeSA/cockstar1.jpg
+
+Reponse for the second lost Import/Export vehicles. Now, there're a lot of scumbag youtube "content creators" out there. They give people tips on "How to get free cash from Rockstar Support" you know, clickbait bullsh*t. Now, i get this treatment because of that.
+https://image.ibb.co/bwKAZq/cockstar3.jpg
+
+This is Rockstar Support for you.
+I've had similar issues last year, but they actually helped back then, sent me the money i lost and stuff. I don't know what changed this year.
+
+"Oh, you've played 1800 hours, you got your money's worth." That's not how it works. That playtime includes loading screens, connection errors and my no-life grinding... They make truckloads of money from Shark Cards and they keep releasing new content. But with every new update, the game gets more outrageous and exploitative.
+
+Shark Card prices weren't enough. OpenIV scandal, ridiculous drip feeding content and now this.
+DLCs in this game are NOT free unless you play (grind) 5-6 hours a day.
+The fandoms on Rockstar forums are pathetic.
+This game is not worth it, even for single player. They still haven't released a single thing for the single player.
+Do not support this corporate nonsense.
+I'd say it's a shame because the game is really good but nope, i have nothing good to say.
+
+Stay away from this company.
+
+Update: Now they constantly change vehicle stats, can you guess why? They released a supercar that costs 2.4 million. It was faster than anything else in it's class, but for a week. It's third now. Again, more exploitative behaviour from Rockstar..
+If you have any doubts, read the review comments.
+
+-Reuploaded the links. This travesty should not be forgotten.
+You are part of the problem if you purchase a single game from Take-Two.
+[h1]Online play broken[/h1]
+
+Like many others, I was banned from online play due to a [u][b]faulty anticheat system[/b] that Rockstar has denied accountability for and has failed to repair[/u], multiple months after its issues had first been brought to their attention.
+
+Considering the major scope of this issue and its consequences, Rockstar's public response has been incredibly irresponsible and incompetent - [i]auto-denying ban appeals and failing to formally address the cause of the issue[/i].
+
+Hopefully this issue will be erradicated in the near future, and we many who have been affected can again enjoy the online features of this fantastic product. I wish Rockstar the best in resolving these issues.
+R* is currently taking legitimate money away from hundreds, possibly thousands of players.
+Their cheat detection is flawed and honest players are paying the price for it.
+
+If you're reading this and are skeptic about it, so was I, until it was my turn to pay up. 
+I play in private sessions only, for the sole reason to avoid cheaters. It didn't help. You'll get your turn.
+
+I do not recommend this game until R* gets their act together.
+
+Edit: 
+I'd like to add that buying the game for single player is absolutely worth it, but online is simply a mess. 
+
+It's been 3 weeks now and R* refuses to acknowledge their error, so I stopped playing and caring. There's no point in playing online if R* can steal your legitimate money away at any time. And the irony is that legitimate players are getting hurt while cheaters are unaffected.
+
+I will never buy another R* game again and I doubt I am the only one. The way they treat their players is ghastly. Their support desk is insulting. It's all about the money, now more than ever.
+Over 1,000 hours on file and I get banned because a man with an airplane sticking out of his crotch locks me in place and dumps money on my head. Yea totally my fault for not logging out, and not Rockstars for not fixing their netcode.
+Singleplayer is amazing. The story, characters, map. Even after playing over and over again it's still entertaining. I like it way more than the GTA 4's story.
+
+[b]As for online[/b] - this is the reason why I don't recommend the game, because I think that most people nowadays buy the game mainly because of the online. Don't get me wrong; I used to love it, played over 400 hours of pure online, everything was awesome, I thought that this is the perfect multiplayer game, they are constantly updating it and there is a lot of stuff - which has become the problem. A year and a half ago, everything was more or less balanced, the prices were reasonable. After the Import/Export things were getting drastically different. Looked like this to me: 
+
+[i]"Hey buddy, want to enjoy the content? Well, you should get our brand new garage only for 2M."[/i]
+
+Then Gunrunning. Again, my overall feelings:
+
+[i]"Look at this cool update! The players will be able to get their bunkers only for 1.5M. Also, don't forget to upgrade your equipment for another 1M. Did we forget to mention that getting additional people working for you will only cost you half a million? By the way, you will time from time get raided and lose everything, unless you buy another cameras for 400K! All the raids will magically disappear! Want to modify your weapons in your Workshop? Well, too bad, you need a trailer for that, but don't worry, it's only 1 to 2 and a half millions. Do you want to train your shooting? There you go, only for 700K! Do you prefer white over black? The paint costs 105K, so... Did we mention that you can take a nap there? The key for that room costs 265K. Do you want a Gun Locker which you will probably never use? That will be 175K. You want some caddies? 85K or 120K if you want to have them larger. Don't forget to check out the new cars! Get yourself a car that shoots a couple of missiles only for 4-5M!"[/i]
+
+How I felt about Smuggler's Run:
+
+[i]Hello there! This update will be about planes. Want a hangar? 1 to 5M. Which style would you prefer? The one for 100k or the one for 320k? Want different lights? No problem - the more expensive style you chose the more expensive lights you'll get! Isn't that cool? Want some nice 'art' on the floor? Sure, we'll paint it for you, costs only up to 200k, just like your apartment you bought last year to do heists! Furniture? You mean another wall? That's another 280k for you. Again, want the keys to access your bed? 235k-375k. You want to customize your 500k glider? One word - WORKSHOP! And guess what this number, 1,150,000 means... Correct! It's the price!"[/i]
+
+The prices of the content added were skyrocketing, if you wanted to truly enjoy the game, you had to either make money all day long if you wanted to be a fair dude that doesn't hack, which is by the way, another big problem with this game, or buy some cards that are horribly overpriced. At this point I didn't have time to play all day long, I didn't want to hack and I totally didn't want to spend twice the price of the game on some cards, so I stopped playing. Since then, I've been ignoring the game, not watching any videos and not paying attention to the updates. Sometimes, when I notice that there's an update, I come back for a couple of minutes and look how a vehicle with a couple of missiles costs over 4 millions. Now another heist update, you might think this:
+
+[i]"Oh, finally another heist, things are getting back to the state when you could buy a house for 200k and get full content."[/i]
+
+The reality, however, looks like this: 
+
+[i]"Hey, it's nice to see you back in the game, look at this brand new heist room only for 2 millions, the same idea, only way more expensive."[/i]
+
+And as a person who doesn't have that much time to play anymore, I can't enjoy the content anymore. Another problem with this game are the hackers. I finally am thrown into a lobby after 10 minutes of loading, I see that I am immediately teleported to an airport from my house with a couple of other people and I am stuck doing some rather strange animations. I always report the guy when I find out who it is, but it doesn't seem to help. I've heard some heartbreaking stories of people getting banned for no reason, this luckily hasn't happened to me yet.
+OpenIV fiasco aside...modding aside... cause we all know you guys f***ed up with that..
+
+But, what really bothers me and alot of people is the unrealistic and downright criminal prices you expect people to pay for your Shark Cards. $100 real money for $8Million in-game cash.
+
+When every new DLC costs $25Million-$40Million if you want all the vehicles, upgrades, unlocks..etc..etc WTF good is $8Million?? Your price structure on everything from Shark Cards to Merch is bizarre and unbalanced - if you wonder why people mod and manipulate your game, its because nobody enjoys being blatantly ripped off.
+
+Irony here, when the 'ripping off' got to much for you guys, you threatened the very same people that mod your game to enhance it and who, at the same time, put food on your table and keep you with a job.
+
+STOP ripping off your customers and instead of fighting, why not listen to the community - expand the single player experience with some kind of worthwhile DLC, like people have been begging for. Why not make servers that welcome modders and people that enjoy enhancing the game and getting even more value for money.
+
+and..for gods sake..STOP charging criminal-esqe, exorbitant prices for your poor value Shark Cards... ugh.. just STOP, we are all embarrassed for you over the shameful greed you've shown...and continue to show~
+
+
+[b]Things I Have Never Done in GTA Online:[/b]
+[list]
+[*] Used Hacks in Any Form
+[*] Modded the Game (Single or Multiplayer)
+[*] Been Given Hacked Money
+[*] Asked for Hacked Money
+[*] Glitched or Used Exploits 
+[*] Cheated or Abused the Game
+[*] Had any Software Installed that has been known to Interfere with Cheat Detection
+[/list]
+
+[b]Things I Have Done:[/b]
+[list]
+[*] Paid for GTAV on two platforms
+[*] Spent over 350hours playing GTAOnline across two platforms
+[*] Rarely spent any time in Public GTAOnline Sessions
+[*] Bought all Previous Rockstar Games and Loved them
+[/list]
+
+So in early December 2016 I was grinding hard in GTAOnline during a slow week. I had decided to set myself goal of earning enough money through CEO Jobs and Biker Work to buy a Super Yacht. After a few days of grinding I logged on and found I had been banned. I checked my email and found an agressively vague non-specific email telling me I had violated Rockstars EULA and I had been banned from GTAOnline for one month.
+
+At first I was fairly okay with this, it was one month, and sometimes these things happen. Then I found out that I had my character stats, profile, money and assets wiped out. So I left a ticket on Rockstar social club querying this and attemping to appeal the ban and got back a generic reply that I had violated the EULA and the ban is final. 
+
+I have spent the last month sending in tickets, asking different questions trying to at the very least pinpoint what my violation of the terms of service was. I have yet to recieve anything except identical replies, all giving me the exact same vague information that I had violated the EULA and had been banned and that all bans were final. I tried calling up Rockstar technical support (which I only found the phone number for my country on Reddit - thanks to who ever posted that), and the person on the phone read me the EXACT same reply I got by email and then proceeded to hang up. 
+
+At the very least Rockstar has some horrible customer service. At worst, they are deliberately obstructing and willfully ignoring the compaints of paying customers. No automated ban system is flawless, and prior to this I would have agreed that people claiming false bans are just whining cheaters. But now I believe that there is at least a minority of banned players who have been banned for no valid reason, have had hours upon hours of gameplay wiped and have no recourse to appeal the bans. There are victory stories from before Rockstar updated their ban policy mid-2016 when people had been able to appeal the bans due to false-positives, and this at least shows that the automated ban system is flawed. 
+
+Let me be clear: I couldn't even find out what I did to earn the ban, let alone be given the chance to refute it.
+ 
+[b]Overall:[/b]
+So: if you want this game for singleplayer, go for it. It's good. Story isn't as tight as GTAIV but the gameplay has improved greatly. But if you want to buy GTAV for Online only, think twice; because you may end up having hundreds of invested hours wiped out for no apparent reason, and have no way to even appeal or find out why.
+
+[b]Edit:[/b]
+Some links. 
+
+[url=https://youtu.be/J1G7aVdDw7w]YouTube streamer banned, while in game, after streaming from character creation to ban.[/url]
+
+[url=https://support.rockstargames.com/hc/en-us/articles/115002802927]Rockstar come out and say that software hook-ins don't affect bans.[/url]
+
+ [url=https://support.rockstargames.com/hc/en-us/articles/229514247-Update-to-GTA-Online-Suspension-and-Ban-Policy]Rockstar suspension policy.[/url]
+
+[url=https://www.reddit.com/r/GrandTheftAutoV/comments/5aqrfh/falsely_banned_in_gta_online_my_experience_with/]A Redditors ban story. Has more links and details than in this review, make your own opinon.[/url]
+
+[url=http://steamcommunity.com/groups/FalseBanGTAO]FalseBanGTAO Steam Group.[/url]
+
+[url=http://www.cinemablend.com/games/GTA-5-Online-Microtransactions-Earn-Tons-Money-62373.html]Rockstars profits from Sharkcards.[/url]
+
+[url=http://www.rockstargames.com/newswire/article/52429/asked-answered-the-rockstar-editor-gta-online-updates]Rockstar claims Singleplayer mods were never meant to cause bans. (Possibly outdated).[/url]
+
+[url=https://support.rockstargames.com/hc/en-us/articles/201617423--Updated-6-15-15-Update-on-GTA-Online-Cheaters-and-Modded-GTA-]Rockstars say recieving modded money won't cause bans.[/url]
+Until the last update, I would have highly recommended this game, but sadly I would advise everyone to steer away from this game and any other future Take-Two/Rockstar game. I think theifs is the best way to describe these companies. I can confirm to those of you reading these reviews saying "surely they wouldn't be removing in game funds that people pay $80/£60+ for?" that it is really happening. I will split this review into two parts; Single Player and Multiplayer.
+
+[u] Singleplayer	[/u]
+The story and how it plays out for single player is possibly the best out there. The story is fantasic, and there are very few missions that aren't fun to play. Also, the implementation of an in-game stock market (although not the best thing ever) is really cool to me. Pairing this with missions that allow you to manipulate this stock market, you can earn millions, even billions. But this leads to the issue of there being nothing to spend it on. Singleplayer mode for some reason does not get content from Rockstar's updates. The only way you can access them is by grinding multiplayer for days to afford the likes of one car, however we will get to that. 
+Overall, Singleplayer is absolutely fantastic, except from the fact that after the story there is little to do unless you are interested in mods, in which case you will probably love this game for that.
+
+[u] Multiplayer	[/u]
+
+Oh yay, this train wreck. Okay, so I have 1,151 hours on Steam for GTA V, with around 1,000 being for multiplayer. I converted my stats from PS3 so likely have around double that. I know what I am talking about with this game. The multiplayer in this game is absolutely trash now. I was always able to look past the grind in this game, but it has gotten to the point now where money is so hard to make, and things are so expensive that it is no longer fun. At all. Rockstar and Take-Two have become money whores, so much so that they are taking purchased in-funds away for NO REASON and will accuse you of hacking the game. If you refuse to purchase the in-game currency (like me), then you will have to grind. Now, at least in my ways, around 1 hour of in game grinding will bring in, at most, around $300,000, and that's if youre grinding really hard, non stop, and have the most lucrative in game businesses in the game. When starting out, you will be lucky to bring in $100,000 per hour, so as you can see, it's a pretty tough grind anyway. The last update called "Smuggler's Run" brought some of the most expensive content in GTA Online to date, with things costing $1,500,000 upwards. I had 2.6 million removed from an in-game challenge called Criminal Mastermind that took me months to complete, getting $10,000,000 from. This was removed because it was "modded or cheated money". So, 6 tickets to Rockstar later, I have quite rudely been told by a robot to go fuck myself and that I'm not getting it back, and that's why I've finally decided that enough is enough with this game.
+Something that I have always found interesting in GTA Online is that you can buy a yacht - a real calling card, with the most expensive one sitting at $10,000,000. The highest in-game currency you can purchase is $8,000,000, sitting at $100 real money. That to me has always seemed ridiculous for what is already a fairly expensive game.
+Also, if you want to mod singleplayer, thats fine in their eyes (not really since they shut down OpenIV, a company they supported but hey let's let bygones be bygones), but if you DARE go near their money making method and try to make things fun, you will be banned and stripped of everything you have online.
+
+[u] Overall	[/u]
+This review could go on forever, about a game/company that steals from their fans and shuts down companies who they once directed their fans to, but I think it's time to sum it up. For what was for a very long time my favourite game ever, I would highly recommend that you never go near this game, even if you recieve it for free. I will never touch another Rockstar or Take-Two game, and hope that their next game flops and they learn no treat their fans better, however, if you're not giving them money, they hope you fuck yourself.
+
+Update: Went on today to see if I had been refunded yet, and guess what!! I haven't.
+
+Update 2: Left another ticket  to Rockstar asking HOW my money was illegitamate, stating several times that I know that it, according to them, is illegitimate but after my ticket making it to support stage 3 (presumably the highest? Has been in all support companies I know.), guess what happened? I got the same copied and pasted god damn response AGAIN. This reponse took them over a week to type.
+**EDIT - Apparently I'm one of the [strike]hundreds[/strike] thousand or so people falsely banned. People were getting banned in the tutorial. Seriously?**
+
+This could be a good game if Rockstar wasn't the most incompetent twats I've ever had the displeasure of dealing with.
+
+You read a ton of these negative reviews thinking that these people are just unlucky, that it can't happen to you. I've been playing the game nonstop for a past week, making money for a bunker and new cars and in the middle of a game, I just got falsely banned for a month for no reason at all and my character and progress INSTANTLY reset.
+
+It's a shame because this is a blast to play with friends, but Rockstar just can't seem to manage shit with their own game. They don't try to improve the experience, pushing out a bunch of events that no one seems to care about, releasing new content that require days of grinding and instead forcing everyone to buy their absurd shark cards, which people still apparently get banned for.
+
+Another thing which I found cute is that now their support page reminds you over and over no bans, no matter what, may be appealed and are AUTOMATICALLY closed. So even when they ban people fo no reason: tough luck. 
+
+Not to mention, do you know what I'll find when I log on a month later, all of my hard work reset back to nothing? Modders and cheaters, the same that have been on the game ever since it first came to PC.
+
+This game will forever be garbage because of Rockstar. This review will stay if mine and countless others bans are not overturned.
+
+**EDIT 03/29/18 -  A majority of the falsely banned players, myself included, have been unbanned with all of our accounts intact.. to promptly being banned once again with the same response Rockstar had in the beginning of this mess. So good job Rockstar.**
+Rockstar can ban suspend/ban your account and completely reset your stats without any warning even when you have no used any mods, picked up modded cash or downloaded a cheat. Rockstar support will not revert your suspension/ban and refuse to look into your case when you ask them to over live support, only giving the same copy/pasted responses of "all decisions are final and your ban/suspension will not be reverted." They will refuse to check whether you are a legitimate player or not and if you are wrongfully banned, say goodbye to all the work you put into your character.
+
+Meanwhile actual cheaters have a free reign in public lobbies, able to spawn in unlimited cash, unreleased vehicles, invincibility, the ability to kill anyone not in passive mode instantly. None of them get banned, while thousands of legitimate players do.
+
+Consider this a warning before buying.
+600 hours. Great game. Came back on to have some fun with an old friend and to check out the new updates. We did some CEO missions and drove around, deciding not to bother the other players and do our own thing. I log off the game. Five minutes later i receive an email stating i have violated the EULA and my account, character, and inventory have all been reset. Years of work. Gone. I decided to give the game another chance after the same scenario had happened to my best friend before the reset was a thing, just to have it happen to me. Don't get me wrong, we had a blast driving around, grinding up enough money to finally buy the vehicles and homes we wanted, then proceed to try the new modes as they came out like the racing, CEO, adversary modes. I saw all these negative reviews on the page stating how people had been randomly banned, and when they brought this up on the forums, they were called "liars" and told "Dont cheat again fgt". I thought they were full of shit until it happened to me. I have no chance of getting all i've worked for back unless i buy their damn shark cards, and even then, whos to say they wont ban me again? I can say the uninstall button worked better than the anti-cheat, as ive seen countless modders roaming around unopposed, causing hell to other players. Im 90% sure that the majority of answers im going to get for this review are going to be the "regulars" who claim everyone hacks or cheats except them, and that i won't be missed. Thats fine. Just note Rockstar, if you by chance read my lovely review, you've lost another customer. I will never buy from you again. It was fun while it lasted but in the end, even i was beaten by a robot with the banhammer, with no reason, or fucks given.
+When I bought this game on Jul 6, 2015, and played it for the first time it seemed amazing. There weren't that many cheaters around, Rockstar weren't pushing their shark cards so hard yet. The amount of money needed to get something was considerate. Like top apartments were $200'000, cars cost hardly over $500'000 and you could easily get your first million simply by playing each heist just one time.
+
+Then bikers came out introducing new ways of making money with biker businesses. Which were then greately nerfed after a while. Rockstar began to push their shark cards harder and began to fight the competition they themselves made. That was the first time I noticed Rockstar being greedy and cutting players' income to make it harder for them to grind the money in game making them feel like they need to invest real $$ to get some in-game $$.
+
+After that CEO import\export with crates and stolen vehicles came out which, again, at first allowed players to earn some nice money pretty fast. And guess what happened next? Rockstar nerfed the income yet again making it hardly profitable for the players. And at the same time the prices kept growing wild. Like some cars costing over $2'000'000, apartments costing over 1 milion providing no extra features. Hardly useful mobile operation centers costing 1.5-2 million. And shark cards popping up everywhere like a real annoying advertisement in real life.
+
+Then in June 2017 Gunrunning came out which was a blast in moneymaking compared to any previous activities and remained the best way to make money in GTA Online for a while. At last I was able to keep up with crazy prices on cars, bikes, guns, and all sorts of customization in game (still taking up insane amount of time to grind though, but at least "the price was right")
+That remained the case up untill late february \ early march of 2018, when I noticed my sales shrank in half. And this time, since it happened recently, I am able to state some real numbers:
+For a year I was able to pay $75'000 to get a full stock of supplies for my bunker. Which then produced me an amout of guns worth of $420'000 per one sale using a single vehicle. Meaning I had a net profit of $345'000 per one single sale playing solo. And as of today the numbers shrank down to just $210'000 per sale, but I still have to pay the same $75'000 for the supplies and wait for the same amount of time for these weapons to manufacture which makes my net profit $135'000 (down from $345'000). That's $210'000 less than it used to be PER ONE SALE.
+The exact same thing happened to EVERY DLC activities earlier. I just can't memorize the exact diffirence in numbers for those older changes, but the effect was the same every time. I stopped doing these older missions since they became hardly profitable. And this time the gunrunning is gonna be my next abandoned facility :(
+
+Now let's move on to another huge problem of this game: CHEATERS.
+Rockstar made only one good attempt in fighting modders for real. JUST ONCE. When they decided to completely prohibit the use of any modification for GTA Online, which then resulted in a huge outbreak of negative reviews on Steam which spooked Rockstar to the bone. And they quickly reverted these changes completely removing such protection within a couple days. Allowing rеtаrdеd individuals to keep on griefing on other players using mods.
+And nothing has changed ever since.
+
+This is why I AM NOT GOING TO BUY and DO NOT RECOMEND you to buy ANY GAMES FROM ROCKSTAR in the future.
+Rockstar used to be a great company making masterpiece games. But they became corrupted by these filthy greedy marketologists, and began to penalize their loyal and honest players with income cuts, crazy in-game prices and long grind times while allowing cheaters and modders to thrive on, completely ruining GTA Online.
+
+ROCKSTAR, STOP BEING GREEDY AND MAKE YOUR GAME GREAT AGAIN!
+- Played over 900 hours.
+- Never got banned.
+- Never received money from any hacker.
+- Never had any similar problem with Rockstar.
+Why is it a thumbs down? 
+- Multiplayer it's still infested with hackers, modders, people begging for money, kids cursing for no reason etc.
+- You will get banned? 50% sure.
+- Will it be your fault? 100% not.
+- The hackers are giving you money just because they can, and they want to, not because you will ask them to.
+- How do you stay away from hackers? Maybe you're asking..well, you create empty sessions, but that's not how a multiplayer experience should work on a triple A title.
+- If you don't have friends, don't bother buying it, unless you wanna play singleplayer.
+- Oh..one more important thing, Rockstar is even trying to solve the methods of creating empty sessions, they already patched some of them, so you gonna be forced to stay on sessions full of people i mentioned above, but don't worry..your boy got your back, here's the last single method i know that works if you want to create an empty session:
+- Alt+Ctrl+Delete>Task Manager>Performance>Open Resource Monitor>Right Click on Grand Theft Auto app>Suspend Process (for 10 seconds)>Resume Process, and you get your own empty session, you're welcome.
+Got banned after not logging in to GTA Online for almost a year. After logging in today, played for less than an hour and suddenly got banned. No reason nothing and even my account got reset. 450+ hours spend on Online on PC, all gone to waste. No respond from Rockstar neither will they look into it. I never cheated on this game not even once and now i am being betrayed
+i'm going to miss this game, a lot.  
+
+since buying it less than a year ago, i've put in over 1500 hours.  
+
+yeah, the online community can be super toxic a lot of the time, but i've never had issues wherin it became unplayable - just annoying.
+
+the pricing of in world items - properties, vehicles, etc are absurd. and the running costs (utilities, staff, etc) also hurt a lot when you don't have a whole lot of capital.    
+
+you need to pay millions upon millions to set up businesses that make thousands.
+
+i could gripe on endlessly about a whole lot of gta online's flaws.   but you've heard them all a million times over, probably.
+
+i had a lot of fun.
+
+i wish i still could.  
+
+and this is why i'm leaving a negative review.  
+
+rockstar's anti-cheat is terrible.  
+
+god modders run rampant with little or no repercussions.  
+
+and folks like me catch a 30 day suspension for reasons unknown then upon returning play it super paranoid mode, keeping as low key as possible and fleeing to different lobbies as soon as these people show up.
+
+and then we get a perma ban notice, anyhow.
+
+i had a lot of fun
+
+i met a lot of cool people.
+
+i'm gonna miss this game.
+TLDR; The game is fun but Rockstar and Take-Two provide no specific information regarding suspension or bans. Even if bans are final, this information should be provided to the user so they can rectify the issue. To make it clear, my current temporary suspension is a false-positive to my knowledge. I requested further information regarding the EULA violation from their support team. They chose not to provide infomration on the EULA violation, nor did they provide evidence that my account had violated the EULA. I can not recommend this game because they do not make this information accessible.
+
+-----------------------------------------------
+
+Until this week I would have recommended GTA V as a great game. It has an enjoyable single player and while the multiplayer is a grind to say the least, Rockstar have made it possible to perform the activities / missions / events with more than four players, which is a common pitfall of most co-operative games. This has given the game replay value, which led to the large number of hours I have played it. Whenever my friends and I needed a game we all were happy to play, GTA V was commonly the choice. I will acknowledge that GTA V itself is a great game to play with friends, and alone. However, on Monday - whilst mid-mission, GTA V's anti-cheat engine handed me out a temporary suspension. Like a broken record, I will say that I do not cheat, exploit, or mod the game, nor do I have any program which is capable of tampering with the games code or memory. 
+
+At the time, I summised that GTA V's cheat engine works using a heurisitc system which looks at the behaviour of programs running in the background. Most likely it looks for programs attempting to inject code, control window handles, or view memory. I am relatively sure that it was my AS Rock tuning utility - which was monitoring sensory data, that is the culprit. I deduced this only from the fact that it was the only program that I had not run while running GTA V over a long period of time. However, I can also deduce that this program would have in no way altered or hindered the GTA V executable, nor its online service. I do not simply want to serve the 30 day suspension (which I am quite happy to do - understand that an anti-cheat engine that analyzes behaviour is bound to misinterpret occasionally) and then find that I am permanently banned. The problem with this game isn't the anti-cheat engine itself. In software engineering of this nature, there is always a tradeoff between false positives and limiting the number of cheats. So many hackers were ruining the game that the developers had make the anti-cheat engine more aggressive - result: more false positives. 
+
+The problem lies in their lack of support and the ignorance that they hold towards this potential tradeoff. I sent a message to support - not asking to appeal the ban (explicitly telling them that I did not wish to appeal), but rather asking for information regarding the violation so that I could determine what caused the issue. The support message was viewed three times according to their "latest activity" timer over two days, and then "Charles" provided an automated message essentially copy and pasting the same content on their website regarding the issue. This is the problem. Rockstar and Take-Two's line is that "everyone is banned" for a reason - and therefore bans are final. If they enforce this, then they should inform the user of the specific violation that occurred. Providing me with an automated message provides me with no information doesn't tell me what set it off your anti-cheat engine. More so, it is an insult to your player base to not provide this information.
+
+Furthermore, there is an issue regarding permanently banning accounts without providing proof of the offense. In particular, in the termination section they state that they will only terminate an accounts service if it violates the code of conduct or if the service itself is terminated by the licensor (i.e. they stop online support for the game). By permanently banning someone (i.e. terminating online services to that registered account), this directly implies that the user must have violated the code of conduct. If they don't provide proof of the infraction, then one should question whether there was even a violation of their services. The burden of proof is on Take-Two or Rockstar to prove that you violated the EULA. If they can't provide the evidence, then there is no proof of a license violation and therefore they are breaking their own EULA. Since the EULA is essentially a contract, they are legally liable in this scenario.
+
+If the game provided proof of the violation that the registered account made against the EULA, then I would recommend this game - because then the game/service/or support would explicitly state the violation to the user and give the user a chance to seek remedy in the scenario that the grounds for the violation were false. As it is, Rockstar, Take-Two, nor their support channels make no attempt to provide this information. Furthermore, the support channels they provide for EULA violations (i.e. bans) provides no further assistance in the issue - why have it at all? Just tell us that you don't answer questions on bans rather than wasting our time. So as it stands, I will not be utilising their online services until they do provide this information. Hence, I do not recommend this game because at this time, I can not fully utilise the product without risk of the Licensor (Take-Two) violating the conditions of their EULA in the termination section (i.e. permanently banning me) and with no possiblity of the Licensee (Me) seeking appeal or remedy.
+After 3+ years of playing GTA V on both PS4 and PC, and putting in hundreds of hours into the game, Rockstar unfairly banned my account and reset all of my character progress. I had to grind and grind to make money because Rockstar wants players to buy their vastly overpriced Shark Cards, and I, along with other people with high cash balances, was unjustly banned and lost it all.
+
+Support tickets I submitted were ignored and met with the same copy-and-paste responses repeating their ban policy. After this ordeal I am never going to buy another Rockstar-affiliated product. They don't care about their players or customers. They only want to make money.
+[b]Grand Theft Auto V[/b]
+
+I have never thought that I will write a negative review on game like GTA V. For a long time it was one of my favorite games, but after last ban wave I reconsidered my opinion, and I just can not recommend this game to anyone who is considering to buy it for multiplayer or is already playing. 
+
+If you still do not have this game, and you just want to play singleplayer, do not hesistate and go for it. Singleplayer alone is worth those money. 
+
+[b]Now about multiplayer:[/b]
+[list]
+    [*]grind here is bad
+    [*]it has lot of bugs
+    [*]so many endless loadings
+    [*]you need friends to really enjoy the game, and even with them it will be frustrating experience
+    [*]there are not many things which you could do alone
+    [*]you can not do your businesses on your own private server, so you are forced to play with random players, because of that it is really frustrating and hard to make any money
+    [*]new updates are worse and worse, they cost a lot of money, and in the end most of those things are totally useless
+    [*]they do not care about old stuff which is already in the game, for example: Titan could have functional loading bay or Cargobob could have magnet rather than that useless hook...
+    [*][b]BAN WAVES which causes suspensions even for legit players[/b]
+    [*]Yet there are still many modders
+[/list]
+Still after all those things [b]THE BIGGEST PROBLEM is R* Support[/b], I can say that I have never seen worse support. It is like talking with robots, they are using scripted phrases, and in the end they will not help you.
+
+As a player who got banned without any reason, I was trying to get some answers. At least I wanted to know "what have I done?". But they will not tell you, because you do not have permission to know that. The only thing you get is their typical copy/paste answer how their anticheat is flawless, and you are the one who broke EULA rules, but which one? Who knows...
+
+Another thing is that with the ban they also delete your characters, because of that I lost my 700h+ progress. 
+
+So if you are guilty, you can prepare yourself that after the ban ends, you probably get another one (permanent), because you can not prevent happening it again without knowing what it caused. 
+
+And if you are really innocent, the only thing what you can do is wait...
+
+[b]After all of this I was just waitting for some statement from Rockstar and you know what?[/b]
+
+[b]Even though thousands of players were banned falsely, after month Rockstar did not do any statement, they just act like nothing ever happend.[/b] 
+
+[b]This is how Rockstar appreciate their costumers.[/b]
+1500 Hours. And for most of that, I would have told you to buy this game. I've had great time.s made great friends. But that was then, and this is now. If you want this game for it's Singleplayer story? Buy it on sale. I recomend avoiding the trashfire that is GTA: Online. Yes, there have always been vehicles or strategys that overpower others, and Yes I've dealth with them as they came up. The real issue- The Modders, Hackers, Cheaters. No lobby is safe, and since GTA: Online lacks decicated servers, they never really will be. You're never safe from someone if they feel like Crashing your Game, and possibly PC, Crushing you hard work infront of you without ever being near you. Hell, if they want, they can Do that to other people, and pin the blame on YOU. What can Rockstar do? Short awnser, Nothing. Long awnser- They've tried many thing, many times, and the problem keeps getting worse.
+
+There are many ways to beat some sweaty Tryhard who just wants to pick a fight and ruin your day.
+There are many ways to fight of an onslaught of players just trying to make a few bucks off your demise.
+There are many ways to make friends, have a good time, enjoy the game for more than it's grind heavy economy.
+But there are VERY few ways to beat people who hook scripts into the server, and giggle as you helplessly watch your hard earned cash go up in flames. Or a Black screen as the game freezes. I could go on.
+
+I don't hate the game. I hate what it's become. A toxic trashfire, on a good day.
+Buyer beware, Pandora's box sits before you.
+GTA Online, the jack of all trades game which does everything quite well while staying a safe distance away from all forms of perfection.  I currently have 4,617 hours of playtime logged in this game, most of it online or in the creator.  Once this game made it out on PC, complete with a first person viewpoint, I felt as though my lifelong journey of discovering an entire world which I could live in and do whatever I desired was finally becoming a reality.
+
+I loved this game.  LOVED this game.  I've been playing since the top-down days of GTA 1, always dreaming of the time when I could experience this crazy alternate world 'from my own eyes.'
+
+However, having spent this much time in the game leaves me with one conclusion:  I simply cannot recommend this game.  Not to anyone, not for any reason.  Not ever.
+
+See, in a game which revolves around drugs, money, murder, and any manner of illegal activities, I kind of expect to be treated like a criminal inside of the game.
+
+I do not expect to be treated like a crimial outside of the game by the sorry excuse they have for tech support.
+
+On 08/29/17, well into week 3 of some amazing double payout bonuses and mere days away from the Smuggler's Run DLC, my few friends and I were spending many long hours playing away and racking up some serious money through all of our hard work.  However, Rockstar decided that it was time to run another sweep looking for people who mod, glitch, cheat, hack, or exploit their game.
+
+Apparently it found very few of these people.  Instead, it found a whole bunch of us legitimate players.  Then it decided to punish us all wholesale, never once telling us why or how it came to this conclusion.  Better still, many of these people with modded money didn't get affected at all!
+
+First we are met with a screen during the game's loading cycle stating 'we have determined that GTA$ and/or RP details on your account were adjusted by something out of your control and we have taken action to fix it.  No additional action is required from you at this time.'
+
+Now, a lot of people will try to argue that they are completely legit 'except for that one time when...'  I am not one of these people.  I know what the public sessions are like in this game.  It's because of this that I had only ever played in closed or solo sessions until very recently, with the same one or two known and trusted friends, for most of my online time.  I had never played online on a console and had never transferred an online character.  I routinely took screenshots of my online bank account just in case some modder somehow managed to get through to me and mess with my hard-earned cash.
+
+To this day I have yet to see a single glitched or modded GTA dollar go into my account.  I would know if it went there.  I do not place myself into situations where such a thing could happen and I keep a very close eye on what happens to my game.  In addition I've never modded nor glitched GTA money, myself.  I've never even duped a car.  Honestly, I don't even know how to do any of this stuff!
+
+Rockstar apparently could not care any less about this as they had decided to 'take action' and steal $28,553,333 of my legitimate, hard-earned money.  Right out of the blue, no explanation given.  'Okay,' I think, 'their anti-cheat is confused with the double payouts we've gotten over these last few weeks.  They'll figure it out, this'll get sorted out, everyone who had their legit cash removed will get it back.'  There's quite a lot of us, too.  Look around the forums and message boards.  Tons of us.  Including about ten people whom I've just stared playing with mere days ago, which happens to be most of the people that I know in this game.
+
+Sadly, this does not appear to be the case.  Rockstar's support number has a doofy automated thing saying to use their support website (which many of us have already attempted to use.)  Any attempt to mention this stolen money on said website will soon see the issue being flagged as being a 'cheat/exploit or banning issue.'  It may or may not also have an automated response from some soulless bot stating that "Your shared bank account in GTA Online was adjusted to remove illegitimately gained in-game money."  Then the trouble ticket will be closed.  End of story, slap across the face.  'You cheated, we corrected it, get lost.'
+
+Like Hell!  Not ONCE have I EVER done anything in this game to cheat.  I HATE cheating.  Had any modded money been dropped onto me I would have told them about it in a heartbeat.  But Rockstar simply does not care about how legitimate we are.  They are always in the right, we as players are always in the wrong.  I'll probably never see that money back but that doesn't mean I'm going to stop sending them trouble tickets about it.  I'm currently sitting at number four.  They will keep hearing from me until they either fix their error or ban me.
+
+Nowhere has there been any official word from them about this.  No 'we recognize that there was an issue' or 'we are currently looking into the matter.'  Nope, we're all dirty cheaters, go screw off somewhere else.  As if it wasn't bad enough that they find any way they can to deplete our online bank accounts through normal play, now they're outright stealing it from a lot of us!
+
+All of the other rampant bugs in this game, both new and old, I could come to overlook (and there are quite a few of them!)  The increasingly forced public session play, the psychotic AI drivers, the ridiculous AI buffs, being called a 'cocksucker' by the NPC's hundreds of times during play (Rockstar must have a fascination with this word combination,) the list goes on.  I won't even get into the mess that is story mode.
+
+This matter, however...  Now that I know who I am dealing with I am done purchasing anything with Rockstar's name on it.  Take 2 is in significant danger as well since their name is now associated with this title.  This kind of treatment of their playerbase is beyond unacceptable.  I can't even fathom how much of my time had been lost due to this, though if you consider that their most expensive Shark Card weighs in at $100 USD and gives you 8 million credits then they just stole nearly $357 USD from me because of this nonsense and there isn't anything in the world I can do about it.  (Except for sending them a bunch of trouble tickets and writing a negative review on Steam.  Power to the consumer, gorramit.)
+
+I had worked my butt off in this game for every dollar which I had saved and spent.  I played it smart, made intelligent purchases, played the game the way it was meant to be played and did everything that I could do to protect myself and my belongings.  As it turns out someone did manage to mess up my account in the end, just not how I would have expected.
+
+Grand Theft Auto receives two middle fingers way, way up.  If you've managed to avoid purchasing this game so far, congratulations!  Stay far, far away from it and its rampant toxicity.  If you already have purchased this and happened to experience a similar situation then I strongly encourage you all to join me in avoiding any of their games from this point forward while continuing to contact them through any means possible until they fix their broken crap and give us back our hard-earned money.
+
+Seriously, go sit on a cactus Rockstar.
+I've been playing this game since it was on the 360 and have enjoyed the content for the most part, aside from the horribly toxic community killing anything that moves, modders ruining every aspect possible, trolls making missions and heists unbearable and so on. I would enjoy this game more if you could do Motor Cycle Club, CEO work, and the other money making portions in private or solo lobbies. Despite all my issues with this game, the long loading times, all of it, I did find it enjoyable with friends. 
+
+And then it happened.
+
+I got hit with a random perma ban for simply playing the game. I honestly don't know what else it could have been aside from a false flag from the ban bot or users not knowing that the MK II Heavy Sniper can have explosive rounds... Maybe players should just leave players alone unless they want a fight? If you wanna fight, don't cry when you get killed, especially since I never liked the PvP in this game, I honestly avoided players at all times cause I got tired of trying to figure out which one was a modder or not. 
+
+So, until my ban gets lifted and Rockstar can figure out that we should be able to fight to get to play this game, I'm leaving this as a negative review and a warning for anyone who wants to play this to play this game, do so at your own risk. Cause that damn bot will not give a shit when it bans you and Rockstar will do nothing to change it.
+
+
+Edit: Since this review has been gaining some traction, I feel I may want to clear some stuff up, especially now that I'm less frustrated at the joke that is Rockstar support. 
+
+Honestly, I despise cheaters and modders in games where the progression is the grind cause you sell yourself short of the satisfaction of having worked up to your goal and getting the thing you wanted and worked for. Not saying that the stupid prices for stuff in this game is fair, but it does feel satisfying to finally get something... Only to turn around and ask why the hell I needed this thing in the first place. Though I get it. Some people want the instant gratification that comes with mods and modded money, but  for me, that would just help kill the game even more for cause then it begs the question, "Why bother playing this game in the first place?" You can get literally anything and everything you want at the push of a button and at no effort on your part other than a Google search. I don't like cheating and modding cause it feels dirty and wrong. Hell, I don't even really use mods in single player games till I've beaten the story to try and get the full experience of the game before going back and seeing what I missed, other options and choices if possible, or just seeing how badly I can break the game. But only in single player games where I'm not messing with other people's experiences, cause I'd honestly hate for someone to do the same to me in return.
+
+That's just my stance on it, I know some people are gonna laugh and scoff at it, but I just thought I'd put this out there. Thanks for talking your time to read this, or at least skim over it.
+
+TL;DR 
+Singleplayer is fun and enjoyable as long as the next update doesn't keep resetting your progress.
+
+Online is a battlefield and everyone and their mother will try to kill you. Play at your own risk. Money is gonna be a constant grind to get cause of how overpriced the fun stuff is, but in lobbies, you're probably gonna get blown up no matter what you do. There's ways to make solo lobbies. Keep it close and ready at all times and play with groups of friends whenever possible.
+Let me start at the beginning in order to accurately describe this atrocity that has happened to me a few months ago. Just now decided to write a review after seeing the same thing has happened to so many others. 
+
+I bought GTAV on [u]September 17th, 2013.[/u] I waited in the pre-order line at gamestop because I was so damn hyped for this game. I was only intending to play it on console until the PC version came out. At this point I had no clue that there was going to be character swaps from console to PC. I obtain level 72 on console. Loving the game, couldn't be happier (except if the radio stations were better).
+
+PC version release date is announced sometime in January 2015. I immediately pre-order it in order to get the bonus money that was available as a pre-order incentive. Upon release I transfer my character from console to PC and recieve my pre-order money. I was so thrilled to finally be playing this great game on PC. In the last year I put in 390 hours online in this game and achieved level 136 if I recall correctly. Countless hours of heist grinding, job grinding, lots of shark cards bought. Sitting at something like 11million dollars. 2 houses, 2 garages. Everything I could ever want in the game. I had things that weren't even obtainable anymore. I was thrilled with where the game was going. Then.... I get bored; So I quit playing for 2 months.
+
+A friend asks me, "Hey come play GTA with me let's wreck some kids". Sure why not. I get on for about an hour and we do just that, wreck some kids. I log off for the night and log in the next day to a 10 day ban. I was beyond baffled. How could I be banned when I didn't do anything? Surely rockstar support can help me. So I call in an attempt to figure out what is going on. I get fed a rehearsed line about bans being the result of online modding etc etc. I ask for a supervisor, the supervisor says the same thing. I ask for his supervisor. He says there is no one above him available and I was unable to appeal my ban. His reasons are as follows.
+[list]
+[*]"Just accept the 10 day ban." 
+[*]"If you weren't really doing anything then in 10 days you can play again and nothing will be lost, just take a break". 
+[/list]
+He neglects to tell me that the system was going to take all of my money and I would have to start over. Grinding countless heists/jobs or buy a large sum shark card (which is ultimately what they wanted me to do).
+
+I come back around 12 days later and play for a few hours. Nothing out of the ordinary happens. I then got off for the night. The following day I got back on and was banned again. This time for 30 days. I think to myself "No &*%#ing way, this isn't possible". I call [b]AGAIN[/b] and get the same rehearsed line [b]AGAIN[/b] from both the first and second level of support (always ask for a supervisor). Except this time something was different. This time I was being allowed to appeal my ban. I thought for sure I would be exonerated of these allegations. [b]Nope.[/b] I was told that I must have been hacking if their skynet system banned me. That there is nothing they can do and that "evidence of illicit activity" was found on my account. So I ask them to check again and they do. Same result. 
+
+At this point I start thinking ahead. "What happens when I get back from this 30 day ban?". "I'm just going to be banned again for the same false reason?"
+They reply, "that shouldn't happen sir". I reply, "Shoulda coulda woulda. It's happened twice now so what makes next time any different. No variables have changed. If I record all of my gameplay from now on will that protect me? If I am indeed banned upon return to your game can I use the footage as proof of my innocence?"
+"Yes", I was told. Not maybe, not "we're not sure". I was told [b]"Yes, that will suffice".[/b]
+So I did just that. I recorded all of my gameplay. Unfortunately "all" only ended up being roughly 2 hours the night I was unbanned after the 30 day ban because I was immediately banned permanently after logging off for that night.
+
+This is starting to get a little longer than I expected so I'll cut it short. I tried to appeal the permament ban. I thought "I have video that I didn't do anything, surely this time it will be different.... they will have to unban me". [b][u]NOPE.[/u][/b]
+I'll just end my review here and link my evidence. The videos of my gameplay and their final reply to me in my appeal where I linked them the videos. 
+https://www.youtube.com/playlist?list=PLVEBdTP7X4S3b5VYQEvV7WN_0xNOgAcOQ
+http://imgur.com/a/WWIFQ
+
+[b] TL;DR: ROCKSTAR CUSTOMER SUPPORT IS TERRIBLE AND IF YOU BUY THIS GAME YOU WILL BE BANNED BY SKYNET SIMPLY FOR BEING IN THE SAME LOBBY AS A SCRIPTER (WHICH WILL ALWAYS HAPPEN). [/b]
+
+Edit: According to various sources (denied by Rockstar when I called them today) I was banned for MSI Afterburner/RivaTuner. This would make sense to me now that I think about it. However my review remains unchanged because they are doing absolutely nothing to fix the issue. I was told that I am not allowed to appeal my permanent ban because their system is flawless and does not falsely ban people for any reason. The support supervisor (Kyle) even acknowledged that he had heard of the MSI/Riva complaint but that it was "false". So yeah I'm still in the same place I started. Still will never support another Rockstar game for as long as I live.
+I HIGHLY DO NOT RECOMMEND GTA V or GTA ONLINE!!!!   
+
+I like many others have had my account mistakingly suspended and reset recently due to a new anticheat script used by Rockstar.  This is leading to the banning of innocent players with no reversal appeal, follow up investigation or notice to the player of the offense.
+
+I've been playing Grand Theft Auto Online legit since GTA IV in 2008, I have over 600 hrs of gametime if you include my time on Xbox One.  I loved the whole series since top down.    But in 3D GTA the pay2play is top of the line.  Shark cards really leave you feeling like you were just taken by a shark.  I've spent more money on this game than I'd care to admit.  But I never cared to cheat, hack, mod, whatever.  I played the game legit with my friends and just dabbled time to time after no one played anymore. 
+
+Now I can't trust Rockstar at all... because I don't harrass other players or even play with old friends, just by myself every once in a while, but now I'm banned for some mysterious offense without justification or human attention to the situation.  When requesting an explanation I like everyone else with this problem have been met with an automated reply:
+ 
+"Hello SensiSoulja,
+Thank you for contacting Rockstar Support. GTA Online bans are triggered by a number of factors, including modding in GTA Online, exploiting or abusing game mechanics, manipulating protected game data and code, or otherwise interfering with other players’ gameplay experience.
+All GTA Online suspension and banning decisions are final and may not be appealed. For more information on the GTA Online Suspension and Ban Policy please see https://support.rockstargames.com/hc/articles/229514247.
+Best regards,
+Rockstar Support"
+
+
+I was playing a game in GTA online setting up my hanger because I haven't played for awhile and needed it for my Akula I bought after selling a bunch of old cars.  My brother gets in the house from work so I went to talk to him for maybe 8 minutes... came back to the game expecting to be kicked for being AFK.   But this time it says I have been suspended til July 1, 2018, if and when I come back my account will be reset... I don't know what happened, but I don't mod, hack, or do any other nefarious activities online at all.   
+
+After doing some research I find out apparently there is a newly implemented Anticheat program that they claim is very accurate at detecting hackers, modders, manipulators, and harrassers.  Plenty of posts and videos have been put up on social media about people getting there accounts suspended and wiped, or banned by mistake, with zero appeal policy and no investigations or follow ups.   
+
+Not only will not be buying another game from Rockstar again, but I highly DO NOT RECOMMEND GTA V because the chances of being banned and wiped fraudulently seems inevitable until they fix this glitch in the system.
+Just bought the game and played it for two hours. Then I log in the next day to see I got banned for 30 days with no explanation whatsoever. 
+
+I guess real life robbery is one of the new features Rockstar decided to tack on or something.
+I cannot recommend any game that attacks and spits on it's community like Take-Two has with this recent assault on mods.  Rockstar had previously given a blanket approval to mod single player content into the game, but Take Two throws that out the window with the cease and desist letter it sent.  
+
+This is a clear cash grab that comes days after the CEO of Take Two stated that the company is under monitizing the GTA playerbase.  The company doesn't think your $60 purchase of their game is enough, so they want to force you into the horrendously grindy GTA Online so you will give in and buy Shark Cards, because you cannot experience the Online portion of the game without millions of dollars, and with the rate at which they trickle money to you, you are encouraged to part with more of your hard earned money to play the game that you already spent $60 buying.
+I've never used any kind of hack/mod or done anything illegal in two years that I played GTA5 and online (over 1.2k hours) when R * resolves to ban my account for no reason for a month.
+In R * Support page is saying that all online content is deleted, if it occurs, will have to seek legal action against the company.
+I am awaiting a response from the support, with a justification and information for revocation.
+Amazing game in which I have spent over 400 hours in, particularly Online. Made some investments with the Starter Pack, took advantage of double RP sessions at certain times due to work commitments in real life, and I think 2 Shark cards to top it all up. Got some nifty rides and choppers in-game to play with, and I was so looking forward to doing it over-and-over while listening to some of the finest selection of contemporary music via the in-game radio.
+
+But lo and behold, just only made RP 102 yesterday by taking advantage of double RP week, only to discover I got banned TODAY. Yup, an abrupt, unexplained lock-out for the next 30 days. And NO, ABSOLUTELY AND ADAMANTLY NO, I have NEITHER used any hacks NOR installed any mods to my game. To add salt to injury, my progress was reset. My hard, unmodded work, all flushed down the gutter with no explanation given. And NO, I AIN'T very tech-savvy so I can NEVER understand mods or hacks, let alone use 'em.
+
+Seriously, man... what the F? Was about to write a nice review for ya until I got unjustly banned, and with no explanation whatsoever. You fellas at Rockstar had better get your damn act together implementing a better system at detecting hackers or modders without wrongfully or unjustly and without any form of explanation subjecting paying customers to this, this debacle.
+
+Goodbye Michael, Franklin, and Trevor. It has been fun playing through your saga, and I would love to do so again, but this bovine excrement is an ABYSSMAL turnoff. And hello Geralt, Vito Scaletta, and Noctis and gang.
+
+P.S. Hope bankruptcy catches up with your sorry, greedy corporate selves. You know who I am talking about. Pray one day you don't get served a class-action suit for this debacle.
+
+P.P.S. The automated response to your ticket submission for complaints ISN'T helping anyone. Whoever your customer support is, I hope you receive your just dues when the time comes.
+
+P.P.P.S. Don't even think I will fork out my hard earned cash for Red Dead Redemption 2, even if it comes out on PC. It can rust in a box like those six-shooters of old.
+Alright listen, as much as I love the Grand Theft Auto series, and even though I enjoy this game a lot..... I can honestly say with full confidence this game is the epitome of every disease you can think of. The online mode is where this game really shines (or WOULD shine) other than the blockbuster-like story in single player mode, and crazy Trevor of course. But see, that's just the problem..... everybody plays the online mode, but it's so terrible, the community is toxic as f*ck, and the loading screens... for f*cks sake. Hold on, Let me create this list of bullsh*t for you real quick:
+
+1. Loading screens take forever.
+
+2. One of the most toxic communities I've ever seen, literally feels like you're playing with 9 year old kids. Not even joking.
+
+3. Bored players who will constantly f*ck with you and ruin your fun so that you can't get anything done.
+
+4. Everything is EXPENSIVE as all hell and it's extremely time consuming to make money, and you can hardly even do that without d*ckheads constantly trying to kill you and blow up your product, which is really stupid because they don't really get much of a reward out of it at all, so it further proves that they just do it to be a d*ck.
+
+5. There are HACKERS literally EVERYWHERE in this game, and they will do crazy sh*t such as spawn a ton of money in your account for no reason (which can apparently get you banned, how f*cking retarded is that?) or spawn all the players on the map onto a roof top and then blow them all up with a missile.They give ZERO f*cks, and are quite annoying.
+
+6. The f*cking loading screens X___X
+
+7. You can play a Solo session, or with your friends only.... but you're not allowed to do any actual CEO or MC club work, etc without being in a public session full of d*ckheads, which makes money making almost impossible when you got mother f*ckers flying around in jets trolling everyone, blowing your sh*t up.
+
+8. You have to constantly jump from session to session, in hopes that you'll get away from said d*ckheads and can actually get some sh*t done in peace.
+
+9. And I mean the community is so toxic, I've never seen so much hostility and name calling in a video game in my life, jesus christ.......... nobody gives a f*ck about anybody or anything in this game. I mean yeah it's GTA, but the people on here get a bit ridiculous most of the time I'll be honest.
+
+10. It doesn't matter how big your gang/ crew is, all it takes is one d*ckhead with a rocket launcher or a jet to blow up your plane or truck full of cargo worth hundreds of thousands of dollars that you wasted half your f*cking day trying to make. 
+
+11. I'm sure there's a couple more things I missed on this list of bullsh*t but whatever.
+
+12. This game almost drove me to the edge of insanity. I'm 27 years old, I don't need this bullsh*t right now, I need to take a break lol.
+
+13. I'll come back to it some other time, but if you, the person reading this, plans on buying it and trying it out for the online mode...... then be prepared for all the bullsh*t I just talked about, unless of course you're just some bored 11 year old turd (or grown man for all I know) that wants to get on and troll people, then by all means go right ahead, if that makes you feel better about your life.
+
+14. Oh wait, the heists..... man f*ck heists, I'm not waiting 10 years (literally) for players that are level 587 to join the lobby only to suck a** anyways and fail the heists every single time. It's bad enough low level players do which is to be expected, but man when you're that high of a level.... c'mon now. (And yes I'm being serious, though it isn't always this bad, but it can be).
+
+15. And shark cards can gobble my balls.
+_________________________________________________________________
+
+Other than that, this game is an awesome game and very addicting, totally worth the money, you'll have tons of fun, especially in online mode, I promise :D
+Rockstar has made it clear they do not support their players. With the massive pay walls separating you from any of the premium game content, unless you are willing to shell out tons of real money, you are not going to be able to experience it. 
+
+Hackers were in almost every lobby distributing wealth to players, however Rockstar has begun to ban hackers in addition to the players who receieved the money from the hackers. If the hacker spawns money on top of you and you are forced to pick it up, you are out of luck. Easy ban.
+
+Thanks Rockstar for hurting your players, modding community, and turning yourself into the type of company that everyone has always despised.
+its a fun game but I got banned due to a hacker editing my character in GTA online which then resulted in /me/ getting banned and having my character progress reset. I have spent 1200+ hours on my character, and I get banned for something I didnt even do. 
+
+PS You cannot appeal a ban of this kind. They dont care what you do, say or how much evidence you provide. If youre thinking of getting this game dont. Modders ruined it, and are ruining innocents now too it seems. Thanks Rockstar.
+[h1]Rant time![/h1]
+
+TLDR: You can get banned at random without any chance of appeal, and Rockstar's support is garbage.
+
+But now, backstory time! On about 3/23/18 thousands of accounts were randomly banned. I'm not saying [i]all[/i] of them were innocent, but at least a vocal majority certainly are. And as of writing this, (4/5/18) we [i]still[/i] haven't gotten any sort of proper response, that isn't some generic copy-paste nonsence.
+
+This new system appears to have been targeting cheaters, but happens to label seeming randomly people as cheaters.
+But you wanna know what will likely come of wiping the progress of some thousand people's charaters? More cheaters. Because, who realisticly is going to come back after a month, having lost some hundreds  -in some case thousands- of hours, of legit grinding thinking "well, let's do that ALL over again."
+
+And don't even get me started on their support policies. If you even MENTION the word "ban," your support ticket is thrown directly into the trash, and given a generic "bans are triggered by a number of things..." "and all bans are final." Like, they give this anti-cheat so much credit that "It can do no wrong" in their eyes. And you're placing a losing bet if you think they will admit any sort of failure on their end.
+
+On top of all this, [i]IF[/i] you somehow get a real responce from someone, they can't/won't tell you why you were even banned. This is just plain stupid on many levels. You're just, SUPPOSTED to know what you did wrong and not do it again.
+This is bullshit. Especially when one of the listed reasons for a ban is "Disrupting play." That's so incredibly vague, they could ban you for just about anything under that label.
+
+If they're banning for minor exploits/glitches, they have a lot longer list than what was banned. I guerentee at least a third of the community has exploited some glitch one time or another. And if that is so, that's some pretty backwards priorities when you STILL can't go a few hours in freeroam without bumping into a cheater.
+
+That's all I have to say. I know the general consensus on steam is/was, "lmao, cheaters BTFO." But I still felt the need to get my thoughts out there. And if Rockstar plans to treat their players in RedDead2 with the same respect they do GTAO players, they can just piss off.
+
+[u]Disclaimer:[/u] Yes, I was one of those affected. No I've never used any sort of mod, single or multiplayer. I've never sought after any sort of modded money or xp. And yes, I have used minor, non-malicious glitches in the past.
+This is the support ticket I sent to Rockstar: 
+
+---------------------------------------------------------------------------------------------------------------------------------
+	
+epicfourthwall
+
+Jul 2, 16:12 EDT
+
+I launched the game, played the tutorial and then played with a friend and then quit. Got back on, joined my friends clan while trying to kill my him and then I fell off some rocks to be killed by a car. Not even given a chance to respawn -- I was told that I was banned until August 1st.
+
+Total Play Time: 2 hours
+
+I feel as though I have been cheated, because I don't believe that playing your game is deserving of a suspension. If there were modders in my game, I don't think banning randoms helps.
+---------------------------------------------------------------------------------------------------------------------------------
+
+I bought this game to play with my friends, and although playing offline is an option - this ban has ruined my view of the game and I will not be playing nor recommending it.
+Rockstar robbed me of 650k and won't even tell me how I obtained "illegitimate" money.
+Because even I don't know.
+
+All I've been doing ever since I bought the CEO building maybe a couple of months ago has been warehouse missions. Mainly Import / Export after I unlocked it.
+
+Of course I get put into solo public lobbies because my connection is too poor (can't connect to other players nothing to do with router / firewall settings)
+
+Rockstar is just greedy and wants to stir the pot with legit players meanwhile modded players run around with billions still. As well as modded ranks.
+
+Thanks Rockstar, you're trash.
+My character has been reset and banned due to unknown reasons. Rockstar goes hardcore on you if youre accused for cheating or something like that. Your character will be reset and your ban will last for a month. And thats pretty annoying when you have spent real money on your character and also having spent 80 hours in the game, not to mention buying the game itself. It is absurd how my account got banned from doing absolutely nothing and is being reset and I don't even know why. 
+
+You cant even appeal for your account because all bans are "final", so yeah thats pretty darn shit 
+
+other then this tho the game is pretty fun haha, except you gotta run the risk of losing all your hard earned progress by getting falsly banned and a character reset. 
+
+I'm angry at the game rn though so im just gonna give it a bad rating because this is bullshit and this major proiblem should not be happening on such a popular game. 
+
+
+R* is currently taking legitimate money away from hundreds, possibly thousands of players.  Their cheat detection is flawed and honest players are paying the price for it. I worked hard during some of their double cash and RP events and had it all taken away as illegitimate right before the release of the next DLC.  I thought it was in error, and I put in a detailed help ticket explaining how I earned the money through their events.  I received a generic response that I was exploiting the game.  My shark card money was taken away as well.  Do not buy this game.  
+
+Only worth buying for the story and if you have friends to play with. Public servers are impossible to enjoy due to cheaters/hackers everywhere. Also, almost everyone you meet online is just looking for a fight and/or a way to annoy you to no end.
+
+It's also excessively grindy. You don't unlock all weapons, clothing and cosmetics until lvl 100 and you're very limited when you first start. Money is painful to obtain too, so if you don't have time, you may want to just buy shark cards so you can start with millions and actually have a little fun.
+
+Game: 9/10
+Community: 2/10
+Before I get swarmed by a horde of fanboys, I don't think the game overall is bad. The Story Mode is fantastic, nothing wrong here, but I'll be focusing on Online. Sure, the loading screens are a pain but if you're willing to partake in the content you actually like and dedicate yourself to a bit of grinding, that shouldn't be an issue. That's exactly what led me to this - the game being so good that I'm baffled by how they shit on it.
+
+Evidently, the issue is Rockstar itself.
+It doesn't matter how long you've played for or how much you've earned over that period. Everything can and will be taken from you if R* just so decides to indulge itself in randomly banning people. No reason will be stated, no justification and no way to appeal.
+
+It's pretty much just R* going "Fuck You!" and if you ask "Why?" the answer is "Because fuck you, that's why."
+21 million of legit GTAO funds (earned mostly from weeks of grinding and 2x$ events) removed by Rockstar. 
+8 Support tickets closed with basicly "go f... yourself" 
+https://i.imgur.com/rCtKmP6.jpg
+Dont be successful, its considered cheating now, you have to buy shark cards.
+Take-Two just killed the modding scene for this game dead.
+
+  Open IV was the main mod that modders used to make their mods. Mods that allowed you to do fun things in the single player like spawning in jets or turning yourself into Homer Simpson and driving his car around or enabling moon gravity. I say WAS because Take-Two issued a cease and desist to the mod author. The mod author couldn't fight it, so they stopped distribution of Open IV.
+
+  The likely reason Take-Two killed this mod that only affects the single player is because there are vehicles in the (god-awful microtransaction hell) online mode that aren't available in the single player. This mod is used for mods that allow you to spawn those vehicles into the single player. Take-Two dislike this because they want to push people to play the inferior online mode because that's where all the microtransactions are. The online is missing a lot of features from the single player but it's the only place you can pilot the Hydra jet, for example. Oh, you actually want to pilot the Hydra jet? You'll have to grind for cash for days or buy it for real money.
+
+  It's worth noting the single player story for this game is actually great, but the sudden absence of mods is disappointing, the way Take-Two treat it's modding community is disgusting and they way they see their player base is just insulting. All because they weren't happy to have only the fourth best selling game of all time.
+
+  "We are convinced that we are probably from an industry view undermonetizing on a per-user basis. There is wood to chop because I think we can do more, and we can do more without interfering with our strategy of being the most creative and our ethical approach, which is delighting consumers." -Strauss Zelnick, Take-Two CEO.
+
+  "But we're not trying to optimize the monetization of everything we do to the nth degree. My concern is, if you do that, the consumer knows. They might not even know that they know, but they feel it." -Strauss Zelnick, a man who would love to take every penny you have if he wasn't afraid you'd realise, a man who thinks YOU are too stupid to know you're playing a game where everything is locked behind a paywall.
+
+ We know, Strauss. We know.
+[i]This is a pretty long review, be warned[/i]
+Would like to start out my review by saying I've played 358 hours of this game. I think I have a good idea of what it's like.
+I'd also like to list my PC specs now and what they were when I originally bought the game.
+CPU: Core i7 7700K   (Was Core i7 6700K)
+GPU: MSI GTX 1070 (8GB)   (Was EVGA GTX 960 (2GB))
+RAM: 8GB, Dual-channel DDR4 @2400MHz (Was 8GB, Dual-channel DDR4 @2133MHz)
+I play the game at 1080p with 'Very High' settings. (Was High-Very high settings)
+
+[b] Singleplayer & Mods [/b]
+
+   I bought this game a while back. Enjoyed the singleplayer until I finished it. Once the story was finished, the endgame was boring with nothing left to do but install mods. As of recently, Take-Two Interactive ordered a Cease and Desist for the popular modding tool OpenIV, essentially gutting the GTA modding scene. This is unfortunate because without mods the singleplayer endgame is pretty boring.
+
+[b] Online [/b]
+
+   GTA Online is arguably the biggest selling point of GTA V. I'd like to say I enjoy it but I don't.  Everything in GTA Online is purposefully tedious for the sake of making microtransactions viable it seems. Servers are either mostly empty or full of script kiddies. On the off-chance you do get into a mostly full server, you'd better be prepared to be killed repeatedly by players who spent hundreds of dollars in real money to buy all the best weapons and vehicles. I don't have a problem with microtransactions when they're done right but I don't feel they were done right here.
+   I feel GTA Online is a huge victim of power creep & spectacle creep. [i](Meaning that over the years, new content added has become more powerful and more flashy, making the old content worthless.)[/i]
+
+[b] Graphics, Sound, & Performance [/b]
+
+   Personally I think this game looks great. I did get tired of looking at it after maybe 100 hours and installed an ENB mod. [i](A mod that changes the mostly lighting and shading but sometimes textures to make the game look better)[/i] The sounds are a bit on the weak side for me. I don't know why exactly but the guns just sound dinky and weak to me. The ENB mod I installed fixed this though by replacing the sounds with (IMO) better ones. The game performs well usually with my setup (See top of review). At least 60 FPS in most cases. There has always been a sort of stuttering issue I've had with the game. After visiting many reddit and forum posts I couldn't find a solution to the problem though this issue doesn't seem to happen to everybody.
+
+[b] Story [/b]
+
+   I liked GTA V's story mode. Given that I was a Nintendo child, that doesn't say much. I don't have much else to say about the story. I think most people just bought GTA V for the Online anyway.
+
+[b] Conclusion [/b]
+
+   GTA V is still entertaining with some mods but with the Cease and Desist for OpenIV [i]{The developer for OpenIV also created Scripthook)[/i] mods may not be an option anymore. The Online experience has been mostly negative and without mods the singleplayer experience gets boring after a while. Overall I don't think I would recommend GTA V.
+
+[b] EDIT (6-19-2017) [/b]
+I'd like to clarify that I do enjoy the singleplayer campaign. It can make for quite an entertaining and even sometimes immersive experience though without mods it does lose a bit of playability towards the endgame, like I mentioned. Personally I won't stop playing the game just because mods are gone but it is still a concern to me. That is all.
+I am one of thousands of people to get BANNED for absolutley NO REASON! 2000+ hrs of Online gameplay down the drain for no reason! do not buy the game, trust me lol!! UPDATE: GOT UNBANNED BUT NEGATIVE REVIEW STAYS, ROCKSTAR U COULD HAVE SAID SOMETHING!
+The parent company of Rockstar, the developer of this game is pushing micro-transactions and sacrificing the singleplayer just to push people to the multiplayer, which has microtransactions. 
+
+They are also fighting the modding community in an attempt to, again, get more money.
+Wow, never realized a publisher of such a huge franchise like GTA that includes a community of such talented modders, would just decide to fuck them over with a Cease-And-Desist, just coz some rich greedy asshole fuck monkeys felt like they aren't getting enough money from $60 game with microtranscations, that has been in the market for the last 4 years.
+Seriously *-F-U-C-K-* TAKE-TWO.
+
+RIP, OpenIV. 
+
+I love Rockstar & the GTA Series; but sudden decisions like this just to -F-E-L-L-A-T-E- their 'shareholders' is what makes me despise their existence.
+A good game ruined by greedy arseholes, people buy this on PC specifically to mod it and you think you can get away with DMCAing community contributors.
+
+Boycott Take Two, trash their score on this game and let them know what you think.
+I bought this game FOR the mods, C&Ding OpenIV is fucked... And that is on top of a lot of other shady things that take2 have done with this game over the years in order to get more money through the multiplayer, which causes the singleplayer to have less content (Even though singleplayer dlc was promised at release)
+Take away the means for single player mods then you have ruined the PC version. The only reason people buy the PC version is for mods.. Mods make money.
+
+If i wanted to play a non-modded game i would've bought it on either XBOX One of PS4.
+They try to force you to buy shark cards by making it as difficult and tedious as possible to grind in Online and set the prices insanely high. 
+
+Also rip mods.
+We all though paid mods in a single player game was bad. 
+
+Well, apparently take two saw the public response of gamers when bethesda made paid mods and said ''we can one up those guys'' 
+
+Which subsequently made them ban all fucking single player mods in GTA V to make players play the shitty online mode where they can buy microtransactions instead.
+
+Take two are literally two steps (excuse the pun) away from banning all mods in any future title that supports microtransactions.
+They fixed the anti-modding thing, but sadly there are still problems with the game.
+
+-Single player is no longer being updated with new weapons or anything.
+
+-Multiplayer is full of toxic players and cheaters.
+
+-Shark cards are overpriced, currently without a sale the most expensive is $100, and that gets you $8,000,000.
+
+I'll still play this, but there are a lot of problems that I have with the way this game is moderated.
+I have now formally uninstalled GTA V, for a few reasons. Primarily I uninstalled the game due to the take-two modding debacle currently ongoing. This was the final culmination in the online section of the game, which has been for a while a micro-transaction hell-hole of hackers, cheaters, and people with wallets so big they can afford the £100+ needed to buy everything you could possibly want in a game you bought for £60. The micro-transactions have now made the online near enough unplayable. If you want to win races, you need a car that can only really be gained by purchasing in game currency. If not, you have a very, very long and repetitive grind ahead. It's ridiculous. If paying £60 for the game three times.... Xbox 360 and One, and for PC, isn't giving the company enough money, they ask for £50 every time you might fancy having a new appartment... Or clubhouse, office or warehouse for the latest DLC packages which are now clearly for nothing other than financial gain. I can not recommend buying the game if you want to play single-player as a modded version, and only play the online mode if you are either a:stupidly wealthy, or b: lacking in anything else to do other than vegetate over a grind for not enough money to progress.
+Modding in GTA IV? Sure, sounds like a great time! Go for it!
+Modding on GTA V? Man, fuck you guys, who do you think we are? Modding supporters? You're hurting our revenue on a how many years old game rereleased on 3 different generation of platforms. You want to have fun? Why don't you try our microtransactions ridden hellhole we call online? You don't want to pay money for new content that's WAY too fucking overpriced in the first place? Well, I guess that sucks because WE'VE ELIMINATED THE ONLY WAY FOR YOU TO EXPERIENCE THESE NEW UPDATES WITHOUT BUYING THEM, SO HAVE FUN YOU POOR FUCKERS.
+Boy, I hope they don't do this to KSP as well, I thoroughly enjoy that game.
+It happened... I've heard stories of people getting banned from GTA Online for seemingly no reason but I never ever thought I'd ever be subject to this treatment. 
+
+Been playing since I got the big Collectors Edition for the PS3, before heists were even released. Eventually, I transferred my character over to the PC, once I had managed to build one. For YEARS I've been playing this game on and off and never even once have I accepted help from any hackers or modders. Never even once have I used any hacks or mods, whether it's in singleplayer or multiplayer. 
+
+But today I got my account suspended and, while I'll be able to play again in a month, it won't be worth it as my characters progress, inventory and property will all have been reset. For absolutely no reason. 
+
+I have submitted a ticket to Rockstar Support surrounding this issue but I doubt it'll show any form of results. If their support would manage to sort this out, I'll edit this review. Hell, I'd recommend this game with a word of warning: Beware the incompetence of the ones in charge here. 
+
+TL;DR - Don't buy this game if you plan on playing online. Not even legitimate play goes unpunished.
+Grand Theft Auto 5 In my opinion is the best open world game ever made. (Just Cause 3 is a close second) I think the GTA series as a whole is fantastic, but i have to give this game a negative review for the following reasons.
+
+1. The Online mode is a micro-transaction hell, but if you avoid paying for anything with real money. Online is still very fun for doing races, stunt races, and heists with friends.
+
+2. Rockstar did a great job making the PC port of this game, but any issues that alot of people are still having have never been fixed since day 1. They really don't give a fuck about fixing the technical problems for PC.
+
+3. TakeTwo interactive (The company that owns rockstar) has sent a cease & desist to the creators of OpenIV the backbone for modding in GTA V and GTA IV. So if you're looking to mod the singleplayer, you're basically out of luck unless you already have it. (See this video for more information: https://youtu.be/0gKlBIPR_ok )
+
+4. There have been an increasing number of people getting banned in Online for no reason whatsoever, and when you get banned from Online, that's it. There's like a 0.01% chance you'll get unbanned
+
+I personally don't really care for mods, apart from the mods that improve the graphics, but until the state of modding the single-player is back to normal, i cannot reccomend this game in the slightest.
+Banning mods because they "encourage cheating" (which is bullshit, by the way), while doing absolutely nothing about cheaters in your multi-billion dollar game?
+
+That's a paddling.
+
+Don't buy this. I don't care how good or bad you think it is. The reality is, Take-Two does not deserve a dyme from you.
+F*** this game, do not buy this piece of shit... They spoilt the Online with sharkcards and now they're spoiling the single player by adding their shitty "anti modding" policies... Thanks a lot you fucking twats...
+Online is a cesspool, and singleplayer just got neutered thanks to Take Two Interactive's overactive legal team in hunt for more sweet microtransaction revenue!
+This is a crucial point in gaming history, make sure it goes in our favor. After the continued failures of this years E3(save for a few things) this is just one more straw added to the long broken and dying camel. As much as I love playing games from these big developers I can't sit by while they continue to gouge us for everything we have.
+Let me first say that I have really enjoyed my time with this game. I have had alot of good times either racing friends or wacking some random pedestrian with a baseball bat.
+
+But, as you may have heard (and if you havent heard you must have been living under a rock because jesus the steam reviews have lit up like a christmas tree). [b]Take Two Interactive[/b], the parent company for rockstar games, has sent a cease and desist to a certain mod called [b]OpenIV[/b]. This mod is the backbone of at least half the mods for GTAV, essentially meaning TakeTwo has killed modding in one fell swoop.
+
+So, let me ask this Take Two Interactive. Was it not enough to sell three different versions of your game? Was it not enough to shove shark cards down our throat by making online an unbearable grind to the top? Was it not enough to release almost no content for single player forcing modders to take action? Was it not enough to have your game be best selling in steam almost. Every. Week
+
+The greed here is so obvious, and as such I have a little bit of advice for whoever at Take Two had this marvalous business plan.
+
+[i]"I want you to install a rick and morty mod on your game. Take your cease and desist, and shove it way up inside your buthole morty"[/i]
+
+Toodles.
+
+
+loved this game because of the mods, story was okay i guess, but they killed off the mods and the story and multiplayer aren't worth it so i can't recomend this game.
+fuck Take 2 Interactive for taking away our mods for SINGLEPLAYER. the only reason  im sure 99% bought the damn game in the 1st place. mods brought so much entertainment after i beat the game 900 times.  money hungry bastards
+Well Take Two don't let you mod the singleplayer. and the shark cards are a rip off!!!!!!!!!! 10X the amout of what you get from them then they mite be worth it.
+Let's keep it short. 
+
+The single player in this game is a masterpiece. It shows just how good and polished content Rockstar Games can produce when they are given the tools and time.
+Everything from graphics to story itself were done in a outstanding quality. 
+
+However the online mode is rather awful and requires you to either grind hundreds of hours or buy mtx. It can be lots of fun with friends tho especially if you know your way around earning cash. This said, I think the online has gotten worse with time and players that have been around since the beginning might not find the grind as bad as new players. 
+
+Now, Only thing that truly keeps me from recommending this game is the optimization. It's really bad for some hardware, anyone with lower spec PC should know that the game might not work for them even when it should. Having a poor PC port on a great game sadly ruins the fun for some people, me included. Maybe next time Rockstar.
+Quick summary:
+Story mode = good storyline - only buy on sale
+Online = full of people on oppressors trying to blow you up for no reason - as well as this I got banned for something I didn't even do! - don't waste your time on it when you can get banned for no reason.
+This is the worst thing you could have done for this game. Taking away mods is not going to be good for you. I hate that I can't play with mods anymore. F you and all you stand for. Lost all respect for your team.
+"Getting Banned For Nothing" Simulator 2019. (Yes, I've already bought a second copy, so the info here is actual.)
+
+I will start with everyone's favorite scores.
+Story: 10/10
+Graphics: 10/10
+Gameplay: 9,5/10
+Modders: Half of the server
+Tryhards: The other half of the server
+Therefore - Online: -3/10
+
+Seriously, if you want to have good experience playing this game online, go 3 years backwards. The game experienced a serious downfall in the past 2 years. All of this due to continuous unnecessary additions of overpowered vehicles, which will cost you several millions of in-game currency. There are only two options of obtaining enough money for everything:
+1) Grind the hell out of this game, do all of those boring repetitive business missions or repeat heists over and over and over, until you lose your mind.
+2) Find yourself a cheater (or become one), which will result in getting banned.
+But if you really want to get banned, but you are not a cheater, fear not! Rockstar games will probably ban you during one of their ban waves even tho you haven't done anything wrong.
+
+In conclusion, as much as I loved the game back then, it has become something very different I don't really like anymore. The game has become repetitive, boring and full of players, who will be having a lot of fun killing you over and over with their Opressors (which they bought for Shark cards, ofc) and whose toxicity could only be compared with Chernobyl disaster in 1986.
+It was a good game untill you added the stupid flying rocket bike and all the military shit. Sorry to say i probably play this game like once a week when i used to play it everyday if i could. So stupid and you think people will buy shark cards because they can't make money in ur servers because you keep adding stupid things to make it easier for people to prevent you from doing any missions. Never thought in a million years id be making a negative review of gta but this is too much. oppressors have ruined the game good job rockstar.
+Alright Rockstar, I've put up with your sh*t for way too long. I essentially paid $120 for one game on three separate consoles. (PS3, PS4, and now PC). I bought GTA5 for PS3 as soon as it came out, I waited for you to launch multiplayer, I waited for you to fix multiplayer and I've watched the multiplayer become a money grabbing scheme full of micro transactions that make you spend ludicrous amounts of money just to get somewhere in the game. (8,000,000 won't even buy you 2% of the multiplayer content, and that's a $100 of actual money). I have never bought a single shark card from you and I never plan to. I've spent hundreds of hours on your game. I've even put up with you canceling single player dlcs and even firing the man, the legend, Leslie Benzies. But now you have taken it way too far. The ONLY reason I bought your game for the PC was so that I could mod it. I wanted to add some more depth to the single player part of GTA5. I could care less about modding online, I just wanted to get some visual graphical improvements and create single player skits using the Rockstar Editor (which you already f*cked up with your limited range camera...). But now since Take Two has made Open IV (a modding tool that was used for 10 years) illegal just so that you can try and get the few remaining people that enjoy single player with mods to try to switch to your sh*tty multiplayer so you can earn some more money. I have never seen a company more greedy for money. If I could refund this game and the countless hours of my life that I spent on this game I would do so in a heartbeat
+EDIT: OPENIV has been reinstated, I'm sad that there isn't a mixed option, only a No it's bad and a yes it's good option.
+>I give the game a thumbs up for the single player, only buy the game IF you want single player / only  see multiplayer as a bit of an addon and the single player as the main game.
+>I highly recommend you to stay away from this game if you only want to play multiplayer because the multiplayer is ridden with microtransactions and grindfesting.
+
+Original review:
+
+Take Two is killing it's own game since day one, because rather than allow modders to play on a seperate server where they can mod to their will (this made GTA IV en SA succesful and fun to play) you now have to play a shitty, microtransaction riddled and super grindy multiplayer game,  where fun doesn't exist because either someone has a hydra or everyone is just doing the same missions over and over and over again. They are basically forcing the modders onto the legitimate servers while they do not want to be there and want to mod with their friends. It has become so bad that Take Two is DCMA'ing any modding team out there because they don't understand what made GTA IV and GTA:SA fun.
+
+DO NOT GIVE YOUR MONEY TO TAKE TWO NOT EVEN A SINGLE DIME.
+Bought this version because I was convinced by my friends. Would be a fun game if Rockstar actually wanted people to be able to buy or do anything other than the same missions over and over and over and over and over and over and then someone blows up your stuff and then over and over.... you get the idea. Let's face it everybody now who buys this game buys it for the online. The story mode isn't the problem but Rockstar and the community itself is. If you think you can suck up the grind that Rockstar made so that you can actually enjoy the game itself I'm here to tell you that won't happen. I've owned the game on 360 since the very first online update and trust when I say that the grind I'm talking about will never end. Quite literally because by the time you start to buy something from four updates ago, they release something different that costs even more than the last. Don't even think of buying shark cards. You'd have to pay $1,300 extra because the scumbags never updated the shark cards so that they suffice some of the updates. It's still the same price and worth that it was when online first started and they kept it the same because they know people will be dumb enough to just buy them over and over.
+
+Then maybe you might think ok, well maybe Rockstar doesn't care about modders anymore and I'll just mod my account and get some money. Nope. I recieved money from a modder once then got banned for a month, happened a second time except I was afk and it was literally out of my hands then they permanently banned me. To top that off I know friends who have modded accounts and they typically don't last longer than a month and then you get reset.
+
+All the content that they add becomes so much less appealing when you realize how much you have to grind to be able to buy it. Hell I even bothered doing the math once and if you want to make let's say $100M which by the way isn't even equivalent to what you see typical let's players or what people think the average account is like. That's about one month of grind IN HOURS not in the actual rate and that was if you literally had every single business, fully upgraded and three people who work with you perfectly all those hours with their own equipment. To own the businesses themselves also takes about a month in hours because you have basically next to nothing to get money in the start to top that off nobody will take you into any missions when your low rank because you won't have any body armor, guns or experience which by itself adds an extra week before your able to buy the businesses.
+
+Every single complaint about Rockstar support I can promise you is true. They do absolutely no work in reviewing reports. You get reported? Your emblem get reported? Then you can't do a single thing. That combined with one of the absolute worst player bases I've ever seen, will eventually net you trouble because even if you didn't do anything to them, they still can and will just report you without reason. Not to mention the modders that haven't been banned yet breaking servers and possible resetting your character too. So you know. That's fun.
+
+Alright maybe you figure that you don't need the money or any of the content you'll just mess around with friends. Yeah that's not going to happen either. As soon as a jet or player comes remotely close then you already have become a part of a pointless fight with a random. Even half of all the content is locked whenever you try to go into a private lobby so even then your taking it with a grain of salt.
+
+If you ever consider buying this game, don't ever bother creating and online account. It's way more painful than it is fun.
+
+Story mode wise it's ok. Don't get me wrong it's fun but I owned the game for 5 years and never felt motivated to finish the story. Not to mention nearly every time they update the game almost nothing from that update transfers to story mode aside from some of the cars but that's it. I honestly would just recommend saving your money and getting something you can get more of your money's worth like The Witcher 3 or something like that.
+This game has a habit of crashing, then loading up and immediately overwriting saves despite being it explicate instructions not to. Went from a 90% to a 1.6% from 7 months ago. Pretty pissed. What is the point of having cloud saves if they can be destroyed at any given time with no backups???
+Take 2 interactive have removed support for modding by entering into a legal battle with the creators of Open IV
+
+They are killing the game by doing this...
+
+Please drop this Take 2
+Bought this game to play online only. But there are a lot of hacker / modder that made me always feel unsafe in every session with full of ppl. Not only that, sometimes u suddenly got a notif that said ur network got trouble and disconnected from online session.
+
+Here's a story of mine. I got a business that filled with full of supplies and half full of product (value $112k) then i got a notif that my business got attacked by cops. Just then, suddenly black screen appeared and said that i have to join gta offline mode because my network problem. But my connection just fine, there is no problem with my connection. I quickly play online again and then all my stuff in that business just gone, so i have to rebuilt it. When i took my supplies (again ) and on the way back to my business place, there was a modder chasing me, holding a launcher and blink every time he missed his shot until he shoot my car. 
+
+WHAT THE ACTUAL FUCK ??
+If you were thinking of buying this game for mods, dont it's ""illegal""fuCKYou take two interactive, fuck, you. you wonder why your servers are always attacked? its not some shitstain basement dweller. its hacktivists telling you to stop your fucking shit! you had possibly THE best seller of all time. as if it wasn't bad enough to ruin the online scene with your faggoty shark cards. NOW you attack people for trying to fucking enjoy the game they bought a license for, PURELEY FOR FUCKING MODDING!
+banned after over 700 hours alone on pc. lost my account that i have had since the ps3 days because r* is incompetent and modders own the online. do yourself a favor and play a game that doesn't have modders in every lobby and then ban innocent players.
+The GTA Online Experience:
+
+- grind all your life to get a fraction of the things you would've owned if you payed real money for it
+- be harassed all day long by tryhards and almost naked women flying ludicrous overpowered flying motorbikes that can't be hit, and even when hit can respawn in 10 seconds, while your (useless anyway) tanks, jets and attack helicopters take time and you have to actually drive to them
+- spend more hours loading and having every kind of error, which make you go back to story mode, rinse and repeat.
+- when you managed to get in the game and there aren't subhuman basterds flying around in bikes, brace yourself because hackers are coming, and they WILL make you explode, create clones of you, put you in a cage, and ultimately kick you out of the lobby and make your client crash
+- watch Rockstar Games remove instantly bugs that help players make money, but let all the other ones and the modders be
+- realize you gave up to 70$ to a company of greedy inept basterds and flushed weeks of your life down the toilet
+
+Only play if you have friends, and never in lobbies with other people.
+
+TLDR This game is shit.
+As Much as this game itself is amazing the recent Take Two shit with Open IV and Grand Theft Auto V Single Player modding has really screwed over your chances of enjoying a modded game so basically this review is to say -
+
+Fuck You Take Two
+Demanding captcha solving and sharing personal information for advertising to play the game offline? I paid for this game! Rockstar is trying to compete with EA for shittiest business practices.
+Now, there sure are many good sides to GTA V and it's definitely a fun game to play.
+But there's also soemthing that's very problematic.
+
+1. Cheaters
+2. Duping
+3. An impossible-to-kill air scooter with homing missles.
+4. Modded accounts
+5.Banning both cheaters and innocent people.
+
+[ Cheaters ]
+[spoiler]When a cheater enters a lobby of 20 people, expect this:
+- You will get kicked out of your vehicle
+- Weather might be changing any time
+- Not very smart players will ask them for money and get banned if they will get any.
+- You can even get banned if you meet a toxic one, just prepare for anything[/spoiler]
+
+[ Duping ]
+[spoiler]This one is an actual hot topic.
+Rockstar sure tries to fight it but there's just too much work to do to keep people from discovering new ways of glitching / duping every day / week.[/spoiler]
+
+[ The air-scooter with homing missles ]
+[spoiler]It's fast & wrecks cars, helicopters and fast planes due to it's high mobility.
+RPG rockets are almost useless against it.[/spoiler]
+
+[ Modded accounts ]
+[spoiler]You find a bossting service for GTA V, you pay them money, they give you modified account They are mostly non-steam ones.
+By doing so you will get any amount of money, level, your car / character could be a big hamburger ( a prop ) etc.[/spoiler]
+
+[ Banning ]
+[spoiler]Ban appeals won't work.
+If a cheater modified your account or you picked up money he dropped - you can say your last goodbies.
+There are so many cheaters, glitchers, dupers that Rockstar won't even bother reading your ticket.[/spoiler]
+
+Enough said.
+a complete waste of money bought this game on the 13/02/19 and never worked keeps crashing on load up when i turn my internet on and i load game it goes to instal rockstar then crashes when i turn internet of it goes to rockstar and says internet is of so game dosent work wast of money shouldent of spent my money on this if anyone had same problem please let me know
+This was a great game... The most modding/hacking I have ever seen in any game yet.  Massive amounts of malicious modders are messing up most gta online content.   Rockstar has officially dropped the ball with this issue.  They barely do anything if at all to modders or to prevent modders.   Youtube search GTA V modders before buying this game or any Rockstar game at this point.
+This is honestly the worst game to play Because of the cheaters and toxic lobbies. I don't know why i spent so much time on it. I will never play this game again.
+Single play is solid but multiplayer has turned into a shit show.  Rocket powered bikes, jets, indestructable cars with guns on top that are stronger than a tank, batmobiles and constant griefing all ruin the online experience.
+singleplayer mode is top, online is pure cancer, cheaters and moders everywhere, you cant have fun......sad world....rockstar is just milking the game with discounted sales and banning cheaters every month
+When I heard that cheating was a problem, I thought it might be something that I'd encounter occasionally, and could probably deal with because I enjoyed the game when it came out on console a while back.
+Nope. As soon as I dropped into online mode, my character was on fire and stuck in a toilet. I died from the fire, respawned and was immediately on fire again. Relogged and ran into the same problem. It's not just a minor thing. Seems to me that online mode is literally unplayable until they can address the cheating.
+this game is the worst , rockstar source club is worst client , i did not even get a chance to play this game
+after wasting so much time downloading this 81 gb crap it gave error that rock star failed to install and some bullshit error code 9 , I wasted my whole day trying to fix this and still it didnt work 
+will never purchase any gta or any rockstar bullcrap game in future
+Actually bad. Hackers in every lobby, and when you play in an invite only lobby they still sometimes get in...
+
+The Heists were fun, but the new "Doomsday Heists" aren't the same. The After Hours was a pointless cash-grab, and people just wanted some new toys to screw around with.
+the single player game is great, but nowadays everything is hardcore attached to being connected to the internet and too secure in all the bad ways, i used to play this game on my rockstar acc ive owned since 2014, but because i played it on my old pc rockstars worst implementation so far (social club) wont let me log onto my acc on my new computer, ive tried messing with ini files and searching online for numerous hours, it shouldnt have to be this hard to login to a single player game, never in my life of playing hundreds of titles have i ever been put through such a poorly implemented security measure to login in to a single player experience...
+Single player is good but personally i find it underwhelming compared to previous GTA games.
+
+Multiplayer is a broken mess (slow/not loading, cheaters, unreliable p2p connections,...etc) and the aggressive monetization strategy is killing it.
+If you are into fancy graphics, fast cars etc you will love this. 
+
+Maybe I am just getting old, but the thought of having to chore my way through the single player game, as not one, but three social misfits just fills me with dread. Why would I want to spend time grinding for virtual homes and a really annoying family/caste when I have that in real life lol. And if I hit up some GTA h**s it needs to be my own avatar and not some middle aged dude haha. 
+
+Should have hit refund before the two hours - I'm out and a no from me.
+this game requires constant internet connection even when u play single player .Yea u can play offline for 1 day and it will ask you to re activate it again next day..bullshit. Fak you
+Played for 12 hours. Loaded it up one day after not playing for a while... infinite loading screen and none of the fixes work. Hope I get my refund. 
+
+Also, Rockstar, you probably know where you can put your Rockstar Social Club app. There's nothing people like more than having to create an account and deal with these pointless apps just to play a single player game.
+DO NOT BUY THIS GAME UNLESS YOU ONLY WANT TO PLAY CAMPAIGN!
+OTHER PLAYERS HAVE THE ABILITY TO PERM BAN YOU FROM ONLINE!
+
+Bought this game towards the end of 2017 and invested about 500 hours into it. People cheating (using a 3rd party program to change in-game code) has become rampant in this game in Online mode. Got hit with a 30 day ban during one of the servers' "Ban Waves" where they attempt to weed out all the cheaters and hackers to make the game better, then 8 months later I started playing again:
+
+Was grinding my way back to level 150 when I encountered a player cheating. Called him out on it, had video proof of the incident, and he did something to my account to get me permanently banned from online mode. Valve was nice enough to remove this game from my library afterwards.
+DO NOT BUY! this game is overrun with modders and griefers just out to completely ruin your online experience. 
+A great game that is fun to play on one hand and would be acceptable if the cheating and trolling was only here and there but it's so rampant and unceasing that I have decided to never play again as it is far too frustrating trying to get anything done when these people throw you out of your own car and make you explode every time you spawn. 
+
+TLDR; game ruined by trolls that obstruct any and all fun for honest players.
+Single player is great and I very much enjoyed the missions, but multiplayer is somehow still full of hackers and they are only getting worse. It's mostly unplayable now, unless you don't care about hackers joining your private games, cheating, giving everyone infinite money and oh, getting your IP.
+You can literally get banned for playing on the same servers as hackers or modders, and Rockstar doesn't care enough to let people appeal bans. If you want to ban people, it's better to be careful rather than ban loads of innocent people.
+I have 170+ But NO, NOT RECOMMENDED, WHY? unless wanna met with modders who gave you money. blowed you up for no reasons, spawning object over you and etc. Public Lobbies are full of Modders, i got banned before for 1 month because some random player give me 500 Mil and i made a Ticket in Rockstar Services before and got denied. after i got unban last night i joined with lvl 1 and Modder are everywherev gave me money and so, i decide to left the session and moved to solo. And now i got permanent banned from GTA Online. i made a new ticket and got DENIED!
+
+NO NOT RECOMMENDED, FUCK THIS GAME NOW. FULL OF MODDERS AND WILL MESSED YOUR GAME UP!
+Decent story, but the online mode gets repetitive very quickly. Also, the mechanics of buying items in Online are possibly the biggest cash grab ever.
+Just stick to console brother PC is just a waste of time everyone owns every thing and its full of cheaters. But you can still play RP servers if thats what you are into.
+Terrible setup for any kind of online missions. Having to depend on other people not trolling your games or not leaving in the middle is ridiculous. Constantly having to wait 15+ mins for people to join a match only to leave in the middle of it, which causes the missions to cancel, is way not worth the money. The single player is meh, save your money for another title that is set up better. this is such a fucking waste
+The singleplayer 10/10.
+On the other hand the multiplayer requires a lot of f* grinding. Everything is waaay overpriced and usually costs several hours just to get one car. Then more few hours to upgrade and modify it. Also the ban system is not really good, there are a lot of modders in the game blowing everyone in the lobby up. And the community is a horror. There is always atleast one dude in the lobby in a jet killing everyone.
+
+TL;DR: Play singleplayer, but multiplayer is pretty bad.
+I bought this game just so I could transfer my xbox one data to pc, I wish I knew that rockstar had removed the transfer data feature to get people to essentially buy their progress back.
+"In GTA ONLINE theres a vast amount of things you can do with never ending possiblities"
+-Let me break the entire game down for you
+
+To reach level 5/ Last team standing
+Contact missions are now unlocked/  Grind for high end apartment
+Heists are now unlocked /  Grind or complete for bunker and gunrunning business ect
+Businesses are now unlocked/  Grind them and heists for luxury things
+
+The game is a constant grind but of course you could just steal mommies credit card for shark cards
+The rest is just spawn camping level 1s with your buddies in flying magical vehicles
+
+TLDR; Cheat (Modded accs or mod menus), Buy shark cards or grind for months. Pvp.
+
+
+OpenIV, the foundation of most GTA modding has received cease and desist by 2K.
+Multiplayer has many shortcommings and is simply not fun.
+Singleplayer is held back by microtransactions in multiplayer.
+
+TakeTwo can goto hell for the way it handles their games and the disregard for the community.
+Good story. Though it's online mode is one of the most grindy moments I've had in my life, and the players are toxic 12 yearolds. And it's repetetive gameplay is boring as hell.
+I recommend for story mode so many hours of just fun but when it comes to online everyones a head of you and there isnt much space to grow because of modders and microtransactions
+Grand Theft Auto is the name, but you can't sell cars you steal.  Horrendously long wait to go online (20-30 mins), Can't create a character of you own unless you go online (offline line is very restrictive in what you can do).  It is fun if you can stick with one character doing the story line, but you jump to other characters to fill the story (makes sense, but I was just getting used to the old character).
+I have not been able to go online to play, as the wait is to long for my patience.  Doing story line is fun, but after a few hours, I want to do more than the story line allows me to do.
+
+From what I read, I think the older releases might be better.
+I remember GTA used to be fun when it first came out. Now Online is just filled with micro transactions and is basically pay to have fun. Story mode however, is still as amazing as I remember. Get GTA if it is on sale because the story is amazing, but don't play online unless your willing to spend over $40 for something fun.
+Quite possibly the worst AAA game I own, put simply. 
+
+As terrible as the business practices of Rockstar have been regarding the game, I just want to point out how insulting  the "Labor of Love" award is to everyone on this platform.
+
+Grand Theft Auto Five launched without its multiplayer mode available, and still sold at full price. Granted, the single player is amazing, and the world building, the graphics, the audio and the utter vibrancy of Los Santos in the single player are far beyond even my highest expectations. Despite this single player experience, the game was distributed without a large part of its content included.
+
+To make matters worse, Rockstar have done little to improve upon this. While yes, the online mode was eventually released, it was not only a shell of what was expected, but was an echo of the single player mode, where the team behind it went so far as to release the online mode with similar issues to that of the initial launch. The most notable example of this is, once again, missing promised content. Heists, a source of massive hype and element of the game that had amazing potential, were no where to be found. Quite a few pitiful excuses for "DLC" were released before Rockstar even mumbled the word "Heist" again, and when they eventually got around to it, they came up with five minimalistic-at-best, embellished missions that do not offer a fair reward for one's time.
+
+While the world we were allowed to explore in the single player mode felt immeasureably smaller despite existing in the exact same space, it was also missing much of the uniqueness and vibrancy that could be found in Los Santos and its northern neighbors in the single player. 
+
+While these are only a few issues I find with the game, and focus towards the early days of the game's release, the fact that these issues are still pertinent is what makes the "Labor of Love" award so terribly undeserved. There are other issues to regard, such as the fact that all the development this game has seen in 2018 is less than laughable, and (when taking "Labor of Love" a bit more seriously) the point that this game has become so much less than a passion project. Whatever the team felt whenever making this game, it has since been buried under a mountain of micro-transactions and money-making "development" that can't even compete with the modifications that smaller teams are able to make. The same modifications that Rockstar refuse to allow to flourish, and have since stamped out, further shortening the lifespan of this once promising product.
+
+Of course, the game does have its fun moments, but no where near enough to justify any of the Steam Awards of 2018, especially not the "Labor of Love" award. Of course, the award is meaningless compared to the above issues, however it was the target of this review as it is what has motivated me to write it.
+
+TLDR; Thank you for coming to my TED Talk, fix your shit Rockstar.
+This game gets boring after a while. Back whenever this game got released in 2013, it was the best game ever. And now, all they want is your money. The game is dead and has been dead for ages now. Also, if you join a public online session, then you're most likely going to get killed by someone who is like level 654987243598746. Its just really shit in my opinion.
+ONLINE IS GARBAGE!!!!
+
+You will automatically get a 10000$ bounty on your head upon joining the server, not allowing you to turn on passive mode. Then, despite anything you buy, you will get it destroyed and have to walk the whole map to get it back only go get blown up right when you get back in. This game is full of Pay To Win that totally destroys game experience and you end up having a bunch of spoiled ptw rich brats ganging up on you and blowing up your hard-earned stuff.
+Rockstar your game is fu***** Sh**** nice anticheat on every day i can see 2 hackers today it spawned on me toilet and a campfire and i died around 10 times pls do a abetter anticheat cause i spen onn this game 500 dollars to buy money and i thinck with this money you can do a better anticheat
+If you're going to get this game for the single player experience then yes it's a great game, but it's been tainted by a microtransaction infested online mode. I don't have a problem with gta online per say, but when you release microstransaction based dlc for the online mode when earlier you had stated releasing a pay upfront story based dlc, it's pretty clear that only the bottom line matters to you. It's even more infuriating to look at the stats and see how many people are okay with this nonsense, thus encouraging this cyclical bs until it becomes the norm, perhaps it already is. I for one can't support this and neither should anyone else reading this.
+I have highly mixed feelings in this game. they had a very good setup in the middle of Grand Theft Auto Online . the first week there was glitches, i understand it was rushed and the high player demand but years later things have changed in online.
+
+Single player had an amazing story, but i'm not here too talk about that. Grand Theft Auto Online, what a great place too have fun murdering people in fair PVP or in racing. Things were changed big time i noticed in the last 8 mouths. the oppressor mk2. this tool has crumbled the fair pvp, i miss where savages and buzzards would fight and then the combat switches too the ground. it was alot of time of destroying enemies with stronger tools. the game was mainly balanced. snipers would have mk2 upgrades with a thermal scope and explosive bullets with limilted ammo. fights are now unfair because of the Oppressor Mk2. i need too use it too survive in online.
+
+Glitches, the game is full of them, thats okay. they fix dup glitches, money, level glitches and stupid small glitches are fixed like that backpack and hat glitches. they haven't fixed the orbital strike glitch and off radar. fix the hackers, it sucks. they look at the oppressor mk2 too get shark cards, theres is NO counter. fix the oppressor or make a counter. passive works but its annoying because it take Online and the true purpose of gta away. its hard too play. fix gta online. yes ill play still but its hard too have fun
+Offline is actually okay. But it's absolute toxic shitfest in online. It's grinding simulator that mixes with "get rekt by op flying motorcycles while trying to make some money" and you cant even report them, there's no point, modders all over the place it's a POS of a game, the online version.
+Single player is good, story is good, characters are cool... But when you go online, you will hate this game. Game is full of cheaters, i see dozens of cheaters everyday. They putting some kinda campfire on you and there's no way to remove it. You just keep dying. You have to restart the game. By the way, forever taking loading screens are the worst thing with the game. It needs about 5 (sometimes more than 5) minutes to launch the GTA 5 Online. There's loading screens everywhere, even when you enter/exit the house (and those loading screens are taking longer if there are many players in the session). Sometimes you getting stuck on loading screen and restart is the only way out. Everything else is so expensive in the game. Online version is full of glitches. Even in the races they using glitches to gain some extra boost. In online, when players are doing some missions on freemode, the game tells you to kill them, to gain cash and rp. As soon as you do that, they starting insulting you. Yeah, you can try to ignore them, but the chat is bothering you and there's no way to mute them. There's a muting option but that doesn't work at all. There's many other things i can say but i'm just gonna end with this: The game isn't bad, single player story is cool, but cheaters and disrespectful people are ruining multiplayer.
+garbage game. rockstar support is the worst customer support out there. also their anti cheat sucks ass for false banning people which resets their entire game progress.
+First of all.... This is a good game and there is a lot of way where you can spend your time with your friend or any activites.
+
+BUT
+
+This is my favourite game, i spent more than 1200 hours for this game. I got banned 1 year ago for nothing. I think this way is not the best. You got a ban and there is a modder or hacker or anything you get banned again. I think the game must give the old players chance to unban after maybe a year. This is my idea and you can think this is a very wrong idea, but think about it. You got banned for nothing and you can not play with your favourite.
+Nice work Rockstar. You made a good game, but with a wrong ban and issue system.
+I may have quite a lot of hours played.. yeah - most of those hours are either stuck in the clouds, waiting for people to join a heist and then timeout, or a modder crashed the game and the application was still running in the background. 10/10 best game ever
+What a joke of a game too many micro transactions and they want $100 for 8MIL also you can get your account banned for being in a lobby with a modder which i have no control over
+Don't waste your money. Good SP, terrible MP.
+
+The online community consists out of two types of players. Hackers and Tryhards. The balancing in online is a joke, everything is WAAAAY overprized, and the general direction in which this game is going is just stupid. Simply don't buy.
+No... right now the game's single player is broke.  I been doing everything I can to log into the BAWSAQ market, and it will not let me... SO if I do the mission I loose out on a huge bonus to my cash and cant afford to buy any property.  I would not recommend playing the single player right now with this being a issue.. 
+
+I also avoid the multiplayer because of hackers and just general bad behavior on multiplayers part..  I logged in once only to have a tank run over me with a minute of logging in the online game.  I'm sure it could be fun to do multiplayer GTA.. but there is no sense of balance.  I'm not sure if the guy in the tank just was a bored level 60 hanging out where new people start or a full on hacker?
+I do not what was happening with this game.  Loaded up GTA for the first time and I noticed it set my GFX to 4k by default and my FPS was not running at around 60fps.  Fair enough drop the game down to 1080 and from then on my FPS was locked at max of 24fps.  Perhaps there is a driver issue so loaded up Witcher 3 and its running at 1080 almost constant 60fps.  Loaded Doom same again 60fps.  There are some suggestions on the internet to try out to fix the issue apparently but I've tried them and still getting the same problem.  At his point in time the copy that came with my original Xbox One runs so much better.  Bearing that in mind I just asked for a refund and within time limits.  Shame I was looking forward to a better experience on my PC.
+Game it self is amazing and top notch , some bugs are present but these seem to be minor , but once you complete story mode you have nohting to do anymore so you go to multiplayer which is total f***k fest littteraly . Lobbys are total mayham 
+full of hackers and people who dont hack still get banned if you are in a lobby with an hacker . I got straight permabanned because of this stupid system and since Rockstars do not answer for any ban appeal i quote *all bans are final and cannot be appealed* which is fk stupid . You always can play fiveM but dont buy the game unless on sale or under 10 euro this crap aint worth more
+To all gamers (especially broke gamer) before you buy this friggin' game,
+
+I bought the game with the Criminal Enterprise DLC and a Whale Shark Card at a reasonable price and i think it's not that worth it. CCCCCCOOOOOOOOZZZZ, for example, Maze Bank West is free (so excited) bbbbbuuuttt after you purchase it, you still need to spend at least a million in the interior and blablabla...............When you play the game later, you will then realise that all the missions you do in the future, your earnings could not even afford one friggin' car (For example: A Zentorno costs about $700,000 and a mission-at least 30 minutes- will only contribute 10% in order to buy a car.) Rockstar Games just made every content in-game worse and worse every year just like EA. So, I hope Rockstar Games will improve this friggin' situation for all some broke gamers out there.
+
+Love & kisses ,
+ME

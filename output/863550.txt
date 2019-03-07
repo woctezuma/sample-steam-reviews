@@ -1,0 +1,1452 @@
+HITMAN 2.
+
+Some will argue it's a glorified expansion pack improving on the existing foundation that HITMAN 2016 laid out; others will say it's a new game that learns from most of its predecessor's mistakes. Whatever side of the fence you sit on: HITMAN 2 may very well be the last good classic AAA stealth series that hasn't gone the way of Deus Ex, Thief and Metal Gear Solid... and that's worth bearing in mind.
+
+Before I delve into pros and cons, and whether you should buy this game, I'd first like to talk about what's different in HITMAN 2 when compared to the previous game HITMAN 2016 (which I'll refer to as HITMAN from now on). To start with we've got 2 new mechanics - pockets of vegetation/grass on maps hide us if we're crouched and you can now escape a NPC's line of sight by walking amongst a small group of people (this system is practically identical to the one used in Hitman: Absolution). There's also a less noticeable gameplay mechanic that's been introduced: NPCs can now see you in mirrors and other reflective surfaces (this change for realism doesn't make things incredibly hard but it will keep you on your toes as bathrooms used to mean a guaranteed unnoticed kill).
+
+Next we have 3 difficulty settings - Casual, Professional and Master. Casual is a completely new difficulty setting aimed at people unfamiliar with the series and those of us who wish to muck around without having to worry about cameras or dying right away (thanks to the huge increase in damage Agent 47 can take in this difficulty mode). Professional is essentially HITMAN's Normal difficulty mode renamed, and with an extra change - cameras that spot you with a weapon or illegally trespassing will alert nearby guards. Master difficulty is HITMAN's Professional difficulty mode but slightly easier in terms of challenge - there's more enforces, and you still only have 1 save per mission, but most items that are visibly held are no longer suspicious.
+
+In addition to this, all difficulties are available from the start and can be effortlessly selected without having to exit out and access another menu. Lastly 2 new gameplay modes have been added outside of the main campaign: Ghost Mode (a race against the clock killing targets with a silhouette of another online player who you are competing with) AND Sniper Assassin (a mode very similar to Hitman: Absolution's "Sniper Challenge" which has you sniping targets from afar and aiming to rack up a nice score - this can be played solo or with another person online).
+
+As you can see quite a bit has changed since HITMAN, for the better I believe. So let's get onto pros and cons!
+
+
+[h1]Pros[/h1]
+[b]1.[/b] The game is no longer episodic
+[b]2.[/b] 6 new maps that are of much more consistent quality than those that were offered in HITMAN and the NPCs on these maps have serviceable accents
+[b]3.[/b] New gameplay mechanics as well as new ways to play HITMAN 2 outside of the campaign
+[b]4.[/b] More unique and creative ways of killing targets
+[b]5.[/b] A better story that answers a lot of questions HITMAN raised and even explores some of Agent 47's past
+[b]6.[/b] A lot of additional free content in the works and continual live-content updates
+[b]7.[/b] The game looks breathtaking at times (try out the Whittleton Creek map and you'll see nice shades of red and yellow that just make your jaw drop)
+[b]8.[/b] The briefcase has returned - praise be!!! Sniper Rifles have been made an illegal weapon in this game, regardless of disguise, so the briefcase is now your best friend. Conceal that bad boy, go to a location, retrieve it (complete with an unpacking animation for some rifles) and deliver some Hitman justice 47-style. You can also use the briefcase to smuggle in other gear and even use it as a melee object at close and long-range. Have a rest fans of the Hitman subreddit: you did good, you did good.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1570177950
+
+[h1]Neutral[/h1]
+[b]1.[/b] Denuvo DRM - there is lots of debate on why it's needed and just how much impact it has on a PC but when HITMAN removed DRM years later, the effect on performance and stability was negligible at best.
+[b]2.[/b]  Quite a few reskins of HITMAN's items - I understand why this was done but it's a bit disappointing
+
+[h1]Cons[/h1]
+[b]1.[/b] 6 maps (the first is arguably more of a semi-tutorial and thus this is a smaller offering than what HITMAN gave us campaign-wise)
+[b]2.[/b] Always-online (already unlocked content can be used offline, but in order to unlock new gear you will need to be connected to the Hitman servers)
+[b]3.[/b] Performance is slightly worse when compared to HITMAN and many echo this on the forums - it's especially worse on some of the HITMAN maps that were remastered and included in HITMAN 2 as the "legacy pack"
+[b]4.[/b] Stability - I've only had 10 crashes in my 180+ hours of gametime but a lot of other users have encountered frequent crashing
+[b]5.[/b] More questionable decisions from IOI regarding time-limited content like Elusive Targets and a Christmas reskin of a map that was available permanently for HITMAN will now be time-limited for HITMAN 2 - this makes no sense!
+[b]6.[/b] Gold edition for HITMAN 2 has an unreasonable price tag IMHO
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1595641125
+
+
+To conclude HITMAN 2 is what HITMAN should've been thanks to its fun levels, extra polish and for the most part: listening to its fans. I do think HITMAN 2 and the series as a whole is often underlooked, and perhaps there's some valid reasons as to why that is the case, but I think the game and IOI is worth supporting simply because it's the last of its kind in an industry where Fallout 76 and Star Wars Battlefront II is all too often the norm. It's a breath of fresh air quite frankly and the game has amazing replay value if you dig semi-linear sandbox maps and the groundhog day gameplay where you're always revisiting a level and looking for another way to approach it and pull off that perfect kill.
+
+With some more patches I believe HITMAN 2 can be a 9/10 game. A game you never put down. But right now I'll give it a 8/10... and if you're a big fan of the series you should definitely consider grabbing it ASAP.
+
+
+[h1]P.S. If you have any concerns over HITMAN 2’s privacy policy I strongly recommend reading my Steam friend’s excellent review (it’s a bit direct but right on the money):
+https://steamcommunity.com/id/Duckilous/recommended/863550/
+
+
+[h1]P.P.S. If you like these reviews and want to see more of the same, you're more than welcome to follow my curator page. If you don't like curators or groups, I completely understand (I'm not a big fan either). It's just a much easier way to find old and new reviews I've made:[/h1] 
+http://steamcommunity.com/groups/rblc#curation
+[h1][b]This is an informational review of IOI's Privacy Policy that I felt the need to write because apparently some people were review bombing this game because of the Privacy Policy that they disagreed to because they [b][u]misunderstand[/u][/b] it.[/b][/h1]
+
+[h1]You see, the complaints of the Privacy Policy were or still are moronic and misleading at best.[/h1]
+They claimed that by accepting the Privacy Policy, you'll be giving away your personal data so more revelant advertisements will be displayed to you. 
+[b]This is a load of bollocks.[/b]
+[u]This complaint only refers to what's under "WHEN YOU CREATE AN IOI ACCOUNT" and "WHEN YOU ACCESS OUR WEBSITES".[/u]
+Basically, one of two ways they could receive personal data from you is by creating an IOI account.
+But even then, the only personal information that they'll be gathering are: 
+- [b]Your Email Address[/b]
+- Nickname
+- First name
+- Last name
+- Gender 
+- [b]Date of Birth[/b]
+- [b]Country[/b]
+[u][b]Only[/b] the email address, DoB, and your country are required to make an account[/u] and you can literally lie about this information if you seriously don't want them to know about your real email, DoB and location.
+
+[u]An IOI account is also [b]completely optional[/b] and not required for anything in the game[/u] so if you don't want to create an account, [b]just don't bloody make one![/b]
+
+Furthermore, the only other way they could gather information from you is by [b]accessing their website that you can easily avoid by simply not going there.[/b]
+Besides, what other website doesn't do this sort of thing anyway?
+
+The only purpose with the data that they're collecting is to serve ads that are related to your interests.
+Personally, I don't have a problem with this. Maybe there's something I'm missing here but if you don't like ads, [b]just use a Goddamn AdBlock![/b]
+
+[h1]So what about the rest of the Privacy Policy?[/h1]
+[u]Just to put this simply, here's the only kind of information that they're receiving when you connect to the game's servers:[/u]
+[quote]"[i]Internet Protocol address, your chosen platform that you access such game with, the date and time of your request, and information about your ownership of such game.[/i]"[/quote]
+[u]For accessing their websites and games:[/u]
+[quote]"[i]Type of device, what operation system you are using, your device settings, unique device identifiers, and crash data.[/i]"[/quote]
+[u]For playing the game:[/u]
+[quote]Game Log information including:
+"[i]Your game session information, gameplay events, gameplay statistics, if you unlocked progression items, and scores.[/i]"
+
+Profile Information including:
+"[i]Current progression on different systems such as location mastery tracks and challenges, items and features unlocks, profile statistics, played content including completed and failed elusive targets, content created by you such as contracts, and contracts moderation reports.[/i]"
+
+Usage Statistics Information including:
+"[i]Your connection information including IP address and game identifiers, the content that you played, your performance information such as score and progression events, and your selected gameplay events such as target kills or your deaths.[/i]"
+
+What they're monitoring:
+"[i]HTTP request information containing your Internet Protocol address, timing, identifiers, latency and response code, and internal server errors triggered by your requests. We also might use the previously described usage statistics information or the profile information to investigate and resolve customer issues and service monitoring alerts.[/i]"[/quote]
+Here's what one of IOI members said when talking to one of the people who questions the Privacy Policy, more specifically, the part for creating an IOI account:
+[quote=ioi_christianco]Our privacy policy is a single document shared between the game and any other services for which such policy is required.
+If you read it carefully (the text has been specifically written in a way to be easily understandable, not in obscure legal wording), the part of the privacy policy you raised concerns about is under the “When you create an IOI Account” section.
+
+This means that we only ask you to share information with third parties when you create an IOI Account, and this is why you are prompted with the privacy policy a second time when you choose to do so.
+The data collected by the game servers as part of running features such as the progression or challenge system is not shared with any third parties, and is kept only to allow us to build additional features for the game.
+
+Also, we use that consent in order to promote Hitman to a wider audience, and to be able to continue producing the kind of game we all love.
+
+If you have not finished creating an IOI Account, we do not have a way to know your email at all.
+If you entered your email in order to start the creation process, your email address has not been saved into our systems yet, but was encrypted into the link you received in the account creation email, as it is stated in said email.
+
+We are looking into how to make this distinction clearer in the future, but I can assure you I personally take these questions very seriously, and I will always ensure we are managing data in a fair and lawful way.
+
+If you have any questions or requests, the email address of our legal department is on the privacy policy at https://www.ioi.dk/privacy-policy/
+
+[/quote] Source: https://www.hitmanforum.com/t/how-can-i-close-my-ioi-account-without-first-accepting-iois-atrocious-privacy-policy/27486/10
+
+So if you're concerned about having your data being sold to third parties, you can avoid that by simply not creating an IOI account or accessing their websites. No humans would be reading your information anyway, it's all encrypted to be used in an algorythm.
+The information they got from your gameplay sessions will not be shared and only used as feedback for their games. 
+
+This fearmongering of two certain avoidable parts of the Privacy Policy is ridiculous.
+Did you know that the person behind the 2K+ upvoted negative review who complained about the Privacy Policy is also the same guy who spent almost two thousand hours of GTA Online? Check out Rockstar's Privacy Policy, more specifically the "WHAT PERSONAL AND OTHER INFORMATION DOES THE COMPANY COLLECT": https://www.rockstargames.com/privacy
+
+It looks like they collect way more personal data than what IOI does.
+So are the people who review bombed this game are hypocrites or have double standards?
+Who knows? You'll be the one to judge.
+
+Anyway, I get that it's unfair that people aren't able to unlock anything in offline mode (which is a stupid decision by IOI) because they're disagreed to the Privacy Policy but I think it's unfair that a good AAA game like HITMAN 2 is being criticised for collecting personal data that can be avoided, even if you agreed to the policy, while there's other games or websites like social media that does that sort of thing much worse.
+
+In conclusion, people misunderstood the part of the Privacy Policy where IOI collects personal data which can be avoided even if you agreed to the policy by simply not doing two things: Making an IOI account and accessing their websites.
+When you're connected to their servers, they only collect game information that are basically your statistics and performances.
+I think the game is great and definitely has improved from the previous game but it still have some flaws like forcing you to connect to their servers in order to unlock new goodies but assuming that you do have reading comprehension skills for IOI's Privacy Policy that was designed to not contain strange legal language so people like you can read it easily, you should have no problem accepting their policy so you can connect to their servers and you can prevent them from collecting your personal info as you wish.
+
+If you made it all the way to the end of this wall of text, thank you so much for actually reading it and have a nice day.
+[h1]Season 2[/h1]
+
+Hitman 2016 to me personally is a masterpiece. I basically got what I wanted – huge levels, absolute freedom and possibility of non lethal approach. It was the best Hitman game for me hands down, no competition.
+
+Hitman 2 is basically the same game. It’s just a second season. Gameplay is practically the same. There are couple of new mechanics, but it’s the same Hitman game as it was before only with new locations. There’s a saying “don’t fix it if it’s not broken”. I kind of agree with that but there’s a but.
+
+No matter how good the game is, even if it’s perfect, there’s always a way to improve it and Hitman isn’t improved, you can even say it’s a little bit downgraded and full game costs 90€. For that price I expected an improvement.
+What to improve? I don’t know, I’m not a developer of AAA game with budget of millions. With that money and Warner brothers help I believe developers could’ve done a better job.
+
+So gameplay is the same. You get to a huge location, you won’t explore it all in one playthrough, this game has a huge replayability value. Please don’t even think buying it if your goal is to complete the game. If that’s your case then the game isn’t for you. You’re meant to replay levels and eliminate your targets using different methods.
+
+You can allow the game hold your hand and tell you what to do or you can play without any help. This is good for people who are new to Hitman or just don’t want to run around for hours figuring something out. Even following the in-game guide it’s really fun. So this game is accessible for anyone. Don't be afraid to buy if you're slow and a bad gamer in general.
+
+It’s not a shooter like Absolution, the best way is silent and stealthy way and it’s the most fun way. If you expect shoot everybody this game is not for you. The whole point of the game is to be a silent assassin. You can achieve this by killing only targets, learning the layout of the map and choosing your equipment.
+
+New improvements are very minor. You can now carry a suitcase and conceal something inside of it. Agent 47 also is not so silent anymore. Enemies can hear your steps. And mirrors. Enemies can see you in the mirror.
+
+Level design is top notch, it’s perfect. You may not like all the levels but you’ll love at least some of them just like in previous game. Different levels pleases everyone because everyone will find a level he falls in love with.
+
+Graphics are great overall, although some things could look better. Crowded levels are just amazing. The attention to detail is outstanding. With so many people on the screen you feel like you’re really in the crowd because most people look different. In other games it tends to be just few AI models copy pasted around, but in Hitman 2 the crown is really diverse.
+Environments are great looking too.
+But character models could’ve been updated a bit. They look the same as in previous game so I expected them to look better in a newer game.
+
+Performance is great. I’m playing on mostly max settings and getting 60fps. Have nothing bad to say here.
+
+I said the game is more expensive and feels downgraded and just doesn’t feel like a 90€ AAA game. What I’ve noticed is that some animations looks like people are sliding instead of walking. Sorry but things like that should be done perfectly in a game of this caliber. Another thing is not important for gameplay but it was the biggest letdown. Cut-scenes are still images. Like what the fuck? I think this is not acceptable. It’s not an RPG, there are only few cut-scenes and you can’t make them properly? No no no, this is simply laziness, you have no excuse for this.
+
+I haven’t played multiplayer because I don’t care about it so can’t say anything about it.
+
+One more thing. As for a triple A title I think the sales aren’t very good seeing that the game reached only ~10k online at the same time in the first week of release. I think this will be a good lesson for developers to stop being lazy and increasing the price of the game while adding nothing new. I love the game and I’m happy I bought it but I hate when developers become too confident of themselves and stop innovating.
+
+Nevertheless this is a must buy for people who loved Hitman 2016, you’ll love it. And everyone else who love good stealth games, being able to do things how they like and like sandbox gameplay should buy it.
+
+[b]Pros[/b]
+[list]
+[*]Huge open levels can be played many time and feel completely different
+[*]Great looking game with lots of details
+[*]Countless ways to eliminate the targets
+[*]Fun for casuals and hardcore players
+[/list]
+[b]Cons[/b]
+[list]
+[*]Still cut-scenes
+[*]Character models could look better
+[*]some animation issues
+[/list]
+
+[url=https://store.steampowered.com/curator/32930811-Kosmos%27s-Cosmic-reviews/?appid=704030][h1]My curator page[/h1][/url]
+Gotta love the fact that you need a stable internet connection to play this single player game. It's a very damn good game, one of the best I have ever played in fact, but this always online DRM needs to die in a fire.
+H2 took 2016 formula and polished it to perfection. It's true that it feels more like a second season rather than a brand new game, but that's exactly what i wanted. Why fix something that's not broken. 
+
+Except for the Hawke's Bay, all maps are packed to the brim with content, like Sapienza multiplied by ten (maybe even more... i'm still so overhelmed). Mumbai is absolutely insane in this regard, i feel like it will take me months to discover everything it has to offer and i will still sure miss tons of stuff. NPCs chatter, all the tiny easter eggs, 47's weird deadpan humor, all the possibilities... it's just fantastic. 
+(And yeah, the main story is rubbish, but Hitman games were never really about that.)
+
+Definitely worth the money, replayability is through the roof in the campaign alone, not even counting the elusive targets or ghost mode. Big congratz to the IO, they pulled off something incredible and i'm so happy there are still devs like this, keeping this genre alive and handling it with such love and care.
+[url=https://youtu.be/SExfzdloKto?t=51]Good morning, 47![/url]
+
+Your target will be the 'Add to Cart' button. 
+
+Purchasing this game will provide you with several hours of entertainment. Various beautiful and exciting locations paired with opportunities that shape the world around you make a combination of a really enjoyable experience. 
+
+However, enemy operatives have come together to downvote the game, claiming that the franchise has gone downhill since Blood Money and they want to see it in ruins. This cannot be allowed to happen.
+
+I will leave you to prepare...
+
+Mission Status: Active
+[h1]A decent sequel! HITMAN 2 is worth the full price and it's my PC Game of The Year 2018.[/h1]
+[b]If you liked HITMAN (2016) then you'll enjoy this one as well.[/b]
+
+HITMAN 2 isn't a great sequel but it isn't bad either. It's more of the same and I'm fine with it.
+It does add a couple of things though. HITMAN 2 reintroduces the briefcase, which allows the player to conceal large weapons, such as sniper rifles. There is a cooperative Sniper Assassin mode. The mode has only one map where two players sit on a cliff and snipe people. That's it.
+There is also a one-vs.-one Ghost Mode. In this mode players start a match side-by-side. They can’t attack or interact with each other. You are unaffected by the actions of your opponent. Eliminate targets quickly and cleanly to win.
+
+All six locations from the previous HITMAN are in HITMAN 2 as part of the Hitman Legacy Pack DLC. Players who own HITMAN (2016) will be able to download the updated maps in HITMAN 2 for free.
+HITMAN 2 has six new locations: Hawke's Bay, New Zealand; Miami, USA; Santa Fortuna, Colombia; Mumbai, India; Whittleton Creek, USA; Isle of Sgàil, North Atlantic and a Sniper Assassin map Himmelstein, Austria.
+The maps are HUGE and you can get just as creative as in the previous title.
+
+There are couple of things that disappoint me though. We still can't use people as human shields. HITMAN (2016) had beautiful cutscenes so I was quite sad when I discovered that HITMAN 2 doesn't have cinematic cutscenes. What we now have is a slideshow with voiceover. Characters talk over still images. It delivers the story but it isn't as engaging as in the previous title.
+The leaderboards seem to cater towards speedrunners. I understand that time should be a factor but I think that suit only runs and such should reward more points than just being fast in a game like Hitman.
+Last but not least, no graphical improvements. I don't usually care for graphics that much but I expected some kind of an improvement.
+
+It feels more like an update than a review but that's what HITMAN 2 is. It's just more of the same. I'm just letting you know what's new and what's a bit disappointing. It's basically like talking about a big patch or an expansion pack.
+I love the game but at the end of the day it's just HITMAN (2016) with new maps and a couple of added features and downgraded cutscenes.
+In a world of open ended sandbox games Hitman 2 screams into the void reminding people that structured, polished and well designed levels are still fun as heck.
+[i] "Look closely. In the shadows, there is violence." [/i]
+
+Hitman 2 is a stealth action game with heavy emphasis on executing the perfect hit. It represents the seventh entry in the Hitman game series, and has been developed by the company IO Interactive and published by the company Warner Bros. Interactive Entertainment.
+
+[i] Pro & contra: [/i]
+
+++ Art of murder. Excellent level and mission design provide a broad range of assassination options for the various targets. Some ‘accidents’ allow the player to enjoy the dark humour of the situation.
++ Practice makes perfect. Replaying the same levels for alternate objectives and challenges. Observing patterns of movement is the key to success. Additional modes in form of elusive target, sniper assassination, and pvp ghost enrich the sandbox portfolio.   
+
+o While the plot is not as engaging as in Hitman Absolution (2012), I actually found myself interested in what is going on. Furthermore, it is a direct sequel to Hitman (2016), and it improves on the story telling.
+o The model of an episodic distribution of the game content over several months, as introduced in Hitman (2016), has been removed.
+
+-- Our benevolent overlord, the superb DRM. I am overjoyed to see that the developer and publisher have decided to shackle the gaming community to those ‘secure’ servers once more, based on the concept of the incorporated 3rd-party DRM called Denuvo Anti-Tamper. Let us rejoice! 
+- Extensive weapon modifications like in Hitman: Blood Money (2006) are not possible. I really miss my customized Silverballers! 
+
+[I] Summary: [/i]
+
+Overall, I enjoy the game in terms of sandbox and varied gameplay. It represents yet another well-executed expansion of the Hitman franchise. Nevertheless, the gaming experience is overshadowed by the implemented DRM. 
+
+Recommended for fans of bar codes and sandbox enthusiasts.
+
+[i] Achievements: [/i]
+
+This game contains the achievements from season one and two. 
+
+Estimated time for 100% completion: +150 hours
+
+Offline achievements: none 
+Online achievements: 118
+---{Graphics}---
+☐ Masterpiece
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Will do
+☐ Bad
+☐ Awful
+☐ Paint.exe
+
+---{Gameplay}--- 
+☐ Try not to get addicted
+☑ Very good
+☐ Good
+☐ Nothing special
+☐ Ehh
+☐ Bad
+☐ Just don’t
+
+---{Audio}--- 
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Decent
+☐ Not too bad
+☐ Bad
+☐ Earrape
+
+---{Audience}--- 
+☐ Kids
+☐ Teens
+☑ Adults
+☐ Everyone
+
+---{PC Requirements}--- 
+☐ Check if you can run paint
+☐ Potato
+☐ Minimum
+☐ Decent
+☑ Fast
+☑ Rich boi
+☐ Ask NASA if they have a spare computer
+☐ Does works with 3rd party modify.
+☐ Does not works even with 3rd party modify.
+☐ Windows XP and similar older system
+
+---{Difficulty}--- 
+☐ Just press a bunch of buttons
+☑ Easy
+☑ Significant brain usage 
+☑ Easy to learn / Hard to master
+☐ Not so easy
+☐ Difficult
+☐ Dark Souls
+
+---{Story}--- 
+☐ Doesn’t have (Not counting historical stuff)
+☐ Something isn’t nothing I guess
+☐ Not great
+☑ Average
+☐ Good
+☐ Lovely
+☐ Will make you cry or smile a lot
+
+---{Game Time}--- 
+☐ Long enough for a cup of tea
+☐ Short
+☑ Average
+☑ Long
+☐ Depends on you
+☐ Endless
+
+---{Bugs}--- 
+☐ Never had any
+☐ Minor bugs
+☑ Few bugs 
+☐ Can get annoying
+☐ Ruining the game
+☐ The game itself is a big terrarium for bugs
+☐ Bad AI bots
+Giving out a free demo is cool. Not explicitly saying its a demo on the steam page is not. downloaded this thinking it was the whole game just to find out its a demo. im not surprised, id just like to know beforehand
+Is it HITMAN 2016? No, but there's few difference mechanics-wise. 
+"If it is not broken, do not try to fix it."
+
+Though the new content, challenges and replayability of the old levels too, makes up for the price point. It's better optimized, gives more tools and challenges and overall a really interesting and inspiring game.
+
+The story is going even deeper as well! Though I know not many of those playing Hitman are focused on the story, but rather the gameplay, but the story is definitely icing on the cake for this one. Story is not as cliché as in Absolution but the gameplay of HITMAN 2016 and HITMAN 2 are superior to it in every way. Square Enix makes good RPGs but not HITMAN games.
+
+Downsides? New coin mechanics makes it somewhat challenging to distract people as opposed to the previous game and the fire extinguishers can no longer kill people when they explode, only knock them out. You now only get one breaching charge instead of two as well.
+
+Also: Still no Dual-Wielding Silver-Ballers even though you can now unlock 2 of them. 
+Come on, sweethearts at IO, give back the Dual-Wield Silver-Ballers! <3
+I have had conflicting emotions about Hitman 2 over the past few months of playing it. Initial experience was not great:
+
+Your progress from Hitman 2016 did not carry over, so everything you'd unlocked in terms of equipment and outfits would need to be replayed and unlocked AGAIN. Even the Sniper Assassin bonus game that came as a preorder is reset, AND with worse feeling aiming. And you can't play the preorder version anymore, it's no longer available. Essentially the 12 hours I put into that game are now down the drain with nothing to show for it.
+
+The UI changes are garish and unintuitive, the colour choices for the minimap make it less readable and occasionally obsures vital information. The smaller development budget results in still images for the story cutscenes, making the story bits a little less engaging to follow, with no room for visual flair or engagingly directed dialogue scenes like when The Constant confronts Diana at the end of Season 1.
+
+And The Constant's voice actor is all of a sudden doing a completely different accent for their character, a baffling change that switched them from a creepy, intelligent semi-antagonist, into a parody bond villain with a lisp, but without the humor.
+
+The new menu music is not nearly as fantastic as the theme for 2016.
+
+There's no katana to unlock.
+
+There's bugs everywhere and the levels run much worse.
+
+"What the hell did they do the Sapienza's lighting? It was such a nice, pleasant, warm and sunny paradise summer town that made for an incredibly atmospheric and memorable location. Now it's all grey and overcast and drab!"
+
+I put off playing the game for a few weeks because of all these things. This isn't working. The disappointment was so strong. The first level, Hawke's Bay, while fun for an initial playthrough, felt incredibly small to be considered one of the SIX advertised big locations.
+
+But.
+
+
+Eventually you get over that hump and start playing the new levels properly, and god damnit they are all really freaking good. Wonderful variety and atmosphere, tons of detail and little stories to unfold, so much wonderful freedom to plan and execute and discover. It was a genuine revelation, just like with 2016, as you start to grasp the actual depth of the levels and how much there is to do and how well everything is designed.
+
+Hitman continues to offer a brand of stealth that no other game does. The concept of hiding in plain sight is continually engaging. It's really funny, it's atmospheric, it's challenging and fun and incredibly satisfying. It offers scripted, narrative paths to follow, it offers freedom of planning and improvisation, hundreds of easter eggs and hidden details. It's constantly surprising and delighting you.
+
+The level design is easily top of the series, there is not a single "bad" level you don't want to play again and again (unlike Colorado in 2016 for instance). I am 75 hours into the game, having done 20/20 mastery and SA/SO in every level in the Season 1, Patient Zero and Season 2 campaigns, and I could see myself continuing to do all the little mission stories and passing 100 hours.
+
+The Season 2 story was initially disappointing, but I have since warmed up to it a little better, and do really want to see what happens next and where they take the series.
+
+I guess my only gripes are that the Legacy levels are NOT the definitive versions of these levels. I would sooner recommend people experience those levels and that story in Hitman 2016, rather than play the altered versions first time in 2.
+
+That said, if you enjoyed Hitman 2016, this is Hitman 2018. It is more Hitman, and it's excellent. It could be better, but it is genuinely excellent.
+
+8/10
+[h1]Introduction:[/h1]
+HITMAN 2 is a well-known stealth game, where you take a role of top world assassin, taking out the most dangerous and famous targets in a highly crowded areas. During each level you’ll have to stay undetected and quite often switch your uniform, disguising as event staff members, or even target’s personal bodyguards. Second game in a rebooted line serves as straight up story continuation and brings up some more interesting mechanics. For those of you who are uncommon with the game, developers made short introduction video and an ability to play all the levels from previous game (for the extra price, of course).
+
+[h1]Few words about the story and game universe:[/h1]
+In any HITMAN game you can divide the story on global and local one. Global story serves as glue between the levels, explaining why your character would hunt exactly this person. In HITMAN, global story displays some top notch secret society, which is at war with unknown mercenary. Your character is hired to hunt this mercenary down. 
+
+Local story usually consists of briefing and personal data on your targets, quite often with their type of personality and some dirt on their life, be it accidental murder, or cocaine trafficking. Local briefing however, is usually quite interesting to study and track down, as it’s full of various tiny interesting details, which help you to discover some more small stories. Each map not only possess own unique local story, but also slightly interconnects it with previous levels. As such, you can hear NPCs discussing how “someone” murdered a guy, or TV news which tell that FBI finally found a body of dead terrorist who you had killed few maps ago.
+
+[h1]Gameplay analysis:[/h1]
+HITMAN 2 is a stealth game with an advanced rank system and multiple ways of completing the mission. And by multiple I mean really many ways:
+
+First way the most boring one, which is simply bringing assault weapon and turning level to the hell on Earth. In this way, security would try to stop you, using all the weaponry they have, which includes pistols, shotguns, SMGs, assault rifles and even grenades. Except that, you’ll hear guards talking on the radio and commenting your actions. For example what uniform you wear, or whether you’re an accurate shooter. As soon as you begin the shooting, alarm starts off and the security will try to evacuate targets to some well defended place. Game itself doesn’t appreciate such approach, though, but if you’re bored, feel free to give it a try.
+
+Second way is suitable for those people who enjoys classic stealth games, as you can also bring sniper rifle, silenced pistol, or a bomb, taking down your target in a stylish way, similar to all those bad guys in the movies. Each map features at least one suitable position per target and, quite often, a spot where you can make an ambush with the bomb. If anything goes wrong, you can always use your silenced pistol and try to silence the witness, before they manage to report your illegal actions to the security. However, using lethal weaponry isn’t always needed, as for minor offenses security would just try to guide you out of the restricted area.
+
+However, real art of the game is to make a kill on a top notch level, framing everything up in the way so that common people would believe that target’s death was nothing more but an accident. This is how you get the highest score, this is how you find out more local stories on the map and this is usually the most difficult, yet somewhat enjoying way of taking out a target. Quite often such ways include dark humor, or even cynicism.
+
+Comparing to previous game, the new part brought up some more new features. These are the grenades, which can be used by both, your character and the enemy. Also, old suitcase was brought back to living, so using sniper rifle has become way easier than before. From now on you can hide inside crowd (before that, enemies could see you from some distance, even if you stood behind multiple people). Overall, game feels more alive, as on many maps you’ll need to interact with surroundings, such as purchasing soda, taking a ticket from people, or giving someone keys.
+
+This is where bonuses for hitman end and more difficulties arrive: For example, if an NPC saw you snitching around for too long in one suit, and then they see you again but this time wearing some staff uniform, it’s a straight mission failure, as you’ll be reported. Of course, you could always shoot all the witnesses before they reach the security, or change uniform again, so that security seeks for a wrong guy instead of you, but quite often such actions have a negative impact on the final score. The last but not least is mirrors and cameras: If you try to knock out an NPC from behind but someone sees you through the mirror, you’re in troubles.
+
+Perhaps, gameplay section can be finished with a short description of multiple gamemodes: One of such is a ghost mode, where you and rival hitman play on the same map and compete in time. The one who kills the 5 target, wins. Another game mode is elusive target, which came straight from previous Hitman game. In it, you are supposed to hunt down certain NPC, but duo to interesting pathfinding, quite often it brings quite some extra complications.
+Overall, gameplay-wise, HITMAN 2 feels way friendlier to the new players, as it introduces better difficulty system, which can be tweaked in even more advanced ways and has all the levels, including in-game videos with story, from HITMAN 1.
+
+[h1]The graphics:[/h1]
+Unfortunately steam has character limit on reviews, so I’ll try to be short:
+Graphics feels on the same level as HITMAN 1 really. Yeah, it’s a bit better than couple of years ago, but don’t expect a revolution. For an AAA title it’s neither good, nor bad. Just accept it how it is. Most of the impressions come not from HD looking models, but rather from the nice views, which every level is full of.
+
+The REAL problem with the graphical aspect, however, is videos. Apparently IO interactive didn’t have enough funds to repeat video quality of HITMAN 1, so what they did was making comic strip looking videos. You can literally feel how difficult it was for them to accept such a sacrifice, as most of the camera angles are placed so that you only see person sitting, or staying straight. Unfortunately, such decision also leaves a negative impact on the story, as what looked stylish in HITMAN 1, feels quite cheapish in HITMAN 2.
+
+[h1]The sound:[/h1]
+The sound is done on a same level as before. Music feels stylish and good. So do the sounds. The only slight issue worth mentioning is the fact that for some reason game lacks subtitles for some secondary unimportant dialogues. Taking in attention the fact that game takes place in a crowded area with a lot of noise, some verbal phrases can be misheard, or even not heard at all. That only partially touches the SOUND, of course, but still…
+
+[h1]Final verdict:[/h1]
+HITMAN 2 is definitely a game worth buying, or at least trying. It doesn’t have too much difference from HITMAN 1 of course, however those few steps that game had made, are quite important in the series and are clearly having an impact on the gameplay. Sure, it’s not perfect, for example videos in between missions look really out of place, especially after HITMAN 1 quality, and the amount of levels is quite low. 
+
+Yet on the bright side of things, you’ll have more advanced interaction with surroundings, where cars would explode, enemies throw grenades and civilians behave similarly to real people. Besides, IO Interactive promised few DLCs which should increase amount of content and that’s not even mentioning the fact that you can play whole HITMAN 1 story and that each map has high replayability value.
+
+[quote][url=https://store.steampowered.com/curator/23741321/]Follow our curator page, [b]Alexander's Club Curations[/b] if you like and want to see more reviews like this one.[/url][/quote]
+Agent 47 is back. After the restart of the series in 2016, Hitman 2 continues where Hitman ended. Both games actually belong together and form a single story.
+
+While the major story wraps around a world-wide criminal organization and Agent 47s past, every single mission has its own narrative. As well as the overall story, all mission stories are exciting, credible and interesting.
+
+On first glance, Hitman 2 only consists of six main missions and two training missions. If you set the game to easy and only aim to kill all targets as fast, simple and loud as possible, you could probably finish the game in a single day. But that's not the way Hitman is meant to be played. 
+
+The idea is to repeat every mission several times, to explore the areas of the rather huge maps and find many different ways to eliminate your targets as stealthy as possible. Even after playing a mission for the tenth or fifteenth time you usually still discover something new. 
+
+In order to get familiar with a mission, story challenges can be played. Story challenges are additional stories within a mission that help you learn the map and find out what's going on. Every mission is full of details and contains additional stories within the story.
+
+Playing a mission for the very first time is extremely satisfying. Enter highly realistic playgrounds in exotic places all around the globe. Start by ignoring your objectives, listen to people talking, scout the area. It's fascinating and exciting because you're always at risk of being detected if you trespass into sealed off territory and it feels incredibly realistic. 
+
+All missions from season 1 (Hitman 2016) have been updated and are playable within Hitman 2. New modes, new ways to carry out murders, as well as a visual facelift were added. Hitman 2 automatically detects if you own missions from season 1 and adds them to Hitman 2.
+
+In addition to the missions there's a sniper map that's highly enjoyable. As of today there's only a single sniper map but IOI announced to release more sniper maps in the future.
+
+There are a number of DLCs from season 1. Missions that play in existing locations but with completely new objectives and stories. It's very well done and offers a lot of additional play-time. Additional DLCs for Hitman 2 have been announced.
+
+The multiplayer Ghost mode is a 1v1 online mode that puts all of your assassination skills to the test as you compete against your opponent to eliminate targets as quickly and cleanly as possible to take the win. So far, I only tried this once and didn't stand a chance. I probably will try again later.
+
+You can also create your own missions. IOI calls them contracts. You can setup your own contracts and play contracts from players all around the world. IOI picks the best and rates them.
+
+About once per month IOI adds elusive targets. Time to kill the target is limited and you only have a single chance to eliminate the target. If you fail, the mission can never be played again. No progress saving. No second chance. It's intense. Prepare to fail while your adrenaline level blows your mind. The sensation is fantastic!
+
+The biggest achievement of Hitman 2 is the games realism. People react very realistic and it's simply fascinating to play in such a world. Sound effects and music are brilliant and voice acting is perfect. The kind of freedom Hitman creates is astonishing. There's simply no other game like it today because no other game manages to make the ai act as believable as Hitman does.
+
+Every mission play-through is rated. The less collateral damage you cause and the stealthier you work, the higher your score. High scores are important for in-game challenges and achievements. Reaching certain in-game challenges unlocks additional equipment that you can use in new missions. 
+
+The real task of the game is not simply eliminating targets. The challenge is to lure them in the right position so you can kill them quietly or make it look like an accident. It's often very difficult to face your target eye to eye because there are many other people, security and bodyguards. The challenge is to get your targets where you want them. Killing them is just the icing on the cake. And since putting your targets in the right spot is sometimes very time-consuming and demanding, killing them feels very satisfying.
+
+Hitman 2 is a masterpiece. For me it's the best game since Skyrim and I loved Skyrim.
+
+Pros:
+- perfect level design
+- extremely diversified
+- perfect voice acting
+- great graphics
+- very realistic ai in all situations
+- brilliant music, reminiscent to James Bond movies
+- great sound effects
+- fantastic atmosphere
+- feels very realistic
+- perfect light effects
+- extremely high re-playability
+- dozens of ways to eliminate targets in each mission
+- several story events per mission
+- thoughtful and interesting story
+- very well worked out clever missions
+- creates very intense tension
+- highly satisfying
+- addictive
+- each mission is unique and different
+- sometimes very funny, watch the guy in the Swedish Embassy in Morocco who tries to assemble an IKEA chair
+- difficult in a positive way. Some games are frustrating if they are too difficult. This game makes you want to try again and again if you fail.
+- setting feels a lot like James Bond and very British
+- huge content, hundreds of hours play-time if you try to complete all challenges
+- developers are constantly adding new content
+- runs very smoothly, no bugs, no crashes
+- lots of equipment for Agent 47
+- sometimes relates to historic events. Pablo Escobar brought hippopotamus to Columbia for his private zoo. In Hitman 2 you can make a member of a drug cartel die by feeding him to his hippo.
+- subtile murder, kill a guy undergoing surgery by destroying his donor heart or inform his doctor that the patient killed the doctors father
+
+Neutral:
+- requires permanent online connection (I don't mind but some players might)
+- voice acting only in english (but sub-titles in various languages)
+
+Cons:
+- takes about 110 GB hard drive space (silver edition, expansions not released yet)
+- limited save slots
+Very good game. Sadly they require you to be always online to unlock new stuff. That was the way they chose to fight against piracy, but it sucks that this hinders people with not so reliable internet connections.
+[b]Short answer:[/b] It's awesome!
+
+I wanted more maps to the Hitman 2016 and I get what I exactly wanted. I loved all the maps. A bigger version of "A New Life" from Blood Money is here too!
+
+A huge sandbox assassination game that follows exactly the previous game. Don't expect something new, they just added some basic things like a briefcase (which you can carry anything you want sniper rifles, pistols etc.) and mirrors that actually works like mirrors.
+
+[b] To Buy or Not to Buy? [/b]
+
+-> If you played Hitman 2016 and liked to see more stuff like that buy it now.
+
+-> If you played Hitman 2016 and if you are asking me how long is the game then wait for a sale. (Shorter than Hitman 2016 for now)
+
+-> If you haven't played Hitman 2016 and want to play Hitman I advise you to buy Hitman 2 along with the legacy pack which is extra 20 $ (includes all maps from hitman 2016)
+
+-> If you played Hitman 2016 and hated it (or wanted it to be different) don't buy this game at all.
+Alright so off the bat I'm going to clarify I'm a HITMAN superfan I played all Hitman games from codename 47 to this one and never missed one, I bought Hitman Blood Money and up on release day and pre ordered Absloution and 2016 (I didn't buy them on PC they were all on my Xbox and Xbox 360 this is the first Hitman that I pre order on PC).
+
+Righto, So I love this game it takes all the best parts from all Hitman games unlike 2016 and Absloution this game has the right old Hitman feel to it.
+
+The gameplay is like every other Hitman game get in kill the targets however you like in a huge sandbox and rewards you with whatever way you choose to kill the targets (Unlike 2016 where it only awarded stealth players which is fine since I'm one but not so fine for other players).
+
+The maps are great although I haven't fully explored them as I'm enjoying the Hitman 2016 levels with the new mechanics a lot, But not to worry I will return to them once I finish doing everything once again in the Legacy.
+
+Also one thing thats annoying me is the white map I really wish we could change it to the gray 2016 map.
+
+Alright it's time I preach to IOI about getting some of the memorable missions from the past games in this game as a flashback or as a DLC (Some of those would be The Hayamoto missions or Beldingford Mannor or Murder at the Bazaar or The Lee Hong Assassination and many many more).
+
+I remember back in the day I used to comeback home from School to play Hitman 2 or contracts or Blood Money and spend the whole day trying to get Silent assassin in another way, Ah good old days.
+
+Finally I want to thank IOI for a delivering a great game and I'll be waiting for new locations and new missions.
+
+2018's game of the year on PC easily
+So, [b]HITMAN 2[/b], ladies and gentlemen. To be honest, when they have announced the previous one, I wasn't really excited. Just because I can't stand the reboots and, let's be honest, those are rarely good. But you know what? Miracles do happen and not only [b]IO Interactive[/b] made a good game, they've made one of the very best games in the series. Instead of forcing us to follow a certain route, the original [b]HITMAN[/b] gave us a lot of freedom in every single mission. From our way to the target to the way we approach it, [b]HITMAN[/b] allowed us to choose everything. And boy, oh boy, there was [i]a lot[/i] to choose from. Unfortunately, there was that certain a-hole, who though “[i]Hey! Let's split the campaign into the episodes and sell them separately![/i]”. No idea who it was, but that's exactly who ruined the first [b]HITMAN[/b] and doomed it to fail. Don't get me wrong, it was still a great game, it's just it didn't feel as good as it was supposed to and didn't sell well either. So, after all that disaster (which almost sank the [b]IOI[/b] BTW), it was decided to make sequel a real deal. That's right, guys, we've finally got it. A game that comes with both the original [b]HITMAN[/b] mechanics and proper single player experience. Or did we? Let's see.
+
+The [b]HITMAN 2[/b] begins with the new mission that feels a lot like a tutorial, or an introduction to the story of sorts. Remember, the previous game ended with cliffhanger, so, it's only logical. That new mission looks pretty cool, but it's also laughably short (only a few minutes long) and can't really be considered a real deal. It's just that – a way to remember the story and controls. After that, you'll be able to choose. You'll be able to re-play the entire campaign of the original [b]HITMAN[/b] with [b]Patient Zero[/b] expansion, or start with the sequel. Yep, you've got it right. The sequel comes with the full version of the original game. And if you begin to feel suspicious at this point, you're absolutely right. [b]HITMAN 2[/b] isn't really a sequel. It's... an expansion pack. Aside from that short introduction, there's only five new missions and the new story still ends with a cliffhanger. There won't even be much of it, especially since [b]IO Interactive[/b] didn't change the way of telling the story at all. If you expected the new business model to change something in the game, you were wrong. It's exactly the same mission → cutscene, mission → cutscene thing, while cutscenes are even more dull this time. In missions? There's pretty much nothing. Only you and your goals. Don't expect much surprises, or story-related stuff. The only good thing I can say about the story is the fact that we've finally got a proper backstory for [b]Diana[/b]. Which is a really good thing since in the original game she felt [i]really[/i] shallow. Everything else, unfortunately, is just a bunch of broken expectations. [b]HITMAN 2[/b]'s story is just a bunch of the old cliché. Secret society, [b]KGB[/b], [b]USSR[/b] experiments and a group of “revengers”. You know, our usual generic cheesy stuff.
+
+Thankfully, there's a gameplay to make us all feel better. [b]HITMAN 2[/b] gives us everything that made the original game so cool and awesome. A lot of freedom, a lot of choices. It's all here. The problem with all that, though, (as you've probably already guessed) is the fact that it feels a lot like more of the same. That's right. [b]HITMAN 2[/b] doesn't even feel like [b]HITMAN 2[/b]. It feels like five... new... missions. And a short intro. I'm not kidding. [b]HITMAN 2[/b] is exactly how the original game's DLC was supposed to be. Remember DLC to the original [b]HITMAN[/b]? Both [b]Patient Zero[/b] and [b]The Sarajevo Six[/b] ([b]PlayStation 4[/b] exclusive DLC) were the same exact maps, only with slightly different goals. As the result, both felt a lot like re-playing the original game. [b]HITMAN 2[/b] is pretty much that – long-awaited five new maps. Sold as a new game. For the full price. Do you feel robbed now? 'Cause I sure do.
+
+It's not [i]that[/i] bad, though. Because again, developers did their best to provide us an exciting experience. And when it's about [b]HITMAN 2[/b], there are two things to make us feel good. First – taking the alternative paths will feel good like never before. Actually, every path you'll take will feel like some small side-story. There'll be some exclusive dialogues, there'll be some exclusive cutscenes and other awesome stuff for every single major path. And, of course, you'll be completely free to do anything you want on the way. No so-called “story rails”, no, sir. The new markers will be there to assist you with such “sub-stories” and you can actually re-play the original [b]HITMAN[/b] campaign with them. Which will make the game more user-friendly and more intuitive without ruining the exploration, but again, you can clearly see that [b]IOI[/b] just keeps developing their game on go. The guys didn't even fix the disaster called “[b]The Elusive Targets[/b]”. The missions with no option to save the game, which, if failed, can't be replayed. Everybody hated them. [i]Everybody[/i]. And those were [i]so[/i] easy to fix. But guess what? [b]IOI[/b] just made it worse by making [b]Sean Bean[/b] the first target. I mean, sure, the winter is coming and the guy dies in, like, every movie, which makes all this kind of funny, but [i]come on![/i] Think about it! Everybody will want to kill him. And with all that “no second chance” crap... yeah... the winter is coming with a lot of hate. And, like I said, it was really easy to fix. Just let people learn some sort of special points on regular missions and waste them to buy second chances on the [b]Elusive Targets[/b]. Like, you know... let people compensate lack of skill with a lot of patience. But no, we've got the old crap all over again... But enough about that, I'm trying to talk about the good things here.
+
+Another good thing here is, of course, so-called [b]Ghost Mode[/b]. Ladies and gents, finally, [b]HITMAN[/b] is always online for the reason. And that reason is... [i]there's a freakin' multiplayer now![/i] And guess what? It's awesome. Absolutely, completely, awesome. If you're at least as old as the old geezer here, you probably remember the game called [b]Spy vs. Spy[/b]. A [b]1984[/b] split-screen videogame by the [b]First Star Software[/b], based on comic strip of the same name. In that game players controlled two spies. One of which was black and another one was white (no racist jokes, please). The goal was to collect some items to your briefcase and escape to the airport before your opponent will do the same. The [b]Ghost Mode[/b] in [b]HITMAN 2[/b] feels [i]a lot[/i] like that. There'll be a set of randomly selected targets and you'll race your opponent to them, without actually getting on each other's way. It'll feel a lot like split screen... on the same screen. Kind of hard to explain, but long story short, it has that awesome [b]Spy vs. Spy[/b] feeling and I'll tell you what, the [b]Ghost Mode[/b] has [i]a lot[/i] of potential. Even if you won't want to re-play the main game for the alternative routes right away, [b]Ghost Mode[/b] will be there to save the day. It's absolutely awesome.
+
+So, what's the conclusion here? The conclusion here, unfortunately, is that we've got robbed again. After all those re-releases of the original [b]HITMAN[/b] (“The Complete First Season”, “Game of the Year”, “Definitive Edition”), each of which offered more and more extra DLC, we've got [b]HITMAN 2[/b]. Which, is pretty much a four hours long [b]DLC[/b] to the same exact game. [i]But[/i]. It's a good DLC. [i]Very[/i] good DLC. And if you enjoyed the original game as much as I did, you should totally look for it. It'll give you a lot of good time. Just make sure not to pay too much.
+I nominated this for The "Best Environments" Award during the 2018 Steam Awards
+
+I can already tell this game is a HUGE improvement on HITMAN (2016). HITMAN 2 is for the most part the same game as HITMAN (2016) but with a few QOL changes. These include the ability to hide in tall grass and Picture-in-Picture so you can see results to events you influenced without having to be in the same area. The game comes with 6 brand new maps to play with and the ability to bring over the 6 levels from HITMAN (2016) into the new engine as long as you own HITMAN. I highly recommend this game to anyone who was a fan of the previous game or Hitman in general.
+[h1]HITMAN 2016: Deadly Homing Briefcases Expansion Pack (2018)[/h1]
+
+(+++) Deadly Homing Briefcases
+(++) 6-8 more locations to enjoy more of HITMAN
+(+) slight visual and gameplay improvement
+(-) stilll no sign of weapon customisation and upgrade purchases and the notoriety system and post mission consequences and etc.
+
+It's a game about traveling to exotic places around the world and killing people in various creative ways.
+
+It should be viewed as a standalone expansion rather than a sequel. This HITMAN 'Season 2' doesn't bring much of anything completely new to the table but rather gives MORE of what the first season already have introduced  (i.e. big level maps, high replay value, multiple ways to play) with some minor improvments i.e. crowd blending, slightly better graphics, more intuitive GUI, improved AI, etc, and a set of new maps as the main content.  Therefore, with IOI played it safe continuing strictly on the same formula this time, so it is safe to say if you like HITMAN 2016 you will like HITMAN 2.
+
+What's dissapointing, however, is the fact that there's still no in-depth weapon customisation and upgrade purchases and the notoriety system. Now, it's already an awesome game but as a longtime fan, something is missing. Modern Hitman games are still about Blood and not Money. Where did all those cool things seen in Hitman: Blood Money (2006) go? Those features could've brought so much to the game world. I appriciate the comeback of sniper briefcase but our 'professional' assassin guy needs to spend his hard-earned money on something SOMETHING by his own choice and not just by unlocking them like a mobile game model. It's a 'profession. it's supposed to pay and he has his rights to go shopping, And right now the game has 0 real post mission consequences no matter what approach you take to complete objectives each level. complete steath or mass massacre, leave evidence or no evidence, the consequences are minimalised and untold. I'm not saying that these missing features are must-have features but it would significantly take the whole concept to another level further.
+Learned what's the meaning of improvement after playing and finishing this game kudos to IOI.
+
+Lots of improvement compared to it's predecesssor HITMAN 2016.
+
+Pros:
+Better NPC behaviours and Realistic Headturnings
+Realistic Bullet ballistics(improved)
+Better and fluent combat
+Improved Instinct
+Neat optimization
+Great Music and Soundtrack
+Lots of Weapons and Tools (Too much really)
+Huge Maps with Packed NPCs
+Better Oppurtunities
+Improved Cloth Tech
+Realistic Animations
+Improved Sniping System
+1000 hours of Gameplay at least
+3 different difficulties
+Much better Facial Animations
+Briefcase is back with a Bang!
+
+Cons:
+Wallhacks are still there a bit (Enemies can suddenly determine your shooting position and start firing at you if you're close)
+
+Worth to buy for the Briefcase alone!
+
+Game of the Year 2018  (In My Opinion) 10/10
+
+Best HITMAN Game, Sorry Blood Money
+
+Best Hitman game ever made. It’s the best Hitman game so far, and I’d absolutely recommend it wholeheartedly. Camera now is realistic as it needs to be, if you recorded on hostile area, enemies will come after you. Too much content.
+I haven't even purchased Hitman 2's content yet, but It's letting me play through the entirety of Hitman 1 (Which I own) Inside of Hitman 2's .exe so that's pretty cool. Props for bringing along the old content into the new game, free for that matter for past owners. +1
+The game is more [b]Hitman[/b] and that's what I wanted when I purchased it. 
+
+The [b]graphics[/b] are good gameplay is smooth sound and the ambience of the maps are also good. 
+
+Most of the levels are pretty big, but they never feel empty not to me anyway I find them to be very [b]immersive.[/b] 
+
+Eavesdropping on new conversations and [b]exploring[/b] makes you feel like there's [b]endless[/b] of different approaches to take when replaying a level.
+
+The [b]challenges[/b] are challenging and rewarding. 
+
+The [b]humor[/b] part of the game is very funny, you can sneak up on a guy from behind dressed as a flamingo and slap him with a fish!
+
+I remember playing Sapienza where I found an old VHS tape recording after having cut a guards throat disguised as the Plague Doctor it brought me back childhood memories (not the cutting throats part) and it played this awesome song ♥
+https://www.youtube.com/watch?v=aj51Np8oAG4
+
+I rate this game 10/10 homing briefcases
+Hitman is amazing.
+Hitman 2 is more Hitman.
+If you liked Hitman 1 you like Hitman.
+That means you want more Hitman.
+And Hitman 2 is more Hitman, so you should get it.
+Also, IoI always provides amazing amounts of post launch content!
+When IO Interactive brought Hitman back in to the spotlight with its excellent 2016 release, they showed that they were still capable of making some of the best stealth games around. That has not changed and Hitman 2 refines this even further to present a tight and compelling package with Hitman 2.
+
+Hitman 2 truly is a refinement over its predecessor. The old saying of “if it ain’t broke, don’t fix it” really applies here. The sequel takes what the first did great and pushes it even further, even if it doesn’t drastically change anything. The first thing that sticks out about Hitman 2 is its striking presentation. Much like the first, it has one of the cleanest, most aesthetically pleasing presentations I’ve seen in quite a while. Everything from the menus to the intro sequences to the look of the world is so polished that you can see your reflection in it. I found it to be very reminiscent of a David Fincher film.
+
+The game takes place over six locations, all varied and enjoyable. The true calling card for the new Hitman games has been their extreme amount of replayability. While I only played through each mission once, I only got maybe ten to fifteen percent of the total outcomes. There is just an absurd amount of ways that you can finish a mission that you could easily spend ten plus hours on a single map.
+
+Each level has Mission Stories, which are essentially the most elaborate ways that you can eliminate a target. The games gives the player great flexibility with this as you can play with it guiding you from point to point or find it out on your own, with no hints. This guidance is completely optional and can be turned off or on at any time to suit your preference. 
+
+One big difference from the first game is that the cutscenes are done through stills as opposed to full motion cutscenes. I understand that this was most likely done due to budgetary reasons as IO has recently become an independent studio, and while I would obviously prefer full cutscenes, I found what they did to still be done very well.
+
+Performance wise, the game ran great for me at 1440p on a GTX 1060.  I ran it maxed out averaging between 45-55 FPS. I did, however, get some occasional freezes that required a restart. This was mostly when I was reloading saves.
+
+Whether you play Hitman 2 as a guided experience or as an open-ended sandbox, playing as the unflinching killing machine that is Agent 47 has never been so much fun. The replay value here is through the roof and IO Interactive has undoubtable delivered one of the most enjoyable games of 2018.
+[h1] Perfect assassin [/h1]
+
+Every gamer knows this legend, almost every man (or woman) of culture knows who agent 47 is.
+
+Get the feeling how it is like to be the best in this dangerous field of work, be unspotted, untraceable and kill your targets with very innovative ways, trick your victims into killing each other, or kill themselves by mistake. That’s what‘s awesome about this game; so many posibilities and challenges you can find in this game are astonishing. You can be sneaky, you can be unseen, or you can make perfect show and make everyone see what you did, and the best way is that you can also make it look like an accident. 
+
+HITMAN 2 is a successor to 2016’s HITMAN series restart and I think the game enhanced in some areas but not much overall. Maps are bigger, graphics seems to be a little smoother (at least on my PC), and that’s it. You would say it’s not much of an improvement, but I don’t fault here because in my opinion the first game was amazing and just needed more maps to play, which HITMAN 2 brought!
+
+On the other hand HITMAN 2 brough also faults of its predecessor. First of all there is the need to be connected to IO all the time and if your internet is slower for a while (or you are without it for a moment) the game stops you from playing no matter what you do and you just can’t play until you connect again. The second biggest flaw I’ve had with both games is staggering when aiming, I had no issues with FPS (stable 60), but when I aimed most of the time it just didn‘t react as it should, its just so staggery almost all the time!
+
+[h1] Summary [/h1]
+
+[b]Pros[/b]
+
+✪ [i] Perfect stealth features [/i] 
+✪ [i] High replayability [/i] 
+✪ [i] Large elaborate maps [/i] 
+✪ [i] Many challenges [/i] 
+✪ [i] Opportunities [/i] – offer guidelines that make assassination much more interesting 
+
+[b]Cons[/b]
+
+✪ [i] Story[/i] – even though some parts just feel and look amazing, overall it’s just a mess. 
+✪ [i] Online [/i] – you need to be connected all the time. 
+✪ [i] Elusive targets [/i] – even though they are amazingly done, I can’t stand that I can only play it once and then have to wait for another year! 
+
+[b]9 /10[/b]
+
+The game offers almost the same as 2016’s HITMAN but it’s large and more elaborate maps offer much higher replayability therefore I can gladly recommend buying this one and even with it’s flaws give it a little bit higher rating reaching 9 out of 10.  I definitely enjoyed playing this one I hope you will too!
+
+I absolutely love this game!!
+
+-Incredible the things you can do in it 
+-Graphics are really nice too
+-A ton of replayability, a many hours game
+-Play the game the way you want (Ninja or Rambo or both)
+
+-Can get quite violent if you want, the choice is yours lol 
+(For instance, I was in Miami near the entrance where they show off a nice car and there are a sh*t ton of people, so i steal a kitchen knife and some turd saw me cause theres a sh*t ton of people around, so I blend in the crowd too lose them, then 1 of my targets walks by me, I was like wtf, so i pull out the kitchen knife and walk up behind him, I decide to attack...he pulls the targets head back and slits the f*ckers throat open right in front of everyone "AHHHHHH" goes the people and scatter) crazy a$$ game, all of this I could of avoided if I wanted too, the CHOICE is yours ;D
+
+-I have not tried the multiplayer, not really interested in it
+-The campaign and challenges are well worth my money
+
+I would of paid full price for this game if it wasn't for the winter sale lol
+[quote][url=https://store.steampowered.com/curator/7871885/] Follow our curator page,[b] OCG Curations [/b] if you like and want to see more reviews like this one.[/url][/quote]
+
+[h1] Hitman 2 is a stealth action game that continues the story and the ideas of the previous game (2016) and exalts them to the next level. Player has an ability to travel around the world to track and eliminate his targets with all its inherent elegance on the enormous sandbox locations. [/h1]  
+
+[b] Pros: [/b]
+
++ Stunningly detailed enormous levels 
++ Countless ways to eliminate the targets
++ Very high degree of replayability, perfect game for completionists
++ Game was designed to be friendly for both newcomers and experienced players
++ Player can follow the whole story from the first season from here without launching the previous game, as all the missions have been brought here. All these old missions updated with new features as well.
++ Lots of new stealth mechanics that are minor but they actually bring a lot to the gameplay
++ Brand new awesome 1vs1 multiplayer Ghost Mode
++ Challenging and fun stealth gameplay, not as hardcore as it was before
++ Say goodbye to episodic format
+
+[b] Cons: [/b]
+
+- Requires connection to the internet all the time
+- It has Denuvo, that can be a problem for lots of players
+- Cutscenes have a much lower quality comparing to previous season
+- It feels pretty short if you don’t feel like replaying the same level many times to find every single possibility and reveal every secret.
+- Unremarkable story 
+- Voice acting issues here and there
+- Can be a bit buggy at some levels, forcing you to reload the game from checkpoints
+
+To be perfectly clear, it won’t hurt to declare that Hitman 2 is a perfect pick for someone, who call himself a true fan of the series and eager to know the story of Agent 47 and what happened to him next. This game doesn’t bring too much of a new features or it doesn’t change the gameplay dramatically, so it’s better to think that Hitman 2 is just a logical continuation of the previous game. It brings six new perfectly designed enormous sandbox missions, with tons of possibilities and different scenarios to discover, making players want to replay it again and again, bringing lots of satisfaction.
+
+[h1] Story [/h1]   
+The story in Hitman 2 is not that remarkable, basically it follows the events of the 2016 game and reveal the Codename 47 secrets a little bit more, telling us how he became a serial killer and who was staying behind all of this. He meets a man from the past and that leads him to the answers for the questions that players can still have from the 2016’s game. 
+
+[h1] Gameplay [/h1] 
+
+Speaking of gameplay, Hitman 2 brings us the fullest experience that we ever had, with every possible gadget and disguise. Player is the one to choose, either to make it clear and silently or maybe it will be much more easier to organize a bloodbath. Everything is possible and here we come to the point of understanding, that player is not able to see and experience every single opportunity that mission offers you in a single playthrough. Seriously, this game can be such a great satisfaction for the players, who are fond of completing games on 100% and getting a perfect score, there are countless of possibilities. 
+
+Some of the scenarios requires player to walk around the level a lot and play a waiting games for a long time, before he will get the perfect opportunity to take down the target. On his way to the final goal, lots of victims can be subdued or even killed to get the needed disguise, documents they hold or keys to unlock specific locations. Well, it’s a classical stealth game after all, so no surprise here, that players have to do this a lot, patience has always been the key in Hitman series, let’s be fair. 
+
+The game literally demands you to remain calm and patient, as a minor failure can lead to reloading your game completely from the beginning, losing your precious time. Of course, player can save his game to not lose too much of his progress, unless he is not playing on the highest difficulty, where saving option is limited to one save per mission. Basically, the highest difficulty is something where the game starts to shine and it’s a great chance to test your skills. I recommend to play on this difficulty after beating the whole game and trying every single scenario on the easier difficulty.  
+
+The level design of the missions is something, that I can't stop admiring at all. Players can spend literally hours exploring every mission and looking for opportunities, enjoying the picturesque locations and completing the challenge list. Or they can simply open the menu and choose one of the scenarios, track it and eliminate the target. I really liked the way how developers managed to come up with tons of creative ideas of killing your target: from some tricky and interesting scenarios, revealing the plot even more to some accidental events, like short circuit at the most convenient and right moment.
+
+Sniper Assassin mode is back again with lots of different scenarios, making players stay in Hitman 2 even longer and a brand new mode appears here as well, called Ghost multiplayer. In this mode, player co-exists with his opponent in 1vs1 competitive mode in one world, having no ability to interact with each other. They have to hunt down the targets to have a better score and win the round. I can’t say that I was that i was delighted with this multiplayer mode, but it definitely can bring players even more fun, when they are done with everything else. Also, let’s not forget that developers promised to support the game with Elusive Target missions, a time limited scenarios with a single chance to take down the target. The first one will be represented by a famous british actor Sean Bean - the guy who is not lucky enough with his movie roles, getting killed there all the time, so it’s really fun how they decided to ironize on this fact. Looking forward to these new activities to spend even more hours in this great game.
+
+[h1] Graphics [/h1]    
+I can say that graphics is almost on the same level as it was in the previous game, maybe a little bit more polished. The only thing that really bothered me was the cutscenes, that confused me a lot, when I saw this static figures staying on one place, while camera was moving around the scene. I am not quite sure, either they were trying to bring something new with this comic book look style, or was it just a lack of money, but it was definitely that thing I disliked in Hitman 2 for sure. 
+
+[h1] Sound [/h1]    
+The sound was a bit buggy for me - at some missions, there were scenes, when I knew that I was going to hear a character talking to me and apparently, it had to be accompanied by a dramatic music on the background, but it never happened. Then after I reloaded my game from the save, this issue was gone and a situation like this happened around four or five times to me. Other than that, I can say that audio is also almost on the same level as it was in the first game and I appreciated how stylish music was, definitely fitting the atmosphere. Every single line is voice dubbed by professional actors, there were only few scenes where subtitles were missing for some reason.
+
+[h1] Conclusion [/h1]   
+Shortly speaking, if you enjoyed the first game, then you have to grab this one as well. Hitman 2 definitely does not change the game beyond recognition, but I can not say this is bad. It just adds more experience to the game you love and enjoy, especially adding these new cool features. Six missions can feel a bit short and not enough, especially if you are not a fan of replaying the missions. It can be a minor disappointment with a plot and its weak cutscenes, so let’s hope that they will work more on this one in the next game. And it also very friendly to the newcomers, so if you ever feel like introducing to the Hitman story, now is a perfect time for this!
+
+[h1] Enjoy! [/h1]
+so many opportunities how to roleplay,
+
+roleplay as:
+stalker ✔
+silent killer ✔
+mass murderer ✔
+final destination death type killer ✔
+cosplayer killer ✔
+bomber ✔
+poisoner ✔
+sniper ✔
+psycho bathroom killer ✔
+slasher ✔
+james bond ✔
+MacGyver ✔
+
+is it fun ?
+yes
+does it make me a school shooter ?
+no
+please buy 
+
+beware: CPU heavy game
+Great Game, but can be ALOT better. Good decision by keeping remastered season 1 free for Hitman 2016 players.  
+
+Pros: 
+1. Excellent Level Design
+2. Mission Stories are well constructed and give amazing payoffs if you follow them.
+3. Graphics are good but not on par with the current generation of games.
+4.  Insane Replayability. I played each map so many times and each time i found something interesting.
+5. Contracts mode and the new Ghost Mode are fantastic.
+6. The suitcase and the different suits.
+7. Tools of the trade.
+
+Cons:
+1.  AI. The biggest problem with this game. AI is very rudimentary and not mission specific. Makes the game feel more like a puzzle solving challenge than an actual immersive experience.
+2. No ripple effect after assassinating the main targets.  Invariably a bodyguard appears and says 'Oh Well! Sierra Knox is Dead..No big deal, i will just bag her and tag her. Adios. Finito! ' Nobody seems to care about such influencial targets being killed.  In this instance, her father Robert Knox just goes about his day as usual even though his daughter is dead and done with. 
+3. Animations need to be ramped up. 47 feels like a robot when he walks or opens doors with just a touch and traverses ledges like a tin man. And the fiber wire kills are so fast and unrealistic. I cant even see the fiber wire when he is strangling people. The sniper rifle unpacking animations should be included too, you know where 47 assembles the sniper rifle after opening the suitcase, like in the previous games.  Also blood, where is the effin Blood developers??! 
+4. Just make the game more immersive and realistic with the current formula. Look at Red Dead 2. IOI will make insane amounts of money if they just make it feel real, grim and more stylish. I know they have budget problems but now that they have a good working game, they can push forward, i guess.
+
+My rating : 8.5/10. Definitely worth playing.
+
+While many complain that this is just an expansion DLC for hitman, I personally dont feel that way.
+
+The story aspect of the game is not that great.
+The entire story campaign can be finished in about 4 hours. 
+
+But what keeps me playing are the several challenges each level has to offer. 
+Each mission can be finished in multiple ways. 
+Dont even have to follow their rules, we can come up with ways to complete it.
+
+The new gameplay mechanics are a nice touch. 
+Always bothered me that NPCs dont notice the character coming up behind them with a gun when they are in front of a mirror. Gladly they fixed. 
+Ability to blend with the crowd as well as hiding in bushes gave a Assassins Creed vibe which I totally adore.
+
+And to top it off , they remastered the first season and I got it for free as I owned season 1. 
+
+This game is not perfect and may not be for all players, but I sure as heck loved it. 
+
+I rate it 8/10
+Another solid outing for the franchise. Builds upon and further refines the gameplay from the previous game to deliver one of, if not the, best Hitman experience yet..
+
+All the previous missions you own for the original game are playable in the enhanced engine of this game, bringing additional nuance, challenge and possible approaches to previous classics.
+
+All the new levels are of high quality, well-designed & suitably sprawling with optional guidance for newcomers.
+
+No technical issues encountered during my playthrough.
+
+As always, support the franchises you want to see continue.
+[b]Excellent continuation, with new changes in gameplay. Added more weapons, changed the physics of shooting and etc. The plot turned out to be interesting , but the final of the game allegedly hints that there will be a maximum of 2-3 games. The only drawback of the sequel is the cut scenes. I was expecting beautiful, CGI scenes like in season 1, but got a picture slideshow. This may have been caused by litigation with a previous publisher, etc.[/b]
+Really enjoyed it, jumped in today and played the Prologue. I've never played Season 1 and I only have a couple locations from giveaways but somehow I got Legacy Paris added...nice. Now lets see if it stays that way.
+Holiday Hoarders is a lot of fun, and I unlocked all locations in Paris while treasure hunting.
+
+Its the closest thing to the originals: Hitman: Codename 47 and Silent Assassin, and the option to strip away all the hints and assists make for a challenging and rewarding experience that even the purists will love.
+
+I must admit: I didn't play Season 1 because I was worried I wouldn't like it after the Alternate universe of Absolution...I was wrong. Wrong and happy
+Continuation of Hitman 2016. Some of the most insanely detailed, sprawling levels I've ever seen in a video game which are all consistent in quality and HIGHLY replayable - turn off the hud and handholding systems and you've got yourself a Hitman game as good as any of the classics were. The OST, like 2016's, is still some what lacking though they did do a slightly better job this time around.
+"Local bald man goes on a rampage with a fire extinguisher, two persons dead and 35 others found inconscious"
+
+The amount of stuff you can do in this game is great, as long as you can disable the "opportunity system", you'll have to figure out everything on your own and it feels very rewarding. The game encourages you to experiment with things, you could be that silent assassin which leaves no evidence and executes clean kills, or you could pretty much roleplay as an angry clown who got tired of his job and goes on a (non-lethal) rampage with a shovel, knocking out every guard he sees. Or just pretend to be in a power fantasy and shoot up the place even though that option can get sour really fast. You play the game how you want and that's good to see that IOI is really stepping up their game, they have put effort in their level design, gameplay and it shows.
+
+Some people might consider this second season like a glorified "map pack", but honestly I feel like they did the right thing by leaving Square Enix to ditch the silly "episodic content" bullshit and start again with a much less shady practice. And if you own the first HITMAN, you get free stuff anyways !
+
+Anyway, I only got to try the Prologue and the Holiday Hoarders event, along with The Showstopper, and so far i've had a great experience, so please, try it out and see for yourself.
+Rarely are the words "More of the Same" a compliment, but today they are.
+
+Hitman 2 is an example of "if it ain't broke don't fix it" and with that in mind it's pretty much exactly what they did. This isn't so much an entirely new game as it is "season 2" of the previous game Hitman(2016).
+
+If you were a fan of Hitman (2016) this is a must-buy, it's everything that made that game functionally good along with quality of life improvements, more maps and two new game play modes.
+
+If you were not a fan of Hitman (2016) this will NOT convert you into being one. 
+
+----
+Specific notes: game has some bugs at launch, so did the previous game, not enough to stop me from playing but if you are sensitive to such things, you may want to give it a month to sort out it's issues. 
+
+The story is absolute garbage, this is Absolution level of bad when it comes to story. Thankfully most of us are not really playing for the story and the game play is solid, fun and "more of the same" from Hitman (2016). Contracts mode will ensure true fans can get 100's if not 1000's of hours of replay from this.
+
+Sniper mode and Ghost mode are still in their infancy, one map each, interesting beta test modes. I wouldn't rate them good or bad yet as they are still being developed, but what's there has me intrigued. We'll know over the course of the season 2 as more content is added if these turn out to fulfill their full potential, more maps for both are coming.
+
+The main game is short (like the last one), if you are a "one and done" player, go away, this isn't even the franchise for you let alone the right game within the franchise. All of the value here is in the replay, there's 100+ hours of challenges already in the game and 100's more hours in contracts mode. No idea how many hours ghost mode and sniper mode will add to it once those continue to be expanded on.
+
+----
+
+Also if you own the previous game you get all of it's content remastered here for free with the quality of life changes. If you don't own the previous game you can purchase the legacy pack for a discounted price (cheaper than buying the last game).
+
+One of the best parts of Hitman 2 is replaying the old levels remastered.
+
+Total content with legacy pack:
+
+21 normal missions (2 prologue, 6 season one, 6 season two, 4 patient zero campaign, 3 stand alone)
+1 Sniper Assassin mission (co op sniping)
+1 Ghost mode map (competitive "Racing" to kill targets, not each other)
+100's of challenges
+Unlimited contracts
+
+To be added during the season: 2 more expansions (more maps/missions), more sniper assassin missions, more ghost mode maps, more themed challenge packs, 50+ additional escalation missions, and elusive targets (one time events)
+
+If you want in on the elusive targets, buy now, they start November 20, 2018 and add a new one roughly every two weeks for the coming year. Once they are gone they will probably be gone forever. Not a huge deal as they are a tiny part of the game, but they are a nice bonus for those of us who play contracts throughout the season, the base game basically continues to be updated and expanded on.
+
+This isn't just single player, it's single player with a community and seasonal content. Though you may want to join the Hitman Forums and not steams forums if you really want to be part of it.
+
+-----
+
+Bottom line;
+
+Don't buy this for the story, don't buy this thinking it has real coop, don't be an idiot and pretend this is a pure shooter.
+
+But if what you are looking for is season 2 of the last game (which was season 1), this is more of the same with some quality of life improvements and for those of us into contracts, that's enough for me.
+The game is a more polished version of 2016, pushing forward the style of the dense, npc and dialogue rich levels of 2016 and also bringing back a fan-favorite level style(that of the suburban  'New Life', conveniently called 'Another Life') along with new and interesting locations(New Zealand, Miami, Colombia, Vermont and the North Sea) that haven't failed to pique my interest at all(while levels like Colorado, Bangkok and Marrakesh weren't as enjoyable to me in 2016). Is it gonna change your opinion on the Hitman series if you don't like it? Of course not, but it sure as hell is one of the strongest entries in the series along 2016 and Blood Money, dare I say the best one out of the three, its level design being the strongest aspect.
+
+It also has this: https://youtu.be/FKkT-T6rx3U
+There is little I can say that hasnt been said already.
+A beautiful set of masterfully crafted levels and setpieces ready to be tailored, full of replay value and wacky experimentation.
+The definitive modern Hitman experience and a game I can't wait to sink months into.
+
+Absolutely recommended.
+what can i say about hitman season 2 thats what am calling it anyway, i bought gold editon so had early access, and completed all 6 levels in day 1, i did think it was a little short, but the levels just like the first was amazing, the story in hitman is getting better leading onto hitman season 3, in the first hitman season 1, some players found it hard to play so ioi made this years game so easy with 3 difficulty settings, but with a lot of coverage everywhere, unlike the first season it was hard sometime to move around the map you had to scout out a good route timing was everything, now who cares about that when there is a bush there just crouch and nobody can see you. i have access to both hitman seasons and all dlc, i not to bothered that i have to do everything again to get all extras like clothes and weapons, as this is the point of the new hitmans to be replayed over and over untill you can do the levels in your sleep, so there is plenty more for me to do, but i do wish there some more levels even more missions in the levels, but hey this game is still amazing and you get a lot for your money you have to try it i would recommend anybody to buy this game 10/10 Just Amazing
+This game is an absolute masterpiece, a true high point for this series. There are plenty of ways to kill your targets, meaning if you like to replay levels over and over again (like me), you'll have an absolute blast playing this game. Each map is filled to the brim with content, meaning you'll be playing for hours and hours. There's so much humour and heart tucked away in this game, too.
+
+I'd absolutely recommend this game to anybody who's just looking for some murdery fun.
+Even though the Hitman game from 2016 was great, Hitman 2 is more amazing and fun than the last one. it added more missions, items and even more than the first one. Even though you can play the missions from Hitman 1 again which is cool and all, but the second gives us more stuff that we all enjoy this game. So yeah Hitman 2 is a cool and awesome game to play.
++Solid fun gameplay.
++Interesting story.
++Creative ways to kill the targets.
++New Weapons & Locations.
++Large open maps, even better then the previous game.
++Lots of challenges, quests and funny references.
++Replayability.
++The last game included in this title resulting in many more hours of content, also improved the old maps.
++Improved details and reflection physics.
++Briefcase, also available to carry over to the last games missions.
++Interesting multiplayer concept.
++Contracts mode adding many more hours of entertainment.
++Full game right away, no episodes.
++Sean Bean is excellent as story-narrator and target, very interesting and awesome to see him in the game.
+
+-Budget cutscenes compared to the last game, but understandable to be able to release it in time.
+-Some minor bugs and some rare challenges that won't work until you restart the save.
+-The game can sometimes crash, mostly when you mess around or have played a map for long durations.
+-The online servers can sometimes have issues, only happend two times for me during launch week.
+-Progress doesn't carry over from the previous game, I have to do every unlock and achievements again.
+-No dual silverballers and no weapon upgrade system. Hoping for this in the next game.
+-The mission menu is not optimized in a good way, hard to overlook and find what you want.
+
+My game of the year for 2018 is HITMAN 2 just like HITMAN 2016 was my GOTY that year. Very fun to play, probably 100+ hours of content just from these new maps, without counting the expansions coming next year and the last games maps that can easily be another 100+ hours if you wanna complete them. Excellent title for gamers that like replayability and singe-player focus titles. I will have fun with this sandbox for months no doubt. Probably the best Hitman game to date, only thing missing from blood money is dual silverballers and weapon upgrades, but other then that it's pretty much a perfect hitman game.
+Although this is a slightly underwhelming sequel to HITMAN (2016), it's still really good. HITMAN was probably the best game of its type, and it is really tough to live up to that. 
+
+If you've never played the 2016 release, this is too good to pass up. If you have, and loved it like I did, the new maps are pretty good. Plus, you can pretty much play the original release with this game's improvements. If you haven't enjoyed the 2016 release though, this probably wouldn't do much differently to sway you.
+I have played this game mostly on another platform. It is pretty much more Hitman, but with a lot of great small improvements. More Hitman is not a bad thing.
+[h1] No Spoiler	[/h1]
+So the game starts with "Providence" Authorizing ICA to occupy agent 47 to eliminate mysterious "Shadow Client" who is dominating the world with crime. Now Why ICA is working with Providence? You and I dont know yet. However ICA gives a reason... But... We don't know what actually might be up for AGENT 47. 
+[h1] Initial Thoughts	[/h1]
+[list]
+    [*]Good Visuals
+    [*]Missions Seemed To Be Well Designed
+    [*]Connected Storylines
+    [*]Stable Online Connection. No Random Disconnection From The Server Like Hitman (2016)
+[/list]
+[h1] Some Weird Stuffs Example	[/h1]
+[list]
+    [*]You Can Only Jump From Where The Game Has Designed It To Be. You Cannot Jump From Same Heights From Another Place If You Want To
+    [*]Sometime Game Stuck in Loading Screen.
+[/list]
+
+I obviously recommend the game. Will be updating as more I play
+Im huge fan of Hitman franchise. Some can say its still the same and every kill of the targer is about same patterns. I see countless opportunites to kill targets :), where i have to think how do I kill this person to look like accident or even better to let some kill target instead of me. For me its a challenge to achieve best score and be silent asssasin. Bonus is, In every level are funny ester eggs. In each destination you can spend 1 hour to just get through level oorrr 7 hours to finish level and finish all challenges/mission stories/feats , its up to you. So if youre first type and opposite of me, just wait for discount.
+[b][i]Notice: This review is based on the Gold Edition of the game. Some content might differ from my experience to yours if you don't own the same edition.[/i][/b]
+
+An absolutely amazing sequel to 2016's HITMAN. Fans of the series where at one point unsure we'd even see a second season, thank all that is right with the world that we did.
+
+The game features 6 incredibly beautiful and vast landscapes in which 47 can complete his assigned tasks. Similar to the previous title, although I can safely say these levels are much more wide-scale and have a much stronger open world presence.
+
+While giant beautiful maps where to be expected, I found one of them (apologies for forgetting the name) to be very similar to Hitman: Blood Money's A New Life. As pictured below:
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1564131760
+
+This had me overly ecstatic upon starting the mission, IO Interactive really know what their core fan base expect and they deliver every time in my opinion.
+
+There's also new weapons and equipment, I won't go too into it as some of them are overly bizarre but I'm sure Hitman fans will be happy to know, the coveted briefcase has returned and can be used from the very first starting point in the game. This was a big issue within the community concerning 2016's HITMAN and I'm glad to see it's been rectified here. Not to mention, you can go back and enjoy Season 1 via HITMAN 2 with the briefcase!
+
+I've not had one single issue with connectivity, I've seen a few glitchy engine errors which are pretty much unavoidable and nowhere near game breaking. They're actually more humorous than anything.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1564131888
+
+If I have to name one bad thing about this game, which believe me, is a difficult task. It's that you still can't turn off taps that you've turned on! Again, not a huge issue but it's something that always bugged me.
+
+Also, just a word of warning regarding PC specs. I ran this on an i3/960 combo and it struggled greatly. Although now that I've switched to an i5/1080 combo, I've not experienced a single hitch, it runs like a dream.
+
+[u][b]TL;DR[/b][/u]
+A fascinating return for the legend that is Agent 47. One full of beauty, construct and malice. I paid $99.99 for this game and I can safely say after being only 12 hours in. It was well worth the money and I greatly appreciate the early access for Gold Edition purchasers.
+Did you like HITMAN 2016? Then you'll like HITMAN 2. It's basically season 2, just repackaged as a single game because publishers don't like the episodic model. It's more of what you loved about 2016, only improved and expanded in subtle but meaningful ways. The foliage and crowd stealth mechanics, for example, give you more ways to sneak past NPCs and get around without disguises. NPCs can now detect you in mirrors, forcing you to reconsider tactics that would have worked in the previous season. The UI has seen a number of refinements, improving the clarity of your current status and making it more obvious when you're doing (or about to do) something illegal. The briefcase makes a triumphant return and is the most versatile item in the game, providing melee attacks, ranged attacks, distractions and the ability to store any other item in the game. The levels are just as huge and complex as the ones in 2016 and you can easily spend over a dozen hours in each one. They feel very diverse and more consistently interesting as well. Finally, there are way more voice actors this time so NPCs actually sound like they should in each location.
+
+In terms of flaws, I can really only think of a few minor ones. I did encounter some bugs in my 50+ hours, ranging from broken AI scripting to NPCs using the wrong voices. These were pretty rare though and as a whole, the game felt polished. A bigger issue is the apparent lack of Escalation missions at launch. I've scoured the menus and I can't find any at all. Escalations were one of my favorite things about the previous season and I really hope they see a return here. Oh, and if you actually care about the overarching story, you might be disappointed by the lack of a conclusive ending here. It's clearly setting up for season 3 but if HITMAN 2 sells poorly, there's a good chance it will never be resolved. Finally, cutscenes have been pared back and are now closer to motion comics. They aren't as pretty as the cinematics in 2016 but I'm guessing they had to choose between fancy CGI or more voice actors. If so, they made the right choice.
+
+Oh, there's also the Sniper Assassin and competitive multiplayer modes. Sniper Assassin isn't nearly as in-depth as the main game but it's fun and offers a lot of replayability. I haven't played the multiplayer mode yet so I can't speak to its quality. It's all about racing another player to eliminate targets as quickly as possible but I generally like to play stealth games slowly and methodically.
+Great game, as all hitman games are expected to be. However the "FREE" label is very misleading. a 10 GB download to get to play only the introductory/tutorial mission is irritating. If its just a trial, label it as such. Worth the $60 imo.
+I am very happy with what was delivered. Right now there are many bugs (not so many gamebreaking) and a rocky start for the developers but thats what to expect when they just broke off from Square Enix. 
+If you liked season 1 you should definetely get this.
+Although I only have the edition of the game that is limited,I have to say,the developers did a really good job on the graphics,as well as the mechanics of the game.The thing that made me like it even more,is the variety of the ways to assassinate the targets.Sure,you have the usual Subdue option,the ICA Pistol,and the Fiber Wire,but you can kill a guy with a fu@#$%^ ejection seat in a Soviet Military Airplane in Cuba.Now,where else can you do that,except in Hitman 2?
+Even though I only got a taste with the free prologue
+YOU NOMINATED THIS GAME FOR: THE “GAME OF THE YEAR” AWARD
+===================
+https://store.steampowered.com/SteamAwardNominations/?u=76561198128785478&k=1590565019277137056
+https://steamcommunity.com/my/badges/31
+I have played almost 30 hours and only 4/6 maps. If you iked the previous game you are gonna fall in love with this one. The level design is second to none. Would definetly recomend it. Game of the year for me.
+I bought both the GOTY legacy pack and hitman 2 together and so far have played Hawke's Bay: Nightcall (since the game jumped directly to it) and had a blast so far. I'm familiar with hitman (2016) mechanics but never got around to buying it so I'm pretty happy and excited about being able to play 2 games in one go.
+FIX THE BLOODY SAVE/LOAD FREEZES...THE GAME IS UNPLAYABLE...
+
+The game is great, I love it, but why in the world do I have to download Hitman 1 missions and bonus contact for Hitman 2? It takes so much more hard drive space than needed. And why the hell does Hitman 2 have achivements for Hitman 1 missions? I already completed Hitman 1, and got all achivements, I don't want to do it all bloody again!!! Really dumb decissions if you ask me....
+The game is simply amazing. It all started from codename 47 and today HItman 2 has shown us how the game has improved over a decade. The overall game is amazing to play. The stealth required to complete the missions is a fun experience. The missions are really challenging and require a great attention to the details. Graphics and the visual content of the game has been improved. It's fun to play with both Mouse/Keyboard setup as well as with a controller. A must have for gamers oriented towards stealth games.
+I got Gold, so I've been playing since Friday, New Zealand time. The game is as good as the previous HITMAN game, if not better, with mostly massive maps and new toys for 47 to play with. Voice acting has improved considerably, with more voice actors and even accents that better match the locations—so it's not just all American white guys in international cities. If you own the previous game, you can play those old locations within this new one with slight updates to the maps.
+
+If you love the Hitman series, get this game. If you loved HITMAN, get this game. If you love James Bond, get this game. If you love the idea of travelling to exotic locations to kill scumbags, get this game.
+
+Now, if you'll excuse me, I've got to go play more HITMAN 2.
+Hitman No Subtitle™ 2 is the logical successor to 2016’s reboot. It builds upon what worked for the last game (immersive systems, situational humour, Sapienza-style level architectures) and reforms what did not work two years ago (levels too grey and aggressive like Colorado or levels too schematic like Bangkok and Paris). The gameplay additions are limited but well-chosen: suitcase, vegetational concealments, tripwires. It’s what a second season would have been and that’s all I ever asked for.
+
+The five new sandboxes feel more rounded than 2016’s line-up, probably due to the general supervision of Torbjørn Christensen, of Sapienza and Hokkaido fame. The levels are larger and more integrated – granted you sometimes wish for a bicycle or motorbike, as the walking distances can feel a bit tedious. The verticality of Mumbai and Sgail is one solution to this problem and it’s what makes them the best levels of the game.
+
+Then there is ghost mode, which holds so much potential. The chaos and tension created by having to compete in assassinations under a time constraint is unique and makes for a lot of fun. I hope the developers will soon unlock this mode for all levels and expand on the system, as this mode could become a selling point on its own right.
+
+With the predecessor being contained within the second game, new elusive targets and escalations being released weekly, and two expansions incoming, the value of this package is immense. Here is hoping more players will give the game a chance than last time, so that we may see a Hitman 3 eventually.
+Hitman 2016 was the best game in the franchise, and I think Hitman 2 is even better. If you liked the previous game, you will like this one as well
+Pros
+*5 of the new levels are brilliant, and are as good if not better than the best maps of Hitman 2016
+*Regional accents on the new levels, and overall voice acting and writing is great
+*season 1/2016 maps can be played in Hitman 2(for free, if you already own Hitman 2016)
+*better combat ai
+*overarching story is more cohesive than season 1, but still has problems
+*a few new gadgets to unlock and use
+*Ghost mode is a great multiplayer mode, but it is still in beta and is only on Miami for now
+*briefcase makes large weapons useful
+*shotguns(and i think snipers?) can now open doors by shooting at them
+*crowd and foliage hiding
+
+Cons
+*New Zealand seems more like an Absolution map than a Hitman 2016 or 2 map, which would be fine if there weren't only 6 maps total
+*bonus missions and patient zero still have no difficulty option and no extra starting locations
+*no new escalations for the new maps, and theres only 1 or 2 escalations for the legacy maps
+*story cutscenes are like a slideshow of a comic strip, rather than full cgi. I dont think it matters that much since you will only be watching the cutscenes once and the actual maps are very detailed
+*overall a bit buggy, especially on the legacy maps, but if you save frequently it shouldnt be a problem
+*There arent that many new unlocks, as many unlocks are reskinned Hitman 2016 items so that Hitman 2 players could have them
+*questionable balance changes, like the unfriskable pistol having no supressor, only 1 breaching charge, melee attacks seem to be much more silent
+*ghost mode either has connection problems or my opponent leaves, its hard to tell. Also I think it should be first one to 3 or 4 points, not 5
+I already played Hitman 1 and I liked it very much so ofc I also bought Hitman 2.
+Hitman 2 didn´t dissapointed. They kept all good features from Hitman 1 and even included more good features.
+
+I liked the new destinations and I felt like they gave you more possibilities then before.
+Ofc, Paris from Hitman 1 is an outstanding map that is hard to beat, but the rest from Hitman 1 felt sometimes a little bit annoying (Marrakesh for having two targets really far away from each other, Sapienza where you had to detroy the virus every time on professional mode to get the challenges and Colorado with it´s 4 targets).
+
+The new destinations on Hitman 2 are well planned and a great playground for 47. And Miami can easily compete against Paris as first big location.
+
+The only thing that bothered me a little were the cutscenes. After Hitman 2 I really expected real cutscenes and not some still frames. In Max Payne or other games they fit, but here it just gave me the feeling that they didn´t had enough time to make real ones.
+
+I brought the game close after the release and since then I never had any crashes or saving/loading problems.
+Most people complaining are users with an RTX. It´s sad that these people can´t play atm due to crashes and I hope they will fix it for them, but it´s also somehow their fault. Their specs don´t fit into the minimum and maximum requirements. When you buy a game despite that you must be aware that you can face some troubles.
+
+For those who were worried about how Hitman 2016 was run with that awful episodic formula, fear not. Squenix/Edios sold the right's to Hitman back to the original developers and they've taken the game to a new amazing level. Easily one of the best Hitman games yet, Hitman 2 takes place a couple of weeks after Hitman 2016 stops. 
+
+While the plot is a bit contrived and feels like good guys vs bad guys, the locations and ways to kill is where this game really shines. The amount of things to do and learn in this game will keep you going for hundreds of hours, with intricately designed levels that loop back in and connect in ways you never would have imagined. Easily one of the best games released in 2018, and a worthy contender to one of the best Hitman games since Blood Money. Well worth your time to at least try out the game and see if it's your type of game.
+
+ My only complaint is that this entry to the Hitman series really makes me question wtf they are thinking on target design, because all of the targets are sterotypical bad guys and do not make me feel bad at all for killing them. I hope we end up with targets where you hate yourself for killing, I.E. the amusement park mission in Blood Money.
+ Amazing.  Just an amazing game.  Whether you like stealth or just blow shit up, this is THE game.  Ever wanted to throw and explosive rubber duck into a crowd of people while dressed like a clown?  Well now you can.  And having the Legacy pack means it's 2 games in one package.  Best Hitman since Blood Money.  Hands down my favourite game in a long long time.  Highly recommended.
+Very excellent game overall!
+
+The only gripe I have with this game is that the progress from HITMAN 1 is not carried over. I have spent many hours there and now I have to redo it all over again.
+The quintessence of all the best ideas of HITMAN
+(Codename 47, Silent Assassin, Contracts, Blood Money).
+And nothing superfluous.
+
+Квінтесенція усіх найкращих ідей HITMAN
+(Codename 47, Silent Assassin, Contracts, Blood Money).
+І нічого зайвого.
+
+Квинтэссенция всех лучших идей HITMAN
+(Codename 47, Silent Assassin, Contracts, Blood Money).
+И ничего лишнего.
+TL:DR - Wait for a sale, then you can pelt people with Blueberry Muffins.
+
+I recommend waiting for a sale if you already own Hitman 1.
+
+Mostly the same as Hitman 1 with only a few minor improvements. 5 new big levels + 1 Linear tutorial level.
+Bland story but fun missions with engaging lore in each one. Miami is one of the best missions in the franchise, imo.
+
+Keep it up I:O with this "It's not broken doesn't need fixing" gameplay formula!
+
+(And please give us a Freedom Fighters remake)
+Without much else to play right now, I decided to resume my Hitman 2 playthrough. Having completed the first mission, and having found it pleasant enough but not blowing me away when it was first released last year, I thought 'what the hell' and gave Miami a go - and I have to say not only is this game absolutely beautiful and wonderfully optimised, but the sound is extraordinary, and the gameplay the usual Hitman genius.
+
+What I love the most about this game is, as is stated - each mission is designed to be played multiple times - so many different assassination types, many of them utterly hilarious, and the game's sense of honour, honourable dark though it is, seeps through constantly. So many different stories, so much new background you get by doing things a different way, following a different path, following a different story.
+
+The polish and slickness of this game too is outstanding, the presentation some of the best you'll see in a AAA game these days.
+
+And another word on the visuals - they are quite beautiful and up there with the best PC graphics to date - maxed out at 4K with everything on full blast is a visual feast.
+
+The story overall? A bit flimsy - hard to follow and a few too many characters, but these games are about killing, discoveries, challenges and mini story arcs.
+
+And at this it excels tremendously.
+I love thid game.. Remember my childhood when i didnt had any game but a dual corr kaptop and i played hitman2 silentmassasin , bloodmoney.. And completed it 6 times,. Have played every part even absolution .. So excited to play this
+Hitman 2, ahhhh. What can i say Hitman 2 picks right up where Hitman left off, and that's not a bad thing. Its a great thing! Everything you loved (or hated) is here from the 2016 title and then some. The levels in my opinion are structured a bit better and can be a bit more confusing to trench thru, but that also is a good thing. It makes you pay a little more attention to mapping out that special way of killing your target, makes you pay attention to that conversation between 2 npc's to later find out there's another access point to a specific area that you have been blindly passing by unnoticed. And while some of the level's can be simple to understand the majority are peppered with a diverse amount of area's to keep you playing the same map in many different ways. 
+    
+However, and this is my only issue, the cut scenes are boring. While informative, and well done, to the narrative of the plot, they are boring. I wish they would have kept them animated, but either they had a differing design choice or they ran low on time, the scenes are a drag. But that's my personal opinion.
+
+In short if you loved or hated the first one this is more of the same.........and then some more!
+
+Got this on a free trial for 30 days. It was extremely fun, even though the trial only let me play like 4 missions or so. I'm definitely gonna start saving up for this game.
+A great Hitman game (Season 1 and 2). I loved blood money, too.
+
+It's wider and more open than its predecessors, and there are dozens of possibilities to eliminate targets.
+Level design is great, also. Maps offer several paths and ways to kill. Scenarios are beautful and exceptionally detailed.
+Options and challenges makes the difficulty very scalable, so everyone can enjoy the game.
+
+Definitely, a must buy.
+Very fun, but a decent computer is required to run high frames in high intensity environments such as Miami. 25 hours in and have only 100%ed the first two locations in the game, so if stealth games are your jam, you might want to consider this game.
+Masterpiece. Great world, great immersion, okay story, insanely detailed locations, intense stealth. Highly reccomend. Except Colorado. Fuck Colorado. 
+
+9/10
+When I first moved from absolution to this series, I was quite upset, as some actions have had their violence seems toned down etc etc. The story wasn't as good as absolution either, they have moved towards a whole contract feel, but it is still a fantastic game, there are lots of ways to finish a mission and after you are done with everything you are able to just do lots of player made contracts, and trust me they are wayyyyyyyy better than absolution in that sense.
+
+Just saying, 47 knows how to use a suitcase as a weapon better than his iconic silver berettas!
+Big disappointment in the cut scene area as the previous instalment had fully rendered scenes which I looked forward to.  This one does the low budget still image zoom in effect, made me personally disinterested in an otherwise good story (I think this aspect is what makes me feel like it’s more like an expansion then a new instalment).  Feels like allot of the weapons are rehashed from the previous game, with a little pink ‘2’ sticker on them.  If you have the previous instalment none of your achievements will carry over, and as you play the previous one in the Hitman 2 ecosystem you really start to notice the rehashing of weapons as you will have duplicates(But in all honesty I only use fibre wire, baller and lethal syringe anyways).  New levels are well detailed as always, it’s a great game. Also, there is a full price DLC seasons pass, but a lot of free content monthly which I really enjoy like the previous instalment.  It’s a good game and the developers seem to care, I have no complaints about game play.
+This game has a very peculiar sense of humor. I would recommend it to everyone who has a lot of time on their hands and the inclination to find the perfect solution to a puzzle. Graphics are neat. Sound mixing is still quite bad, though. All sounds appear as if they were recorded in some large place with plenty of echo.
+If you own Hitman 2016 then you can download this for free and just use it to play Season 1 missions that are enhanced, are prettiers and better optimization.
+Free Weekend review
+Level of fail: Watts Riots
++Good graphics
++Good story
++Voice cast
++Cutscenes
++Shooting everything in sight
++Stealth
++Changing clothes with all the blood on them
++Stuffing bodies in closets/lockers
+-Story missions on lockdown like a school in Compton
+-Limited escape routes
+-Free Weekend where you can only do the prologue missions.. in other words a fu.cking demo
+-Demo download size
+-Still an overpriced game on sale
+-Black screen with exclusive fullscreen, where you have to manually restart your computer to see anything
+10/10 
+Bought expecting to be some sort of boxing game where I could slap other me, turns out to be a stealth game where not only can I slap men but i can also shoot them among other things.
+I really love the gameplay, I love that there are so many ways to complete the mission, I do not have to do things in only one way, and therefore I can do the same assignment multiple times without it getting boring. I can play the game in my way.
+After playing this game for 100 hours i decided to give my view on it.
+
+I have been a huge Hitman fan ever since Hitman 2: Silent assassin came out in 2002. I was 6 and had no clue what im doing but was still having a blast. I still own first 4 hitman games original cds on playstation 2 (codename 47 on pc). I played every Hitman game to this date and i gotta say I am having a blast with this one. Levels were never this big and beautiful, they never felt this alive. Crowded cities like Miami and Mumbai, dark Colombian rainforests, quite Vermont neighbourhood, every location looks original and very much alive with npcs talking about all kinds of stuff, from football matches to what they had for dinner last night. Every map is really interesting and fun to explore.
+
+Now the real stuff, the targets. Every target has a short bio that you might or might not care about, they all act differently through the level and you can learn a lot more about them by being close to them and listening to what they have to say. The story is pretty meh and confusing but you probably wont be buying this game for the story. 
+
+There are numerous ways to kill your targets, from a simple neck snap or a bullet to the head to killing them in very unique ways like killing them with a train, pushing them inside iron maidens, poisoning them, drowning them, throwing them to the goddamn hippo... the list could go on and on and on. 
+
+If you are a type of person that just wants to run through the game you might want to skip this one as each mission can be completed in 30-40 minutes. The real value is the replayability this game offers. I completed every mission 7-8 times and still dont feel bored and there are still tons of things I gotta do. There is a level up system which gives you new weapons and items as rewards. Other game modes include a pvp mode where you compete with other player in killing your target in the most silent and original way possible, sniper mode which can be played solo or with another player, contracts mode which lets you create and play other people's contracts which offers unlimited replayability. The game is reciving updates regulary which fix bugs and add new content, like new weapons and challenges. There will also be new sniper missions and side missions in the future. 
+
+
+
+superb level design
+play however you want
+very replayable
+if you think the new system is making the game too easy (instinct/hitman vision, etc) just turn it off.
+you can set it to minimal or just turn it off completely.
+
+a perfect sandbox game
+I don't agree to the privacy policy. If you read it carefully then you will notice that this game (plus their IOI website and your IOI account) is also used for targeted ads, tracking cookies, following you on social media and all that stuff. 
+ 
+It is not acceptable paying 60 bucks for a game just to give the permission of being followed and tracked and your data being used (sold) to 3rd parties. This is not about gathering general 'game data', accepting the policy goes beyond that. You give them permission to follow and track you and spam you with ads and if you use an IOI account then they will even use your real name, email, age and gender for targeted ads.
+ 
+If you don't agree to this policy then you can't play online and thus you are locked out of portions of the game and won't receive unlocks/upgrades etc. If you don't agree you will have half a game.
+ 
+For game publishers it is not enough anymore to simply sell a nice game and make profit from it.... they want your data and sell that as well. You can decline it, but then you can not play the full game. I call that extortion.
+ 
+
+Edit: Just to add, the EULA on the store page has no mention of this privacy policy and the restricions in the game it causes when you don't accept that policy. So you first need to buy the game (or DL that 'demo') to be aware and know the existance of the policy you need to agree too in order to play the full game. 
+
+So it goes like this; 'this is our nice product, please buy it. Okay thank you for your purchase! And by the way now that you have bought it, you need to accept this policy (that we didn't mention before) if you want to actually play the full game... '.
+DRM forbids unlocking challenges & acheivements whilst offline, even after reconnecting. Very frustrating on low bandwidth connection. I paid for the game - why are you punishing me!?
+While the privacy policy is a bit crap, what annoys me far more is that, should you choose to decline the privacy policy and use the game offline - which is a valid choice by those who don't wish to agree - many features in the game are severely limited. Item stash locations are limited to none or one, the XP/progression system won't work at all, you can't unlock anything including weapons, and more. I have not played any other HITMAN series games, but a quick Google shows that they've done this in the past and many people hoped they had learned from their mistake.
+
+Well, they haven't. It's disgusting that the game treats you very differently if you're offline, when there's just no good reason. I'm going to assume it's to temp you to go online so they can take that data that the other reviews are talking about, because I just can't see any other good reason. Why punish us for choosing to go offline? Not everyone wants to play online, not everyone can play online all of the time, and not everyone will want to agree to the privacy policy. You shouldn't punish us for that choice by limiting the game. I had hoped that the seperation of IOI and Square Enix could of helped, but nope.
+
+I will never be able to recommend a game that limits offline play in this way. Many titles do not do this at all, certainly not so unfairly. I believe that the choice to not accept the privacy policy and to go offline should be a free choice, and limitations like this shouldn't exist from such a pricey game. I'm going to refund this game and might grab a torrent in pure spite, but I'm certainly not paying for the offline choice to be so rubbish.
+The privacy policy is unacceptable. To play in online mode you have to agree to your personal info being gathered and sold for marketing purposes, and if you refuse the policy you can play only in offline mode where challenges/unlocks and achievements are not available. In my opinion, there is no objective reason to not storing the progression information in offline mode. All they are trying to do it forcing you into giving you the personal information for targeted ads if you want to have full gaming experience.
+
+Filed for a refund.
+I can't support this online only progression Bullshit that you have baked into your game (Again)!   I’m of half of mind to file a request for information just to see what’s so important that we MUST be online so your game can function. 
+I can’t wait for Canada to adopt something similar to GDPR, this will force bonehead companies from collecting information just because they can.
+I’m a fan of the Hitman series but I will not support this type of behaviour.    
+
+For starters - I like playing this game, really, but I can't recommend this product, for various reasons.
+
+First one - privacy policy. Yes, you read it right. I don't accept it, but I have to if I want to play a game I've paid for. That's all I have to say about it.
+
+Second one - multiple DRMs. Ok, I know why there are DRMs etc, but when you have preorder campaign for half a year, then week before release you add 3rd party DRM (Denuvo) it's basically tricking your clients. What's more, this DRM is not only DRM in this game, there are already 2 more, of which one is obvious - steam drm (and everyone agrees with that one by buying games on steam), 2nd one - always online requirement for the game itself. Now this might sound stupid - who plays offline? who has internet issues?? I think everyone has a chance for both. Better - IOI servers have it's maintenances and other issues from time to time, meaning you are forced to play in offline mode (yes, you can play) and offline mode means you can't unlock anything. If you won't be able to play online from beginning, then forget about unlocking better weapons, sniper riffles (there is none in this game unless you unlock it), new starting locations and outfits.
+
+Third one - why it is released as season 2? it is basically map pack (with some story behind it) over season 1 (Hitman™). At the beginning, I thought the reason would be moving from Square Enix to Warner Bros, but now first part is also under Warner Bros so ... just why? To grab more money of course. True, this game received some upgrades over first part, but those are so minor, that if you've played first one and will receive free legacy pack (that's a nice move from IOI) you will basically do exactly the same stuff you did earlier. Changes like people being able to spot you in the mirror do not mean much, really. Far worse is the fact that they can still see you through concrete walls and closed doors (but there are some improvements over first version, now it does not happen as often).
+
+Fourth one - game was advertised as having 6 maps right? Now I wonder, which map is more interesting and longer in terms of content - 1st one of the new (season 2) campaign or tutorial map copied directly (with very minor changes, like adding some grass ...) from season 1. Both can be completed in few minutes, but you have way more to do in original tutorial than this small, quite empty map. To better describe it - you are on the beach with one small house and you will have to kill 1 target in that house, then find your way back to your boat hiding in the grass. In comparison, every of the other 5 maps is really A MAP. As I've said, H2 is a map pack for original Hitman™ (technically it's the other way around, with Legacy pack being map pack for Hitman™ 2, but you get the picture), so when developers advertise this game as containing 6 normal maps, like the first part had, this was basically a lie.
+
+Fifth - nihil novi. There is not much new in this game in terms of unlocking stuff. Many items are just the same items - with Legacy pack (i.e. season 1 content) you basically get two identical Silverballers (but you can use only single one ;p) or lockpicks (don't make this red sticker with number 2 printed fool you). Real new items are e.g. throwable fish ... How Much Is The Fish?
+
+Sixth - cutscenes in between missions (story cutscenes) are simpler, basically motionless, like a painted images, while in first part those were normal movies.
+
+Seventh - elusive targets. That's one of the main complains players had about first Hitman™. Guess what, those are back. Now with real celebrities (like there was nothing better to spend time and money on).
+
+Eighth - ingame issues. No, I am not talking about launch time bugs (like e.g. auto aiming, very useful while playing with gamepad, is missing the target a lot, especially with the ability to auto aim at fire extinguisher - you always aim below it, or bug with instant CTD when I try to play Marakesh escalation to unlock Ghost sniper riffle). Those are here and I hope those will be fixed. What I mean are some stupid additions to the game. First one would be overly talkative Diana. It's a bit disturbing. Second one - during one of your missions you will have to find a target, that is not marked on map, you don't know how he (or maybe she?) looks. You find the photo, then walk the streets to find him. Actually I don't know yet if it is possible to find the target that way, as I've found other way to meet him. Either way, the first solution was long and boring as each time you verify that marked person is not your target, new possible targets show on your map.
+
+Ninth - difficulty levels. "Original" game had 2 difficulty levels, standard and professional. The other one was really tough as e.g. you couldn't hold items that did not match your disguise - soldier couldn't hold silenced weapon, sniper riffle or ... screwdriver). Now you can perfectly hold nearly any item on maximum difficulty level. Current professional mode (which is middle one) is basically the same as previous standard one with the addition of actually working security cameras. Btw. in neither difficulty destroying a camera would not interest anyone, while in first part you can be sure that there will be a guard coming to check what is going on. So basically maximum difficulty (higher than professional) is currently far easier than original professional mode.
+
+Last one is about incoming content. There should be at least 2 expansions. 1st one will contain single map (that's info written on graphic available from day one of preorder campaign). There is high chance that 2nd one will contain single map as well.
+Now compare, base game price - 60 USD / EUR to the price of Expansion Pass, that will contain both expansions (and only those two if there will be more) - 40 USD / EUR. We don't know about the contents yet, so it's basically another preorder, but you have to pay 2/3 the price of original game to receive probably only 1/3 of it's content. What's worse, if you've learned your lesson with first Hitman™, then you know there is high chance for those new maps to be just skins over original maps and not actual new maps.
+
+TL;DR
+Long story short, enjoyable game for newcomers. It's still enjoyable for returning players, but overall experience is that you play the same game as previously, yet not really any better and for very high price.
+
+Edit:
+Ah, I've forgotten about one thing. This game has only single map for sniper assassin mode. This thing was available early as preorder bonus. I've completed it (did not upgrade weapon to max, because I've expected all progress to be removed) and now I have to redo it all. But what I wonder is whether expansions will actually have any standard Hitman maps (I wrote about that above already) or only sniper assassin mode maps. Seeing as there is only single one, more are expected, but I REALLY HOPE there will be new maps or even reskins awailable in those expansions and not only SA mode maps.
+I am an old fan of this series of games, I own them all and have enjoyed them all - it's a good recipe, but a one item menu is leaving me hungry for what I paid for which was something improved upon and wider reaching. Having finished the campaign, along with the revamped previous content, I need to thumbs down this game. It just does not deliver in so many ways and feels like a DLC addition at best. We learn nothing really new on 47 as the story meanders through a muck of secret societies that even a conspiracy nut would snore through. The game feels older than 47 and the interface has too many issues to have been released as is. Sniper mode is a joke with a buggy interface that showcases just how rushed this game was to meet release dates. The contract mode is tacked on and adds nothing new, I haven't tried the Ghost mode, but am not expecting much given the current state of this game. Rather than put my feelings into paragraphs, I am going to list my pros and cons below.
+
+PROS
+
+- The graphics are defintinely improved with some impressive and well though out locales, but its nothing you wouldn't expect in 2018. There were games made a decade ago which look better, but its nothing that takes away from the game ultimately.
+
+- Its Hitman, same old game with few new angles, but its a good recipe so why mess with it? See below...
+
+- The addition of Enforcers who will recognize you no matter what was inventive and needed as the game is far too easy.
+
+- There is a consistent sense of dark humor to the game that just plain works without interfering with the seriousness 47 deals in.
+
+- The Mumbai map is superbly done and probably my favorite mission map to date.
+
+- Some of the kill events are hysterical and worth playing through missions multiple times to get that exact timing.
+
+
+CONS
+
+- The game relies on cut scenes and cinematics to tell the story of 47 in further detail, but I honestly cannot remember a worse story line. The cut scenes are so poorly done you lose interest in the supposed reveals about 47's past and you need to go through two every time you complete a mission. The cinematics are like anime stills with some moving parts like rain in the background, but it feels more like developer laziness than an artistic choice and they break apart the already loose tale told here.
+
+- With only six playable campaign missions the game lacks content to say the least, maps are reused in the other modes which would have been fine if there were more.
+
+- You cannot load a save game without beginning a mission from the start if you are opening the game mid mission. To quit you need to go into the menu and go to options and there is no map key, so many clicks to do anything in the menu leaves you sighing every time you hit F1.
+
+- Most maps have three targets which is fine, but the story's manner of trying to make sense of that is clumsy and was clearly done to make the game longer, with only six maps, what else could they do?
+
+- The inventory interface is just plain garbage, with a rotary interface getting to anything quickly is encumbered by the mostly useless things you can actually interact with in game. The map interface is garbage as well, marking points does not work and objectives don't register sometimes.
+
+- The game suggests you play the original missions and then directs you to buy that from the Steam store, for the price, this should have been included. Without that content you will progress through character levels very slowly and be done with the campaign in less than twelve hours.
+
+- Levelling offers more places to drop useless gear, more uselss gear choices and starting points so don't worry too much about it as the game is already insanely easy even with every help option turned off.
+
+- Agent 47's controls feel unwieldy and he moves more like a geriatric than the world's most feared assasin. Climbing in particular is done very poorly. When running full speed he is barely at a jog and when walking slowly he will still overcome NPCs walking, making walking slowly useless.
+
+- The equipment you are offered is sparse, with few weapons and reskins that don't change anything other than cosmetics, gadgets are also done poorly and are rarely used. Your default always includes coins and when anything can be thrown as a distraction - this makes zero sense.
+
+- AI is ridiculous, you can drop someone two seconds after they were talking with someone, put their disguise on and go back and not be noticed most of the time, apparanlty 47's voice isn't somethinbg anyone would notice...
+
+- The penalty for taking out non targets is steep enough to make 1/4 of the equipment on offer pretty much useless. There are no maps where it is guns free nor any mission where you can snipe until you reach a level where you have already played all the maps twice or more.
+
+- The voice acting is fine for the most part, but 47 sounds off to me, the primary "bad guy" sounds ridiculous and the actor goes off accent sometimes which is very jarring to the story.
+
+- 47 does not look right to me in-game, but its a small miss, the bigger miss is he looks different in the cut scenes and at mission end screens. Three 47s for the price of one, at least they didn't skimp on that.
+
+- Bugs: 1) certain disguises disappear when changed out of over time, 2) In the very first mission the target will clip into the bed they sleep in when killed making it impossible to hide the body, 3) Certain conversations will overlap and sometimes story missions will not prompt even after listening to the whole dialogue, 4) Apples? There are apples in the game which glow - indicating you can pick them up - you cannot, 5) Map bugs sometimes on objectives and does not show them. 6) Certain events that surround targets will sometimes bug out like a phone call that will make them move on a different path having no audio and the target will stay still indefinitely. 5) If you drop your briefcase to do something like knock some fool out it may disappear and no not because someone picked it up.
+
+Ultimately the game is plagued with poor design choices and an interface that hinders enjoyment and certainly destroys any immersion, hoever, it was enjoyable to see 47 back at what he does. If you are a huge fan of the series and the above does not put you off go for it, otheriwse revisit the older games.
+
+
+Game depends too much on online connection.
+
+This game is fun when it works. But it depends on a a CONTINUOUS connection online to:
+-- enable saves
+-- enable loading
+-- enable challenges and points that give you access to new areas of the game and to new equipment.
+
+Such dependence could be fine if the connections to servers work - but as SEVERAL reviewers have reported, and as the technical support forum shows through repeated entries, the connections DO NOT WORK. So the game during certain periods -- heavy server loads? -- WORKS VERY POORLY. Having paid an enormous sum of money for the game, I feel cheated by having to wait around, restart the game several times in a session, and having my game interrupted because it needs to notify me that it has disconnected. So while I have enjoyed the game during periods when it is able to stay online, I cannot recommend the game in its current form.
+
+Just in case you think the problem is on my end, it is not -- my connection and computer are fine.
+I actually like the game but the online DRM is just unbearble, even with a gigabit internet connection and recommended hardware I still get disconnected basically once or twice an hour and it can rarely reconnect right away. 
+That wouldn't be a problem if we still progressed the same offline as online but off course it's not the case. When you finish a mission disconected you don't get the full experience. Punishing people who bought the game is not the right way to fight piracy. You are literaly pushing people to crack your games in order to get a decent experience... (also insanely long loading times quite often including in MENUS like planning a mission but i suspect the DRM is the main culprit for that) I can hardly recommend the game even though i love it
+This game is good, but not great, ...yet.
+
+I'm just genuinely disappointed, I excepted way more than what we've got on launch. Right now it just feels like 60€/80€/90€  Season 2 for HITMAN 2016, and for it's price it isn't worth it. Hope that they are going to add more features in the future from the classic games like Blood Money or Silent Assassin to make it a more rich game, FOR FREE!
+
+Also it once again has got DENUVO always online DRM, which is a major problem in itself.
+
+So yeah, not recommend to buy right now at launch.
+Don't get me wrong, i love this game, i really do, the reason im giving it a no, however, is due to the fact in order for any progress to save you must be connected online, so while *technically* it's not always online, it is practically
+that by itself is not an issue however, another issue is at seemingly random times you end up losing connection to the hitman 2 servers, making the game essentially impossible to play.
+it's a shame really because otherwise this game is an absolute masterpiece
+Even without the "evil publisher", the (singleplayer) game has still no proper offline mode.  
+That bothered me a lot more than the episodes and nothing has changed..
+
+The shameless ripoff of selling extra packs that are not on the season pass, and then extra packs that are not in the extra packs.... Which are just slightly modified old maps....
+ is discussed elsewhere. 
+
+ Shows you, it doesn't need a publisher to be greedy and exploitive. In fact the biggest exploit came to "celebrate" their independence.
+Don't buy anything for Hitman or Hitman 2 with less then 50%off sale. And don't expect anything that's called "complete" or "goty" to give you the complete game. Or that a season pass contains all DLC.   In short: do NOT trust these guys.
+
+The actual game is quite good, btw.
+
+Also while Hitman1 is accesible, with some improvements, in Hitman2, progress from Hitman 1 is completely reset. Since this whole progress and unlock system is the sole justification for the (efffectively) forced online mode, that makes it even more annoying and pointless.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1652312321
+This is truly a 10/10 game. There is so much to do and I will be playing this game for awhile hoping to complete it 100%. The level design is unlike any other game. There is this new sniper mode that i thought was disappointing.
+
+Why do I not recommend this game? Because you still have to be online to enjoy the full game and that really sucks.
+Potentially Great Game, but the always online DRM is trash, and cannot be excused. Locking any unlocks behind being connected to their server and attires behind timed online content is infuriating, and demotivates me from even playing. Oh yeah, and your unlocks from Hitman 2016 ARE NOT transferred to Hitman 2 (the new one, not Silent Assassin), so i need to go through all their hoops AGAIN just to unlock things i already did. It's terribly frustrating and takes what easily could've been the best in the series and makes me just not care anymore.
+
+(Literally copied my Hitman 1 review since every single problem i have still applies)
+My singleplayer game does not function properly because of server maintenance. I love the game when it works but this kind of practice deserves a thumbs down.
+First let me say, the game is good. Every good thing you've heard about the gameplay is probably true.
+
+Now that that's out of the way, everything about this game on a technical and business-model level straight up sucks. Namely: The online only, the ridiculously priced season pass, and the performance.
+
+If you can get past:
+-Struggling to keep 60 fps on mid settings despite owning a GTX 1080
+-Not being able to unlock anything in a single player game because you're having difficulties connecting to the internet
+-Crashes and bugs that are seemingly due to the forced internet connectivity
+
+Then the gameplay might be worth it. Otherwise, like me, you might regret spending so much money on a great game wrapped up in a frustratingly terrible product.
+Gameplay seems a bit more fluid than previous Hitman but it is the same game with different locations..
+I do not like the main menu scrolling design, bad UI/UX.
+The first 3 levels are okay, totally. The last 3 levels are a scam. The "openworld" does not matter if you are so restricted in doing stuff. The last level is the most liniar thing in disguise.
+Also lots of bugs with the controls, so many times they just don't work when you need them.
+In it's present stage, a pile of garbage, regret buying it after the success of the first season, Hitman 2 is a technically un-polished and flawed game that hides behind clever marketing, presentation, and amazing level/world design.
+
+- Broken game with constant CTD's on new generation RTX cards with game being unplayable on certain levels without saving every 2 minutes.
+
+- Although the CTD issue is widespread, its been 3 months and still no fix let alone clear acknowledgment of the issue, most posts on Steam, Reddit and IOI forums are being largely ignored by developer.
+
+- lazy development with multiple assets being re-used from previous game including ultra-repetitive dialog and voice samples from previous game that the AU used, the Mumbai level being the only exception.
+
+- 5 or 5 and a 1/4 missions not 6, the extra mission is a half baked small sized map with not much to do, or mastery to achieve, the same size lets say the air force base level in the previous Hitman training section of games. (prologue) An example of the clever marketing that squeezes every little thing to make it seem more than it actually is.
+
+- No sign of promised DLC levels, latest announcement indicates only one of the two already paid for levels for gold users coming out in 2019, no roadmap either.
+
+- On the plus side IOI have presented a masterclass in marketing, spending most of their resources on very high end videos and announcements that give the illusion of new updates & content being more than they actually are. Clever word-play, posh looking video productions/cinematics, artwork and aesthetics hide the fact that the updates bring very little new additions, a temporary target, a cosmetically different weapon that’s already in the game etc
+
+It now makes sense why the game requires an internet connection to play to get any progress & unlocks. If this system wasn’t in place there would be little reason to buy this once the DRM was broken, hopefully someone one day finds a way to break the online only progression system to make it offline, and stick it to these guys for the shortcuts & shortcomings they have created.
+Downloaded because they were having a special where you gain access to the first mission. Really liked what I played but the game crashed to desktop constantly. Can't recommend because of this.
+I love hitman, I love this game. 
+
+But there's so much bulshit in it I can't recomend it.
+
+DRM, it's in there. It's denuvo. It's broke. 
+
+It demands the right to take your information, such as your email and you activity and sell it to marketers. FUCK THAT.
+
+Pre-order bonuses.
+
+Timed one shot unlocks. (i.e. elivusive targets)
+
+Outfits bound to maps purely so they can be held back for ET rewards
+
+You can only progress and unlock items with an online connection.
+This game is not playable with RTX cards. I have upgraded my system and now I'm just getting CTDs all the time. Really cool on Master Mode with just one save slot.
+I enjoyed the game for the 2 hours I was able to play. Non-stop crashing with no error messages, straight to Desktop. I've tried many fixes and had no luck.
+
+
+IF YOU OWN AN RTX CARD YOU SHOULD NOT BUY THIS GAME BECAUSE IT WILL CONSTANTLY CRASH TO DESKTOP. 
+
+I don't usually write negative reviews. This game probably has a lot of positive qualities, but RTX graphics card owners and some 10 series owners cannot experience them because the game constantly crashes to desktop. IOI has acknowledged the issue for months, but there has been no fix despite multiple nVidia driver updates. This is absolutely shameful and the game should not have been released in this state. Because I did not experience the issue during the tutorial, I went past the refund window. If this issue is ever fixed, I will update the review, but otherwise IOI took my money for a nonfunctional product that has not been fixed for months after the release date.
+
+I don't think all the Denuvo/online-only whiners are all that helpful as reviewers because it just spams up the page.
+Was thinking about getting the first game aswell, to play the "remastered" version in the sequel. But now I'm getting random crashes every 2-10 minutes without any reason for it. Turns out many players have got the same problem and most can't do shit about it. 
+
+Liked this game so far, eventhough it gets repetative pretty fast, but you should know that anyway when buying this game, so that's ok. The crashes on the other hand have made this game unplayable for me, and a lot of other people, so I'll have to give it a thumbs down, since reports on that have been piling since october last year and nothing seems to have changed regarding that matter. 
+
+Too bad, I really enjoyed this game the last couple days...
+There just isn't enough gameplay there, you can play for about 8 hours and finishing the game, I got frequent bugs and game crashes. I know you can do each mission in about 15 different ways but it's not good enough just to make 5 missions that you can do in a few different ways for that much money.
+It has been stated in previous recent comments that, for RTX owners at least, the game constantly crashes to desktop. I've played the previous Hitman on PS4 and loved it. Finally got into pc gaming and saw how well received Hitman 2 was so figured I'd try it out. It's been two days and I haven't passed the opening mission because I can't play for more than 5 minutes without it crashing. IOI please fix this as it seems from comments that this has been going on for far too long. CAN'T WAIT TO ACTUALLY PLAY IT LOOKS AWESOME!!!!!
+This is by far the dumbest game i have ever played. Sorry but what is this sh!tshow?
+The enemies knowing everthing, they are seeing everything (from a huge distance and through walls) and they are hearing everything (subduing an enemy and an other enforcers hears this from a distance off 200 yards). It gets very frustrating to get the Silent Assassin, Suit Only challange on Master because it makes 0 sense! Everytime when you are doing your illegal stuff an enemy pops out off nowhere and spots you, it seems that the game is teleporting the enforcer instantly to your location. Raging in FiFA and CoD is nothing compared to this game.
+The game has many bugs, the most annoying one is that your save game gets corrupted when you are loading a savegame. It bricks your Silent Assassin rating and you are not achieving the challange even though you did a perfect run. The problem is that the game takes your mistake (getting spotted) over to your savegame which you are loading.
+Another very annoying point is, when you try to subdue an enemy from behind you start a fist fight unintentionally which is also game breaking. How in the hell can they put these both actions on one button? This game is sooooo stupid! You need to get extreme close to the enemy to subdue him, they shortened the distance to perform this action compared to the older Hitman games. The problem is when you touch the enemy he will detect you. In other words the controls are very clunky and inaccurate.
+There is 0 communication between the ignorant developers and the community. They are ignoring everthing from suggestions to bug reports.
+Performance is also very poor. Most of the time the game runs with 40-50 FPS at 1440P on a 1080TI and R7 1700
+I'm honest, this game is way to overrated. It deserves a rating between 50%-60% not more!
+
+I will update this review later on
+This is a good quality game, but theres only a few missions, so for a $60 dollar price tag it does not really provide a 60 hours of game play. As far as stealth gameplay it is the best. But as far as content there is not enough. There like 6 or 7 missions. Some missions are more challenging than others. Honestly i would wait for it go on sale or you can get it on G2A for about $20
+Faulting application name: hitman2.exe, version: 2.13.0.0, time stamp: 0x5c49a4cb
+Faulting module name: hitman2.exe, version: 2.13.0.0, time stamp: 0x5c49a4cb
+Exception code: 0x80000003
+Fault offset: 0x0000000001055e24
+Faulting process id: 0x750
+Faulting application start time: 0x01d4c1284797f8b0
+Faulting application path: D:\Program Files (x86)\Steam\steamapps\common\HITMAN2\retail\hitman2.exe
+Faulting module path: D:\Program Files (x86)\Steam\steamapps\common\HITMAN2\retail\hitman2.exe
+Report Id: 63359e56-5ddc-4837-931e-53d80a4eb670
+Faulting package full name: 
+Faulting package-relative application ID: 
+
+If You Run Into This Bug, You Can Just Forget About Playing This Game Ever.  Black Screened, Only way out is to hard Shutdown and restart. I'm talking every 15 minutes or so. ran into this bug Days ago and apparently its been a problem in the last November. Some people even say it dates back to Hitman 1 a year ago. Don't know for sure, but all i know is, if you get this Bug your Hitman playing days are over. You've been warned, because this is unacceptable.
+In just a few moments on PC the keyboard functions are delayed quite a bit and I had 2 disconnects from the server. Not sure if that is a ongoing issue but it was enough to have me stop playing.
+I had too many crashes to desktop to recommend it at this state. Sometimes I was able to play for 2 hours straight, other times i couldn't even play for 2-3 seconds. The problem persists since a month or so and it is acknowledged by the developers, so maybe it get's fixed soon. Nevertherless it was really annoying playing it in this state and that's a shame because this game really is great... In the end i managed to pull through the game by playing in windowed mode with minimal CTDs. so if you are struggling topo, maybe try this, but it could just be coincidental
+Hitman 2 is a very lackluster title.
+
+The core mission set for this game is 6 missions + time based exclusive missions released every month. 
+It is expected that after you finish the very short campaign that you keep replaying the same missions over and over to explore other ways to complete these missions. The cover for the lackluster story and missions is that the levels are ment to be a sandbox for the player to decide how they wish to proceed with a mission. Although I have enjoyed replaying the missions, the campaign and its story are extremely lacking for a $84 AUD game (base price without dlcs or special editions). It is like having a bowl of ice cream without any toppings and its just one scoop. Its good but it really is missing a large amount of content that can be only supplemented though spending more money on dlcs and upgrades. 
+The game hints you into buying additional campaign missions from the previous episodic hitman release a few years ago and the special edition pre-order mission offered for that game as patient zero. It has a lot to be desired. 
+
+If you're interested in playing this game, get it while its on special but be warned that you'll go right though the campaign quick so you'll probs want all the content in a special edition in about a year. We'll see if it improves but atm its only worth the buy if you've got money to waste. 
+
+Suggest buying Hitman Absolution instead if you want a full proper game.
+It worked fine and I was having a blast. in fact, it is precisely because it is such a good game that I am giving it a negative review. I started to get the regular “0x8000000_” crashes that were already affecting a lot of people after I patched the game in January. Which make the game entirely unplayable.
+
+They have known about this problem for months and are still claiming it is something that Nvidia needs to help them solve. While Nvidia have said they have proven it occurs on non-Nvidia cards. In a nutshell, this is a fault that is never going to be fixed.
+for some reason this game likes to crash my computer, I'm not sure what could cause it, But it only seems to happen during a new level load, It will completely freeze up the system and I'll have to hard restart, Its not a bad game, Beautiful, Mechanics are great, Hell for all I know it could even be something in my system that's failing. However this is unlikely due to I never have issues like this. 
+
+As a huge fan of the Hitman series, especially HITMAN 2016 I was looking forward to the sequel/expansion. I knew it was simply going to be more levels and some additional features under the guise of a new game but I didn't care. Now that I have the game I'm shocked at the bare bones 'new' content and how it was implemented. 
+
+No saves or unlocks were carried over from HITMAN 2016 to HITMAN 2 which, although annoying, gave me reason to replay the older levels. This wouldn't have been an issue if it wasn't for the number of game breaking bugs and annoyances. It was frustrating to the point of rage quit when element that worked (and indeed still work )in HITMAN 2016 failed in bizarre manners in the sequel.
+
+This would have been okay if the new content made up for it but it sadly misses the mark. The new levels are massive to the point of being annoying to replay. This inconvenience is exacerbated when forced to grind challenges to unlock items and basic unlocks that I started with in HITMAN 2016 and/or expected to be already in my arsenal.
+
+The final straw was when the latest elusive target, which is a great feature of the game, was not only set on a level that I have been playing since 2016 but was an exact copy of a target I had already completed. This was made worse when after the target spotted me the game bugged out, alerting all guards to my presence, thus allowing me to get gunned down. '
+
+I'm annoyed at repeated content because it is broken, I'm annoyed at the limited gameplay styles, especially considering they didn't bother to port all content from HITMAN 2016 and I'm extremely annoyed at the laziness. 
+
+If you loved HITMAN 2016 and played a large amount of content avoid this lazy expansion pack sequel. Not worth the money and robbed me of the love I had for the previous game.
+
+Avoid or wait until its on sale in 2020 and all bugs have been finally patched....
+I think the game looks great but I can't finish the first mission because the game crashes about 7 to 10 mins into it. I have an i7 3770, GTX 1080 FTW2, and 16 GB ram. I have no problem with any other game I play Hitman Absolution, BFV, Starwars Battlefront 1 & 2, Anthem, Rise of the Tomb Raider ect..... Just this game. Very disappointed in this Hitman game because of the constant crashing!!!! :(
+This game crashes (constant) on an os that has as good as no crashes on plenty other games.
+The forums are full of users complaining / analysing these crashes and the problem has been consistent from the release till the current.
+
+Apart from that this would have been a very good game, typical hitman universe, only newer.
+But these crashes make it un-play-able. 
+
+Typically they will start to occur once you are a good hour perhaps a few hours underway in a level, and keep going from that point. Frustrating and non rewarding.
+
+Unless they fix this for the big share of players that are being bugged by these.. Bugs. 
+Well until then I simply seize to play this ****.
+
+Big thumbs down for IO. Release a game once its ready. You are now still this many months after release trying to get it ready. The rest are just excuses.
+If you own Hitman 1...prepare for another Grind, Best Option...Keep Yah Money!
+
+A Complete Fresh Start...Forced upon You
+Hitman 1 has a ton of useful items compared to number 2...Therefore You Needa play through HItman 1 Again (Not Great when Some People spend over 100+ Hours on the first one)
+No Content Carries Over
+No Percentage Carries Over
+Everything locked
+
+Multiple Games Read/Recover Saves from Previous Instalments...But IOI does not!
+
+Furthermore for Achievement Hunters
+
+52 Duplicate Achievements from Base Levels
+17 Duplicate Achievements from Prologue
+49 New Achievements - 7 in Each Location
+
+(all 69 Achievements Previously, Return...Locked)
+
+P.S. A Completionist hell
+I'm a long time fan of the series, been playing since the second. But as long as they choose to only add temporary content that they'll then take away. Or the fact that combat is worser and more punished than any past Hitman game because "It's a stealth game". I can't recommend it.
+This is an extremely disappointing game. 
+
+Excluding the piece meal nature of the game and the way it presents you with game modes, options, and missions in the main menu that you then find out are all DLC (I just love paying money for an advertisement) it is simply frustrating. 
+
+This is not because the basic game isn't enjoyable - it absolutely is... when you can access it. 
+
+Please note the DRM warning on the side - I wish I had. This game is all the fun of a Ubisoft Montréal game that I really WANT to like, but simply can't because currently I can't connect to their servers (diagnostics say this issue isn't on my end).  It's true I could play in offline mode, and at first I didn't care (who cares about achievements) ...until I realized that about 2/3 of the equipment and weapons are locked behind these achievements. Such fun. 
+
+In short - this game has some great game play and very enjoyable moments, but the campaign is too short, and the built-in restrictions make it range somewhere from unenjoyable to stressful.
+
+Buy it if you like... but I'll go back to my indie games if this is what big devs are putting out. 
+
+The first Hitman was a hit, this second one is just a cash cow, slowed down and just dumb. Why buy stuff and get to play just a one time event??!!! Not fair
+A decent game marred by corporate policies. They want permission to spy on you. If you refuse, you get to play "offline", which I throw in quotes only because of the absurdity of making that distinct in a series that from it's inception is a single player non-web game. There is absolutely no need of web connectivity save that it has been forced in for the purpose of spying on users.
+
+The immediately observable consequence of refusing to be spied on is that you will have fewer options in gameplay. Your starting gear will be restricted. Your starting locations will be restricted. The game will be needlessly altered to give the sense of a hobbling of the core experience, to coerce you into agreeing to let WB activate their spyware.
+
+Fortunately they offer a freeware demo version that makes this reprehensible behavior clear.
+
+Do not buy. Reject their play. Stop submitting to invasive practices.
+First off, let me say that this game is very, very good. If you can avoid the crashes that seem to happen with Nvidia cards, mainly RTX but also others then I'm sure you will really enjoy it.
+Sadly, I cannot play for more than a few minutes before CTD and have done every bit of troubleshooting to no avail.
+For context, every other game I have runs without issue on a new PC I have just buit with RTX 2080, I7-8700K, 32gb ram etc.
+If you take a chance on it I hope it works for you; and i think you'll really enjoy this game.
+Would really like and hope I can change this review to a positive one if the crash issues are ever resolved.
+(Also, crashes still present as off 26/02/2019 with today's patch and latest Nvidia drivers).
+IOI Interactive's 2016 Hitman game was  very good, so I was excited for the sequel to come out to continue the story, and just more Hitman. I understand the troubles IOI Interactive have had dealing with switching publishers, but the release of Hitman 2 is an utter shame. I fanboys will say to give them a pass because they were short on money, and if Hitman 2 didn't sell well, then they'd have to close the studios. There are some great things about Hitman 2, but the down right laziness from the developers is astonishing. 
+
+I understand they don't have the money, or the fancy publisher to get the nice visual cut scenes, I can live without them, but they advertised "new" guns, when all they did was slap a "2" on the gun an call it "new", when its the same model from the previous game. Sure, you could over look that, and look how the game plays overall, it plays decently, when it works, but they constantly update the game and frequent crashes are the norm, just get the discussion pages. 
+
+Hitman 2 was nothing but a cash grab for IOI interactive, so they can open another studio to make more games, instead of focusing in on the current one they made. If you enjoyed the previous installment, then you will enjoy this one as well, but I would not recommend buying this game at full price, there just isn't enough content to deem that reasonable. 
+
+If you're new to the Hitman franchise and want to get into the game, wait for a sale, or find it cheaper else where, if you aren't planning to get mastery level 20 on each map, then there isn't much to do. For me, this personally wasn't an issue, but a lot of players of the game are unhappy that all there progress in the previous game did not carry over to the sequel. I'm not sure why they couldn't carry the progress over, but the fanboys will give a lot of excuses for this developer. 
+
+
+
+
+
+
+Its Fun when it works. It crashes ALL THE TIME. ive only played miami i cant play any other level without it crashing. 2700x 2070 fresh driver install no overclock. i would not recomend buying this game at this point.
+edit: i found the problem !!
+The game is conflicting with Razor SDK.. on the forum, you will see other people had the issue
+Once i uninstalled Razor SDK... everything now works (launcher + game loads)
+
+so much for the Free Weekend. The Launcher crashes when clicking options, and when i try to run the game, get a black screen, then return to desktop. Rebooted the computer. After some research, it seems i have to roll back to an earlier nvidia driver. Not really prepared to do that
+Disjointed, incoherent and without a real story, this game is a series to totally unrelated missions, linked only by an uninteresting video, which simply prolongues the false pretense that this game is about something for far too long. That would be acceptable, if it wasn't for the pretentious and god-awful presentation and the dlcs.
+
+Oh, the dlcs. This game is an absolute mess of dlcs, which apparently have no rhyme or reason to them. It's a minigame just figuring out what's a prerequisite for what, which thing goes with which other thing and what you need to unlock something else. Titles of the dlcs are also complete and utter nonsense.
+
+In summary, I really reccomend this game to anyone who loves frustration and disappointment.
+I have played and been a great fan of this series since the very first Hitman game. Unfortunately, this one fell well short of my expectations-- I played through the tutorial and the gamespace was so small that flanking patrols was impossible-- the screen became incredibly blurry as UI elements told me I was approaching the boundary of the world. Everything is incredibly simplified and made casual.
+
+Once I did the tutorial, it was on to Miami. I had a few unsuccessful incursions before I was able to identify what was so bothersome about this title. Graphically, framerate issues forced my robust console to 2K resolution. Even more disconcerting, PEOPLE IN CROWDS, one model in particular, would FLICK into existence from empty space if I turned around too quickly. It utterly broke immersion and seems to be an improperly-implemented character rendering optimization. Combat seems flat and lackluster, particularly in sound design.
+
+I got a refund promptly. I hope this title fixes its issues over time so that I can properly review it.
+Progress from HITMAN 1 does not carry over to HITMAN 2, all your mission-mastery and weapon unlocks are gone.
+
+Wouldn't have bought it if I knew that. What a stupid design choice in an otherwise great game. Sorry, but I have to dislike because I lost 80 hours of progress.
+Wanted this for a while. Got the silver pack yesterday. Turns out all the DLC can only be played while online. Problem is the game never connects. Just submitted a refund. With the free weekend I played 3 hours so I'm a bit worried.
+
+Bottom Line: DO NOT GET THIS GAME. From reading on line, when you do get connected the game is so glitchy and crashes a ton. Not worth your time or money.
+It baffles me why the developers would spend so much time and money getting the graphics this great looking, spend all that time on the immense detail, the buildings, the people, the cars, the voices, the sounds and they don't have something as simple as a 1st person view for the player. It is so so annoying to constantly play this in 3rd person, it totally destroys the immersion for me, instead of feeling like the lead character I feel instead like I am a side kick following this bald guy around. If I knew that I would have never have bought it. One of the great things about the old Hitman games is you could go in 1st person and be unable to see around corners and as in reality rely on footsteps and other sounds. This game though is ridiculous, not only can you see around corners with the "magically floating camera" you also inexplicably have X-ray vision.
+i won't buy this until it's $25 or less 6 missions is sad in my opinion. Blood money literally had 12. So sure we have some nicer graphics and things are a lot smoother. But i find it unacceptable when a game made 13 years ago has more content. Also this was a huge F U to whoever bought the first newer hitman because for only 20 bucks you can have that game in this one. Which is still being sold for $60
+Why cant I buy the new maps? This is complete bull 39.99 for like 6 new maps and it says that I need to purchase something else in order to buy the new content?
+They keep changing package IDs = losing legacy content
+The campaign is very short you can beat this game in <2hours
+The cut-scenes are mostly static images...
+The ai is brain dead
+The graphics are okay, but not much of an improvement over H1, and bad compared to most AAA TPS/FPS
+
+Good game; played the first 2 levels without a hitch. Then starting on the third, I get constant crashes to desktop. Apparently, this issue has been raised months ago and still hasn't been fixed. Would I recommend the game if it actually ran as it should? Definitely. Given the current state and lack of any real solution in the near future, I would definitely skip this title until they fix the issues.
+I own every single hitman game. This one was not that great and kinda short. I will go through it again to discover new things but I'm a bit disappointed. I'm giving it a thumbs down at it's current price, would be worth it once it has been out a while and the price comes down. 
+
+i cant recommend this game because i have only been able to play a very small portion of the game.. it crash my computer to where i have to hard boot every time i try to play i can maybe play for 30min.. i have tried everything and nothing has worked 
+my sysytem
+I7 7700k
+RTX 2070
+16gb ram
+wow that was so shitty alot shorter than the last game, the cut scenes were just pictures with audio, unoptimized gameplay and you have to end it with episode 3 coming soon bee sure you waste another $60
+The game is fun... when it works.  Unfortunately it seems that the game sees fit to crash a few seconds to a few minutes after beginning any random mission. It's almost like the game doesn't want to be played. This issue has been ongoing for quite some time and has as of yet  to see a resolution. There has been very little in the way of communication from the developers to the players as to how close the devs are to a solution to this problem. A game is only as fun as it is able to be played. Not to mention I am a bit disheartened to see that the cutscenes for the second iteration of the game have received a hefty downgrade (less a cutscene than a slideshow). it gets the point across in terms of story but it makes me question the financial management of the dev team as well as the planning. Seeing the sheer inoperability of this game makes me question whether I will even consider buying a game from this publisher in the future. In short: stay away from this title unless you are willing to take a full priced gamble on whether or not the title you download will even work.

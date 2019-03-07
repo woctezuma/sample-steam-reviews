@@ -1,0 +1,1693 @@
+I'm writing this review to hopefully contribute in bringing For Honor's reviews out of Mixed. I'm here to tell you things you could find with a little bit of research, or by looking at just about any other review here.
+
+For Honor's launch was a mess. It wasn't good. But, since that launch in 2017, the game has been undergoing constant work, reforging, tweaking, and improvement. 
+
+P2P? Gone, replaced by Dedicated Servers.
+Game balance is ongoing. It will never be perfect, but it's better than it has ever been.
+Turtle meta has been squashed(mostly). The game is faster and more aggressive than it has ever been, for better or for worse.
+6 new heroes have been added over the course of 2017. 4 new heroes and a new gamemode are inbound on October 16th, 2018. The fact that For Honor survived its horrible launch, its first year, and is now going into its second with an immense content patch on the way should tell you something.
+The support and love that this game has received post-launch is tremendous. Ubisoft has done their absolute best to correct their past mistakes and create a far better game.
+
+The game is not easy to play. It is not forgiving to new players. You must invest yourself and dedicate the time into developing the knowledge, muscle memory, and reflexes to become decent at this game. Ubisoft has updated the game semi-recently to include much more in-depth tutorials and training tools for newcomers; utilize them.
+
+For Honor is a competitive game. You will lose to a lot of things. Loss is part of the game; don't let it get to you. When you've just gone 0-3 against someone in Duel, remember this; Do you remember the last time your opponent messed up? The time before that? Because they don't remember when you mess up. Nobody cares about your losses; you shouldn't either. Take these losses in stride and learn from them. Becoming a better player is one of the most rewarding processes in this game. It's something you will notice in every swing you commit to, every decision you make, and every read you correctly make.
+
+The game is only going to improve from here. The For Honor community would be more than happy to have you along for the ride.
+I bought the For Honor starter edition, which many think is a poor decision, but I disagree. It took me 73 hours to fully unlock everything that is included in the full version of For Honor. While that may seem like a lot, every single hour was packed full of medieval fun and with very little grinding boredom. I also didn't spend a single dollar on the game other than buying the starter edition.
+Many have been turned off of For Honor by its previous peer to peer server system, but ever since they have had dedicated servers, I have only experienced one disconnect, which was when my power went out, so it doesn't really count.
+Here is how the starter edition works:
+When you choose a faction, you unlock those heroes in that faction to play so I would recommend researching which faction is right for you.
+Everyone else can be unlocked with 8000 steel each, but while this task may seem daunting, considering you only get about 20-50 steel a match, you can complete orders and community events which can get you hundreds, allowing you to accumulate steel much faster. (Keep in mind, I never spent a single extra dollar)
+Eventually, you can get everything that the full game has to offer with time, but much of that time can be spent on one hero, just playing and mastering them, so it doesn't become a grindy mess.
+I sincerely recommend For Honor, the servers are stable, the game is a ton of fun to play and buying the starter edition can save you money, as long as you are willing to experience a slight grind.
+Overall: 9.5/10
+Cheers!
+Mixed rating is very deserved. It can be an extremely fun game but the lack of balance is frustrating. The game doesn't know whether to balance around 4v4 or 1v1 causing unbalance in both modes. Overall however I think it's definitely more positive than negative. If you take the time to learn all the complex mechanics in the game, I think you can have tons of fun.
+[h1]THIS GAME HAS CHANGED ENORMOUSLY SINCE ITS RELEASE IN FEBRUARY 2017[/h1]
+
+             [h1] Read the changes below if you want to know how the game is TODAY[/h1]
+
+When For Honor first released it was buggy, and its P2P architecture creating numerous issues, and to top that off heroes were either completely overpowered or useless, meaning that you only saw two or three heroes per match since those were basically easy wins. And the cherry on top of all of this was poor communication from the developers, creating a feeling among players that this was just a money grab. I've been playing since Day 1, and I can tell you that the game has made numerous changes, and all are for the betterment of the game.
+
+
+Since 2017 the For Honor Team has done the following:
+
+[list]
+    [*] Added Dedicated Servers (NO MORE LAG/HOST MIGRATION, Also allows for team shuffling and increasing stability)
+    [*] Rebalanced 3 heroes, and done complete overhauls of 2. Done numerous adjustments to the entire cast
+    [*] Fixed the turtle meta (This is basically where people don't throw out attacks and just focus on parrying and parry counters, which leads to you staring at your opponent for long periods of time where they do nothing.)
+    [*] Added tons of new outfits, emotes, and executions
+    [*] Implementing a new Arena Mode which allows for new players to learn basic and advanced tactics in For Honor, also allows players to practice against/with certain combos, and see their stamina usage and damage
+    [*] Halloween Event with a mask, emote, and limited time gear (Werewolf Emote)
+    [*] Christmas Event with a mask, emote, and limited time gear  (Snowball Fight Emote)
+    [*] One Year Anniversery Event with a mask, emote, and gear (They gave us a salt emote, fuckin-A)
+    [*] Created the Warriors Den, where the Devs tell us exactly what's going on with the game, and their plans for it.
+    [*] Fixed steel gain to make it easier to gain steel without feeling the grind
+    [*] Rebalanced Gear Stats so creating an OP hero in mode where gear stats apply is impossible to do. (See: Revenge Builds, PK and Nobushi Season 1 if you want to know what I mean)
+    [*] [b]There was never any Pay to Win, you couldn't buy certain gear with certain stats, you had to play to Reputation level 7 (Which took quite a bit of time) to get gear with these insane stats. This wasn't a fix, I just wanted to squash this misconception.[/b]
+    [*] EXP Gain feels much better, but is still a little grindy
+    [*] The Devs do double EXP fests every so often, they also do other various community events
+    [*] COMPELTELY OVERHAULED the faction war, now theres tactical territories, war banners, and troop numbers for each territory
+    [*] Nerfed any problematic moves or combos on heroes, and gave those heroes different tools to work with.
+    [*] Added a new mode that relies on teamwork (Tribute). Basically Multi-Flag CTF that gives buffs (Radar, Damage, Defense) when returned to your base.
+    [*] Changed AFK kick system to make it so you get banned on your first offense (5 days), and your account gets wiped on the second offense. The game knows if you are just in a place with no enemies, or if you are AFK at base, plus, [b]THESE REPORTS ARE REVIEWED BY REAL PEOPLE, MACHINES DONT DO THE BANNING, HUMANS DO[/b]
+    [*] Overhauled the report sytesm to be much more through and specific as to the offense.
+    [*] Added 6 new, unique heroes that all feel fun to play
+    - SOME These characters were overpowered at launch, but have since been fixed (See: Shaman, Centurion, Shinobi)
+    - SOME of these characters were underpowered at launch, but have since been fixed (See: Highlander, Aramusha)
+[/list]
+
+TL;DR: The For Honor team has established consistent, effective communication, implemented Dedicated Servers, added a metric-fuck-ton of new content, and has maintained and refined core mechanics to help welcome new players, and keep veterans interested. All in all, the game is significantly more stable, and feels fresh as fuck everytime you login.
+The game has changed a lot since release and it is a solid title now. I have had plenty of fun with it. Also, if you're a shaman main I hope your computer explodes.
+I first wrote a review for For Honor in November 2017. I came to the conclusion that despite the numerous flaws, the most prevalent of which were the general game instability, the lack of a lag compensation system and balancing issues inside what was known as the defensive meta, the game was still worth getting.  As of now, several major patches later, I feel a re-review is in order, as much has changed. I'm going to omit all of the positives I spoke of in the previous iteration and focus entirely on how the problems I noted those long months ago have been addressed. 
+
+Months ago, For Honor switched from a P2P netcode, which worked well for duels but not for any of the 2v2/4v4 modes. to dedicated servers. This was an unmitigated success. Whereas lobbies and matches used to crash endlessly, normally through people quitting out, this almost never happens anymore. For Honor is one of the more stable multiplayer games I've ever played. This went an almost immeasurable way to improving the experience, and fulfilling the potential of, For Honor.
+
+Second, a lag compensation system was added a while back, and while not perfect (nor indeed necessarily the finished version), has helped bring variation between the attack speeds of different players closer together. Essentially, whereas delayed combo attacks used to appear 100ms faster than intended (500ms lights were showing as 400ms, etc), the maximum benefit one can recieve from doing this has been reduced to 67ms. A very good start.
+
+Finally, the last main criticism I raised of the game back in November concerned the reasonably shoddy balancing, especially as it related to the at-the-time prolific defensive meta. While even then balance was better than it was at launch, if you wanted to truly succeed you were shoehorned into picking from only a small selection of the cast. Nowadays, following 7 successful reworks/buffs, and 1 that was rather pointless (hello, Nobushi), more characters than ever are viable. Thanks to these changes, and the release of two DLC characters (Gladiator and Shaman), many heroes now boast much more potent and fluid movesets than were seen at launch.
+
+In turn, this increase in the efficacy of many heroes has led to a distinct meta-shift. Gone are the days of excessive turtling, where the only safe way to deal damage was through punishes. Dash recoveries have been standardised across the board, as well as, with the exception of a few heroes, parry punishes. Whereas every parry once rewarded a guard break, which in turn gave either free damage or an outright kill via an environmental hazard/ledge, they now reward a simple light or heavy, depending on what you parried. So now, not only is turtling a riskier stratergy, since more heroes than ever have powerful offences, it is also less rewarding. 
+
+The work this team has been putting out has been of a very high quality. I'm not going to say the game is perfect; it is far from that standard, as many smaller problems still exist. Further, I'm not going to blindly sing the praises of developers for work that should, in fairness, have been done before launch. However, these acknowledgements do in no way diminish the fantastic work they have managed. 
+
+There has never been a better time to start playing For Honor. The future looks incredibly bright, especially with the March of War content releasing in about three months. We already have four new heroes confirmed, as well as new maps, a new castle-siege 4v4 game mode and implied reworks for another two heroes, Warden and Lawbringer. If you've been on the fence over this game, now is the time to settle on "fuck yes".
+They fixed connection, it's so nice now,
+balance on the champions is really acceptable,
+and we're getting new content always,
+
+shame on the first year of this game, could've been a HUGE thing, but , well.... what else can we do?
+Quite honestly, despite the bad rep this game gets/has, it is good. Having 700+ hours in it, I have definitely learned to love it. There IS a high skill curve and it does take a while to fully get the swing of things down, however once you start to get ahold of the mechanics and beautiful combat system, it really shines. With the introduction of dedicated servers on February 19th, 2018, the game will drastically improve. This game really does deserve more recognition as it truly is good. Characters are becoming balanced, server issues are being fixed, I even find that general toxicity within the community is withering. 
+I really do reccomend For Honor to anyone still on the fence about it. Think of it like a fine wine, it gets better with age.
+It only gets harder before it gets easier. Put in your time and learn the fundamentals of each hero and how to counter them and you are halfway there. The other half is having people to play with, but there are a lot of discords and other places you can find people willing to group up with you or even teach you.
+
+At the time of writing, I am around overall reputation 215, and have about 10 to 15+ reps in every hero and I am still learning new stuff all the time. I strongly suggest you check your ego at the door and learn to be humble; accept when you are outmatched or making mistakes and actually make an effort to learn from them instead of playing the blame game. Be patient, make some friends, watch/read some guides if you need to, but whatever you do, dont expect to be a pro overnight.
+
+The current state of the game one year later is an absolute improvement to how it was at launch. They moved from Peer to Peer to Dedicated servers and the overall stability has improved overwhelmingly. Despite what people tell you, the game is *not* dead (especially at lower MMRs where you will be), although some game modes like elimination and skirmish consistently have low activity as it currently stands. In terms of hero balance, things are only getting better with the developers reworking the original cast of characters to bring them up to speed with the current flow of the game, and the promise of new heroes being introduced to the game for hopefully years to come holds much promise for the foreseeable future of this game. Every thursday there is new content added to the game in the form of emotes, paint and color patterns, symbols, ornaments, executions, effects, and new weapon and armor sets. Needless to say there is a steady stream of patches and new content coming to the game all the time on a regular basis.
+
+There definitely are tiers of heroes as things stand, *however*, this should be of little or no concern as most heroes should still be viable for the majority of players (hero tiers dont really come into play until you start to reach higher MMRs, and even then with the right synergy you can still make it work most of the time) so just focus on choosing a hero that looks cool and mess around with them to see if you like how they play. Remember, there is no wrong way to play the game as long as you are having fun. Ledging people or throwing them into hazards, using feats, playing certain heroes, ganking, "deathballing", spamming certain attacks, emote spamming, whatever it is, dont let somebody dictate to you how you should play. There will always be things people will call "cheezy" or "OP/broken" but 9 times out of 10 its just an excuse for them to be salty about losing. 
+
+I really hope that you consider picking up this game, it really is a lot of fun once you invest enough time into it. You'll be hard-pressed to find a game like this one.
+---{Graphics}---
+☐ Masterpiece
+☑ Beautiful
+☐ Good
+☐ Decent
+☐ Will do
+☐ Bad
+☐ Awful
+☐ Paint.exe
+
+---{Gameplay}--- 
+☐ Try not to get addicted
+☑ Very good
+☐ Good
+☐ Nothing special
+☐ Ehh
+☐ Bad
+☐ Just dont
+☐ FPS Drop DLC Included
+
+---{Audio}--- 
+☐ Eargasm
+☐ Very good
+☐ Good
+☐ Decent
+☑ Not too bad
+☐ Bad
+☐ Earrape
+
+---{Audience}--- 
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Everyone
+
+---{PC Requirements}--- 
+☐ Check if you can run paint
+☐ Potato
+☐ Minimum
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{Difficulty}--- 
+☐ Just press a bunch of buttons
+☐ Easy
+☐ Significant brain usage 
+☑ Easy to learn / Hard to master
+☐ Not so easy
+☐ Difficult
+☐ Dark Souls
+
+---{Story}--- 
+☐ Dosen't have any
+☐ Something isn't nothing I guess
+☑ Not great
+☐ Average
+☐ Good
+☐ Lovley
+☐ Will make u cry or smile alot
+
+---{Game Time}--- 
+☐ Long enough for a cup of tea
+☐ Short
+☐ Average (Singleplayer)
+☐ Long
+☑ Personal Preference
+☐ Endless
+
+---{Price}--- 
+☐ Just buy it
+☐ Worth the price
+☑ Wait for sale
+☐ Maybe if u have some spare money left
+☐ Not recommended
+☐ Dont throw money into a trash can
+☐ Free2Play
+
+---{Bugs}--- 
+☐ Never had any
+☑ Minor bugs
+☐ Few bugs 
+☐ Can get annoying
+☐ Ruining the game
+☐ The game itself is a big terrarium for bugs
+
+---{Servers}--- 
+☐ No issues
+☐ Minor lags every few hours
+☑ Can get laggy sometimes
+☐ Oh the ping..
+☐ Often disconnects (Singleplayer requires connection)
+☐ Unplayable
+☐ No Multiplayer included
+
+---{Status}--- 
+☐ Top
+☑ Always some people around
+☐ Not so easy to find people for the party
+☐ You ll have to wait for anyone to join
+☐ Barely any soul alive
+☐ Dead like my insides
+☐ No Multiplayer included
+
+---{Matchmaking}--- 
+☐ Depends on the host
+☐ Brilliant
+☐ Fair
+☑ You might see much more experienced/stronger players
+☐ Unbalanced
+☐ Completely unfair
+☐ Non-existing
+
+---{Salt Level}--- 
+☐ Replaced with sugar
+☐ Barely anything
+☐ Balanced
+☐ A bit of salt
+☑ Salty
+☐ Salt overload
+Now has dedicated servers, price cuts, decent balance, lots more classes and executions and customization since game came out, pay to win bs has been essentially removed and balanced out, and at least for now Dominion and the other game modes have "realistic" alternative disabling gear stats turning the experience into more of a pure fighting game style.  
+
+
+Combat feels heavy and momentous, aesthetics and brutality are top notch.  There's a lot of variety in classes and styles, though core mechanics are consistent.  Great variety of modes, and a good customization tool for your chars.  Also, emote spam.  Emote spam will quadrouple this game's shelf life.
+■■[Audience]■■
+☐ Kids
+☑ Adult
+☐ Everyone
+☐ Casual players
+☑ Pro players
+
+■■[Graphics]■■
+☐ what´s this?
+☐ Bad
+☐ Not that great
+☐ OK
+☑ Good 
+☐ Beautiful 
+☐ Masterpiece
+
+■■[Price/quality]■■
+☐ Full price
+☑ Wait for sale
+☐ Average
+☐ Refund it if you can
+☐ Don't do it
+☐ Free
+
+■■[Requirments]■■
+☐ 90' PC
+☐ Minimum 
+☑ Medium 
+☐ Fast 
+☐ High end
+
+■■[Difficulty]■■
+☐ Easy
+☐ Medium
+☑ Easy to learn / Hard to master
+☐ Hard 
+☐ Nightmare
+
+■■[Game time]■■
+☐ Really short 
+☐ Short 
+☑ Long 
+☐ Very Long 
+☐ Endless
+
+■■[AI]■■
+☐ No AI
+☐ Not seriously
+☑ It´s okay
+☐ Hard 
+☐ Like Human
+☐ Chuck Norris
+
+■■[ Story ]■■
+☐ Warhammer 
+☐ It doesn't have
+☑ Still better than Twilight
+☐ Not very memorable
+☐ Average 
+☐ Good 
+☐ Fantastic
+☐ New 
+
+■■[Bugs]■■
+☐ Game itself is one big BUG
+☐ Bugs destroying the game
+☑ Lot of bugs (Updates coming soon)
+☐ Few Bugs
+☐ You can use them for a speedrun
+☐ Didn't encounter any
+
+■■[Sound]■■
+☑ Great atmosphere
+☐ Story Narration
+☑ For every action
+☐ Too much music
+☐ Obnoxious
+
+■■[Others]■■
+Singleplayer: Yes a little bit
+Multiplayer: Yes
+
+■■[Overall]■■
+First 6 months: 6.8/10
+Now: 8.0/10
+Because of For Honor being Free right now, there's been a huge influx of salty idiots giving the game poor reviews out of spite. Don't listen to them, they don't know what they're talking about. These people try one round, die, then give up and start crying on the internet. No, this isn't Pay to Win in the slightest. No, the microtransactions aren't needed at all: you get Steel rather quickly.
+
+It's a fun game. It'll take you time to learn, the curve is steep. If you can handle that, jump right in and have a blast.
+
+If not, don't sweat it. A game can't be made for everyone. Just don't be an entitled brat about it.
+"It's like eating the best meal you've ever eaten, but with shitty plastic utensils that break every 2 minutes."
+This quote sums up the game, its amazing gameplay wise but a company as big as ubisoft should be able to get their servers and errors in this game fixed. Every 2 games its "Matchmaking not ready" or "EasyAntiCheat error". But those times you do get a game almost make up for it, because the combat is so rich and amazing.
+This game has come a long way since launch. All the problems I had with it before are now gone. Get this game if you are on the fence with it. It's worth it.
+Cons:
+Warden's vortex
+Conqueror's shield bash
+Peacekeeper's zone
+Lawbringer's shove on block
+Centurion's Incredibilis
+Gladiator's toe stab
+Raider's stamina draining tackle
+Warlord's crashing charge
+Beserker's hyper armor lights/heavies
+Valkyrie's illusive rework
+Highlander's kick/caber toss
+Shaman's overloaded kit
+Kensei's soft feints 
+Shugoki's demons embrace
+Orochi's light spam
+Nobushi's hidden stance
+Shinobi's double dash/kicks
+Aramusha's lights...I guess, I dunno he's bad.
+
+Pros:
+There's an emote where peacekeeper wiggles her hips 
+
+This game went from a steaming buggy pile of trash to one of the most promising titles out there. The game is addicting in a good way, sometimes it induces rage, but it's the kind of rage you'd get after getting beaten by a really good opponent in an old fighting game (MK on Sega says hello). 
+
+Fighting mechanics have a steep learning curve but now that the training mode is fully implemented it should be much easier for newcomers to understand the full depth of it all. (Down to nitty gritty details like parry timings, attack dodging/deflecting, stamina drain/hp drain values.)
+
+Old cast of heroes is being reworked to have more options at their disposal while new heroes have surprisingly deep and varied combos to them. Learning any of the characters' movesets is surprisingly fun and level progression allows for some spicy customization. 
+
+The game has one of the liveliest communities out there, I can confidently say that the people that continued to play that, at some point, really buggy game have pulled the entire thing by the bootstraps for it to become what it is today. Guides, deep looks into game mechanics, constructive criticism, love, hate, memes, it's all out there (especially the memes).
+
+Summary: If you like somewhat realistic swordplay, intense fights and gory conclusions to duels get ready for a joyride.
+Honestly, don't let the reviews scare you. Yes this game does have a very steep learning curve. But I can say It's one of the most enjoyable games I've played. You won't regret playing this! also DON'T GET STARTER EDITION!
+Don't let the older reviews scare you from getting this game. I will say without a doubt, that I could not recommend this game to anyone when I first bought it. But now it's very safe for me to say I strongly recomend this game for anyone itching for a satisfying melee PvP experience. All of the game breaking bugs have been fixed, and match stability is perfect.
+
+The Devs are actively working to make this game better. It had a really bad launch, but at this point with servers, training mode, and character balancing, the game has never been better.
+
+The game itself is unique unlike any other PvP game I've ever played before, and it's what kept me playing this game since the Beta. The battle's are fun, intense, and gratifying, and the feeling of glory when defeating your foes is unmatched in this game. 
+
+It's taken a full year but finally, For Honor is the game it was supposed to be on Launch.
+
+P2P servers removed and replaced with Dedicated servers, no more games dropping out or connecting to new host. No more wireless 2mbs players teleporting around in your games.
+
+Character reworks and the removal of the defensive "meta". Where you played a game of chicken until one of you got bored and took a swing only to be parried and have them r*p" you.
+
+Exploits fixed, bugs while not perfect (At time of review game doesen't close propley on PC) are a hell of a lot better
+
+I can finally reccomend this game to others and i hope it contiunes to improve with each coming month.
+After roughly 20 hours in game, I don't get the  fuss about connection  issues,perhaps that was a big thing on launch but now with the serves up the game is smooth most of the time,guess that issues is fixed.Game play wise I enjoy it.The  single player story mode is medicore  and its not too long,depends on  how high difficulty you play on..and you can replay it on higher to get more cosmetic items and such.But this game is mostly based on online fights..no matter Pvp or pve and with the new breach mode, its even more fun.I think its worth to grab it on sale and give it a try but don't buy the starter edition because its bad.Go for standard or higher.
+I will give it a thumbs up with 7/10 rate.
+Listen, this game is not for everyone. I'm being honest in saying that if you get mad easily, are sensitive to a harsh player-base or just aren't good at quick-time events or timing in general, this game is not for you. I have had a number of friends try this game and have been very happy with it. I have also have had friends who want to burn this game at the stake. But the one difference between the friends that played it was that the people who like it, looked at the game as a game. It is supposed to be fun. Take the game with a grain of slat and you should be good.
+Extremely fun to play. Highly recommended that you play the campaign and do the Apprentice and Warrior trials before anything else.
+
+
+
+
+P.S. Knights best faction DEUS VULT
+This game gives a very exciting, realistic and tense battle that focuses on close combat. This close combat system is described as "The Art of Battle." You can't just slash here and there, everywhere randomly to beat your opponents, you need the right timing to be more optimal in the fight. The heroes design is good, based on reality and not just the designer's fantasy. Apart from the imbalance of its heroes, this game is very good and has its own uniqueness that other games do not have. 
+
+Game turn into "Who can scream louder Simulator" with 4 Tiandi in the same match!!
+Also you can bitch slap everyone with JJ.
+ràng nî huīfeīyānmiè - Tiandi
+Pretty legendary. I wish there were some more people though. Maybe For Honor will come back. It's challenging and I love it. Highly recommend. I was fortunate to get this as a gift from one of my buds that played the game.
+Well, after 630 hours of this game, I can only say that I was satisfied with it. I do indeed recommend this game because of the simple things that make you laugh, or enjoy. It does have its flaws I know, but if you try to enjoy it, you will succeed. Don't be a sweaty toxic try-hard who complains on reddit how the game is "unbalanced". 
+
+Goodbye, For Honor.
+It was a hell of a ride.
+Game is unique fighter one of kind, there is a lot styles and characters so there is something for anybody. Also is game is pretty hard and take time till learn mechanics but is worth it
+€ PRICE / QUALITY
+
+☐"IT'S A TRAP!"(Admiral Ackbar)
+☑ "That'll do, pig. That'll do."(James Cromwell)
+☐ "SHUT UP AND TAKE MY MONEY!"(Philip J. Fry)
+
+PC REQUIREMENTS
+
+☑Minimum
+☐Medium
+☐High
+☐ Extreme
+
+GRAPHICS
+
+☐Cheap
+☐Acceptable
+☑Masterpiece
+
+GAME TIME (hours)
+
+☐ 0>2
+☐ 2>5
+☑ 5>15
+☐ 15>30
+☐ 30>50 
+☐ 50>75
+☐ 75>100
+☑ 100>?
+
+STORY
+
+☐None
+☐Bad
+☑Good
+☐Amazing
+
+DIFFICULTY
+
+☐Simple
+☑Easy to learn, hard to master
+☐Hard
+☐Blackhole (FiolaSoft Studio)
+☐Impossible
+
+BUGS
+
+☐Game itself is one big BUG
+☐Bugs destroying the game
+☐Bugs
+☑Few little bugs
+☐Perfect
+A very good game for those who like technical 3D fighting games.
+
+Likes:
+-You don't have to pay to win, just play and save in game money to unlock your desired character, It took me 2 weeks to unlock one.
+-Not a game for button spammers, although many players just spam some combos, you can just figure out something to counter.
+-I love the fighting mechanics of this game
+-Creativity has a place here
+-Competitive game
+
+Dislikes:
+-When you get disconnected, there's no getting back to the game
+-There are overpowered characters
+-I feel like they should remove the game modes with almost no traffic, so the players would be compressed to other game modes and make matchmaking faster
+
+I hear players complaining about how the matchmaking is unfair, like getting matched with a high level player. What's happening is, onset of the matchmaking, the system finds you an equal match then if there's no one available, it widens the coverage of the queue, this goes on and on until the coverage becomes everyone. Playing with variety of players is good for improving, unless your playing stats is of higher importance.
+
+P.S I'm new to this game =)
+Updated: 15 Apr, 2018 @ 11:36am
+
+I bought the For Honor starter edition, which many think is a poor decision, but I disagree. It took me 73 hours to fully unlock everything that is included in the full version of For Honor. While that may seem like a lot, every single hour was packed full of medieval fun and with very little grinding boredom. I also didn't spend a single dollar on the game other than buying the starter edition.
+Many have been turned off of For Honor by its previous peer to peer server system, but ever since they have had dedicated servers, I have only experienced one disconnect, which was when my power went out, so it doesn't really count.
+Here is how the starter edition works:
+When you choose a faction, you unlock those heroes in that faction to play so I would recommend researching which faction is right for you.
+Everyone else can be unlocked with 8000 steel each, but while this task may seem daunting, considering you only get about 20-50 steel a match, you can complete orders and community events which can get you hundreds, allowing you to accumulate steel much faster. (Keep in mind, I never spent a single extra dollar)
+Eventually, you can get everything that the full game has to offer with time, but much of that time can be spent on one hero, just playing and mastering them, so it doesn't become a grindy mess.
+I sincerely recommend For Honor, the servers are stable, the game is a ton of fun to play and buying the starter edition can save you money, as long as you are willing to experience a slight grind.
+Overall: 9.5/10
+Cheers!
+THIS IS A GREAT GAME, don't let the negative comments shroud your opinion. It is even better than MK in my own opinion. Mechanics are rather easy but very hard to master. YES the servers are not that great, but the overall game experience is awesome!
+love it love it love it love it love it love it 
+since i install this game i play 24 hr now want to go to bed 
+its amazing but starter pack sucks i dont know maybe  i want buy one of the packs but its totally amazin u should try it 
+i hate knights its stupid to be in the game but for some one who love history its amazing samurai viking  its my heaven 
+
+for honer is a good game but i hate it and still play it i dont know why,im sick of spam playing again +60 rep player on 1 chatecter and they spam like 1 rep ,and they made conq almost usless bc of black prirror all of them are brain dead , buy him 30 euros to play him 7 days faster what retards , i know that get bonus stuff but still care they would better bouth something better. overall i think that should people  try for honer bc at time its fun,and sorry for my spelling .
+good luck boi/girls have a fun ,have honer and dont spam
+
+A king once asked his daughter how dear he was to her.
+
+"As dear, as dear - as salt!" she said. The king thought that this was very little, and he was very unhappy with his child's answer.
+
+Soon thereafter he sponsored a great feast. The daughter saw to it that every dish was brought to the table unsalted, and thus nothing tasted good to the king.
+
+Finally the daughter explained everything to him. He then recognized how important salt was, and that his daughter had spoken very positively. Thus he loved her again as dearly as before.
+Get into a proper fight and when you're about to land the finishing blow get yeeted off the cliff by lawbringer or raider. Or get stun locked by valkyrie or black prior.
+
+11/10
+[u][b]For Honor[/b][/u] is a [b]good[/b] game, but nothing more.
+
+I just played this game for the story, and it is good, [i]but it is not that great[/i]. The [b]Story[/b] will let you play through all three factions, [i]Knight, Viking and Samurai[/i]. [u]I haven't played multiplayer and I won't try it, so I can't describe the multiplayer experience that this game has to offer[/u]. The [b]Graphics[/b] are beautiful and the game is very detailed. The [b]Character movement[/b] feels good but I do not like how the stance movement work, you have to spin your mouse like hell in order to block fast attacks, but I guess there isn't another way that they could implement it.
+
+[i]For Honor is a game that you could try, but don't expect anything great.[/i]
+433 hours logged in this game since release... It has come a long way and is pretty polished. It still has some kinks to work out but overall it is a pretty balanced game with more hero reworks on the way. I read comments of people complaining about the black prior being vastly overpowered over any of the other heroes and I had to put a comment up to voice my opinion. I am by no means a "pro" at this game, but I have put the time in to learn just about what each hero has to offer. If you do that and learn what you can and can not do vs certain heroes the black prior is not an S+ hero. He is very strong, but also fairly balanced for a newly released hero. These negative comments are from people who picked this game up on sale, got demolished and their sad little ego could not handle the fact that this game involves actual skill and time to learn everything. I have days in this game with friends where I want to break my keyboard over my face with the play style of some people and other days where I feel like I am untouchable. That all being said there is not another game in my steam library that my friends and myself constantly come back to wanting to improve. This game is hands down the coolest game I personally have played. I would recommend this game to anyone with a competitive spirit, if you are someone who expects to jump into this like its call of duty and just smash anyone and everyone then you will have a huge wake up call.
+Let me start by saying, I have never hated anything or anyone as much as I hate this game. If you're interested in wasting hundreds of dollars on replacement peripherals after you've inevitably smashed your keyboard, mouse, and controller to pieces, this game is perfect for you. If you enjoy the feeling of blood pulsing behind your eyeballs as you scream until your vocal cords look like spaghetti bolognese, Ubisoft made this game with you in mind. If you love to spend hours upon hours learning the complex ins and outs of a character only to be beaten and BM'd by a kid who just bought the game with the newest DLC and has access to broken characters hidden behind an obscene paywall, well, look no further.
+
+For Honor is a game built, nay, predicated upon skill, understanding, timing, and practice. Or, it should be. Rather, it is starkly apparent that Ubisoft, true to its business model, is juicing yet another title for that sweet, sweet microtransaction/DLC cash. By introducing fundamentally broken characters that follow exactly ZERO of the "balancing" guidelines visible in practically every single Year One hero, the player is met by seemingly superhuman abilities of characters that they would have to either A) Grind for a substantial period of time to acquire the Steel to unlock a character or B) Shell out $30 for a four character bundle, all of which are overpowered in some form or fashion. Most recently, with the addition of Black Prior, this game has become infuriating beyond words. Broken, broken, so broken in fact that many long-time players have reported becoming bored of the character after less than a week, simply because he is so easy to win with.
+
+If you're looking for a well-balanced, enjoyable game, this is not it. If you are looking for a complex fighter with intimidating mechanics and a large learning curve... well, go play Smash. Don't waste your money on this garbage fire.
+
+That said, I will continue to play this game almost everyday for the foreseeable future.
+A great game I love it, if you like a EU4 mix and total war it’s a perfect game for you. It’s decent price for what you get along with amazing graphics and new tactics and ways to fight in battle I love it.
+===[ 📊 Rating ]===
+✔️ Phenomenal
+
+===[ 🕹️ Gamestyle ]===
+🔵 Singleplayer
+🔵 Multiplayer
+
+===[ 👪 Audience ]===
+🔘 Kids
+🔘 Teens
+🔵 Adults
+🔘 Casual players
+🔵 Pro players
+
+===[ 🔥 Requirments ]===
+🔘 Low / Budget 
+🔘 Medium / Office PC
+🔵 High / Gaming PC
+🔵 Extreme / High-end or more
+
+===[ 🐞 Bugs ]===
+🔘 Unplayable or gamebreaking
+🔘 Frustrating and feels unfinished
+🔵 Few Bugs but nothing gamebreaking
+🔘 No bugs were encountered
+
+===[ 🎯 Difficulty ]===
+🔘 Simple
+🔘 Sometimes challenging
+🔵 Mostly challenging
+🔵 Easy to learn and hard to master 
+🔘 Masochistic but fair
+🔘 Too difficult and unbalanced
+
+===[ 🌏 Story ] ===
+🔘 Not needed / None
+🔘 Bad
+🔘 Average
+🔵 Good
+🔘 Very good
+🔘 Masterpiece
+
+===[ 👀 Graphics ]===
+🔘 A matter of taste
+🔘 Bad
+🔘 Average
+🔘 Good
+🔵 Very good
+🔘 Masterpiece
+
+===[ 🔊 Audio ]===
+🔘 Not needed / Music turned off 
+🔘 Bad
+🔘 Average
+🔵 Good
+🔘 Very good
+🔘 Masterpiece
+
+===[ ⛸️ Grind ]===
+🔘 Not needed / None
+🔘 Only for leaderboards / ranks
+🔘 Average grind level
+🔘 Heavily depends on gamestyle / personality
+🔵 A lot of grinding but feels rewarding
+🔘 Too much grind and feels repetitive
+
+===[ ⏰ Gametime ]===
+🔘 Really short ( 0 - 8 hours)
+🔘 Short ( 8 - 20 hours)
+🔘 Long ( 20 - 50 hours)
+🔘 Very long ( 50 - 99 hours)
+🔵 Endless ( 100+ hours)
+
+===[ 💎 Price / Quality ]===
+🔵 In-Game-Shop ( only cosmetics )
+🔘 In-Game-Shop ( boosts / saving time )
+🔵 In-Game-Shop ( superior loot / stats )
+🔵 Available DLC
+🔘 Free
+🔘 Not much
+🔘 Full price
+🔵 Wait for sale
+🔘 Don't do it
+
+© Fackel (Modified)
+This game has a maaassive learning curve, but it's really fun to main a light spammer like Valkyrie, and it's satisfying to play as someone like Conqueror. And one huge tip from me, don't ever play Deathmatch Elimination, because it's full of shit players that only ledge, spam unblockables or gangbang.
+I'll make this short, sweet, and to the point:
+
+It is a ton of fun. I came from PS4 and do not regret getting it again. That should say something. Maybe that something is it is much better on PC with 60fps.
+
+Game is not quite balanced. Better than it was but there are some heroes that STILL need to be buffed.
+
+Story sucks. It acted like a tutorial for some of the heroes, now the majority of the ones in it are reworked and those reworks did not follow.
+
+The community is toxic. There are a lot of salt videos out there. This sums up 65% of fights that someone is a keyboard warrior
+
+That is the negatives for me, now the positives:
+
+All the heroes feel unique, some heroes are very hard to learn and that curve can help you win in fights.
+
+The gameplay is awesome. A mix of a 2D fighting game and a brawler. (One of the only fighting games I ever enjoyed.)
+
+Game looks great.
+
+And it is great with a few people who know how to play.
+
+In short, if you are comming from Xbox or PS4. Buy the starter has only the Vanguards but you know your main. All other heroes are too expensive to justify the price if you buy the starter.
+
+If you never touched it best to wait for a sale since this game is a niche. While I am happy to see new players some are not and they will make sure you dont't play again.
+Okay...so here you are looking at for honor. Your tired of the first person shooter and not wanting another rpg grind. Cough cough fallout 76. If you want a game that is highly competitive you're looking in the right direction. 1v1 2v2 4v4 and a ranked system similar to rb6. The negative comments always seem to have the same thing. Toxic community and or unbalanced matchmaking…. And here's the thing. The devs can't do anything about the community and its toxicity. The same people complaining about it are the SAME people who are being toxic. These people with hundreds of hours have killed another player spammed the chat in excitement of their victory thats all im going to say on that.  If you goto the for honor tracker website you'll be able to see what's called a fighting scour. And thats whats used when your matchmaking The matchmaking can seem broken. But in reality its a vary in depth calculated system. For example im only rep (lvl) 19 but i'll fight rep 100s purely because my skill lvl (fighting score) is matched with people higher lvl. What can happen is if im with my friends who are low lvl players and we jump into a game. The matchmaking will find a player at my lvl and a player at his lvl. Making it seem like a unfair fight.… the game has a extremely hard learning curve for new players. Veteran players such as myself who have over a thousand hours…(i'm from playstation) are going to be extremely good and give a huge challenge for new players. This game is like no other. It's not like when you jump from black ops and take your knowledge from that game and use it in games like rage or even destiny. if you get this game your jumping into a entirely new way of fighting, your going to suck and it's going to be hard but for gamers the acompalment is the fun part. Getting that perfect combo and playing mind games with your opponent is extremely rewording….the Devs put a lot into this game. If you look at where it is and how far its came its impressive. Not perfect but impressive. I will saw that the little amount of currency you receive with each game is extremely low. It's worse than rb6 and its bad over there. But if you want a new way of fighting and a completely different experience in competitive gaming. Buy the cheap version… the experience will be worth the buy. 
+
+Of course this game could use improvements, every game can. But I feel like it is really fun especially constant updates and improvements, reworks and buffs. People in the reviews are complaining over balancing, when they probably play like trash. It is unique with how the gameplay works. And honestly is fun to play as well as expressing your salt.
+Hey, you!
+
+Yeah, you. 
+
+Do you like vikings? 
+We have something for that.
+
+Do you like crusading?
+We have something for that.
+
+Do you like Japan, anime and wish you were born in Japan and you admire the culture so much and 
+We wish we didn't have something for that, filthy roaches, but we do have something for that.
+
+Solid game, follows Ubisoft's trend of creating unique gameplay experiences, but it's also Ubisoft, so do with that information as you will.
+It's a really fun melee 4v4 swordfighting game, heavily flawed, but really fucking enjoyable. The more expensive versions of the game probably aren't worth it, but I would 100% recommend the starter or standard version to a Dark Souls or beat 'em up fan.
+
+There's also pretty hats.
+I've played quite a lot of For Honor for the last year or two. I've played a lot of games, but this one is the best brawler out there. It has everything a fan of fighting and rpgs could want. Yeah there are a few issues, but mostly the game is great.
+I don't know why the reviews are mixed, but since I bought this game I've always had something to play, when i don't feel like playing anything, most of you gamers would know what i mean. And win or lose, it's always worth the game. The battles are great, the maps are great, the heroes are amazing. Everything immerses you into the world of neverending battle.
+I enjoy pvp and testing my mettle against other people, I've found that the matchmaking here is mainly good, yes there have been times that I've been matched against too weak or too strong opponents, but 80% of the time it's the same level opponent, and it's great, honestly. 
+The feeling of learning a hero and then beating your enemies to a pulp is simply amazing and I would reccomend this game 100% to anyone who is like me and likes pvp and slow and steady progression.
+There's no grind, you can buy everything with ingame money, including skins , heroes and so on.
+
+"For Honor"
+
+This game is a perfect showcase for everything that's wrong with Ubisoft and Uplay.
+
+At the core, For Honor is a solid, fairly unique combat system with good variation and plenty of depth. There's a number of balancing issues, but on the whole the core gameplay is robust, challenging, and rewarding.
+Such a damn shame they wrapped it in shit.
+
+They've started with the usual triple-A practice where they wrap everything in overly shiny graphics and high-quality cinematics to create the illusion of a whole and worthwhile game. They succeeded very well at this. A lot of the graphics are shiny and detailled, the story is grand and cinematic and well-voiced, and the overall aesthetics are very pleasing.
+But they fucked up the optimisation to such a degree that the stability and performance of the game are in serious jeopardy.
+
+The multiplayer framework was a brave and commendable experiment with subtle loadout differences, P2P hosting, and skipping any sort of balancing and connection stability tests. In the rare event that a match is found without people leaving or being kicked, there is a strong likelihood that your opponents will have a subtle but unfair advantage in their loadout, regardless of whether they play honourably or not.
+
+Additionally, for some reason the Ubiboys saw fit to incorporate a F2P unlock model *within* a full-priced game. You *will* be required to unlock items and heroes with in-game currency after paying full price, and you *will* be confronted with offers to speed up this process with additional purchases. Absolutely disgusting.
+
+The game overall plays with a lot of intriguing ideas and on paper is incredibly appealing, but in practice the effort in creating it has been extremely poorly distributed, leaving the result a horrible glitchy disconnective yet graphically appealing mess. Assuming you have the latest high-end consumer-slave hardware. If your machine is average at best, the game loses its only defence and becomes worthless.
+
+Would not buy again.
+
+Very poor show, Ubisoft.
+Dishonour.
+Dishonour on you,
+dishonour on your cow,
+a connection error has occured. Returning to main menu.
+The gameplay is great. The graphics are great. The presentation is good. The story is alright. So why am I giving this game a thumbs-down? 
+
+I lost Internet and the game kicked me out of single player. It won't let me play because it can't connect to ubisoft servers. A game I purchased for 60 bucks. 
+
+Choke on this thumbs down ubisoft.
+Good game mechanics. I played betas, I preordered etc. But.
+
+- P2P servers
+- microtransactions in AAA costly title
+- season pass
+- premium-account (are you crazy or what, Ubi?)
+
+Edited from this line, to those who don't understand. 
+---------------------------------------------------------------------------
+Any premium features in MMO games (except for purely visual stuff like skins) are not made to make game experience better, - they are made so your experience is not WORSE. For example, if we take basic game experience as 100% - u're not getting 120% with premium features. In reality devs just take 100%, cut out 20% (sometimes 80% lol, check mobile titles) and sell it separately.In this game, for example it means that you have to invest 3 times the time to buy anything than you would have within a normal progression curve by a sane gamedesigner. Because they WANT you to buy it. They NEED you to buy it. And they will TWEAK your natural game experience so you buy it. I know what i'm talking about - I literally do this every day (working with free2play titles).
+
+Do you realise that you are protecting the attitude that sees you purely as garbage with pockets? 
+And again, for free2play this is fine, because basic experience is free. But here - it is not.
+Because if we tolerate this crap and don't even say anything while getting screwed it will become much worse and very soon.
+This happened to free2play. This happened to seasonpass bullshit. This happened to early access bullshit. And it will happen again with buy2play. 
+
+As for p2p servers, I can PROMISE you a hell of cheats within a month. I can check packets with CE right now and it's purely undetectable. And also there's stuff like 0 ping for the host and disconnects and network errors.
+Well where do i begin with....
+This game is beyond salvation, it's quite clear that the developers don't give a shit about it or about the community itself, hence why the player base is dwindling.
+To start with, I'll talk about the game's pros:
+
+_ Story is meaningless yet it's a neat addition for a multiplayer game.
+_ Graphics are generally good especially when set on max settings.
+_ Gameplay is exciting and invigorating.. at least at the beginning.
+_ The Soundtrack can be repetitive but it does have its sheer intense moments during battle.
+
+.. And that's pretty much it.. now for the cons:
+
+_ Gameplay, despite being innovative, becomes overly repetitive especially after 30 hours of gameplay for a full priced game.
+_ Community is toxic, you will meet certain types of players that will infuriate you, you will also meet players that are extremely hypocritical and boastful, often criticizing you with non-sensical profanity.
+_ Matchmaking is broken, new players will often be put against players that have played this game for hundreds of hours.
+_ Characters (or heroes), are absolutely broken. Some of these characters are imbalanced like the shinobi and the centurion. There's also spamming or otherwise known as 'cheese' where people would exploit these characters and repeatedly use the same goddamn unblockable attacks like the warden's shoulder bash, or valkyrie's shield bash then her top heavy attack.
+_ Multiplayer, at its core, is sickening.... and that's the main problem in this game. Servers are broken, so you will randomly lose connection to the server without warning whatsoever and lose all of your hard earned progress during said match. These disconnections will be frequent, i'm talking about a dozen in an hour and it doesn't matter if your NAT type is open or not. They also happen frequently when you play in larger game modes such as dominion, elimination and skirmish.
+_ The game is also grindy... it's not P2W but it is to some extent grindy and requires a lot of commitment. It has taken me the majority of my game time to level up my lawbringer (a character) to prestige 5. And there's gear, cosmetics etc.
+_ P2P networking system. You remember when Call of duty modern warfare used to have P2P servers? For honor has excatly that and is surprisingly worse (maybe more or less). Therefore, there are no dedicated servers whatsoever.
+_ Player base is low.. there aren't a lot of people playing this game anymore (can't blame them). As i am typing this, there are currently 1173 gamers playing this game on steam (mostly veterans or die hard fans). Now don't tell me that people play more in the ubisoft launcher because that's fucking bullshit.
+
+I could go on and on but you guys clearly get the picture (especially with the overwhelming number of negative reviews). There are countless of cheaper chivalry games that you can easily get on steam and are way worth of your time than this piece of garbage. It took me over 100 hours to finally figure it out... 
+
+Stay the hell away from this game.
+Let me tell you a little story.
+
+   Once there was a land called Steam. Steam had many kingdoms on it. Some were large and very rich. Others were small, and trying to obtain their wealth. In an decently-well established kingdom known as "Ubisoft" the king was very greedy. One day a peasant made a discovery. He had spied an island off the coast which looked to be filled with gold. Enough gold for everyone in the kingdom one might even say. So the king gave everyone in his holdings a crate of wood with which to build a boat in order to retrieve their gold. His only wish was for a small 60$ tribute from each person as payment for the wood he had supplied. Before the people set sail they each gave this greedy king his tribute. They then set a course for the island now known as "For Honor". Everything looked great as people were pushing off from "Beta" pier, where each person's boat was kept. Then as they neared the island things started to go wrong. Some boats sprung leaks and began to sink. Some boats fell apart, leaving their passengers treading water. some boats simply dissapeared as if they had suddenly "disconnected" from the universe. In the end most people made it to the island. "Most" people. Some people recieved wood full of termites and could never build a boat to begin with. Either way most had made it to the island, but without a boat they had no hope of retrieving any of the gold plentifully piled around the island. But as they were grieving the king mysteriously appeared on the island declaring "Do not grieve my humble subjects! For a mere 40$ I will give you a 'Season Pass' which grants access to my royal treasure fleet which will happily stow your riches for you. What do you say?" But the people knew better now. They stored whatever they could in their pockets and swam back to Ubisoft kingdom where they then bought passage to various other kingdoms, never to come back again. Until next year's Assassin's Creed that is.
+
+   Hopefully you enjoyed that very accurate representation of what For Honor is. It is a pile of gold on an island that we can see but can't actually obtain. Ubisoft had the gall to try and sell us a season pass along with a bunch of microtransaction bullcrap after taking not only our 60$, but this amazing game that I know they have hidden somewhere. Before a few minutes ago I was still hopeful for this game. Maybe that's because I didn't seem to be suffering the same lagging and disconnecting as everyone else until a few minutes ago.
+
+   Don't buy this. They don't deserve any more money until they get their act together.
+
+For Honor Youtube Review: https://www.youtube.com/watch?v=4c2KoWsdOEg
+(A bit dated but more in depth about actual issues. I'd call it self promotion but I really don't care for likes or subs.)
+16.12.2018. Update.
+
+Its been a really long time since the last review. A lot of time has passed and this game has changed drastically... and yet it hasn't at the same time. The last time I was writing this my feelings were something like this: "This is a game with great potential, but a lot of designer decisions were odd or strait up wrong”. I hated this game and I loved it the same time. I wrote the review after I got enraged at all the negatives the game threw at me. This time it’s different. After 2 year development, after all of the updates, all of the streams, all that has been done and said about the game - I write this review not because of the frustration, but because of utter disappointment. 
+
+The game came out on 14th February 2017, 2 more months and the game is going to have 2 full years of development under its belt. For a AAA-Company such as Ubisoft, 2 years is enough time to fix every single bug, correct the balance and make an insane comeback to the game market – same as Rainbow6 Siege did. At least everyone thought and hoped so… Unfortunately, every single time they take 1 step ahead, 4 steps backwards follow up. After 600+ hours this game feels disappointing and I am going to talk about it furthermore. But before I do, let’s mention what this game gets right and what is the most enjoyable part of it:
+
++ Visuals: amazing.
++ Sound design: solid. 
++ Content: not a hole lot in mode department, but I find myself enjoying most of it. In terms of equipment (armour and weaponry) – lots of it (though I personally wish there would be more stylistic differences instead of just retextured same armour to give it a little bit different looks).
++ Gameplay: pulls you all in. You will enjoy playing this game, when it works correctly.
+
+Unfortunately all of the pluses don’t matter when developers don’t understand how the game should proceed in terms of balance. They are either stubborn, or strait dumb. It seems they rely heavily on pure data, instead of logic and feedback from the community. Calling Lawbringer a top character just says it all.  
+
+“Reworks” Ubisoft did throughout these years made a game much more energetic, yet more frustrating in some departments. “Reworks” as Orochi got are just pathetic. The only good rework they did was Kensei’s, while others got faster attacks or shield bashes that no one asked for. There still are A LOT of unfixed issues and bugs within the game – my personal favourite being ladders. How come they couldn’t fix ladder mechanic for 2 years is beyond my comprehension. 
+New "Perk" system costs insane amount of steel, while not giving that much of advantage – which I personally find just senseless. New heroes added to the game basically break the balance every single time they are being added – Marching Fire (MF) is no exception. You can say whatever you want, but the biggest part of the community agrees on the fact that Wu Lin are not enjoyable to fight against due to the balance, animations or explicity constant shout-outs issues. 
+
+I could go on and on and describe every single problem this game has, but I have just so much space in “review” section. 
+
+Basic feeling of the game is – it’s pretty, but it just doesn’t work right. 
+
+Can you have fun in the game? Absolutely! But if you play too much of it you will get frustrated as hell, just because it doesn’t work on so many levels the correct way. 
+Developers listen to the community and at the same time they don’t. They do reworks that don’t work. They do updates that add 1 thing enjoyable and 4-5 things that frustrate as hell. Personally I think the problem of this game lies in the basic flawed combat system and in Developers themselves. Ubisoft won’t change, and the game's core mechanic won’t change as well. This game won’t change. It will forever be flawed and frustrating. 
+
+And don't even get me started on the steel costs and loot boxes in this game. Its managable to play without  donating, yes, but you will have to play a lot. And if you want to have a few caharcters with different loadouts, well... I don't envy you. 
+
+If you want to play frequently, sometimes after lunch or 1-2 hours a day in the evening, killing beard-men while looking cool doing it  – by all means, go for it. 
+But if you think you can enjoy ranked and learn every deep mechanic – don’t, you will be deeply disappointed. 
+
+This game is a candy to the eyes, but a freaking knee in your crotch. 
+
+I cannot recommend this game due to the fact I don't see positive growth from developers. 1 enjoyable thing updated, 4 frustrating things added is not the way to go, and Ubisoft doesn't seem to change its direction.
+New perk system introduced along with Marching Fire DLC is huge mistake in my humble opinion.  It's clearly a futile effort to make it "e-sport ready" in exchange of every other casual player enjoyment just to squeeze out as much cash of this game as possible. In other words, typical Ubisoft maneuver. They could just slightly nerf the gear stats of top tier loadouts if they didn't like it instead of completely reworking everything not even asking the majority of community for permission. Yeah, I used a word "permission" because every developer who respects their customers would take community's opinion into account. Even the fact that they removed pinned message related to new perk system proves how much they care or rather don't care what we, gamers, think. Every other aspect of the game itself is neat as you can see by just looking at how much  hours of fun it delivered for me and my friends so I guess the title is worth its price, despite this awful combat design decision making that brings everyone's stats to the same level whether it's a noob or hardcore player. (Personally, I can't stand it, I've put lots of hours into the game for nothing just to be same as my friend who can't even parry, unaccaptable).
+Disconnected from Singleplayer.
+ Wat?
+
+[b]Edit: Okay, I'd like to point out this was an overly short review, so let me clarify.[/b]
+
+First, I'd like to point out that the graphics and combat are pretty stellar. It's got several events, fighting modes, etc and a nice environment to look at. While I like the general direction of the game, the controls still tend to feel a bit wonky.
+
+It's not exactly Skyrim, the combat feels more Final Fantasy-Esque than anything, honestly.
+The loadouts and gear you can pick are limited to your range and it's hard to start out when you're new. But other than that it's actually a really decent medieval-era battle game, and some of the kills are just straight up brutal. 
+
+So if you like brutal combat, and don't mind trying trying something new and still an active work in progress, go ahead and try it while it's cheap.
+[i]Don't listen to the reviews, I thought.
+It can't be that bad, I thought.
+[/i]
+[b]Well shit, I was wrong.[/b]
+
+I'm a very forgiving consumer, I don't care much about the P2W aspect and the horrible matchmaking, which puts me up against players with 100x the experience and gear than me. But fuck, when you read all those reviews, saying that this game is actually unplayable, because you'll disconnect throughout 50+% of your matches, let me tell you:
+
+[u][b][h1]LISTEN TO THE REVIEWS.[/h1][/b][/u]
+Do not buy. 
+
+Most of the positive reviews of FH came from very early on. And FH can be quite intoxicating, especially early on when you are learning the mechanics, and finally pulling off a hard won duel is truly an epic feeling. So what's wrong?
+
+1. Devs aren't fixing exploits. This might appear to be a "fighting game," but it's actually a Super Saiyan Magic Spells game. The community, which is awful, has discovered how to exploit and abuse a few flawed mechanics. Now everyone does it. No patches, and Ubi rarely mentions any hope of a patch. 
+
+2. You'd be incredibly lucky if you fought a match where you swing mideival weapons at each other and block/parry with shields. Unfortunately, that almost never happens anymore in FH. Instead, the enemy will have figured out their ublockable, chainable, cheese combo and just do it over and over and over.... and over and over and over and over. Allegedly, you are supposed to be able to dodge these moves. In reality, they are lightning fast, and it's a p2p game. So everyone always does this now, and you're only hope to win is to do it back. Fun!
+
+3. Magic spells, tactical nukes, etc.: FH has a system called revenge, which long story short means if you've blocked enough or been injured enough, you can go super saiyan when the enemy attacks you and it knocks them down. You can now kill them easily. Does this super saiyan transformation have a cooldown? Nope. Once people figure it out, the entire game is nothing but revenge. There are "feats" (which are spells) you can use in the 4v4 modes. Including a tactical nuke... er sorry I meant "catapult." Again, FH rarely includes sword fights. Mostly it's super saiyans and nukes. 
+
+4. Preposterous Ubisoft p2p. Want to play with friends in a group of 4? LOL! It takes us about 20 minutes to figure out who can invite who, and if it will work. Half of the time on player can't join a friend's invite... but if he invites that same friend, the friend can join. Now multiply that by 4. Enjoy spending 20 minutes grouping only to get into a game, which then disconnects, and guess what? It BREAKS UP YOUR GROUP! This is insane.
+
+5. Full priced game, with immediate expensive cash shop plastered all over every aspect of the single worst UI you will ever experience. Insane grind to unlock even the tiniest aesthetics. Normally I don't care about DLC, Season Pass, cash shop, etc. as long as there are some sort of reasonable limits. But once you've paid full price for this game, then immediately see that 99% of the unlockable aesthetics are locked behind A) an expensive cash shop even though you just paid full price for a AAA game, or B) play the game for 500 hours to unlock a paint color for your armor. 
+
+For Honor is Ubisoft in a nutshell. The core game idea is good, then they seemingly hired people whose sole mission is to make it as unplayable as humanly possible. The worst UI, matchmaking, stability, exploits, and community of any game in years. I ended up getting FH because even though I know Ubi sucks, R6Siege gave me hope. But that appears to be a one-off. If you buy FH for more than, say, $9.99, you are being stolen from and you will regret it. Back to other, functional games now. Peace out.
+This is what happens when you pair a beautiful, well made game with the worst and most atrocious netcode and connection architecture (p2p) to boot.
+
+The game is great other than the horribly expensive season pass, full 60$ price + a store full of microtransactions, etc. But the real gem is how every other match gets randomly disconnected because the game relies on the playerbase to randomly host matches.
+
+Now, Warframe also does that but guess what - their free to play game's netcode works, this full priced game's netcode simply does not.
+
+Oh and no steam achivements, because ubisoft.
+This game could've been great. I honestly feel betrayed by this game and the dev. The early-beta had a very distinct feel to it and now I am barely playing this game. On a full moon I might go on to duel my friend 2 or 3 times, but that's it. 
+This game is a heartbreaking disappointment and the devs deserve every single bit of rage the buyers are giving them. They don't even aknowledge that their game has problems and they basically said that the 95% drop is a lie. It's just 95% steam users they said. The game is doing just fine they said. Well fuck the 95% steam players, let them play with themselves, the game is in perfect condition.
+Jesus fucking christ, this is the last time I'm buying anything from Ubisoft
+I read the positive reviews, I read the negative reviews and then decided what the hell let's try it.
+
+TLDR: 
+If Ubisoft fixes the connection issues, I would switch my review to 'Recommend'
+
+PRO's: 
+- great graphics and it runs well
+- interesting team base modes
+- great environments
+- there is a learning curve which is not a bad thing.  As your skill grows, so do the possibilities.
+- overall, its pretty fun
+
+Con's:
+- Sorry folks, the negative reviews to do with connection issues are real.  Frequent drops, connection errors, maddening lag that always hits at the worst time.  Dropping from games though is not excusable.
+- Game play is a bit repetitive, but to offset that is tremendous oppurtunity to customize and level your character.  Also, multiplayer is where it is at, but then you run into the connection issues.
+
+If Ubisoft fixes the connection issues, I would switch my review to 'Recommend'
+£39.99 Base Game 
+£29.99 Season pass
+Microtransactions
+
+But no dedicated servers? Yeah fuck off
+
+If Ubisoft weren't so greedy this could of been a great game instead its barely functioning multiplayer and a boring single player campaign 
+
+
+
+I'll be refunding then
+The gameplay is not bad.  The fact that it is peer to peer is just ludicrous given that servers do not cost that much to a company as big as Ubisoft.
+
+More frustrating is this:
+
+60 dollar game.
+
+40 dollar season pass.
+
+Microtransactions in line with an F2P product allowing you to FULLY skip progression within your talent trees, costing roughly 30 dollars to boot.
+
+Paid cosmetics is one thing.
+
+This is not an F2P title.  Get that crap out of there, Ubisoft.  This is the last product I am buying from this company for a long, long time.
+[h1]One day you wake up to see a new game on horizon, interesting in design and ideas. You start to be interested.[/h1]
+
+You try close betas and then open beta. And you are still thrilled about this concept.
+You can see flaws and wrong decisions, but you know this is closed beta and theres still months before release. So you dont think about it.
+
+In open beta you find out, there is nothing new added and much of the game still broken in same way.
+You think, the lack of content is normal in beta, after all its to test not experience full game content. And that is correct thinking.
+You think that the bugs, weirdness and no servers are still part of beta. They are about to fix them right? They dont have servers, because its beta not full product, it will be in the game later right?
+
+[b]Then the day comes and it gets released[/b]. You had fun in betas, so full game must be even better. You wanna experience the full load not being restricted by beta boundaries.
+And then a truck driving 200km/h strikes into your home and smashes you into next dimension.
+You see that its exactly same as is beta. 
+Same stupid menu.
+Same P2P connection solution.
+Same low rewards for matches.
+Same mods.
+Same boring faction wars.
+But you jump back to your dimension with your last breath, becouse you still believe in that good gameplay.
+And if you close your eyes, the gameplay is good, really fun and good.
+For the next 30 hours.
+
+After the 30 hours you start to realize something. You like your main hero, he is fun, but now you wanna make him unique, to stand out.
+But you cant, because after 30, 40, 50 hours, your hero will look the same as others. Becouse there no customization variants. Every hero has 3 "set" variants which looks kinda same. Want more sets? Try play 70 hours with the same hero, to get 4th set, which is just recolor of the default hero look. Want one more set? Maybe after 90 hours ...
+After this time, you would expect to have maybe 10 sets and mix them to make unique look. Not here. No matter how many "mirror" matches you will have, you will look the same as the other guy with same hero.
+
+But but ... the gameplay is still pretty good eh?
+It was on the start before you played more than 30 hours. After this time, you will face the real problems of game mechanics. 
+People using certain heroes, using infinity combos which are harder to avoid and if you do, its matter of time, before they will initate this infinite combo.
+But what about other heroes without these combos?
+After the time, new breed of players will appear. These players will stay passive, not attacking you. Because they wait for you to attack and when you do, they parry you and punish you with unavoidable damage. And they will do this until end of match.
+And we are not even speaking about people expoliting ways in certain heroes, that allows them to bend mechanics.
+
+And if this is not what ruins your gameplay experience, dont forget about Peer2Peer multiplayer system, where errors, synchronization rollbacks and disconnects are more than you would expect in non indie game in 2017.
+
+And there you are, you have +- 60 hours of gameplay.
+You sit there thinking.
+Connection is bad.
+Life improving features nonexistent.
+Gameplay is bad and boring.
+And then you notice one more thing that you did not notice.
+Ingame currency.
+The slow gaining ingame currency, people can buy for real money and then buy a lot of gear to get advantage in more than half of mods.
+And there goes ingame economics being bad.
+
+[i]Now we are on end, you sit there, yelling at your screen, because people exploit the game and its mechanics. And you forgot, how much the game was fun, when you had 10 hours and did not know, what all is wrong with this game.[/i]
+
+
+We could continue talking and talking about these things, but theres not enaugh space here.
+So lets make it simple for those who dont like to read.
+
+[b][u]Pros[/u][/b]
+- Gameplay is fun first 10 to 30 hours.
+- Movement physics is great.
+- Graphic looks good.
+
+
+[b][u]Cons[/u][/b]
+- Gameplay is toxic, boring and broken after +-30 hours (Explanation: People start to use exploits and unbalanced combos)
+- Gameplay is still buggy and not polished.
+- Main menus, aftermatch menus and etc. 
+- 4v4 mods are Pay2Win.
+- Very low customization.
+- Unbalanced matchmaking.
+- Peer2Peer connection only. (Bringing a lot of issues with latencies and reaction times)
+- Reputation system with no real rewards. (Every 20 lvl you get 1 reputation level. 1 rep lvl takes about 20 hours, theres 20 rep lvl in the game for each hero)
+- Sometimes nonresponsive controls.
+
+[b]Would I recommend?[/b]
+No
+Only if Ubisoft wakes up and repairs all of this.
+And so far, after two weeks after release, there have been no repair so far.
+
+[b]In numbers?[/b]
+40/100
+EDIT: Well, seeing as how this review is getting a lot more mileage I'll put some more work into it. For Honor at its core is VERY fun. No game plays like it, the combat is meaty and satisfying, and the character customization is just indepth enough that it's something you want to keep playing towards. Actual seperate armor pieces with their own paint patterns to customize, not just "pick a skin". Unfortunately, everyone unanimously agrees that they wish ANYONE besides Ubisoft had gotten this game. Here is a SMALL list of some of its incompetency.
+
+- The game is plagued by 'defense meta'. Daring to attack first is simply a bad idea because if you get parried from it, you are subject to massive health punishment. Despite ubisofts (extremely slow) efforts, this has yet to be rectified at all.
+
+- What this means is that at high-level play, only characters with extremely fast attack, or very safe physical shoving attacks are viable at all. Which leaves us with a handful of usable characters out of a total of currently sixteen.
+
+- This number is made even smaller by the fact that many of these shove-capable characters cannot GET anything after shoving people, so the actually viable people at higher level come down to about three or four characters. To play a game where you stare at eachother and someone attacks first in the hopes they don't lose. (There's literally only one well designed character in the cast. Gladiator.)
+
+- The "timesnap" system WAS a lag compensation system for network play. But Ubisoft removed it because of supposed "input delay" worries. Without lag compensation, characters attacks are completely inconsistent in timing. Some characters attacks will hit you at exactly the same time they start animating, making them completely unreactable. This has totally broken network play and Ubisoft continues to say they will not reimplement timesnap.
+
+- Ubisoft's "public test" version of the game isn't being used well at all. Almost not at all. In their first iteration, they tried to fix defensive meta with MULTIPLE changes to how the core game operates. That was months ago. To this day they've only really implemented one of those changes.
+
+- When they tried to buff the Raider's running grab, the community noticed during the public test that the Raider could actually grab someone in literally one frame and made it VERY clear to ubisoft that this was a problem. Ubisoft did not listen, and let it go into the live game. Only when a Raider won a ubisoft-hosted tournament by just running around in circles and fishing for run grabs, did Ubisoft finally fix this.
+
+- When implementing certain buffs many people were excited for, for their SECOND Public Test, ubisoft didn't allow players to JUST play duel mode to test it. The only available modes were Tournament, and Dominion. Tournament simply couldn't gather enough players even after hours of matchmaking, and Dominion is 4v4. Not a good place to excrutiatingly test things. So that public test was useless.
+
+- The character Conqueror, started the game at top tier because his shield bash could be chained into a light attack that was too fast to punish him for dodging the shield bash. After they fixed this, he instantly became a bad character because he has NO tricks or good parts of his kit. And then he got nerfed. And then they nerfed him again. And again. And again. And again. Conqueror continues to get nerfed directly or indirectly with almost EVERY patch since his initial fix and he has never been helped. There was a point where, during Revenge Knockdown changes, for whatever reason he was still the only person that could be knocked down by Revenge shoves. Hell, even his emotes got nerfed at some point.
+
+- The character Shinobi had their kick ability nerfed, but ever since then have been given nothing to compensate. In a defense game, shinobi's kit simply doesn't allow them to do anything useful that doesn't get them hurt, and only RECENTLY have Ubisoft decided to help them after months of being useless. With just a tiny health boost.
+
+- The character Warlord was notoriously top tier because he was just good at everything. Everyone knew that tweaks to warlord would have to be EXTREMELY minor at best. Instead, they absolutely nuked it back down to the level of everyone else, leaving us with even less usable characters at high level. Many of these changes were reversed, but.
+
+- Despite their "efforts", connectivity has gotten worse and worse and more unstable. To top this cherry off, the rewards you get ONLY update at the very very end of the match. That means that at the end of a long, long match, if the game disconnects because someone left on the victory screen, you lose ten to fifteen minutes worth of experience, loot, currency, and daily order progress. This happens regularily, and often. This is the problem that made me finally quit after so much frustration.
+
+- Ubisoft's current implementation of Ranked mode will destroy this games community. The current idea is to have a tournament for every playlist. So far, they have only implemented the Duels playlist. But already, players in high ranks like Diamond or Platinum have already stated that HOURS of waiting in matchmaking gives them no one. The tournament modes simply can't find four or eight players of their rank searching together. If ubisoft continues to implement Ranked tournament modes, the game will end up with SIXTEEN playlists. To support a small community that can't support the ten playlists the game releasted with. (Only two or three of those playlists are ever populated even now. Playing Elimination or Skirmish modes is impossible. No one plays them.)
+
+- The character Centurion has been notorious in this game since his release. Fighting against him is fine, his playstyle is reasonable. But when he DOES punish his opponent, he locks them into a combo that is almost comparable to Marvel VS Capcom in severity. Many characters can be killed from full health to zero by Centurion. He is the ONLY character that acts like this. Killing you for five to ten long seconds because you messed up one. In 4V4 modes, he also gets a knife that can be thrown to stun you VERY fast. Giving him free kills on anyone he wishes. Patch after patch, Ubisoft seems to nerf him in completely inconsequential ways like ... his stamina or something. Something that does NOTHING about why he's actually annoying. Only recently, months after his release have they tried to be concerned about why he's annoying to people.
+
+- The character Warden began the game at an irritatingly high level because of his shoulder bash mixup. It was a mixup that let him force vortex 50/50's to players even at long ranges. It was nerfed further and further and further until nowadays, it isn't very useful against experienced players. Since then, Warden has sat at middle-tier at BEST, and he's been given nothing to compensate for losing his only good part of his kit. If his zone attack is simply blocked - not even skillfully parried - he gets grabbed for FREE with no way to counter it. This is incomparison to the character Peacekeeper, who's zone attack hits the player BEFORE it animates thanks to the removal of timesnap, and she can cancel it, and she's safe to use it because blocking doesn't punish her.
+
+- The Flicker glitch was notorious for months. It was a glitch that caused moves to look like they were coming from one angle, and then suddenly come from another. A gltich that the entire community hated, and plagued the game for months. Funny enougn, Ubisoft fixed flicker in one of the early public tests, and just didn't bother implementing it for months. Only recently have they actualyl adressed it.
+
+It feels like they still think For Honor is still in beta. I've run out of space to type, but I could go on and on and on. If Ubisoft ever REALLY fixes this game I might come back. I loved this game, but I have to leave it. Any fun is few and far between compared to the frustration it gives.
+Server and matchmaking were bad in beta. The game was addictive and fun.
+Now, you can pay $30 to unlock the entire skill progression as well as $5 for a pack of 5,000 steel. 
+
+The mechanics are cool, but everything else is wrong.
+"I heard that this game had network issues, but it's a free weekend, so i'll give it a try."
+
+34GB DOWNLOAD LATER
+
+"For Honor servers are unreachable at this time."
+
+Well
+If you've waited this long to get into For Honor, or you've been out of it for a while and are looking to get back in, you're simply too late. The game's myriad list of issues, attrocious connection, and terrible matchmaking have left it with a tiny fraction of the players it once had. The problem is that these players are devoted veterans who play the game on a very regular basis. If you're new or out of practice you're going to get utterly demolished and never given the chance you need to warm back up
+
+Couple this with the fact that the game is still plagued with issues and bugs and that DLC heroes have consistently been overpowered and obviously intended to force players to pay for them to stay competitive. This is especially true for the Shaman, who is for all intents and purposes a perfect hero sitting several miles above god-tier, although all of the DLC heroes have their own offending problems.
+
+Edit: I feel it's also worth mentioning that the community is very toxic. It could be worse, it could be a lot worse, but people heckle and berate and swear and throw racial slurs with depressing regularity. You will never find the helpful, friendly guy willing to play with you and give you some pointers, you're only going to find the person who's 100 reputation levels higher than you and teabags you when they win as if they've accomplished something.
+Wow... Just wow... I love this game so much. It's concept is amazing... But the execution of the concept... Is so damn bad. It's sad really. At this point there are so many bugs that you can't really play the game. It's truly broken and I feel as if the devs just don't care. Their trying, but not hard enough. Clearly. If these bugs get fixed, I will gladly recommend this game. As this game is among my favourite medieval games ever to exist. But as of this moment (05/30/2017)... Stay the fuck away from this overpriced garbage.
+A Network Error Occurred. Returning to main menu. (0004000008)
+
+A Network Error Occurred. Returning to main menu. (0004000008)
+
+A Network Error Occurred. Returning to main menu. (0004000008)
+
+A Network Error Occurred. Returning to main menu. (0004000008)
+
+A Network Error Occurred. Returning to main menu. (0004000008)
+I bought """GOLD EDITION""" in 2017 and it said """ALL FUTURE DLC"""  included, so why I have to pay for Marching Fire???????????????????????????????????????????                     FUCKING cheat company Ubi!
+            You need only look at the reviews to realize how amazing yet terrible this game is. While the game can be one of the most entertaining fighting games you'll ever play, it is guaranteed to also be the absolute worst. Ubisoft has decided to make the Ubiconic move of shooting themselves in the foot by crippling their mostly online game with peer to peer hosting and bad servers for anything non-match made. 
+           Speaking of matchmaking, Ubi has decided that they'd throw in fake matchmaking settings instead of actual skill based mm. This means that launching pvp will typically result in lower level and/or low skilled players being pitted against highly skilled or no-life players sporting maxed gear scores and heavily leveled characters. This is less of a problem in 1v1 and 2v2 match-types where skill is the only factor that determines the winner (aside from Meta move spammers). On the other hand, 4v4 game-types are wildly unbalanced by this, as they take gear score into consideration, allowing that maxed out player on the enemy team to near one hit kill you through the magic of min-maxing.
+          As for the campaign, it’s pretty good. It’s not incredibly surprising or anything, but it is fun and can be played in 2 player coop. The collectibles are mildly rewarding and finishing each portion of the campaign on the realistic difficulty will net you some (usually) cool cosmetics.
+
+All in all, just wait until it gets the Rainbow 6: Siege treatment and becomes less aggravating to play before you invest in this game. 
+
+I was very hyped up for this game and i got it 2 days after release, i played the beta and had no problems. I was aware of the peer to peer connection however, i thought my internet could handle it. Guess i was wrong! I would only be able to connect to my friends 40% of the time. However, when it does work it can suprisingly be fun but for now i don't think it's worth the money. Especially at such a high price point.
+*fifteenth attempt at completing a game, finally about to kill the last guy*
+
+A connection error has occured. Returning to main menu.
+
+*breaks down crying*
+[finally got this up to date]
+
+Great game, but in the current state I can't say that I recommend it.
+
+Pros:
+-Each faction does feel like a community, with knights liking memes and stuff while vikings are just insanely passionate. Samurai are weebs, obviously.
+
+-Hero roster is good. All 3 vanguards are solid (with warden being the least) and the following classes being a little less solid. Most season pass heroes are good too.
+
+-It's easy to pick up the game and start to try to understand, but hard to master.
+
+-Story mode is nice. Not needed, but it's nice they put effort in to just have a little extra single player experience.
+
+-Occasional events with event items and emotes are nice to have as well. Halloween was fucking insane. Skeletons were everywhere lmao
+
+Neutral:
+-The game facades as a fighting game. When you get to 4v4 gamemodes like skirmish, tribute, or dominion, it will feel significantly less like a fighting game. 1v1s still do have a fighting game charm, and many people play 1v1s exclusively.
+
+-The game's community has an honor code that some find necessary and others find shitty and useless. Basically, to some it's a cardinal sin to ledge, gank, pop a revenge buff, or do 1-hit killing moves. Personally, I could care less if there was an honor code or not and I roll with what the other player wants in 1v1s. I dont recommend going by an honor code in 4v4s or 2v2s unless you want the game to be boring as hell.
+-Historical innacuracy can bother some but others won't really mind
+
+Cons:
+-Certain characters are broken beyond repair. Shugoki has no openers, but he instead relies on hyper armor (the ability to be hit without staggering) to save his ass. What this results in is a long and turtle-y fight where the shugoki just flies a few light attacks and prays that the enemy tries to attack him so he can get the upper hand. Shinobi is really, really, reactable and his speed makes the game fun, but almost all of his moves can not be punished. It makes it a pain to fight against him. Warlord is probably the least broken of all broken characters, but he has to rely on unlocks to get a significant amount of offensive damage.
+
+-Internet connection is needed for the singleplayer campaign. Why? I have no idea.
+
+-Although dedicated servers have significantly improved connection issues, I feel that there is still a lot of connection issues between players.
+
+-Toxic playerbase. I wouldn't say as toxic as CS:GO, but definitely very toxic. It's easy to look around this, however. Just turn your chat off or ignore morons who make fun of you for playing as Gladiator.
+
+In conclusion, the game is VERY solid, but its as polished as Newt Gingrinch's testicals. Either wait for them to fix it, or if you can deal with inconvienences, go ahead and give it a try. 
+
+DON'T BUY THE STARTER EDITION. IT WILL MAKE YOUR LIFE HARDER THAN IT NEEDS TO BE.
+THE SALT grows on you...
+The core game is pretty fun and addicting, the game looks amazing and a decent campaign is a plus, but that's about it.
+For Honor is the worst matchmaking experience I have ever had, and I play a lot of multiplayer titles.
+I like the gameplay but when you can't even get into a game before it throws you out, it doesn't help much.
+
+I can barely finish a match, without some form of matchmaking error, disconnect or lag. No rejoin feature to speak of, you end up with bots in pvp mode, witch gives the team with the bots a disadvantage in most of the time.
+and you always have to be online even for the single player.
+its a full price game with micro-transactions, and it feels like every bit of cosmetics is a bit more expensive then it has to be.
+NITPICKS:
+- somthing i found out is that you can`t change the look of your story mode avatar ones you have chosen one, EVER. ( because of how Ubisoft stores that informaiton on their servers)
+- every character can go up to reputation lv 30 and each rep has 20 lv, thats 600 lv for each of the 12 characters. thats an insane lv of drip feeding content
+-  if you are in a group witht a friend or 2 and matchmaikng fails it throws you out of the group most of the time.
+- there is a team chat in 1v1 duels.....
+
+If this is the Ubisoft experience, im not spending anymore on this type of BS in the future
+In its current state, i can`t recommend this
+If you happen to live in China or any of CIS region countries, not only you are locked from using English text/menu (thanks for including English voice), but your matchmaking is locked to those who has RU/CN version. Meaning very long queue times even if you live in one of those countries, but if you move somewhere else and try to find a game with this version, you will almost certainly will never be able to.
+
+I need to emphasize that Ubisoft doesn't even give us the option to buy higher priced version, we're stuck. Ubisoft also doesn't seem to realize that not only Russian speakers live in that region. There are countries in CIS that doesn't even have Russian as official language. Nevertheless, they are stuck to only playing with Russians.
+
+I have refunded the game as soon as I found out about it. If they don't respect us so much to put us in reservations, they don't deserve my money.
+
+If you try to open support ticket about the issue they will either close the issue without answering or say there is nothing they can do.
+
+This is for any version you buy in this regions. Steam, Uplay, Retail - all the same. No way around it.
+
+http://forums.ubi.com/showthread.php/1571896-Locked-out-of-english-localization?p=12305165&viewfull=1#post12305165
+
+[b]TL;DR: RU/CN version is locked to only play with players who has the same version.[/b]
+I have never felt more betrayed and let down by a game in my life. I can't help but ask over and over "DO THEY EVEN PLAY THEIR OWN GAME?!" I find it hard to believe that even one developer plays this game. If the developers played their game for even one round, they would immediately see the horrible, glaring and numerable problems it has.
+
+This game is so unbelievably broken in so many ways, be it overwhelming connectivity issues, the staggering lack of balance between characters (or "heroes") or the amount of game-breaking glitches and bugs (ex. zone-flicker) that have been present since day one. And to make matters worse, they relsease new content every single week in the form of new outfits and other cosmetics, instead of spending time trying to salvage what is left of this shriveled husk of a game. And with every update with so called "balancing" the game doesn't change at all, with the exception of the update at the beginning of Season 2, which added a small handful of changes that made the game slightly better, before they destroyed it with the new characters. So instead of trying to repair the imbalances or fix the bugs, they are doing everything they can to squeeze every last cent out of this sinking ship before they finally let it go under for good. Then Ubisoft can scamper off with its pockets full of the money they got from promising gamers a good game and not even trying to deliver.
+
+This game could have been IT. It could have been one of the coolest games I have ever played. Thats why I feel so betrayed, I think. It had one of the coolest concepts I've ever seen. A skill-based dueling game where you get to play as the valiant Knights, the honorable Samurai or the bloodthirsty Vikings?! The sounds like the coolest thing ever. 
+
+I have never been so wrong or so disappointed in my life.
+I played the beta and I owned the game for two hours and I'm sad to say that I loved it. The game that is, everything else about this thing is an abomination. Every game either switches hosts like 3 times or you lag out completely, not to mention the fact that I had 3 crashes in just two hours of gameplay. 
+
+The game is fun, but Ubisoft as always can only deliver half of what the consumer actually wants.
+How to cook a very nice meal Spaghetti Carbonara "For Honor" edition:
+
+1) Choose any multiplayer game mode and press "play"
+2) Go to the kitchen, grap a bowl and mix four eggs, parmasan cheese and some cream to a nice mix.
+3) Go back to your computer, press "Continue" on the pop up saying "Unable to connect. Error 0004502040"
+4) Choose any multiplayer game mode and press "play"
+5) Go back to the kitchen and start preparing the spaghetti. Take a pan and start boiling water. Meanwhile open up a bag of bacon and (optional) any desired vegetables.
+6) Go back to your computer, press "Continue" on the pop up saying "Unable to join the match. Error 0043560000"
+7) Choose any multiplayer game mode and press "play"
+8) Go back to the kitchen and begin preparing the bacon. Make it semi crispy and add the optional vegetables. Stir it a few times.
+9) Go back to your computer and now, choose your hero and press ready. Meanwhile the match is loading you can prepare your plate, salt and pepper + fork and knife in the kitchen.
+10) Game is starting. Weee! Now press the pop up saying "Session lost. Returning to menu. Error 000403000050"
+11) Choose any multiplayer game mode and press "play"
+12) Go back to the kitchen, finish the boiling pasta- and begin mixing pasta, bacon and the mixture of egg and cheese your made in step two- into a pan and make it nice and juicy. Stir it on low heat.
+13) Go back to your computer, press "Continue" on the pop up saying "Unable to join the match. Error 0043560000"
+14) Go back to your kitchen and serve your nicely made Spaghetti Carbonara "For Honor" edition.
+15) Sit by your computer and repeat step 1,3,4,6,7,9,10,11,13.
+
+Enjoy your meal.
+
+[EDIT 17.02.17]
+After 1 hour of google searching for : 
+"NAT problems For Honor"
+" Router name "
+" Router Access"
+" Router Password "
+" IP's "
+" Ports to open "
+
+I finally managed to change my NAT from red to Green which made the multiplayer part work on a scale of 7/10.
+
+But I would still not change this to "recommend" since NO one has to do all this to be able to play a AAA game.
+
+Currently eating left overs from yesterday.. Still good.
+
+[EDIT #2. 23.02.17] (Before the patch)
+To all of you who comments about me being a "XboX noob" with no knowledge about router, internet or likely- go jump a cliff. :) 
+It's not "only" a port problem - there are MANY problems for MANY players. 
+Fact is, if you buy this game, there is 50% chance you wont be able to play it correctly, being D/C'd or get a Ubisoft ban because you have a "screen capture device" installed. That's apparently not allowed by Ubisoft and ban's you straight up for a week or more, with no warning.
+Yes, I have 100 hours playtime since I finally got it to work - but 3 out of 4 friends still can't play this game. Thats why its still a big fucking "NOT RECOMMEND".
+But if you are willing to pay full price and gamble with wether you're able to play or not - go ahead, be my guest.
+
+Looking forward to the patch saturday to see if they actually fix problems or still leave it broken af.
+
+[EDIT #3]
+After patch:
+The game now begins to fail very hard.
+The matchmaking now takes even more time to find a game (Dominion).
+The amazingly unbalanced gear problem, now when everyone is rep level 5+ with maximum gear, makes it 120% cancer for new players to join as they get ganked x 100. 
+It's not enjoyable for new players or new chars.
+The entire Revenge system is now a joke since EVERYONE has a "revenge build" which is just being spammed. No chance for "non revenge builds" to take down players without the help of 3 other guys.
+
+The matches are now being interupted even more frequently. 
+
+Final words : 
+Do NOT waste your money on this broken game.
+Maybe one day they'll fix it, add more content, balance the gear and classes. But untill then - stay away from this cancer.
+1. Peer-to-peer <=== A lot of connectivity and security issues to players.
+2. Game trying to join full lobbies. (Wtf?)
+3. No penalties when you leave a game, leaving your team with an handicap.
+4. A lot of salty players (Nothing to do about it. Players may want to know if there's a good community in a game)
+
+The game is really good in my opinion. Good graphics with good gameplay (Some bugs here and there but there's no game without flaws). The big issue here is the connectivity issues players have. There's a lot of complaint on For Honor forums. I know dedicated servers costs a lot but Peer-to-Peer for a AAA game is... really not good. 
+
+I'm not recommanding this game until Ubisoft fixes their "server" problem.
+
+EDIT: I made a post on Ubisoft's forum to talk about security issues related to Peer-to-Peer. I think that's something you should consider before buying the game.
+
+http://forums.ubi.com/showthread.php/1583329-Why-you-should-use-a-VPN-when-you-play-For-Honor
+Game is great.
+
+Servers are sh*t.
+Season pass is an joke , 3 months now and nothing new (costs only 40€ to get nothing after months).
+
+Ubisoft have nice ideas for games , but always somehow f*ck it up.
+The game in it's current state is, for me, not even fun anymore. It was wonderful in the beta stages (I played both) and I praised it highly to my friends. But ever since launch the game has gone down hill for me. Between the spamming of moves, the toxic community, the simple over poweredness of classes, and the now infamous peer-to-peer connection, the game just isn't fun. Something else has happened too, I don't quite know how to put it into words, but the closest I can come up with is that there's a lack of satisfaction in the matches. You leave feeling more frustrated than when you started. Even if you win a match you leave feeling upset at the game or the players around, whether it was because someone threw you off the map four times or the p2p went out twice (both of those are common place) the experience of playing in itself is dissatisfying. I regret my purchase of this game right now, and maybe I'll come back to it in three or four months with low expectations of anything having changed.
+
+UPDATE: Season 3 about to begin, it's the same shit as always.
+
+UPDATE: Ubisuck really likes to balance the base classes, but oddly enough they tend to leave the season pass characters alone for a good long while as they rofl-stomp everyone else.
+If you live in china or russia DO NOT BUY.  language is region locked but also matchmaking is locked. matchmaking is extremely slow, drops most of the time and you can spend whole afternon just trying to get in a laggy game. been on steam for many years and this is my first review of a game because i feel ubisoft is trying to scam its customers.
+I loved this game at the beginning, but once everyone figured out the exploits and the overpowered characters, it was just frustrating to play. Ubisoft has promised to fix many bugs and exploits, but many are still in the game; For example, zone flicker. I would not recommend this game to anyone until Ubisoft cleans up their act, listens to the community, and fix their game.
+It's a great game. I really like it. and used to have a friendly community, in duels at least
+
+There's only one problem, you will have connection problems more often than not because someone thought than not having dedicated servers was a good idea.
+
+5/5 game
+0/5 connection
+For honor is one of those games that treats the paying player like scum. It feels like a genuine free to play experience for a game you just paid 60 dollars for. Also I hope you enjoy 'microtransactions' in your premium game, because those are here too! As if the slow progress wasn't enough, the game is also plagued with constant disconnects, despite mostly relying on P2P connections. 
+
+All in all, it feels like a mess that actively insults its playerbase. If you really want the game, at least wait until a proper sale, because this is not a 60+ dollar game.
+1. Can only finish every second game due to disconnects from the ubisoft servers.
+2. Peer to Peer in 2017 LUL
+3. Game is poorly balanced
+4. All the money went into marketing instead of developing the game.
+GG Ubisoft
+[b]It's a great game.Interesting story, new style of gameplay, every hero feels different and the game modes have something for everyone.
+
+
+But, The game in a nutshell: "A connection error has occured. Returning to main menu."
+
+Don't waste your time and money until this gets fixed.[/b]
+
+[h1]6/10[/h1]
+20 Feb, 2017 review :
+Gameplay is awesome but peer to peer will ruin the day, all day, every day. Good job shooting your foot.
+
+20 Feb, 2018 review :
+Dedicated servers are here ! This is a really great move, it should have been this way since the begining, I had quite some fun yesterday playing with friends but I had way more fun during this year with games cheaper than this one. The "end game" is awful, as shown in the "For Honor: Season 3 - PC Finalists Tournament". I played against players way out of my league in tournament mode (non existant matchmaking in this mode apparently, had no problem in duel/brawls) and was getting rekt pretty hard but unlike other games where I tell myself "wow those guys master the game, i'll try to learn some tricks and get better", here their gameplay seems REALLY boring.
+
+So still a negative review, if you bought it last year and quit because of the constant DC, give it a try. Playing at a low to medium level is fun, higher is boring. Factions war still make absolutely no sense, one whole year of development to fix a problem (peer 2 peer) that should never have been there in the first place do nothing to improve gameplay, unfortunately. Maybe next year ?
+I've got a fair few hours racked up on this game, I enjoy it and still play it but I certainly would NOT suggest that anyone buys it. It's entirely insufferable for new players (This is coming from someone who has played since the beta). 
+
+Long story short, even if all the classes were equal and everything was working as intended (No idea why they removed timesnap.) the game is HORRIBLY unstable. I would say I end up getting kicked out of matches for various reasons at LEAST 30% of the time. 
+
+It's a visually pleasing game and the combat is actually fun, but there are many, many glaring issues with how the game works that as far as I can tell, have barely been looked at by the devs. Instead they focus on putting in new characters that are.. hah, well, a mixed bag at best. The concept is sound, but as ever Ubisoft poorly executes an idea that could be brilliant.
+
+So in summary, I wouldn't buy this game at this point in time. The community has shrunk drastically and a large portion of those still here are at a skill level you cannot hope to achieve without losing your mind. I'm not saying that because I think you're all crap, it's just the way the game works.
+- Potato Servers
+- unbalanced Deathmatch . dominion is garbage
+- FPS drop after last patch
+- ppl mostly playing one fucking class everytime on 1v1
+
++ Fast to unninstal 
++ Graphics
++ play style
+I played this game for about 130 hours directly after its release, and ignored the countless times one of my friends (or myself) got disconnected, but since there are no servers this happened quite often. Also the Community was really bad at that time, so i lost interesst in the game pretty fast.
+
+Just recently I got back to the game and discovered, that when one of your friends disconnects now, which still happens every 3rd to 5th game, you cant even quit the game and start another one with your friends, since you will get a 10 minute ban for every single gamemode. So the situation didnt get any better, but instead got worse. And the community is as bad as last time I played.
+So if you are thinking of buying this game, to play alone or with friends, i think there are so much more and better ways to spend 60 bucks.
+I would not recommend this game as of right now, but know that I say this reluctantly. 
+
+I followed For Honor along its path through development and I can safely say I fell victim to the hype. I participated in two betas had a lot of fun playing the game, despite its connectivity issues. This is the first game I have EVER pre-ordered and I was incredibly excited to play. As I played though, it became clear that there were several things very VERY wrong with this game.
+
+Servers:
+I bought this game on PC, and at certain points it was impossible to finish Dominion matches. This is upsetting because this leads to an inability to accumulate rewards and unlock gear, emotes, and executions for your favorite characters. At it's worst, the game was unplayable. Even now, so many months after its launch, the frequent connection issues still persist. If you know anything about Ubisoft games, you'll know that this problem plagues their games frequently. It took many months for Rainbow 6 Seige to sort out its server issues. We can only hope that For Honor will turn out the same, although it is incredibly dissapointing that it has taken this long. The devs have at this point promised a change to dedicated servers rather than peer-to-peer. We'll ahve to see.
+
+Gameplay;
+In the betas, gameplay was phenomenally fun. This is partly due to the fact that it was new. After players became experienced however, it because clear that the best way to defeat your opponent was to let them attack YOU and parry/punish them for acting first. Because the combat is based on the ability to punish on reaction, this has become the only consisten and "safe" way to play, which, at higher skill levels, translates to the ONLY way to play. At this point, many characters become 1 or 2 trick ponies, never throwing out certain attacks because they are too punishable. If you watch some of the official tournament footage you'll know what I'm talking about. The devs have promised to give the defensive meta a huge overhaul in the hopes of fixing these issues. From what I've seen, these changes are needed and may help a lot if they are implemented correctly.
+
+New Content:
+Like rainbow seige, For Honor releases two new playable heroes every few months or so along with a lot of new gear options for each hero. Although this is generally regarded as a great feature, it has inadvertantly introduced one of the biggest plagues upon this game: Centurion. Centurion is a Roman character introduced at the start of season 2. His design was centered around lots of mix-ups and the ability to continually harry his opponent with lots of flashy moves. Unfortunately however, the final product was a character that was much MUCH stronger than any other character in the game. Given the parry/punish meta, we can compare the viability of character based on the gauranteed damage they recieve from parrying an opponent. Some of the cast gets fairly high punishes, able to get off very respectable damage, but Centurion's punishes were ungodly. After being parried by centurion players enter what they un-affectionally call centurion's "cutscene." After being parried centurion gets off a free stab followed by an unblockable punch that knocks the opposing player onto the ground. From this stage, Centurion can initiate a ground stab for massive damage. After the opposing character stands they will most likely be out of stamina and Centurion can continue to wail on them as he pleases. After the inital free stab punch stab though, most of the character will either be left at less than 50% or dead.
+
+Player Base:
+I have discussed many of For Honor's major issues, but, as I have stated before, the developers of this game have given lots of feedback and have communicated with the community about how they intend to impliment changes and fixes to lots of these issues. So, given this information, why is this still a negative review? Well, these changes have not arrived yet and there is currently no way of knowing if they will be as satisfactory as they are being made out to be. But more importantly is the fact that the damage of these major issues is already done. The For Honor PC community is currently not large enough to support several of the game modes that the game offers. Deathmatch and Skirmish are essentially dead in that there are never enough players in these game modes to connect to in a reasonable ammount of time. The remaining playerbase then has flocked to Dominion, duel, and brawl, but the game continues to offer daily rewards from playing game modes that you cannot join. The effect this has had on me is the feeling that I am not getting the experience I paid for. While there has been a slight resurgence of the player base recently with the new season, it has overall been on a steep decline since release, and I hightly doubt it will make a full recovery.
+
+Despite all I have stated here, I'm probably still going to be visiting For Honor now and again. The game can still be enjoyable for those wishing to see past its faults, but overall I think this game is really falling short of the potential it had. I would encourage those who read to the bottom to stay tuned and watch as this game continues to envelop, because, despite what I have said, I truly want to be wrong. I hope the developers can fix this game and I truly hope that the player base recovers. But as of right now, this moment, in the state this game resides, I cannot in good conscience recommend this game to anyone.
+Well Ubisoft, here we are again...
+Somehow you have gotten seventy more of my dollars, despite my better judgement. And like a battered housewife, I keep coming back for more.
+I generally don't bother leaving reviews, but I have not been this frustrated and digusted with a game and it's community since the hideous disappointment that was the new Star Wars Battlefront. In fact, both games have a lot in common, the main things being that while they are both beautiful to look at, the shiny exterior hides the shallow and broken insides.
+
+I played both the closed and open beta for this game (on PS4 and PC respectively), so I knew mostly what I was getting into. And while For Honor honestly has the pontential to actually be a pretty damn decent game, it has too many moments that make you want to smash your face into your monitor.
+
+I'll start with the upsides - like I said, it's very pretty to look at. Not only graphically, but the animations are impressively fluid. Even just going from one light attack on a grunt soldier to another is well executed and feels fun and seamless. There is a slight learning curve, but it's not a huge hurtle to overcome with the tutorials, story mode, and basic practice. The different classes are varied enough to not be too similar, but also easy enough to interchange between them. And I really enjoy all the customizations. While it can be something of a grind to acquire new stuff through leveling, there are plenty of things to unlock, both in level rewards and drops. And when you finally start to get into the groove with your character, it's a thrill to see those kills add up. You feel pretty badass, and the executions never get old.
+
+Now, onto the bad - something pretty much everyone complains about I'm sure - the connection issues. Anytime I try to start a PvP match, I get a message saying the match is full. Really? Oh, thanks for the info. Super helpful. Maybe just... I don't know.. keep searching for a match I won't be immediately booted from? And then there's the error messages. Pre match. DURING a match. Terrible lag (and it ain't my internet, I have 100 mbps net speed). Lag even in local, all AI, no matchmaking matches. WTF? Why? And to be honest... and this will sound a bit silly considering this is mainly a multiplayer based game... I hate playing with people. They tend to be the worst about 90% of the time, and those aren't good odds. Just tonight I was in an elimination match with a bunch of Vikings who did nothing but spam the stupid guard break button the entire time. Technically it's not cheating, but it's basically a cheap, cheesy-ass tactic so close enough. That's just frustrating as hell. And I don't care if I sound butt-hurt complaining about that. People who can only play a game by cheating are sad individuals and I can't see how it can make the experience fun. Maybe I'm the lame one for enjoying a challenge, and beating a game based off my own skill. But I digress....
+I stick to bot matches mostly for that reason. And even there the game has problems. The imbalance is pretty clear when in one match my bot teammates are decimating our oppenents, and the next they're dying instantly leaving me to get ganked by four enemies. Beyond this, the rest of my gripes are pretty minimal. I hate that you can end a match with no loot drop. For pete's sake Ubisoft, even dropping one shitty piece of gear that we could destroy for materials would be better than nothing. But that wouldn't earn them microtransaction money, would it?? I also feel the controls are a bit wonky. Now this might be me, or it might be my use of an xbox 360 controller instead of the keyboard and mouse (gasp!), but I swear to the almighty there are too many times one of my blocks or counters don't register when they should. And it is quite frustrating.
+
+I really wanted to like this game. It had the potential to be different and engaging, but the story is flat and the gameplay is rocky. The Division made me distrust Ubisoft... but I gave them one final chance. I will never preorder a game from them again, and I highly recommend doing the same. They have to learn that they can't make promises, take our money, and not deliver. And in this game, the server problems and toxic community are enough to ruin it for most of us. All I have left to say is... I'm so glad I didn't buy the season pass.
+"Recovering gameplay state... Please Wait." ... "Sychronization complete! Let's Fight!" .. "Recovering gameplay state... Please Wait." .... "Sychronization complete! Let's Fight!" ... "Recovering gameplay state... Please Wait." "A connection error has occured. Returning to main menu (0006000037)."
+This P2P matchmaking is a cancer to this game that needs to be removed. So much lag and in games like this those split seconds are difference between life and death.
+It's a shame because this game is pretty fun. However, it's not worth all the random disconnects and terrible match making setup. You'll spend more time waiting in menus than playing the game. Don't waste your time.
+I knew Ubi was going down the dump hole these past few years, yet I somehow, somewhere believed, that maybe, this would be one of those gems, which would be worthwhile.
+And initially it looked like it as well... Sadly albeit only after 20 hours, I'm done.
+
+- File this one under "Cashgrabs" Jimbo
+
+It honestly boggles the mind, how did a rock-solid game end up with the worst netcode of all time KNOWINGLY. We realized Peer2peer is garbage back in 2007 and yet someone up there in Ubi thought "Yeah, that's a great idea, let's not spend comparatively no money for servers to ensure smooth gameplay and functionality, no, let's instead leave it up to players."
+
+Requiring players in this day and age to open up ports on their routers, when I'm almost certain a solid 90% of them either has no access to their routers or has no idea how to do it in order to ensure the game working as it is suppossed to? No, actually, open up ports, that leave you vulnerable to attacks from outside is a great idea. 
+
+Because of peer2peer the game has lost well over 50% of its players already, meaning getting into a lobby is ridiculously difficult and when after probably 10-20 minutes you do manage to get in a game, it will crash after 2 minutes, that is, if it even loads in the first place. Playing dominion is a straight up impossibility at this point, or anything with 4+ players for that matter, add onto that a pile of frame rate drops for no apparent reason and you've got yourself a state this game has gotten to in a rather shockingly small amount of time. 
+
+A lot of people have asked me if it's worth buying this game, to which, my response always was "Get it on sale, but for no more than 20 bucks", you know, at this point, I truely doubt it's worth even those 20 bucks, since even a Free2play model wouldn't save this one. Not to even mention the upgraded "editions" of the game and a 60 dollar(Oh yeah sure) season pass.
+
+This game looked amazing, but once you take a bite out of it, you will discover the endless stream of rot and worms spewing out of it.
+
+And I think, it's time for me to check out right now.
+Ubisoft isn't interested in creating a balanced roster. All they've done and all they'll ever do is release new characters that completely dominate the meta. The game still suffers from bugs its had since launch and a serious, entrenched misunderstanding of how their game plays persists within the developers which causes all fixes to the game to create even new problems, most recently fixing the guard switch bug introducing two new major bugs: the chance for your guard to simply fail and making reflex guard's ability to buffer inputs spotty at best.
+
+Amazing core concept ruined by the worst development team I've ever been forced to deal with, made even worse by a set of community managers who insult their player base and don't respond to clear questions.
+So here's an honest review for this game;
+
+Firstly I love medieval games, and I thought this was the best thing I've ever encountered, it was what Chivalry should have been. The game mechanics are different to any other (very intuitive). However, like everybody else says, the servers are just horrible and I cannot play the game how I wanted. When I heard about the P2P servers, I chuckled a little to myself but I didn't expect it to be this awful. Lag switchers everywhere, game synchronization errors practically every game, and that to me makes it enough for me to not play anymore.
+
+Unless Ubisoft release a statement saying that they're adding dedicated servers, I don't think I can play this anymore. Sad really because I love the game, but It's just to frustrating to deal with.
+The game is great.
+Interesting story, new style of gameplay, every hero feels different and the game modes have something for everyone.
+
+But, I just can't recommend the game. The matchmaking is abismal, try going 30 mins without finding a game on the mode you want to play, even with medium or high activity!
+
+If you don't mind playing matchmaking simulator, go ahead and buy it, at least the single player and the matches against the AI you can play without the matchmaking...as long as you're online...
+A fantastic game once again shackled and ruined by corporate interference.
+
+Thanks for nothing Ubisoft, you pieces of shit.
+
+My sympathy for the development team however, they got shafted.
+
+EDIT: Examples of why I hate ubisoft.
+
+- Dedicated servers - 
+
+As mentioned by everyone with a pulse, there are no dedicated servers. This is not a problem in itself but rather the quality of the peer to peer networking is atrocious. There have been frequent examples of entire games crashing when one person leaves the match. This has happened to me as well, and I can attest the frustration of this event. If this was an isolated occurance it could be forgiven. However it is not, and it still occurs, despite claims that this issue has been fixed. This is also icing on the cake considering there are videos of people being able to DDOS other players by finding their IP's due to the peer to peer system Ubisoft has put in place being so garbage.
+
+-Steel drop rate - 
+The steel drop rate for acquiring items is absurdly low. It takes far too long to get a simple amount of steel to get basic items. How to solve this? Why, a simple trip to the good old Ubisoft verified steel shop! For the low, low price of up to 60 dollars you can get however much steel you need!
+
+My sarcasm aside, the fact that an already $70 game has microtransactions is abhorrent, and the attempted justification for it is even worse. These items may be cosmetic in nature for SOME of them, however champion status is not. Champ status boosts your steel drop rate and your XP gain - which is essential to earning better weapons. Not to mention champion status is a time limited benefit, so you have to keep repurchasing it. And sure you can purchase it with steel, but the exchange rate of steel is geared so that you have to play hours and hours and hours of the game to even see a third of the cost needed to reactivate your champion status.
+I will soon update my review, but for now i really do not recommend the game if you dont have a beastly internet connection due to the P2P(Peer to Peer) connection but if you do? hmm... its still 50/50 because you will end up connecting to people that have slower internet connection. Then you will experience some not all of these, the lags, Disconnection(DC), a lot of  errors in connecting to GAMES and PLAYERS(so much of these), cant play with your friends if you have different NAT statuses (i hate this the most) for example your friend has yellow NAT(can connect to green and yellow only) and you have red NAT(can connect to red and green only), you will not be able to play together, for me it is like LOW PRIORITY in DOTA 2 but not the same of course. Yeah thats pretty much what the multiplayer is right now. I can say though that my internet is below average but in games like, dota 2, CS:GO, Overwatch, League of Legends, some MMOrpg's i face minimal issues. yeah thats all i could say. So Cheers guys.
+
+And i have played the hell out of the Open beta, and not much have change besides the story which i have not tried yet but i will cover that soon. i hope this can help.
+Well it was a pretty fun game when I first got it. A lot like Mortal Kombat meets Dynasty Warriors.
+
+ Now I can't even find a match. Waiting in que for over 10 minutes with nothing. Completely unacceptable. When I do find  a match the game is unplyable due to visual lag. Running on a GTX 1080 with a fresh driver install.
+
+Also, Microtransactions in a $60 game with a $40 season pass is complete bullshit.
+At the moment of writing this review the game is hideously unbalanced. 
+
+The game overall is amazing with the feeling and systems being spot on, different playstyles and general variety. As of recently though with the marching fire update the heroes considered top picks are pretty much really strong in some way and are essentially a pick and win in most situations if someone knows what they are doing. That wasn't so bad as with every competitive game, there's good heroes and bad heroes or whatever you want to call them in other games. Until recenty with the new Vortiger update where with it came along a new hero and buffs/nerfs. The so called buffs feel more like nerfs and the new hero is an abomination. Pretty much what they did is take the best moves from everyone else while keeping it simple, so that he has every tool for every situation, they made them safe so only about 1/3 of the cast can punish him, while also making the moves fast and damaging. Lastly they gave him his unique stance which if you are not stunned in some way counters everything while also having a generous window for error. So that leaves you with a hero who is: the best duelist on the game, the best team fighter in the game with amazing feats and the best anti ganker in the game with his safe kit. Actually he is so bad that he straight up completely counters a lot of heroes and the lad doesn't even need that much skill to use correctly. If you call that balanced then you need to see a doctor. Now imagine having more than one of them...pretty much unplayable.
+After playing the game some more, allow me to refine my review by breaking it up into sections.
+
+But first
+
+*reaches level 20 in the open beta* *game comes out* "You must have participated in the open beta to use this item" .......It's going to be one of those games huh?
+
+-Story
+-Multiplayer
+-Summary
+-Other stuff?
+
+THE STORY
+It's eh. Most missions are the repetive "Kill everyone and get to point A, then kill everyone on your way to point B. Mission concluded." but some missions you'll play and wonder why they aren't a multiplayer mode. There's one mission where you have to defend a massive battering ram and it's crew while it crawls it's way to the castle door along a path swbf walker assault style. You'll also experience cutscenes that are mostly scilence with small gestures and nodding in an effort to minimise dialogue.Finally you will pick up followers along your journey as a respective faction but with no way to play as them or have other players play as them for some co-op action (The conqueror in the knights story for example).
+
+THE MULTIPLAYER
+Ok so unless I'm the first review you're looking at then you have noticed that THIS SHIT IS PEER 2 PEER FOR SOME REASON AND IT'S FOR A GAME THAT EXISTS IN 2017 AND NOT 2006. This is literally Ubisoft showing us how little they care for their customers and only look at us as mindless cattle just eating thier games just so they can harvest our money. I am only reminded of Pokemon Go when it's 1v2 (you are the 1) and you're blocking attacks left and right, activate your revenge and start kicking some viking tail JUST TO HAVE THE MATCH PAUSE FOR THREE MINUETS because someone ragequit. On the positive side they have little side quests like "get three kills without dying" that give you bonus rewards. There is also a battlefield that is divided into a bunch of sections Planetside 2 style and updates every hour or so depending on how well your faction did. Finally the best part about this game is when a game mode says "High activity" it takes EIGHT MINUTES TO FIND A SINGLE MATCH.
+
+THE SUMMARY
++good gramphrics (graphics)
++solid combat
++each class is fun to play
+-story is eh
+-Uplay is a flaming pile of nazi shit in a racist trash can
+-PEER 2 PEER IN 2017
+-SERIOUSLY PEER 2 PEER
+- - - -WHY THE FUCK IS IT PEER 2 PEER
+-Raiders can just spam tackle to win the game
+-the Shugoki are the most overpowered class I have ever seen in a video game
+
+OTHER SHISH
+This is a random assortment of shit. I loved how the female classes get the same armor as the male versions. Too many times have games with knights given the females g-strings and classified it as "Full Plate Armor". The music gets REALLY old REALLY fast. 
+
+Overall this game could be a 8/10 with recommended but the peer to peer shit makes it a 4/10 worth ten bucks.
+and of course they are going to carve this thing up for DLC without fixing the major problems.
+
+HONESTLY the ABSOLUTE WORST part about this game is that the whole time you're playing it you know FOR A FACT this game would be so good if UBISOFT DIDN'T MESS WITH IT.
+
+wait until it's on sale
+
+EDIT: Hey what's up guys it's 2019 and the game still gets stuck in long loading cycles, I'll get "unauthorized game extension detected" by closing the game then getting penalized for cheating, and it's heavily monotized.
+
+forget the sale bit just don't buy it
+I really enjoy this game, since I have almost 500 hours, but I cannot recommend it any longer in its current state, maybe it will get better. It is certainly better than when it launched but at the same time it is also worse. Lots of patches to fix disconnects and connection problems but those things do still happen from time to time. Lots of nerfs to characters who didn't need nerfs and not nerfing characters that do need nerfs. This game has eaten so much of time and the last 30 hours or so have just been mentally exhausting to even try to like the game anymore. The player base is slowly dwindling and will most likely last until the beginning of next year sometime. A grind that makes you feel like you are never getting anywhere at all, look to investing way more than 40 hours just to get decent usable gear for just one of your characters. The game has just been plauged with problems since its launch and I just can't recommend it or even have fun playing it anymore. This game scratched an itch for me that was getting to fight medieval style will swords and shields and stuff. An itch that had been there since Chivalry fell under, and for awhile this game filled that hole. Not any longer though, so long For Honor, I really hope you can make a come back and I can enjoy the game once again but I just can't anymore.
+Gameplay is fun and addicting.
+Visuals are amazing and runs great on my PC.
+
+Bit of a steep price for $79.99, I wouldn't mind if the game actually worked.
+Every time I 'Quit to World Map', my game freezes and have to Ctrl+Alt+Del out.
+
+$80 to push Ctrl+Alt+Del, worth if that's your kind of game
+I'm going to just put my foot down here, and say that peer to peer is the absolute worst game idea for a MULTIPLAYER focused Game. It's even the most prone to hackers and modders. People Teleporting in 1 v 1 Duels beating your ass and there Stat's are even getting nice and fat thanks to this. Lots of time if you get friends that have For Honor as well, you run int even more issue's, I can Connect to Friend A, but Friend B cannot connect to Me, And only one of us can be in the group with Friend A without the other one getting failed to connects. the connection drops are bad, lag-Switches are real and the game is pretty damn good and fleshsed out past the Cheap ass Orochi spam. I would give this a good recommendation, but they fucked up the multiplayer to a point that you almost don't want to play the game.
+This game could be good but Ubisoft don't care, incredibly unbalanced characters meaning only a handful are actually viable to play, with the newer way more powerful ones locked behind a pay wall that forces you to grind for hours on end or pay for instant access.
+One day a developer will make a multiplayer game that doesn't completely screw you over with a unbalanced match. It's not fun to play against a team that have a combined 2000+ hours of playtime on your 2nd match, you start the match with 1 less player AND the they all leave after 1 minute.
+
+The melee combat and customisation is pretty fun I guess.
+You get a great campaign with a really interesting multiplayer coop with lots of really cool gear upgrades which looks suuuper badass but the servers are so bad sometimes I just feel compelled to discourage people from playing it.
+Unless you have played this game from the start or plan on putting 500+ hours into it. Do not buy it. Riddled with people who know every possible combo for their hero making it so you cannot learn to play in online. You constantly get matched up against others who have a much higher skill level than yourself. And when you don't they are most likely going to be a smurf. Although the game mechanics are fun as fuck. The game has an incredibly high learning curve.
+Game has too much premium pay content, I spent hours playing, a fun game, but not one i can see being worth the price being what i got. I had to unfortuantely refund it due to it being the only game i have ever played to give me so much connection issues, as well as people that paid premium prices to basically have everything day one. Thats nonsense.
+So glad I got this game for free. Would not pay a cent for this trash fire of a game. "Matchmaking" is busted most of the time because there aren't as many new players like myself compared to the people who've been playing since launch so you'll almost constantly be fighting experienced opponents. Wait times to get into matches are long, very long if you're not looking to play Gankfest 4v4 or light attack spam Orochi duels.
+
+Multiplayer is awful, story mode is the only redeeming feature.
+P.S: Fuck the Orochi.
+instead of fixing the game ubisoft does assassins creed crossover events and releases new characters to introduce more problems whilst the others aren't even addressed or acknowledged. The devs don't even play their own game.
+
+It can be good, but it isn't. The characters are patched/reworked based on E-Sports tier statistics, not actual gameplay, and the casual player suffers greatly from this neglect. 
+
+The game will never be fair and balanced ever, but in it's current state it's far beyond that of being unfair and unbalanced. Some features, after two - nearly three years - remain broken. Simple, simple things. Ubisoft devs outright said they couldn't fix their matchmaking by skill feature so they outright removed it as their only solution. Now matchmaking is a mess, it might not take as long to find a match, but as a trade off you'll be fighting people who are rep 200 and above even from the get-go. Features like queuing attacks after input despite something happening to otherwise inhibit that attack to go through normally, only for it to happen after the fact and completely put you at a disadvantage is horrible. For a fighting game of this complexity, this feature is beyond bad. You could argue it's a matter of simply accommodating for this feature, but players shouldn't have to accommodate for an inherently buggy feature 2 years into the games lifespan. This should have been fixed.
+
+Instead you have Black Prior and the Wu Lin faction, both of which have brought their own fair share of problems to the table that now, also, need to be resolved. 
+
+But it's ubisoft, what else did you expect?
+
+A polished, properly working game?
+
+After 2012?
+
+I don't think so :^)
+1. Toxic community
+2. many smurfs
+3. shitty  matchmaking (I was rep 6 and were against a rep 247), (dominion, and the highest teammate on my team was 68.)
+4. can take over 10 minutes to find a match
+5. the game is completely dead (Ubi can't really fix it, it's too late. It had it's chance and failed, sadly i could've been a really good game.)
+
+In conclusion:
+don't waste your money on this shit, buy Rainbow Six Siege instead. (There aren't many diffrences R6S is more popular and is a fps game)
+
+Ubi can't really change the matchmaking thought because theres not many people playing it anymore so you almost fight against high level people.
+
+THe Game-itself is very good and addicting but the community and the rest i mensioned is the problem mostly
+
+i have a screenshot here that will show you how bad the matchmaking can be: https://steamcommunity.com/profiles/76561198291521726/screenshot/992386170944956507
+this game is hard to review when it works its nice and satisfying BUT most of the time it doesnt because the core combat system that this game is built upon (it's literally the only thing you do)  doesn't work it is made for 1 vs 1 combat and when you are in a 1 vs 1 situation with a balanced hero (i will get into that later) the game works its satisfying fast and makes you feel like a total badass BUT if you play any gamemode that is not duel or brawl the game falls apart.
+for instance as i said before this system is made for 1 vs 1 but in TEAM game modes there is a whole TEAM fighting against you you might be in an epic 1 vs 1 fight but then outa nowhere some high damage carachter jumps in and screws everything up (this can mean an instant kill if you play as an assasin hero) the way the game tries to balance this is the revenge feature (explained below) the game tries to sell this system as really complicated but its not some carachter may even only have 3 combo's?! anyway this has been going on for too long basicly these systems don't work and i have shown why down below.
+
+Revenge:
+when the player is being attacked by mulitple oponents depending on how many depends on how fast it goes up and when the bar hits 100% the player can press a button to go into revenge mode this makes the player knock everybody to the floor that is currently attacking and dubbles the players health for a couple of seconds meaning for a couple of seconds you can either run or try to fight the problem with the system is this when its a 5 vs 1 the players 200% health will almost instantly be put down and the player dies anway when its a 1-3 vs 1 the 3 players will just back off and wait 10 seconds and then kill the player meaning that the revenge system is absolutly uselsess.
+
+Combat system:
+the basic's of the combat system go this any attack no matter how it works can be parry'd by pressing RMB at the right time leaving the opisite player stunned for roughly 1-2 attacks depending on the hero your playing (meaning you could win a game by only parrying and slowly chipping down the enemy player's health)
+you also have your combo's its pretty basic press buttons in a certain order and combo attacks to make the faster,more powerfull or have special effects some of these combo's can be turned into unblockible attacks meaning that the only thing the player can do against them is parry or dodge or maybe if you are playing one of the many unbalanced hero's your combo's can lead into a stun lock capable of instant killing the weaker carachters in the game.
+there is also the guard break ability every hero posses it does what you  think it does it stuns the player it is used on for some carachters this means a combo setup for others it just means free hits but dont worry because most high level player counter this move instantly by pressing a button at the right time making it allmost useless.
+
+Hero's:
+please before reading this check the Combat system section for this to make sense.
+i would say only maybe only 5 of the 22 are balanced some of them just stun lock you and deal way too mutch damage others have attacks that are too fast some of them have their parry window in the wrong place and some have attacks that can instantly kill you if you have 25% health doesnt that sounds balanced really the only thing you can do against these hero's is abuse the parry system or muscle memory wich is a slow and anoyying process i am not going to go into every hero in detail because that would take far too long but simple google searches should show you wich ones are unbalanced just make sure you don't going into any bias sites telling you everything is fine and balanced.
+
+side note matchmaking:
+if you are like some people and like to just learn 1 hero maybe because knowing to many hero's is hard to rember or what ever reason just make sure you know that even if you have never played with a hero your praticing your player level decides your opponents not your hero level meaning even if i know no of the new hero's attack i will still be que'd up with highly expirienced players.
+
+Anyway this was my review unless they change the intire game i cannot suggest buying this game but hey who knows maybe you are one of the players who cna ignore all the problems and still have fun if you are i am happy for you but sadly i cannot see what people find so amazing in this game to spend 100's of hours in this
+long story short: don't buy this unless you are absolutly certain you want this.
+
+
+
+It would be an incredibly fun game if the servers didn't kick me every third match when there is nothing wrong with my connection, and if the matchmaking system was anywhere near decent  (it's like the game doesn't have enough low level players to make matches anywhere near fair for new players)
+[b]Imagine a fighting game where [/b]
+
+1. Characters and their movesets are overly simple, it's not hard maining more than 2 characters at any given time during your game time. Which also means some characters aren't varied enough, and easy to counter thanks to their monotony.
+
+2. 4/5 of your moveset is worthless as neutral/mixup/combo tools. Neutral game relies on certain 'bash' moves that can only be dodged, yet they're not something all characters have.
+
+3. There is no systematic downside to turtle up, especially against low-tier characters.
+
+4. Footsie is a game almost non-existent to most of the roster, except for a few characters that have either 
+    a. valid neutral tool that also varies in travel distance and timing (like Warden or Black Prior) or 
+    b. good movement speed that functions almost like a lowkey dodge without the dodge recovery and weaknesses (like Shinobi or Shaolin) 
+  Yet if more characters get them, they will receive an uproar from the community.
+
+5. Recent new characters keep defying existing game rules: Nuxia's trap thwarting 'block winning hit', Black Prior's Bulwark Counter redefining 'unblockable bashes can only be dodge'. They aren't OP (in fact, they're under-performing even), but that sets a worrisome precedent, especially when there are 3 other heroes to be release this year.
+
+6. Character move is flawed, when there's a move that can't be punished on whiff and everyone's using it.
+
+7. There's this one move that can't be dodged, which is unintended, so what do we do? 
+    A. Try and fix that move so it can be dodged.
+    B. Buff universal dodge mechanic, so it can be dodged. But dodging it is still very inconsistent, as one wrong flick on your guard denies your dodging, and it lands. And now that dodging is buffed, you can dodge moves that were previously (intended to be) undodgeable on reaction.
+   Devs chose B.
+
+8. 4v4 objective-based modes where you can gain Mario Kart power-ups, some of which are meh while some others OP. Joining late into a game and you're fighting empty handed while everyone else has at least 1 or 2 of them.
+
+[b]Devs are just clueless when it comes to designing and balancing a melee-oriented combat game, much less a fighting game[/b], they built a game on a fundamentally flawed design and keep trying to patch it up by releasing new characters that can overthrow the systematic weakness the game has, but at the same time outmatching previously released heroes. 
+
+Good thing is they also redesign the older cast starting this year, but if I were them I would focus on reworking the old characters and adding new interesting game modes/new twists to existing game modes rather than releasing new characters.
+The match making can be very unbalanced. I am currently rep lv 4 and got matched against rep lv 100's. I quit the match due to the huge skill gap (I couldn't do anything productive for the team) and get hit with a 15 min  queue penalty. There seems to be a lack of new blood in this game and new players will often be matched against skilled veterans. This will discourage some new players and the problem persist.
+Thanks God,I haven't  bought this game!It has got the worst net connection of all times.Errors 000600139 and the others will completely fuck all your games and ruin your experience.Play this shit only for free!
+I re-installed For Honor after a while. 
+
+The game now crash on the splash screen. I tried almost anything. Ubisoft support sucks and I'm pissed off.
+
+-update 25/2/19-
+
+https://forums.ubi.com/showthread.php/1991386-Game-Crashing-using-Core-2-Duo-Quad-and-AMD-64-X2-CPUs
+
+In this 2 weeks old thread on the official forum, ubisoft says game after the last update crash using Core 2 Duo/Quad and AMD 64 X2 CPUs. 
+
+I have a Core 2 Duo processor.
+
+The point is: the developers introduced a game-breaking bug with an update more than a month ago now, and don't look  very interested to fix it with the  urgency needed since they continue to roll patches without addressing the bug that make impossible to play the game for not few players who bought their product. 
+
+This is very bad because is evident ubisoft don't test the updates well and don't take seriously  the customer's care.
+
+Even worse, ubisoft removed the support of certain processors from the specs AFTER the selling of the game.
+I have played this game for quite a while now and when I first started playing it this would of probably been a good / positive review.... but now it's not.
+
+I could write droves about whats wrong with this game but I will just summarise.
+
+The game is pay to win (not in it's usual form) they release a new character and it is SO far from being balanced its stupid purely to sell that season pass....
+Character balancing is literally back seat and they are currently pushing all characters in the same direction with crazy utility while leaving older characters with nothing
+The game has been out x amount of years and the match making is horrible
+There are literally a handful of maps after all this time
+Revenge (ingame mechanic to try to save you from getting ganked) is completely broken
+No camera options to stop your camera from panning out 10 ft behind you so it's pretty much impossible to block / parry
+This is the most cancerous community I have ever seen for any game
+The Devs do not listen to the community
+Any changes are made based on the top 2% of the player base (that tells you everything you need to know)
+
+I wouldn't not advise anyone to pick this game up for actual money in it's current form. With multiple character releases in the coming months there are going to be a host of un properly tested characters charging round pay to win.
+
+Took this from someone else's post which gives you an idea of what I am talking about with new release characters... I hope he doesn't mind but the more people who read this the better imo. 
+
+1) Players who bought the product will experience several weeks (or possibly months worth) of positive behavioral conditioning. This serves many obvious functions, such as maintaining customer loyalty and longevity, among other things.
+
+2) Players who have not received the product will experience a series of negative setbacks. Activision games in particular (and, most likely, Ubisoft) design their matchmaking to pair players that have the DLC against players who do not own the same product. By exposing those players to the new product (and thereby losing to them due to either unfamiliarity or a product being overtuned on release), the general sales goal is that they become encouraged to purchase the product. It's generally very successful and perfectly reasonable if your goal is to meet investor demand. It sucks if you're a consumer.
+
+3) Eventually, the product is adjusted to "meet consumer demands". These are basically balance fixes. The ultimate goal of this, however, is not to actually fix the gameplay aspects of the formerly overtuned product, nor is it to satisfy any community outcries or complaints. The true sales goal is to repeat the same monetization technique on the next character when that product becomes available. The monetization technique is obviously less effective if the previous character before it is just as overtuned. Many potential consumers will remain satisfied with the old product, and you lose a great many sales in this event.
+
+In any case, don't take the developers lightly. They're hyper-aware of these scenarios, especially Ubisoft's developers. They always know six months in advance just how much consumer outcry will be produced by an overtuned product, but will always do nothing to address it because they have no reason to. Telling their shareholders "we care about what the consumer thinks" is suicide.
+
+None of this will change or fix itself unless their shareholders pressure them into reanalyzing their products' flaws on the development level. For that to happen, the publishers have to be pushed into a deficit so far that they become desperate, and in that event the game will likely close by executive decision long before they're even given the chance to consider addressing consumer concerns.
+I feel ripped off and I got this for free during a promotion. It is the most salt inducing game I have ever played. The biggest problem is blockable attacks going straight through your guard almost half the time. The latest update broke something, I even tested it out in custom matches with friends, the server tells one person they're attacking from one direction, but tells the other guy that they're attacking from a completely different direction. It's madness.
+As much as I really enjoy this game, I cant recommend it. The game is heavily imbalance which leads to frustration. There's still a good base for a good game here, Its just sad to see it ruined by things that should have been fixed closer to release
+Well, let's start about parts.
+
+-This game have f2p model for 15€, no jokes, wayyyyy more abusive than Warframe, 9-15 day to unlock 1 guy, and after that u need to equip it, so unlock others guys delay a lot, lul
+
+-This game have almost 0 newbie people, so if u buy this game you will be rekt every single time, for real, there is no newbies, because the up point.
+
+-I recive the game for free long time ago, and come back now, the game it's fine now, the matchmaking it's crap and the f2p almost p2w model in a 15€ game look like a joke
+
+I don't recomend this game, even if u got a free copy like me, or wanna expend 100€ to unlock all, because even if u have all unlocked u don't have more newbies to play, so u will play vs 9999999999999999 hours guys
+Poor execution on potentially one of the greatest 3rd person fighters.
+In a perfect world, Ubisoft would not have been involved, and it wouldn't of taken a year for developers together their heads out of their asses and start making real changes. This is the case however, so fuck off and don't buy this game.
+Okay, the base game is fun, but there are so many problems. It has a lot of potential, Ubisoft ruined that.
+
+The main issues are:
+
+1 - Matchmaking needs a fix, I get matched against players with a much higher skill level, ruining the fun for everyone.
+
+2 - The community is toxic. People exploit unbalanced characters, double team and play terribly. I understand this is meant to be the player's decision but it needs to be fixed.
+
+3 - Ubisoft does make constant balance changes, however it leaves many characters overpowered, with certain moves or attacks that are almost unstoppable, while other characters have no chance.
+
+4 - A lot of bugs and issues, common in many games but Ubisoft is perfectly capable of fixing these.
+
+With friends, great fun. Online can bring a completely new experience.
+I cannot recommend this game in its current state.
+
+As much as this game has a LOT of potential, there are just too many mistakes on the developer's part for me to recommend more people to give money to them.
+
+First of all, the matchmaking is entirely busted. They reset the 'skill rating' of every player recently for who-knows-why, and now matches are brand-spanking-new players versus the Pro-League Elite. 
+For example: A game I got matched into recently had a Rep 8 player on my team. That's about, 10-20 hours worth of progress. Not good, but starting to come into their own. 
+On the enemy team, they had a Rep 500. That is at /least/ 1,000 hours or more in the game. They should know everything about the main cast and knows how to punish reliably. 
+
+For a game with skill-based matchmaking this is absolutely unacceptable.
+
+To top it all off, the game's balance is a mixed bag. Characters who are viable trump everything, because most of the cast are old and rotted from lack of meaningful balance updates, and the Wu-Lin are the absolute example of this. They aren't overpowered, but they ran all over the cast until Black Prior came out, who had a chance against these guys. 
+
+Do not buy this game. Vote with your wallet, and decide that this piss-poor management of a game is not to be tolerated. Even if you're a player coming over from PS4, it's not worth it. 
+
+Will update this review if Ubisoft manage to get their bundle of sticks together. I do not have high hopes.
+This game is heavily flawed, and may be a great game, but many things need to be fixed first for that to happen. But seeing the current patches they are not going to fix it soon. Player base is toxic and harmful. Gameplay is unbalanced, certain characters are nearly useless and superseded by others.
+
+The worst game i have ever played i rather play fortnite with a squad of 7 year olds with Tourette's syndrome then play a other hour of this shit game,I had more fun looking at the damn download then actually playing the fucking shit game
+0/10 garbage game shit balance but that`s not the reason for my negative review i love badly balanced games i have played league of legends for about 13.000 hours (and i regret every single one of em).
+The real reason this game gets a bad review is that when i have found a game and selected my hero and then i go for a piss  ill get banned for 15 minutes for inactivity and thats annoying as fuck or how most for Honor players would say it is : absolutely incredibilis 
+
+
+The following paragraph is a quick summary of my thoughts on this game. Below it is the in-depth review. This game has great mechanics, but the developers consistently fail to learn from their mistakes. Some of the most hated abilities in the game get copied-pasted onto new characters. Case in point: black prior is a replica of conqueror. I'm okay with learning to fight around new characters, but there's no reason to replicate what people already dislike and re-release it. Obviously, every game has its annoying characters, but some of the ones in this game really stand out. Matchmaking here is a also science experiment gone wrong. This is a fun product, but it's often immensely frustrating for the dumbest reasons. Play at your own risk. 
+
+Below, you will find a more in-depth list of what I want to say is wrong with this game.
+
+I'll start this off with saying this: I think For Honor has broken a world record for awful matchmaking. At level 6, with about 100 hours of game time, I queued up for a random 1v1. Within the first three seconds, the game threw me into a match. My opponent? Level 192. Game, you did not even TRY to find me someone to play against. You're telling me no human being was playing for honor that was around my level? Really? Add to this that matchmaking sometimes takes forever for reasons beyond me. Sometimes, like the above example, it gives me a quick game. Other times, it takes several minutes to find one other player. And typically, the longer you wait, the worse the matchmaking, because the algorithm becomes less strict the longer you queue. 
+
+Next point is the character balance itself. Let me quickly introduce you to a mechanic called hyper armor (which, by the way, I do not think is OP). Put simply, this character effect means that your hero will not be interrupted by enemy attacks during his wind up animation. Think of this as very temporary CC immunity in For Honor. This is typically a trait of heavy characters, usually seen when they throw a slow, heavy attack. So obviously, this tank character mechanic is best applied to the heavier heroes in the game. Except Berserker, who is an assassin, the lightest class of characters...and he has hyper armor on nearly every attack. He's got hyper armor on his LIGHT attacks, which are faster than the tank heroes' heavies. I get the idea of Berserker is that he's supposed to be so bloodthirsty that he's unstoppable, but then why make him an assassin? Why give someone so small so much cc immunity? Just design him as a bigger, slower character to make use of the hyper armor without the benefits of being a fast dodger as well.
+
+Compare that to Lawbringer. He's this Hulk-sized monster in heavy metal armor with a massive halberd for a weapon. He's got an attack where he just lobs a grown man over his head like some plaything. Surely this beast of a knight would have loads of hyper armor to ensure that his slow, heavy attacks have some advantage to them, right? Wrong, he's got hyper armor on one attack that does no damage, but slightly moved the enemy backward. Frickin' Shinobi, a tiny ninja guy who backflips all over the map, matches Lawbringer in hyper armor. They both have it on a single attack. Why? Just why?
+
+Oh, and remember that new character I mentioned? Black Prior, who just copied already hated abilities? Picture this: you're playing For Honor, a game where timing and reaction times are critical, where game sense and knowledge can carry the game, and where blocking, parrying, and dodging are crucial components of the fight. You're having a blast with this great combat system! It's a genuinely awesome feature in the game! And then Conqueror comes in. He pressed a button, hits you with a pretty fast, but reactable shield bash, and gets a guaranteed attack afterward. Rinse and repeat, you are spammed by the same attack all game. Frustrating, but one dimensional. You learn to adapt. 
+
+Then they release Black Prior. He spams the same thing at you: shield bashes left and right. Okay, you learn to dodge them. But wait! He has another kind of shield bash, but this one flies from another direction and hits you. Now you have to learn to dodge two spam attacks. But wait! He's got a THIRD shield bash! I should mention that none of these can be blocked or parried; you can only dodge. Oh ho ho, but wait! You thought you could dodge?! Black Prior has a special attack, perhaps two, that are specifically built to counter dodges! They track you! So just in case you outplayed the Black Prior on three different occasions, he's got another attack to cover his weaknesses if you dare dodge again. Granted, he has to feint his shield bash, but if you don't dodge, you risk getting hit with the shield. If you dodge, you still get hit. The timing to avoid the damage, whatever it is, is short. Real, real short. Why? Cuz why not, everybody loves spamming, right? Oh, but what's this? You dodged and he failed to throw his heat-seeking attack? Well Black Prior, bless his soul, has a followup attack, that comes after a MISSED shield bash, that is fast enough to prevent an enemy from getting any significant attack in after they outplay him. So even once you've got the dodging shield bash/blocking undodgeable attack comb down, you still can't properly retaliate. Well golly gee, thanks Ubi! No disrespect meant for any Black Prior players, but goodness, this character just is not fun to play against. I get it, he's new, and I get that there are new things to get used to about him, but this is just too much. This game did not need a new character whose kit revolves around spamming the enemy into a corner with unblockable shield bashes. Other character imbalances exist too, obviously. Many people agree Warden's shoulder spam is a little too strong (from both playing him and playing against him, I think he could use a slight nerf), and some of the Wu Lin characters are a dumpster fire that happen to be good at killing things. Not ridiculously overpowered by any means, but certainly annoying.  
+
+To wrap things up, we've got a solid combat system here with visually interesting heroes, but several weird design choices. Matchmaking is an urban legend here; some say it exists, but evidence sometimes points to it being fake, and no game would be complete without some furious members of the community making sure you get your recommended salt intake for the day when they open the chat window. Again, play at your own risk, and if you do, then do yourself a favor and don't take it seriously like some people do. The toxicity in the community doesn't need to grow.
+Ahhh For Honor.
+I first saw you when a steam friend was playing and i watched him.
+I thought "Hey thats a nice game but my laptop cant handle it so i dont care", but the i got a new laptop (it was still shitty i play at 30-40 fps minimum settings).
+I bought the game during christmas sale for pretty cheap.
+Started playing and whenever I tried a new hero i will go on practice and see all their mix-ups.
+(I mained warden for the first 5 hours)
+Then i started playing other heroes and eventually bought gladiator.
+I fell in love with him.
+I may have still been a new player but i loved his kit.
+i got him to rep 1 and I got an amazing feeling getting my first skin.
+Then i bought Tiandi cuz i thought he was op, got him to rep 1 and back to gladiator.
+Now im 100 hours in the game.
+Im not good at counter guard breaking, I dont know when to guardbreak, I know a few great mix-ups and can faint somewhat ok, even get a deflect once or twice, but...
+even when my gladiator is rep 1 level 16 and im not even that good at the game, I just get matched against people that are gods, they can mix up like a woman in the kitchen, they spam conqueror (idk how to spell his name)'s shield bash and warlord's headbutt.
+I cant Ubisoft
+I cant 
+Im not having fun
+I start up a duel and just lose 0-3
+And to all of you saying "git gud"
+How?
+i dont want to sit in practice for hours and watch every single tutorial about the hero i use just so i can actually do something.
+I have no room to improve
+How can I improve when every time i play a duel i get matched with someone i cant possibly beat?
+And i cant practice with bots because its way different than a human.
+
+
+
+So...
+After 100 hours in the game and 8 years of video gaming I finally did my first rage quit
+I even beat all dark souls games without raging
+Whenever I see "Skill range: Wide"and "Reputation: Wide" when matchmaking i just dont want to play the match that will start.
+Thanks For Honor and Ubisoft.
+I wont play this shitty game anymore.
+Do you know how many KitKats and Nesquick hot chocolate i could've bought with the money I gave you.
+And finally a special fuck you from me
+you hold a dear place in hell for me.
+
+Been playing since the beta and can safety say it's been going down hill since then. I bought the game for the beta and 2 years later, I regret it. It's dead on PC but on console it's quite active but the console version is horrendous with 30fps.
+Definitely one of the most terribly managed games ever, like honestly I have no clue what the fuck ubisoft is doing right now its just a joke. This game thrives off one hero at a time with just spammable abilities with no punishments. Almost every game you just face off against the same hero and its just so repetetive. I want this game to get better but im hoping even more that is just fucking dies because im addicted to this garbage.
+Requires 'Driver Signature Enforcement' to be enabled in order to run. I need this so certain devices with older drivers will work properly. Even if I was wiling to, it is not feasible to re-enable this every time before I play, then re-dis-able it afterwards to allow the devices to run.
+
+A video game should not require me to make configuration changes to my operating system in order to run.
+
+A shame. A friend showed me it on PS4 and I was looking forward to giving it a try. It even appears to have Steam Inputs set up natively, so I can easily use my Steam Controller as part of my setup, which was a huge point in its favor. But I can't be expected to change how my computer is configured just for one video game.
+
+I've requested a refund.
+L'honneur n'est pas présent dans ce jeu, la mécanique de jeux a totalement changé / Honor is not present in this game, the game mechanics has totally changed what goes to the disadvantage of this game and I am a former player For Honor I find it totally ridiculous that the game and as much. Ubisoft is scared of losing its community by of adding characters and mechanics of gameplay disadvantageous for me this game dies. For Honor is obsolete
+I remember playing this game back when they had a free beta access for everyone to play and it was super fun. Fluid-game play and it really felt like every action you did meant something. Instantly pre-ordered it, hoping that Ubisoft would expand on everything they did during the beta access. Needless to say, I was very disappointed when the game was actually released, no balance in anything, especially in matchamaking. Ended up giving up on this game even though I had high hopes going into it. At least with this, I learned to wait for reviews before purchasing any game.
+if you want a game to rage at get this one, its a terrible game and all it is is broken characters, it just op characters and spamable unblocks witch is horribe this games over hyped and dead
+When I play I see only the picture but the information as to which direction the enemy attacking! I can not see just the picture! FIX IT OR DELETE THIS GAME FROM MARKET.
+Like many Ubi games before it, For Honor manages to be a stellar game for the first couple years. Just as it reaches the apex of great gameplay and balance, they tank it with "rebalancing" bulls**t that destroys its mechanics, gameplay, and overall likeability. Rebalancing AI to be practice dummies at level one, to a** blasting demigods at tier two, and finally unparalleledcancer.exe at level three was a HUGE mistake. It makes it unenjoyable when you sit down to have some fun 1v1ing bots before they read your input and successfully parry, block, and deflect EVERY move without a feint. Dominion and breach, as well as brawl are overall pretty enjoyable, especially with real players. Sometimes, the timesync and lag in pvp duels and brawls give one party an unfair advantage which can generate a salt mine. Quests and singleplayer  pve is unplayable with the current AI. Just try the weeklies. God help you.
+I played For Honor for several months in 2017 up through a bit after the release of the Shaman before life getting in the way, and I picked For Honor back up recently to see how the game was doing. I've played many matches in that most recent period, and gotten a feel for the changes that have taken place in the intervening time as well as the new champions that have been added.
+
+But I can't say I had fun doing so.
+
+Two years have passed since the release of the Centurion and Shaman, and that has apparently not been enough time to fix the issues they had at launch. Being locked in a sequence where you cannot respond and take very large amounts of damage by a Centurion still feels incredibly cheap, and even if you do dodge the first part of the sequence and attempt to punish, don't worry, their light attack will still hit you and put you back to square one. The Shaman's hitbox-defying nature of their leap still exists, and still embodies the most frustrating aspects of playing against Peacekeeper (bleeds, extremely fast lights) and takes it up a notch.
+
+The base heroes have been changed, most notably and frustratingly by the addition of hyper armor to what seems like at least 50% of all attacks. The most ridiculous application of this comes with the Berserker, who can feint into an attack with hyper armor. In the original rendition of the game, hyper armor was rare and while still frustrating, did not make the game such that your blows against the enemy felt impotent since they could always keep trucking right through your heavies due to so many champions having easy access to hyper armor.
+
+There are other issues that I have not touched on, such as the imbalanced matchmaking, but the last I will touch on is Black Prior. I realize that BP was just released and as such is in an unbalanced state and tweaks are coming, but the design of it shows that Ubisoft has learned nothing from the complaints about Conqueror. The spam combo of light+shield bash+light+shield bash (repeat) exists in the arsenal of the Black Prior, and is the exact same as the one in the Conqueror arsenal. Couple this with a generally very safe offensive kit aside from this combo, and almost all champions struggle against Black Prior. While hard counters in this game don't really have a place, if all but one or two champions have a very hard time against a single champion regardless of player skill, something is off.
+
+The thing is, I really want to like For Honor. It is a very unique approach to fighting games that I really haven't seen anywhere else, the animation quality is generally superb, the blows (barring the use of hyper armor) actually feel as if they have some oomph behind them, and I initially enjoyed the game when it was released. However, at this stage, this game unfortunately brings much more frustration than anything else and little in the way of enjoyment even when you do win. If you are looking for a game that you can pick up and enjoy once the initial glamour of having just acquired it wears off, I would tell you to look elsewhere.
+HELLO WERE UBISOFT LETS ADD MORE CHARACTERS WITH IFRAMES AND TERRIBLE ANIMATIONS HUEHUEHUEHUEHUEHUEHUEHUEHUEHUEHEUHEUHEUEHUEHEUHEUHEUEHUEHUEHUEHEUHEUEHUEHUEHEUHEUHEUEHUEHEUHEUEHUEHEU
+[h1] Pros [/h1]
+-Good graphics
+-Great sound and music
+-Good multiplier combat
+-There is some good customization
+
+[h1] Cons [/h1]
+-A huge learning curve for those new players
+-Toxic community
+-A Huge problem with balance.  People who are new will be put up against people with 100+ hours
+-Hackers everywhere almost in every game
+-You really have to grind to try get new characters which can take up to days. It tries to get you  to buy their microtransaction
+-Not enough modes online. There are only five main modes Dominion, Brawl, Duel, Skirmish, Elimination
+-Story
+
+[h1] Final opinion [/h1]
+I cant say i can suggest this to anyone. Its unfinished and way to many hackers. The game can be way to unfair for new players. If your going to get this game wait for a sale. It is fun with friends but only for so long.  The microtransactions and the amount of grinding really ruins this game. It has a lot of potential but at the moment its not worth it.
+
+[b] Rating 4/10 [/b]
+Pretty bad experience straight of the bat. I'll list the pros and cons, still.
+
+Pros:
+-Beautiful game. The environments are great.
+-The idea. The combat system is alright and innovative, and the 3 factions are all awesome in their own right.
+
+Cons:
+-Matchmaking. My very first match (as a lvl 1) was against a level 42, a level 13, a level 8 and another level 1. Also, my team had a bot, because not enough player.
+-Clarity. What the hell is going on? During my first game, despite my team's point being higher than 1k (which was apparently what was needed to win, according to the in-game tutorial), my team lost, because we got killed and the game wouldn't let us respawn. No explanation was given for any of the victory conditions and events happening. Very unclear and confusing. Also, never got told my character had abilities; discovered them while mashing.
+-Lack of players. The matchmaking queues are really long. Also see the above point about the levels not matching.
+
+In summary; should you get this game? I'd say no. The game is unclear about how it functions, and isn't friendly to new users. Basically a situation of "You had to be there since the start". The concept is cool and the game is visually appealing, but not much for playability.
+This game is trash. The heroes are WAYY TOO unbalanced. In order to get really good, you have to train for literal hours. The matchmaking system is horrible. My friend and I played for almost two hours straight, and each team we were matched up against was at least five or more reputations above us. The servers aren't advanced enough to search for players that are on the same skill level. If you like to play fighting games, I do not recommend this one unless you are okay with unfair and unbalanced gameplay. This game is sure to make you very very mad at times, and less mad other times. Playing with friends isn't fun because of the broken servers, so there goes your multiplayer option. The campaign is long and boring, with no actual story plot except for some evil knight trying to take over (no spoilers). A lot of the game is very advanced fighting. Hours and hours of training yourself and your reflexes wasted on a few over powered characters. Just wasting my time.
+~A level 12 Warden can spam shoulder bash and beat a top 30 player with low to medium difficulty. 
+
+I love this game to bits, but it is a shithole of bullshit, balance issues, ui bugs, and a community that harbours an aggressive number of "just dodge" edgelords.
+
+None of which Ubi wants to fix, instead pumping out newer and more broken characters e.g. Black Prior for just 25 quid each season.
+
+
+Worst game ever. The fighters are horribly unbalanced, the game play is trash, and the worst part is, it is impossible to get better. Why am I, someone just starting in the game, getting matched with people who are 100 levels higher then me, and some like elite skins, only to fight 3 matches where they somehow take no damage and kill me with one move. This game is one of the worst games ever, and by far one of the biggest wastes of space ever. NEVER GET THIS GAME!!
+blah blah blah unbalanced 
+
+menu glitches about every other fucking time i start the game
+even if i exit the game, it doesn't actually close unless i end it in task manager
+as a rep 58, matchmaking is fucking broken, i wait AT LEAST 5 minutes to get a game, and even when i do get a game, there are rep 0-10s paired up with rep 100+s every. single. time. never any close or fun matches. you steamroll a bunch of noobs or you get steamrolled because you have 2-3 people who don't know what the fuck is going on and you're going against several sweaty tryhards that have more reps on their character than half of your teammates even have combined.
+It's just pretty terrible. Many game breaking glitches in the story mode and i'm genuinely not interested in the PvP if its going to be as flawed. I got this for free and its still not worth it.
+I won't even explain why this game sucks! Just research for it at least on youtube! And after that, you instantly shall see the disgust! Thanks for your attention!
+Well, at the first glare game took my attention probably because i got it suddenly for free last year >_>
+Pretty awesome design but i feel like it's missing something important to keep me playing and can't tell what is this :S
+alright boys and girl you want a balanced fighting game GO SOME WHERE ELSE BECAUSE THIS IS NOT IT.
+so lets start with this UBI is a bunch of money hungry cuck-holes that dont care about this game. this could be the best fighting game in the world but they refuse to make it better. 
+so now your sitting there looking at this review and your thinking damn dawg why you so mad so lets dive deeper shall we. ive been playing this game for over two years and nothing has changed AT ALL. Everytime this game puts a new character out they will be OVER POWERED AND A LIVING HELL TO FIGHT AGAINST. They have even come out and said we only listen to top tier player base for this game. News flash UBI cucks your top tier player base isnt what keeps this game alive. so now you have the inside scoop on how they think here is a list on why you should never waste your hard earn cash on a piece of shit of a game.
+1. THIS GAME BEEN OUT FOR THREE YEARS AND THERE STILL NO DEDICATED SEVERS AND IF THERE WAS UBI I WOULDNT BE FIGHTING KUNG POW FROM FUCKING CHINA WITH 250 PING IN A RANKED MATCH.
+2.the light spam for characters is un fucking real like nigga who promotes 400 mil sec attacks over and over again and if they are lagging go ahead and drop that down to 300-200 mil sec attacks.
+3. the win rate for characters is uneven asf right now the new Chinese characters are at the top i mean NO FUCKING surprise THERE RIGHT. then you have broken animations for them so you cant tell what they are going to do and to top it off once again they are light spammers all of them.
+4. so in the game there is a class system you have vanguard,assassin,heavy, and hybrid. now lets talk about what makes them different. the big one is reflex guard. so if you dont know what that is ill explain. basiclly in the game you a small directional reticle that shows you where attacks come from and where you need to block. now if you hold the control stick or mouse there you will block. but with assassins and some hybrids that will dissappear over time and that is to add some balance for the fact you have 400 mill attacks. the trade off is you also gain the ability to deflect. what is a deflect you ask its simply a different and more rewarding way to parry and adds more damage to attacks*heavy sigh* SO WHY THE FUCK DO VANGUARD CLASS ALSO HAVE THAT. HOW THE FUCK IS THAT FAIR!
+5.there is a bug in the game right now that has been there since it has came out that if you go for a guard break (GB) at the same time as someone else. if that other person is lagging they will auto get it because for some reason the game rewards niggas that lag.
+6. this is my biggest problem in this game. UBI keeps releasing new characters which is nice right. WRONG! the old characters cant keep up with the new one because they still have a old fighting system in place so which in turn forces you to play a updated character or youll be left in the fucking dust. 
+7. the hit boxes in the game are so fucking broken i have jumped over characters when i go to attack. like nigga what?
+Ive grown to hate this game it has broke me im done with for honor do not buy this game now or ever they will never fix it. FUCK YOU UBI SOFT IM DONE
+This game is one of the worst games i have ever played. dont get me wrong it hadd potesal but now the developers have ruined the game. the devs is idiotic and does not listen to the players, (wich would help the game). i realy want to like the game but all i can say is "NO". (F*** this game) 600kr (almost 70$) at release. insane!!!
+Disease inducing, unbalanced abomination of a game. If you're a competitive type of player do yourself a favour and forget that this game exists. If you're a more simple-minded person this game has a lot of cool, flashy finishing moves and pretty deep customisation. Despite that I still can't give it a thumbs because of horrible balance.
+at the moment i would not recommend this game to anyone for many reasons. the game itself is actually fun to play my problems with the game are that the heroes are unbalanced (shugoki) and there are many bugs in the game and its a sort of pay to win system you either grind and get one hero after grinding harder than in gulag or you get no hero.
+
+Fix this fucking game, please, with every patch the heroes get more and more hyper armor and unstoppables. It's not hard to figure out that the game is bad when you have mixed reviews. Take shugoki for example, a hero shouldn't be able to spam an unstoppable hug of death anytime he wants and get health back from it not to mention being able to throw an attack after he drops you. People say "all you need to do is dodge", but here is the unfair bit...the player playing vs the shugoki needs to play on a much higher level and concentration to win than shugoki himself. You need to avoid that hug anytime he goes for it whilst shugoki also gets hyper armor in the process of his attacks, so its easy to say you can throw an attack without a worry, and if you get parried just spam that hug of death to get more health back. Fix this game please.
+Christ, the "Starter Edition" thing is an absolute trap. I don't know why they do it. It's impossible to upgrade to a Standard Edition, so either you request a refund (and lose all your progress) or you just chucked $10 down the drain. The unlock requirements are ridiculous: I'm getting 13-15 gold a win (nothing on a loss), and it costs 6000 gold to unlock a hero. 
+
+Assuming a standard match time of 3 minutes (which is on the low side, but I'm being generous), that's 20 hours of play to unlock a single hero ASSUMING YOU WIN EVERY MATCH IN THAT TIME. Realistically, if matchmaking is working (lol) let's say you win 50% of the time, and let's say the matches are 5 minutes, it would take 71.4 hours to unlock one single measly hero. Almost three whole days per hero. One single hero out of a huge roster. I hope you're willing to dump 1000 hours into unlocking the core content. 
+
+This is Dungeon Keeper: Mobile levels of ridiculous. It seems intentionally obstructive, to force you to go to the ingame store and buy gold. Another great game ruined by greedy microtransaction bullshit. The gameplay was fun, but the Starter Edition left a really sour taste in my mouth and I cannot recommend it in good faith.
+
+EDIT: I swear it was 6000 gold/hero when I was looking before, but now it's 8000 gold/hero. What on earth? Add another 15–20ish% to those times. The DLC ones are even more (which is kinda expected tbh) but I'm talking about base game classes.
+
+EDIT2: Jesus H Christ. I got this during the sale, applied for a steam refund to buy the standard edition aaaand ... the sale ended without my refund coming in and now it's $50. Nobody from Ubi will ever read this but if you do: the "Starter Edition" just lost you a sale. I'm taking my refund, and not buying the standard edition. Why on earth would this exist? I didn't even realise I was buying it: I had For Honor on my wishlist, and the wishlist said it was on sale for $10—there was 0 indication I was buying Weird Grift Edition.
+if you want to play a pice of shiiet game where you do the same damage to a fully armored knight with a butter knife as a two handed greatsword to a woman in rags it is for you.
+
+Also if you want to get serious cancer the go for it
+Yes let's go againt's professionals 
+that's totaly balanced
+like every online ubisoft game this shit aint gna be ballanced one bit, expect to be againts level 100+ hole teams
+wtfffffffffffffffffffffffffffffffffffffffffffffffffffffrick
+
+buys season pass to get new heroes in 2018 and there are none then they like ok so now we have marchin fire so buy marching fire hopin to get new heroes in this year but now they release another season pass wttttttttttttttttttttt
+
+ok cool also uhhhhhhhh game borin unless u in like low level places but they probs full of smurfs now anyway
+Dull game that people defend feverishly out of a need to defend their bad purchase than admitting they screwed up which itself is funny seeing people froth at the mouth to defend a boring game.
+For Honor Game Developers:"Hey instead of addressing major bugs in the game, lets just add a Chinese faction! That should smooth things over!" Wow. Block doesn't register 15% of the time and AIs will literally stop the fight they are in to come halfway across the map just to gang up on human players. I've seen smarter AI in pixel games
+Orochi is BS for new players, like WHAT why does it guarantee an up heavy that does so much damage.
+And that fudge nut back slashes bs that guarantees a hit when I did a light. UHGHHHHHHHHH pls pls pls UBISOFT I ram really mad when I fight an Orochi who does the same thing every god damn time. Even trying to change strategy to defend doesn't work. Maybe I'm just bitchin but I'm really disappointed like it's not very balanced for NEW players.
+
+EDIT:
+I DONT WANT THIS GAME TO DIE JUST FIX IT UBI
+
+(and also how do you cure boredom)
+
+OH yeah, also why would I spend the time to just wait for 7.00 minutes to play a "HIGH ACTIVITY" mode and not enough players to join the match great why can't I just go with them and not have to wait 7 minutes it's dumb. 
+
+YOU: OH BUT ITS BECAUSE THE GAME IS DYING
+ME: WELL THERE'S 6.000 + People playing this shit and couldn't even find an 8 player 
+        match ACTUALLY, IT'S MORE LIKELY YOU'RE SEARCHING PLAYERS NOT 
+        MATCHES I FORGOT THAT UBISOFT
+I already paid for the game in full, now I have to spend no less than 30$ to get the rest of the characters?  It is possible to grind for them but I feel it takes way too long. this along with the fact that you have to grind even more for in-game currency to unlock cosmetics, upgrade gear, and executions is something I dislike very much.
+
+ the Graphics are pretty to me. Whether you think it is ''meh'' or ''10/10 it is beauty given form'', the truth is that it can be much worse, so  I guarantee you will at the very least find it easy on the eyes.
+
+the gameplay is decent to me. the system is not so much as broken as the characters. it feels like half the cast is useless with little to no options while others are just extremely frustrating to play against with their seemingly unstoppable offense and BS character mechanics. 
+
+The story mode is a total joke
+
+The matches are fun if it goes right and you get balanced teams that make it enjoyable but otherwise its an absolute steamroll that is not fun for either party(which happens most the the time). the duel 1v1 game mode is more skill based that is a plus
+
+All in all, this game is mixed for me. it is good if it goes well (which is rarely), and bad it goes bad (which is most of the time). 
+ I would NOT recommend it because i feel it is overpriced as is, along with most the features and characters that are hidden behind a paywall.  i would only recommend the game if it went on sale.
+
+High Fort has to be one of the worst maps in this game. That map is a heaven for ledgers such as lawbringer, shugoki and raider. There are too many unnecessary ledges in that map. Also, ganking is a big problem in this game. You literally cant to anything if everyone starts to attack at the same time and it ruins the game completely.
+I'll call it now, this game has great potential. I personally love the combat system and most of the ORIGINAL gamemodes and heroes are nicely balanced. But, we can't have a great game like this, from a triple A company, can we? The newer heroes are so ridiculous at times that I don't feel bad for losing, I just sit there and remember that a whole sixty dollars was spent on this game and that some free games are infinitely more balanced. I also heavily dislike the fact that the kill animations on smaller soldiers were removed, but that's my preference. The way this game does multiplayer also makes me question who got a lot of this games revenue. P2P is not preferred, but acceptable. Dedicated servers are preferred, and easily a selling point. But the fact that BOTH exist is blatant corner-cutting, not to mention that said P2P seems to be required to even get to the main menu. It also is mortifying that most newer heroes are stuck behind colossal price blocks that make it much easier to just buy more DLC (wink, wink, nudge, nudge). Also, hiding an entire mode of play behind a lack-luster DLC that adds four heroes (that's all that's practically there) otherwise. Said DLC costs more than two regular games on this platform combined. Ubisoft, you have a good base game and a hefty price tag that should bring in MORE than enough revenue to make MEANINGFUL improvements. Stop digging for gold by wrecking this potential masterpiece, and start at least ACTING like you care.
+Balancing is non existent.
+Matchmaking is broken.
+this game is not worth its price.
+if you catch it on a sale for $0.02 still not worth it.
+just please don't play this game and maybe they will fix it.
+as of 2/12/19 this game is the worst games in my library and i own Bad Rats FFS.
+SMH UBI this game is a joke.

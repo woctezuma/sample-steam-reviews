@@ -1,0 +1,1505 @@
+EDIT: Construction update is out now, if you've ever wanted to try this game out for the first time, or ever thought about trying it out again after burning out, NOW IS THE TIME TO PICK IT UP. Granted, It's a brand new system so it's a bit janky, but there's already been a huge influx of people so the fights have been amazing. I would put more into this review here, but [url=https://youtu.be/wlNDXI6wUGA]Joshino has just made a great video that explains the new situation better than I can[/url]. TL:DR is this: If you've ever wanted to try out the game, now is the time.
+
+
+Recently got back into playing this game, and have been having a blast. Here's some things I've noticed:
+
+* The new tutorial continent is exactly what they needed for the game, it's a small scale version of the actual continents that mostly keeps the newer players "safe" from veterans, excluding Smurfs, since you must be under BR15 to be able to spawn there. It's still not a full tutorial, but at least it's a controlled environment to learn the ropes.
+* The cert grind is also much easier than before, with ribbon bonuses (first 5 of which are doubled), weapon medals, directives etc.
+* Alerts are no longer the deciding factor for locking a continent with the new Victory Point system. Never did like basically getting the boot every time an alert ended, whether you won or not.
+
+When it comes to FPS, nothing comes even close to what this game comes to offer when it comes to the sheer scale of battles, and the only other thing that I can think of that comes close to the sense of scale that Planetside 2 offers would be Guild Wars 2's World V World. It's free to try out, so the only thing you lose is time. 
+
+Some tips for new players:
+* Stick to the beginner continent until you hit BR15. You can always leave and come back before then if you want to test the deeper waters, but once you're past that you cannot go back. Take advantage of the smaller scale zones to familiarize yourself with the mechanics before diving headfirst into the zergs.
+* Try out *everything* before you buy it. There are two ways of doing this, VR training and Trials. VR training lets you use any combination of gear and attachments for no cost, but only in VR training (unless you unlock the stuff with certs/DBC while in there) They have target ranges for vehicles, infantry, air, complete with range markings for infantry. Take advantage of this. See how each gun works, how it kicks from recoil, cone of fire, and try out how each attachment effects how it fires. Only problem with VR training is that none of the targets move, they're just static and don't truly show how they work in a real fight. That's why Trials exist, so you can use a weapon, albiet just base without attachments, in a real fight for a few hours before spending those hard earned certs on them.
+* Lastly, Planetside 2 is a game about numbers more than it is a shooter, so go in with friends and find a good outfit. Best way to find an outfit is to join an alert platoon, usually run by an outfit, and essentially trial running them. Most outfits recruit this way, so don't be afraid to ask about them while running with them. You'll find the game much more enjoyable while in an outfit, if only to have people to talk to while running with randoms or while participating in organized operations.
+
+Hope this helps at least some people with starting out.
+(Pre-Construction Update)
+
+War in PlanetSide 2 isn't exactly hell, though your very first experience of it might be. You create your sexy character and pick a neat faction. Then you're unceremoniously dropped, literally from space, right into the biggest battle the game can find, surrounded by enemies and tanks and pew pews and anything else that happens to be around, with a life expectancy measured in milliseconds.
+
+Somehow beat the odds and things don't get better. You stagger from death upon death in a haze of confusion and unexplained icons, not as some ultimate soldier, but simply one more fleck of a gristle in a planet-sized meat grinder that never-ever stops churning. At some point in time, you will even be run over by a tank.. probably driven by someone on your team.. named Kevin.. *scoff*
+
+It's nothing personal, though. PS2 is far too busy for that. First off, In most shooters, 16 players counts as a party; more advanced ones might push the limit to 32, or 64. In Sony's epic F2P, you're dealing with at the most 2000 players per continent! Thankfully not all on screen at once, but locked in a three-way tug of war that doesn't simply take cues from the likes of Call of Duty and Battlefield, but has a pretty damn good way of stealing their thunder. Those games ultimately win out in terms of feel, but PlanetSide 2, even though being comparable is a stunning achievement when compared to the standards of your average action MMO, is easily one of the most ambitious online games ever - and setting aside some launch issues, one that lives up to its impossible promises.
+
+Fighting in an open world does feels strange - not as intimidating as you'd expect, but far more than just a salesman gimmick. For the most part, standard first-person shooter rules apply. Shooting is skill-based rather than reliant on arbitrary levels. If you don't want to be shot, you get behind cover. Returning fire can be done easily from hip-fire, but you generally want to take advantage of weapon sights and sniper scopes to deal out more accurate shots and hit distant enemies. It's the basic rules of a shooter. The twist here is that, instead of existing as isolated maps, battlegrounds emerge organically as boundaries shift. Today, that bridge over a canyon is simply a handy route between outposts. Tomorrow, it might be a vast ocean of tanks, with infantry crawling all over the scenery like ants. Being in an open world, anyone who wants to take part can do exactly that. There is a loading screen, but no queues, no arbitrary restrictions on numbers or how much you're allowed to bring into battle - not overt ones, anyway.. An Instant Action button will spirit over anyone who requests a teleport, but you can just as easily spot something happening and head over under your own will.
+The longer fights go on, the more people will be drawn to them. Sunderers are brought in as mobile respawn points, fighters strafe the ground and battle for air superiority, tanks take up positions and all hell breaks loose until one side seizes victory. If you're outnumbered, too bad. Reinforcements may arrive, or not. War isn't always played fair man.
+
+The sheer scale of the battles is stunning - to the point that, while it makes sense for PlanetSide to be a F2P game, it takes longer for that to fully sink in. Sony hasn't so much embraced the model as given it a back-breaking bear-hug, almost to the point of creating a hidden mini-game called "What's the Catch?" Without paying a single penny, you get *shocker* all five soldier classes and access to mech suits, full access to all continents, all of the vehicles, no equipment restrictions, as many pew pews as you want and the ability to join and start your own guilds (Outfits). Never are you made to feel like less of a player for not paying a subscription fee or for earning any equipment you need by saving up in-game currency. It's a similar system to League of Legends or Tribes Ascend, just on an MMO-base with (thank god) less sexualizing of the females/overpowered-jetpacks.
+
+The most important purchases are, as ever, boosts that speed up your team's in-game resource generation and cooler-looking guns which are used to shoot people in the head for the crime of wearing the wrong colour armour in a shnazzy style. These are slightly expensive tho, with newer guns costing around £4/$5 each (500-700 Sony Points I think on PS4).
+Your starting load-out IS respectable though - and while I'm sure it's not deliberate, any temptation to spend a fortune in the store is swiftly dampened by most of its gear being bland variations on stock themes like 'AR' and 'Pistol'. There's nothing as iconic as the Tribes spinfusor, and nothing particularly sexy if you're not into efficiency. In a nice touch, you're allowed to borrow any weapon for a half-hour field test before investing your cash/points (which I find rather neat). In a straight fight between two players of equal skill and time played, it's true that the one who's paid will usually come out on top - if only because upgrades can only be bought with in-game credits, and outright buying a gun leaves many more of them to spend there. The sheer scale of PlanetSide 2's battles does a lot to prevent any slide into "P2W territory" though. Whatever your gear and however many upgrades you have, you're only one soldier in a rock-paper-scissors showdown - where paper and scissors are represented by the sniper over on that hill and his tank friend.
+
+Anywho, whatever role you're playing, the action is very solid; a little stop-start by the way PlanetSide 2's body armour usually makes tissue paper look like a trimmed mithril armor set selling for 40k on the GE, but more than adequate. The only significant failings are in accessibility and readability. There's a simple tutorial, an Interface that comes across as an alien control panel and hundreds of excessive blinking lights and labels apparently harbouring an active grudge against the poor colorblind. It's a rather challenging newbie experience for a game that does have a tricky learning curve, but whose raw basics really aren't that complicated. 
+
+Oh, similar confusion ALSO sneaks into the graphics! Textures are busy, combined with the oddly muted faction colours, which can make it hard to spot enemies at even close-range, or to react fast enough to anything. The Vanu are particular offenders here, with their purple colours blending into much of the scenery, though the Terran Republic's combination of powerful red with murky grey comes a close second. (If you play Terran, they also earn bonus confusion points for internally using red to flag up enemies. Cognitive dissonance can kill!) I'd like to have seen PlanetSide 2 take a few more cues from the likes of Tribes Ascend and even Team Fortress 2 in terms of its general readability, colour choice and silhouettes. Back to war itself. Out in the field, combat unsurprisingly varies dramatically depending on your class - which you can change at will. Either at reload stations or between lives, if you get bored or your team needs something, be it. A Heavy Assault soldier's life is one of explosives and endless streams of hot lead. Infiltrators work under shadows and use sniper rifles. Light Assault troopers bop around on jetpacks going pew pew. The more points you put into a class and its gear, the more efficient you get with it, so it pays to focus. Do it for the pew pews man. 
+
+At last, lone wolf players are likely out of luck; well, not entirely. It's possible to play solo. You can join groups as you travel, be added to squads at the touch of a key, and contribute to raids and defence alongside everyone else. PS2's gigantically-scaled firefights put rather tight limitations on what any individual can accomplish alone, and being a cog in the silent machine is rarely a rewarding career. To make the most of PlanetSide 2, you just gotta gather some friends on a Friday night and set your own goals for the battlefield. I salute you!
+Looking to try out this game? It is free to play, so you should definitely give it a shot. Now here's what you'll need to know:
+
+Are you good at battlefield, call of duty, counterstrike, or other first person shooters? If so, good for you, unfortunately that doesn't neccesarily translate into this game that well. I actually started this game being not very good at any FPS's and have gotten considerably better, to where i can comfortably say i am a decent player in this game. The game is so NOT user friendly, that it's learning curve has been called a "learning cliff" by the game's own producer, David Carey. It is something that is always being worked on however. Now, a little about the actual gameplay
+
+I have never ever played a game that offered me this type, this range, this level of gameplay. You have the option to pick from different classes, and choose different guns for those classes. With some effort, you can be the driver or even pilot of one of many different vehicles in the game. As stated before, the game is free to play, and does a good job of doing so. All of the weapons in the game can be bought with the in game currency you build up as you play. Real money can be used to buy these guns, as well as cosmetics such as helmets for your character or different camo's. I personally feel like there is something for everyone in the game; if you like to snipe, you can snipe! You can jetpack around as a light assault, or go gung-ho as a heavy assault! There are so many different things to do. 
+
+The game takes a decent chunk of time to get into and get better at playing, but in just a few months it became my favorite game. I found a super fun group of people who invited me right in and now i play with as much as i can. There are always periods of time where the game has many (and i mean many) issues that make it difficult to play. And although the community is quick to blame SOE (Sony Online Entertainment) and demand fixes, SOE has truly created a masterpiece with this game. As long as there are servers, as long as i am a gamer, as long as i can, i will continue to play planetside, and would more than reccomend it to anybody reading this review.
+Alright, i think the game has been out long enough and panned out enough to write a propper review of it.
+
+Planetside 2 like the original is a First Person Shooter MMO. It is set on a world known as Axuraxis and battles are fought across 4 very very large continents. It has three factions, The Terran Republic which is the "Government" for say, loyalists and a professional army. Their guns and technology are all centered on speed over heavy damage and versitility. They possess the fastest Aircraft, Tanks, and guns in the game.
+
+The Second faction, The New Conglomerate, are a band of Rebels or so called Freedom Fighters. Their theme is that of a rebel band who used to be miners and workers who have repurposed their tools for weapons to fight the power. Their technology is focesed on Defense and Damage. They possess the Hardest hitting weapons and vehicles in the game at the cost of a considerable slower Rate of fire for their weapons and Slow movement for their vehicles  compared to the other 2 factions.
+
+The Third faction is The Vanu Soveirnty, Like the New conglomerate this faction is also a rebel faction that split off from the Terran republic. However, they do not fight for an idea of "freedom" like the NC does. These rebels have found left over alien technology on Auraxis and have converted them into their own use. They are much like a Cult, trying to spread "Truth and Enlightenment" to the other factions. Their faction is focused on Alien weaponry and Versitility. They do not do  quite as much damage as the NC nor are they as fast as the TR, but for that sacrifice they possess extremely versitile weapons and vehicles. Their Main Battle Tank the "Magrider" is a hover tank with the ability to strafe and scale mountains that the NC and TR's treaded counter parts simply can not do. The weapons they use are unique in how they fire, suffering from very little bullet drop like traditional firearms but as the cost of much more horizontal recoil or "Sway".
+
+The game is a never ending Ground and Air war that is persistant. Unlike modern Shooters such as Battlefield or Call of Duty, there are no "Levels". It is fought on a gigantic map, the battlefield changing each time you take a base and move to the next. It also offers the feeling of a "real" war. It is commonplace to find battles involving 200 or more people, hordes of infantry advancing across the landscape with Tanks behind them and Aircraft battleing above them.
+
+It is the only game of its kind to offer this unique experience of being part of a war and it is glorious.
+
+As for the bad parts of the game, It does unfortunately have a Cash shop and it does allow those who pay real money to unlock new weapons and abilities without earning the XP (or certs as they are called) to get them. However on a game with the scope of battles being on such a massive scale, you do not tend to notice this. There are no weapons that are "overpowered" and ruin the game because you dont want to spend real money. They are all rather suprisingly well balanced, each having their ups and downs.
+
+Luckily as well, unlike most Free to play games with a cash shop, it is very possible to progress and unlock items without spending a literal eternity to do it. Unlike other free to play games as well, it is by far one of the most beautiful and good looking shooters on the market. The Quality of its graphics and engine beg the question "why is this not a 60 dollar game like BF or CoD".
+
+In all if you are looking to feel like you are part of a real war that actually matters and to experience what no other FPS to date has successfully captured, it is most certainly worth the download, if only to try it. Whether you like to be a shock trooper infantryman, a tanker, a dog fighter or even just a support role such as ferrying troops to the front line in a transport, this game has it for you.
+
+As Unbiasedly as possible 10/10, may the war never end.
+After about 1500 hours across all characters, I am still learning this game. I am good, but by no means great at it. That being said, welcome to the Dark Souls of FPS games. The learning curve is brutal, the new player experience is rough, and there are a fuckton of players like me and better shooting at you from all angles. There is no matchmaking and there is no MMR or Elo to pander to your skill level.
+
+However, I can help make your new player experience a little better.
+
+Step 1. Unfuck your settings. I wont go in depth, but there are a few things you can do right off the bat to make your performance better. Turn flora and shadows off, and turn render distance down to 1500 meters. 
+
+Step 2. Join an outfit. Soloing as a new player is the fastest way to get turned off to this game. Find a group you like and get to know them. Teamspeak 3 or mumble is also immensely helpful for this. They will speed your learning exponentially
+
+Step 3. use starter weapons. with the exception of a few outliers, all the starter weapons are really good. Save your certs for suit upgrades and attachments/utility slots. Weapons are mostly sidegrades for different situations/playstyles
+
+Step 4. Start out playing medic. It gains you a lot of easy XP through healing and revives and does not require you to kill get certs. It also teaches you to be a better player by not relying on the heavy assault class' shield.
+
+Step 5. Accept that you will die. A lot. And there is little you can do to avoid it until you learn this game. You will imrpove with time, but it will be frustrating .
+
+Step 6. The game is not p2w. Everything that affects gameplay can be earned for free. Only comsmetic things cost real monies.
+
+Step 7. Koltyr, the new player continent, will probably be mostly empty. You will find better fights (and more people) on Amerish, Indar, Hossin, or Esamir.
+
+This list is by no means comprehensive, but it entails a lot that I wish I had known as a new player, 4 years ago. Of all of these, most critical is finding a good outfit. The rest will likely follow if you have a good group to play with. 
+
+GLHF
+My first experience after the tutorial, I got dropped into the middle of a huge 200+ person battle, ran around like a chicken with it's head cut off and got killed not knowing where I was getting shot from.  Decided to respawn as a medic and stuck with large groups of friendlies, using my necromancer powers to bring them back from the dead.  A few minutes later we repelled the invaders and charged towards the next base.
+
+It was at this moment- while zerging towards the next base with the other infantry guys, dozens of tanks and armor around us, with our air forces buzzing overhead, that I stopped just to take in this breath taking spectacle and thought to myself "Damn, this is epic".  And then I was roadkilled by a friendly tank.  Don't just stop in the middle of the road folks.  
+
+Rewriting my review, as there are very different experiences to be had with this game that can make you forget other parts of it. Negative things in our lives always stand out much more than positive things. 
+
+I wrote a review giving negative feedback to Planetside 2 because of my recent experiences with the game since coming back. Every fight was the same. I would try to be useful, helpful to others, only to be instantly deleted in 2-3 hits by some rank 5000+ player while I'm rank 154. New players are thrown in with the best of the best who play this game every day. And I've even seen videos talking about how this just isn't fair, that no other PvP only game puts players into PvP scenarios without some kind of rating system to ensure you are being put with, and against players of similar skill.
+
+However, here is something to keep in mind. Planetside 2 is not a game about you versus them. It is not, and never was intended to be a game where your personal skill is supposed to shine against everyone else. Yes, you as a new player are very likely to be farmed by players on the opposing factions who have much more time played, much higher skill, and a small chance of potential hackers perhaps (But don't go around assuming everyone is a hacker.)
+
+No, Planetside 2 is a game where you, as a player, are a boots on the ground, frontline soldier. You're not a hero, you're not the Master Chief, you're not Doomguy or the magical soldier who can take on an army by yourself. Sure, if you get really, really good at this game, master your aim, master your positioning, then yes you can go on farm killing dozens of enemies as an infiltrator with a sniper rifle, or a light assault with a few very well placed C4. 
+
+But as a new player, and for a long long time... here's what you are actually supposed to do, to enjoy this game.
+
+Join a platoon. Follow orders, follow the team, and be a part of something bigger. Stop trying to be the hero, stop trying to 1v1 everyone you see like it's a contest of skill. You will have so much more fun being a part of those massive pushes of infantry or armor or aircraft that help take a base and break a stalemate. Constantly redeploying with your squad to drop from galaxies, defend bases, or whatever else your platoon has you doing. You may just be one soldier on the frontline. You may just be one guy with a gun against hundreds of enemies that you stand no chance of taking out. But it's not you against them. It's all of you, against all of them.
+
+Planetside 2 isn't you as a player, against all the enemies you see. Try and keep that in mind. Look at the poster for the game. It's a group of soldiers, one wounded, two helping him up while they fire back at the enemy. That's what Planetside is.
+
+It's not Bell against the New Conglomerate. It's not Bell against the Vanu Soveriegnty. 
+
+It's the Terran Republic against the Vanu and NC. And when you run through a battle, shooting who you can, repairing and healing who you can, and charging into a battle with dozens of players with rockets flying overhead, bullets and lasers flying every which way, vehicles exploding and platoon/squad leaders barking orders?
+
+That's Planetside 2. Not being a Hero. Being a Soldier. And living through those massive battles where you can't keep track of everything going on around you. And you're not supposed to. Just have fun, and fight for your faction.
+
+TL;DR
+
+Don't base the game's worth over personal experiences of you against the world. This game isn't meant to test your personal skill. It's meant to allow yout o be part of a faction and just be a soldier fighting alongside other people, not fighting 'ahead of them' and being 'better than everyone else'. Fight for your faction to be best, don't try to be a hero.
+Ignore the 13 hours played, I bought, (edit: was free, my bad.) picked up this game just post beta, have probably played over 1000 hours at this point. I got it on steam recently to help promote it and keep it growing. With that out of the way, here is my review.
+
+New player experience:
+What the game hands you: You get the game, load it up, the first thing it drops you into is a little tutorial zone that does the VERY bare bones of explaining how to move, shoot, and drive a vehicle. After this, you get hot dropped into a combat zone of 48+ fighters on both sides with absolutely no specific direction of what you are supposed to do. Explosions all over the place, people shooting from every direction, and you die within 10 to 30 seconds of landing... If you got a kill, I am impressed. Don't give up, it gets better from here.
+A few do's and don't's for completely new players: DO NOT BUY WEAPONS WITH CERTS!! Really you shouldn't buy any alternate infantry or vehicle weapons at all until you've made it to around BR20 or 30. The reason, your standard class weapons are all perfectly competitive. The standard vehicle weapons are also very competitive, basilisks are AWESOME. The purchasable weapons are side-grades that alter bullet drop, accuracy, fire rate, bullet damage, etc...
+
+And thats before you even get into the attachments and all the other stuff you get into with them. So the best thing to do is get decent with the standard weapons, learn how all the mechanics work on the free stuff, even hoarding a lot of your certs until you have a solid idea of how you want to play. Sure, you won't be as competitive as the guy who's certed out his LA with multiple C4 bricks and drifter jets... But until you've played enough, you probably won't even know what any of that is good for. 
+
+Don't Solo. This game is fun as a shooter, its fun as a vehicle combat simulator, but it is AWSOME as a squad or platoon level tactical and strategic game. Add in the Platoon Leaders, and Squad Leaders who only want to have fun and things get REALLY interesting when you squad up. So just get in a pick up squad, and see if they are talking, or at least laying down waypoints. if they aren't switch to another squad till you find one that is. You should WANT coms in this game.
+
+Last few things... Learn the maps. Learn outfit tags you see when fighting, on all factions. you'll start to recognize them.
+
+So you've figured things out:
+Okay, you've played to BR20 or 30, which if you play casually will be within a month of owning the game. You are comfortable with your infantry weapons, you know what the different classes are for, you know the ground and air vehicles and which ones you like and don't like, and you have a building friends list with various squad and platoon leaders you like joining, and other random pubbies you like squading with. This is when you start kitting out your preferred classes and vehicles, spending those hard earned certs up to this point. Congrats, you're no longer a complete noob.
+
+Squads and Platoons:
+I said it above, but this deserves its own spot. Squads and Platoons are what make this game great vs all the other shooters out there. From running Sunderer balls, to tank columns, or gal dropping a full platoon into a hot fight... Or getting 48 people to each pull a gal and ram any enemy vehicle they can spot in a zone just for the heck of it... Just pure fun.
+
+Outfits:
+Final note before I break all this down. Outfits are incredibly important if you want a consistent experience in the game. Squads, platoons and friends will get you part way there, but having a solid, active, and fun outfit that you fit with is vital to keeping this game fresh for you. You get that, and you will keep coming back to this game for years.
+
+So, the breakdown.
+Pros:
+It's free, you seriously not going to give it a try?
+Awesomely huge fights.
+Great squad and platoon, 12 and 48 player, level gameplay.
+Fun community, with the random bad actors mixed in occasionally, just mute em and ignore.
+Good combat mechanics for the most part.
+Finally pretty well optimised.
+Good in game voice coms.
+Great variety of weapons, vehicles, attachments, etc. (Again, wait to expand till you know what you're doing.)
+
+Cons:
+Some old reviews from years ago give it a bad rap.
+Declined but rebuilding population.
+Some seriously salty vets that can get irritating.
+Slow development of new content, though seems to be picking up pace.
+
+Download it and try it yourself. ;)
++ Free to play. 
++ NOT pay to win. (Don't believe me? Ask anyone else with actual experience in the game)
++ Still having updates even after 2+ years
++ Small and large battles everywhere
++ Hundreds of bases on 4 different huge maps
++ Very freindly and helpful community compared to most other fps
++ Infinite gameplay opportunities
++ Infinite loadouts on 5 different infantry classes
++ Infinite loadouts on 7 different ground vehicles
++ Infinite loadouts on 6 different air vehicles
++ HUGE map and gameplay update [strike]coming soon in 2016[/strike] out!
+
+- Slightly buggy.
+- Steep learning curve (I suggest asking for help on reddit and finding noob freindly squads early on)
+
+= Once you get good at it it's the best fps ever made.
+10/10
+I have been playing for over 3 years now, created YouTube content for 2 of them and I am still in love with this game. Planetside 2 brings unprecedented size of fights to the FPS front, in a format that challenges battlefields joint combat arms set up. You might see hundreds of tanks come over a hill whilst infantry spill through a valley as bombers and fighters weave through flak in the air. Which all happens on a huge continent sized map with no transitional borders. This just isn't possible in any other games to date. But it is not just that Planetside 2 is a one of a kind game that makes it good. The tank gameplay, FPS mechanics and flying are all enjoyable in their own right. And the variation in each loadout can give birth to a wide style of play that can keep you playing for a long time.Oh and did I mention it was free? The weapons are all side grades and almost everything you can buy with money you can also grind as a new player, so forget calling pay to win. It is a little rough around the edges, with patches occasionally breaking the game, but that seems thematic with most MMO games. But a big plus of being an MMO is the outfits and faction chatter that can also immerse you not just in the battlefield but the community, which other shooters don't have. So if you want to play a game that actually feels like a battlefield, then I would 100% recommend Planetside 2 to you.
+I've played it a little bit, it's ok.
+
+[b]The Good[/b]
+[list]
+[*] F2P
+[*] Not P2W
+[*] Massive battles
+[*] Plenty of ways to play. Tired of sniping? Drive a tank, fire some rockets, be a medic, etc...
+[/list]
+
+
+[b]The Bad[/b]
+[list]
+[*] Community is a mix of helpful vets, and salty shatbags who think it's cute to troll
+[*] Microtransactions, while not required, can lean on the more expensive side for some items
+[*] Game is best played in squads/platoons, but it can be hard to find the right one for you
+[*] There is no matchmaking meaning you can be a timid newbie getting mauled on by a max ranked played with 50,000 hours played
+[*] Only a small dev team left. They work hard with what they got, but don't expect monthly content
+[*] Game is large scale and can be overwhelming until you learn it
+[/list]
+
+
+[b]The Ugly[/b]
+[list]
+[*] Fights can boil down to mindless zergs that cannot be stopped (stop fighting them and they'll disperse)
+[*] Tutorial is garbage and will throw you to the wolves like lambs to the slaughter (I suggest Cyrious Gaming on YouTube for proper tutorials and great guides)
+[*] Some bugs and exploits that the devs don't know how to, or don't care to, fix
+[/list]
+
+
+[h1]Common things you probably heard that people are wrong about[/h1]
+
+"It's p2w"
+No it's not, it's pay to look awesome. If you consider awesome cosmetics a requirement to win, then yes it would be p2w. This game is skill, your wallet can't buy that.
+
+>"But you can buy gunz!!!"
+Yeah, they are sidegrades. The are better at certain niches. For example you could buy a $10 SMG and have an advanage over people in CQB, but someone with better aim is still going to own you, or take that pretty SMG out doors and watch how fast your eating dirt because this guy brought a gun better suited for it. 
+
+"It's so grindy!"
+Even without membership or boosts you can still unlock things pretty quickly. Play a support class and heal, repair, resupply, revive, etc... and watch the :Cert: roll in. 
+
+"It's so laggy"
+Turn shadows and physics low/off. Your FPS will double. The performance isn't perfect (it's 6 years old), but it still runs fine on most systems if tweaked properly. 
+
+"It's dead"
+No, it's not. Plenty of battles especially during peak times. 
+
+[h1]Biggest mistakes new players make[/h1]
+
+Don't buy guns with your certs, just don't. Spend your early level certs on upgrading your preferred class of choice. This will increase your performance and survivability in battles. 
+
+They can't shoot. This isn't CoD or Battlefield, you can't just lay on the trigger and hip fire everything. Aim for the head and body. Guns can be hard to control, go to the VR training and practice your weapon skills if you are having trouble.
+
+They try to lonewolf. Planetside 2 is best played with your faction. When you learn the game better you can lonewolf, but early on you should work with your team, trust me your experience will be a hundred times better if you stick with your allies. They can heal you, give you ammo, revive you, etc... You also earn experience for working with allies and supporting them.
+
+Don't worry about your KDR, really just don't. You're going to die, a lot. This game doesn't hold your hand and there isn't matchmaking. You may spawn in a fight where there is a group of max rank players who have 5000 hours under their belt. If you got a frustrating fight just redeploy to somewhere else. Kick some butt and have fun, and worry about your KDR later if you want to.
+
+Just ask. There may be a few trolls (there is in every game), but you'll find someone who can help you if you are new. I'll leave the comments open and you can ask me too. 
+
+[h1]Conclusion[/h1]
+
+It's free to play and you have nothing to lose but some time trying it. If you are on the fence I suggest just giving it a go. It's not a massive download and getting in game is quick. If you put time into the game and learn it you'll find one of the most rewarding and underrated FPS experiences on the market.
+Planetside 2 is awesome. A little difficult to get into, but once you're there, awesome.
+I definitely recommend this game! Every minute of my (dare i say extensive) game time has been enjoyable, and I'm still enjoying it today.
+
+Get this game now!!
+I remember fighting the wars back in 2013. They were intense, and soldiers on each side were numerous. I fought for the Vanu (praise be their name) and killed countless Terran soldiers. There were explosions everywhere and there was nowhere to hide. Bullets flew in all directions and the fact that you were in the battle almost sealed your fate: you were going to die. Yes, I remember those days well.
+
+It is 2018 and I have returned. However, I found that my allies had died. The intense, raging war had died down to a tactical battle that involved only a handful of survivors. It is just as fun today as I remember it but the playstyle has changed a little. There are less people involved in the battle which makes finding and killing someone even more rewarding. It is almost as if we're fighting in the rubble left behind by the thousands of players in 2013.
+
+Do I recommend this game? Heck yes. It's free-to-play and plays identically to the Battlefield games. The shooting mechanics feel nice (there is bullet drop) and conquering territory feels progressive.
+
+The game is a persistent world FPS MMO. This means that after you log off, the war still rages. Territories are conquered and lost: logging back on, you may 'wake' up to a different in-game world. I remember completely dominating the entire planet as Vanu, logging off and coming back to find out that we had lost half of it overnight. Your actions in this game carry more weight than, say, in a game like Rainbow Six Siege. Nobody will hear of the time you shot the dude who almost kidnapped the hostage. In Planetside, everyone knows what you have done because the evidence is on the map. It certainly is a unique war simulation.
+
+It gets a 10/10 - there are NO other shooters like it on the market. I guarantee that.
+This game is everything I could've wanted from a MMOFPS, and for good reason.  Battles are massive, epic, and get the blood pumping like no other FPS I have played before.  The sheer beauty of battle is unmatched by any other shooter I've experienced.  Combat mechanics, customization, and leveling are all done very well, as the advantages they give are not game changing, and they can all be unlocked without purchase.  (Excluding purely cosmetic items, they are for purchase only)  Squad mechanics are extremely deep, and are the most polished I've seen out of any game; it allows for levels of strategy I've never before seen in a shooter, and is all too fun creating a warpath with your buddies.  Planetside 2 used to be extremely unoptimized, and was the bane of all but high end cards; however, thanks to some recent optimizations, I am easily running a solid 60 frames on ultra settings with a single GTX 660.  As for the negatives, this game is very heavily reliant on team work.  If your faction, squad, and individual soldiers are not all on the same page, it can quite easily ruin battles.  My suggestion: form squads with your buddies, whip out your headset, and take command.  Overall, Planetside 2 is quite easily the most polished F2P shooter available on steam, perhaps even surpassing TF2.  If you have a computer that can handle it, definitely give PS2 a shot, it is worth it.
+This game isn't for everyone.
+If you have the Call of Duty run and gun mindset...You will die. A lot. 
+However, if you have the ability to be patient, asses the situation, and have a good situation awareness. Then you will be good at this game. 
+
+Starting off, it is a bit of a grind, however, the starting guns are the best in the game and you only have to cert into equipment. 
+
+The feeling of fighting in a 200 person battle over a base is incredible, and you need to play until this happens or you have missed out on one of the coolest gaming phenomons out there.
+
+Last thing. JOIN an outfit. Having a group of players to run with helps out a lot. Makes the game more enjoyable. I suggest AOD for TR, PHX for NC, and DAPP for VS. These are know as "zergfits" and they are a wonderful starting point for new players. I started with AOD and learned from there, as i got better in the game, i moved on to other oufits that have a more specific goal. Bottom line, they help new players out a lot. (mainly with logistics getting to fights, etc) 
+
+have fun and beware this game is addicting.
+Edit: The Planetside 2 Elite Soldier Bundle is sweet!
+
+You spawn as an infiltrator.  You steath into the enemy base, pull off some solid snake bs, nobody sees you.  Exposions all around panic everywhere.  You hack the enemy base turret and start blowing up the enemy with thier own defences.  Suddenly! You explode! 
+
+Ahhh darn they got you! but wait! You were teamkilled by a rank 1 NC Heavy on Connery named asdfghjkl.
+
+At first your mad, but then it dawns on you that he is actually... A tactical genius!  He knew that you were gonna die anyways, so he denied the enemy points.  By shooting his rocket at the stationary base defense, instead of those small hard to hit infintry scattered around the ground.  He insured something was getting done while denying an extreme menace kill to the enemy.
+
+On NC Connery every teamkill has a tactical significance no matter how big or how small.  They had your best intrest in mind when they shot you in the face.
+I got this game years ago but never played it...
+Last year I got into Planetside2 and haven't really played anything else!
+
+It has a little something for everyone:
+
+Play it solo? You can!
+Want squad play? They got it!
+Want to command a platoon? You bet your ass!
+Armor? Damn right!
+Airforce? You can become a force to be feared!
+Tactical play? You can totally immerse yourself and get right into it right down to sharing those master plans in your squads!
+Tons of weapons and armor loadouts and combinations to suit your playstyle. There's even a charater cosmetics so you can tailor your online presence.
+
+There's 3 main factions to choose from and a 4th is coming in December!
+This game has special events throughout the year and special events every day! there's so much to do... You will find yourself playing and losing hours time and time again. It's the most engaging and immersive game I have ever played.
+
+Planetside2 is a pay not to grind so much. You can earn pretty much anything in the game just by playing it.
+
+I joined an outfit called The Wild Cards and made a ton for friends within that game. We are over 1000 active players daily!
+And The Wildcards don't just play Planetside but it is one of our main games; but that's for another article...
+
+I would say this is a MUST HAVE GAME for the avid FPS player.
+You can't beat the price {Free} but is totally worth a subscription as well.
+Just remember you get out of a game what you put into it be it time or money. Planetside2 will leave you satisfied regardless!
+
+Don't pass up this gem. What do you have to lose?
+I'll be waiting for you Planetside!
+I've played this game on and off for the past 6 years. Steam time counter is over 4k hours, but it's probably twice as much since I haven't used Steam to launch it in years. Lol.
+
+There's something magic about this game. You'll love it or you'll hate and you'll end up doing both in the end. 
+
+On the plus side, it's absurdly unique: you always dreamed about massive battleflied with litterally HUNDREDS of players shooting at each other at the same time (not those puny games with 64 players max). Check. 
+
+You always dreamed of a massive scale unique hand-crafted theater of war, a true Sandbox environment with no loading screens and seamless transition where what you see you can get on top of? Check. 
+
+You always dreamed about shotting lazers, flying in jetpacks, piloting tanks, aircrafts, bombers, and murdering dozens with weapons of mass destruction? Check.
+
+You always dreamed of being in a massive open battle at night on an alien planet, hiding behind a rock while plasma beams fly over your heads, artillery strikes goes off around you and your friendly comrades get murdered left an right in a crazy infantry push? Check.
+
+You always dreamed about doing it without spending a single cent of your work money and still ending up in a NON P2W environment with a fair in-game shop where you CANNOT buy power? Check. 
+
+Planteside 2 is all this.
+
+If you are the kind of player that can deal with the fact that you can't ever make a real difference in a game with a thousand people shooting at the same time and you NEED other people to achieve anything relevant, then you'll love it.
+
+If you are a CoD drone that likes small maps and the chance of gunning everything down ad win all alone and feel much strong... then you'll hate it.
+
+
+On the down side: performance is crap and you'll need a super fast CPU to run with at least 60fps stable, even after 6 years. Servers have to handle a thousands players shooting at any time so the client-side hit detection will make you suffer. Sometimes it will take 3 headhshots to down an enemy in 0.3 seconds, sometimes you dump half your magazine into somebody and most hits won't register because the server hamster is acting up. 
+
+
+My only gripe with this game is that it could have been much, much more than what it is. 
+
+Is it still fun? Yes. Is it worth a download after 6 years? Damn right. Pop is still healthy for thousands of hour of gameplay. You'll get bored of it before this game dies on its own.
+
+A thousand hours is what you'll need to actually be decent at the game though, the learning curve is more like a learning wall ramping up, bending backwards, going full circle and hitting you in your back cavity. This game is not for the faint of hearth. You'll die. A lot. People can murder you at any time, any place, with any thing. 
+
+Before you jump in be sure to read guides online and as soon as you are in jump into a squad/platoon and stick with friendlies. You'll have a much better time than going full CoD rambo thinking this game is like any other shooter and getting your butt serverd to you before you ragequit and uninstall.
+Over 600 hours in... how did that happen?
+
+
+
+The only thing that I can say for certain is that this game is interesting. It suffers from a unique situation that makes life in-game interesting. When you start this game, you will die. A lot. No sugarcoating it, this game is hard at first, and it helps to look at some player guides before you jump online, hell, maybe play for an hour and then go through it. Skill is a big variable here, don't expect to walk in with 5+ years of CS:GO or 15+ years of COD or 10+ years of Halo to save your ass. This game will put you through the ringer and spit you back out.
+
+The best advice I can give you is to visit the following links:
+https://www.youtube.com/channel/UCvzBzD-LygiE8RLLcxZCpoQ
+
+https://www.youtube.com/playlist?list=PLmAK2VrS4DVYUSbCt4LKDrLKAYFDzHB2g
+
+https://www.youtube.com/channel/UCiC8NDxIxHVcxBx29RLAr-g/videos
+
+https://www.youtube.com/channel/UCwRWWtt4gEjPHoejFQx-3yA
+
+https://www.youtube.com/channel/UCSTeUw9Rt7GQqMaFKDxwglA
+
+http://www.instantactionpodcast.com/
+
+http://wiki.planetside-universe.com/ps/Slash_Commands
+
+https://www.reddit.com/r/Planetside/
+
+
+All of those links will show are guides, tutorials, and most importantly: our community. Small, but tight-knit. Plenty of people with experience willing to help you because no lie, the tutorial is utter garbage. Learn your keybindings in order to get around, be ready to read the map, and most importantly: you need to find a place in Planetside. Like I mentioned before, our community is our defining factor. One thing that you need to realize before playing this game is that the dev team is very small, have a lack of resources (due to other games within the company utilizing them), and that there are many bugs with this game. The best way to play is with others, that's the way the game is designed. You can push yourself to become better, but ultimately, the best way to become better is to learn how to work with othes, get your microphone ready, ask any questions, and get ready for the roller coaster known as Planetside 2.
+Oooohh boy, where to start?
+
+You know Battlefield? Of course you know Battlefield, but imagine Battlefield, but much more bigger and with space guns. Oh, and free.
+
+You can choose to be one of the three factions:
+
+The New Conglomerate (NC) which are basically rebels trying to fight for freedom n' stuff. They are one of the harder factions to learn since their guns have a lot of recoil. They got a medium sized mags, medium reload speeds and a lot of damage per bullet. Also, they specialize in big armour and shotguns. They are guided by American rock music with a sprinkle of cowboy. Shotgun free in the NC, my friends!
+
+The Terran Republic (TR) are a bunch of people who will see to it that no rebels walk free (namely the NC). They got gigantic mags and the firerate to use it all. They got normal reload speed and don't have a lot of damage per shot, but at least their recoil is controllable. They boast their machine guns cause they can put a lot of fire downrange. Hope you never meet the barrel of a revved up chaingun, cause nobody surviving that.
+
+The Vanu Sovereignty (VS) are basically people who thought touching weird alien technology is a good idea. Their accuracy is unmatched and they got extremely fast reload speeds. However, they do medium damage, have small mags and a normal fire rate. They got equipment that makes their accuracy even better. And do watch out for those floating tanks, they can still run you over.
+
+Choose a faction, choose a face, choose a gender and your good to go. Don't worry if you don't like the faction, you get 3 character slots, so you can play them all.
+
+After the tutorial (which honestly kinda sucks) the game drops you off in the middle of one of the four maps of the game, gives you a gun and tells you "go shoot whatever isn't wearing your colour". Needless, to say you will die. This game is hard. Better get used to it quick.
+
+The game is gigantic in scale and finding a good squad is key in survival. Find a squad leader who communicates with his squad, those are the best. Nothing beats successfully capturing a base with your squad.
+
+Two things are seriously holding tgus game back. The overpriced f2p model. You can use certs (in-game earnable money) to buy stuff, but it costs a lot. And for 20€ you can only get about one new gun. Kinda sucks.
+
+Another thing is the optimization issues. I will be the first to admit that my PC is not the best, but 2 years ago when I played this game, I received no lag. Now with a smaller playerbase, i get more lag. In some areas i get about 25-30 fps. This needs to be fixed.
+
+When SOE (Sony Online Entertainment) owned the game, it was better. Currently Daybreaks owns it and it's a bit worse now.
+
+But there is just so much in the game! 6 classes, a lot of weapons, land and air vehicles. We have not even scraped the bottom of the barrel.
+
+So quick recap:
+
+Pros:
++ Amazing open world tactical combat.
++ Excellent custimization options.
++ Lots of room for various types of playstyles.
++ Great teamplay capability with a good squad leader.
++ It's freaking free. Can't beat that.
+
+Cons:
+- Free to play model is overpriced.
+- Huge performace issues in big battles
+- Some of the community can be a bit... meaner than others.
+
+Overall, the game is fantastic. You should totally give it a go.
+PlanetSide 2 is a hard game. I can't recommend it either way to anyone.
+
+I died, a lot, but that is to be expected. If you drop into this game now, you're gonna die a lot. Don't get mad, just get a couple friends to play with and pick a class that you enjoy. Every contribution you make is important to the team effort. You dying could expose an enemy sniper to your team's sniper. Your tank being destroyed by a level 100 guy's tank could put it into a position where it can be destroyed by your team. 
+
+In this game, it's not about K/D. It's about how you contribute to the effort. Think of yourself as a 40k guardsman. You're cannon fodder, but even holding out against one charge can give opportunity to a squad of space marines to drop in and decimate the heretics.
+8/10  Cretification Points.
+===[Audience]===
+
+[ ] Kids
+[X] Casual players    (These are good for cannon fodder.)
+[X] Pro players
+[ ] Everyone
+
+===[Graphics]===
+
+[ ] Potato
+[ ] Really bad
+[ ] Bad 
+[X] Ok 
+[ ] Good 
+[ ] Beautiful  
+[ ] Masterpiece
+
+===[Price/quality]===
+[X] F2P      (in game microtransactions)
+[ ] Full price    
+[ ] Wait for sale
+[ ] Average
+[ ] Refund it if you can
+[ ] Don't do it
+
+===[Requirments]===
+
+[ ] 90' PC
+[ ] Minimum
+[X] Medium 
+[ ] Fast
+[ ] High end 
+[ ] NASA computer
+
+===[Difficult]===
+
+[ ] You just need 2 arms 
+[ ] Ez
+[ ] Normal
+[ ] Easy to learn / Hard to master 
+[X] Hard (first few hours)
+[ ] Dark Souls  
+
+===[Game time/length]===
+
+[ ] Really short ( 0 - 2 hours)
+[ ] Short ( 2 - 8 hours)
+[ ] Few hours ( 8 - 12 hours)
+[ ] Long ( 12+ hours)
+[X] Endless
+
+===[Story] ===
+
+[X] It doesn't have         
+[ ] Average
+[ ] Good    
+[ ] Fantastic
+
+===[Bugs]===
+
+[ ] Game itself is one big BUG
+[ ] Bugs destroying the game
+[ ] Lot of bugs
+[X] Few Bugs
+[ ] You can use them for speedrun
+[ ] Nothing
+
+Really love this game! Its fun and entertaining... ESPECIALLY when you have a fun outfit who loves to pull jokes and pranks on eachother and enemys alike! 
+
+Tips to new players:
+1: Keep calm and respawn.
+2: You WILL die ALOT!
+3: Practice your aim, it gets better with time/experience.
+4: Work Together! Its a TEAM game!
+5: No weapon is the same as the other, they each have their own Strength's!
+6: Black and gold weapons are EXACTLY the same as their standard variant! They also cost real money.
+7: Learn your Keybindings! It Helps Alot!
+8: Pick smaller fights untill your used to the game mechanics!
+9: If you can see them you can kill them!
+10: Be RESPECTFUL!!! If you are, others will be more willing to help you! Dont be afraid to ask for help, EVERYONE needs help!
+
+These are the general tips/tricks/rules I live by! In any game! 
+If your on faction VS (vanu) on server Emerald, My name is DrunkenVS
+Please, Have a good day and Have fun!
+
+
+2/18/2017 Edit: Some of my outfit/platoon mates gave me some ideas as to what to put for the 10 things as I could only think of about 4 on my own :P 
+So thanks to them to make this review entirely possible!
+
+3/1/2017 Edit 2: a few more tips for you are   
+1) dont run infront of your allies that are shooting, go behind them so you stay out of their line of fire.   
+2) use the terain around you for cover.  
+3) if your a Heavy Assault turn you shield on when entering cover, even if your not being shot at. reason is this is a CLIENT side game if you can see them, you can shoot them. so if your in cover they may still see you out of cover for a short time after because they havent recieved the info from you yet. so use the addage of "I can see you, I can shoot you" the same goes for the other players aswell   
+4) Don't go straight for the enemy UNLESS you have several teamates with you. Try your BEST to FLANK the enemy. don't attack them head on. come at them from the sides, above, or even behind them, if one tactic dosen't work... Try something else. the fight is dynamic, just like you!  5) Finally, LEARN the strengths and weaknesses of your weapons, it WILL take time.
+
+
+P.S. Feel free to add my on steam or PS2 (ingame) the name i listed is my primary although if you want i can tell you the others via PM or steam chat.
+
+P.P.S. I added some tips my teamates and friends gave me. some others on Youtube, like Wrel (Dev) Nico101, Joshino, and others have also said some of these tips. If you want to know more about the game look them up on youtube Especially Wrel, as he's a developer. Nico101 I'd recoment to Older audiences, as there is some "Humor" that younger audiences may find offensive or dont understand. (he and his team swear a bit aswell) i do squad ops with them and its mostly moments of WTF?! and general fun. Joshino and Wrel are a great choice to see if you want to Learn more about the game, its mechanics and also for general info/guides for weapons or tactics. 
+
+Now all this is simply my PERSONAL opinion, while i agree that some others may not agree with me, i hold my opinions of the game and the players in fair judgment. 
+
+Also, if you have any ideas for tips/tricks/unspoken rules/etc. post them in the comments. I will add them to the list and give you credit. feel free do discuss this game in comments below. Happy Gaming everyone!
+3 simple rules to enjoy the game:
+
+1. This is not COD, you will die a lot, thats ok, K/D is a bad way of judging how well you do in this game.
+2. Its fun solo, but get a squad of guys together and you will love it.
+3. New guns are side-grades, not upgrades. The starter guns are just as good (and sometimes even better) than ones you can unlock.
+3.5. EVERYTHING can be unlocked through gameplay.
+PREFACE: This game is NOT pay to win! Don't believe the lies! More on this below.
+
+Planetside 2 is unlike any other gaming experience you've ever had.
+There's a reason why so many people say that Planetside 2 ruined every other online FPS game for them. Nothing comes even close to the scale this game provides and to the many playstyles it has to offer. 
+Imagine your favourite Battlefield title, only with incomparably larger maps (we call them continents) and up to 1000 players wreaking havoc across them in more ways than you can count. 
+You can try and capture enemy bases in an organized attack with dozens of your friends while preventing the enemies from snatching your own territory in return. You can harvest resources and build outposts. You can even just have some casual fun blowing stuff up. But however you choose to play the game, you will be having the most epic fights of any FPS game out there.
+Whether you want to focus on infantry or vehicular combat, the game has you covered.
+You can be a dedicated sniper/recon, a medic, an engineer, a sturdy heavy assault or a jetpack-toting light assault that can ignore many obstacles and surprise enemies with their pants down. You can even climb into a MAX, an exo suit designed to absorb lots of damage and break a stalemate. The infantry play greatly rewards skill and accuracy, with a big emphasis on burst firing, headshots, positioning and awareness. 
+Are you a tank buff? Look no further: depending on your choice of faction you gain access to 3 unique two-man tanks, each with its own strengths and weaknesses, all featuring projectile drop and giving you much room to grow in skill. A good tank crew can have a massive impact on the battlefield.
+Are you a fan of aircraft? Planetside provides several, from the light empire specific fighters, which work like a cross between a jet and a helicopter, allowing for every manoeuvre you can think of, to the powerful 3-man liberators and larger 6 and 12 man transport ships. Whether you're looking to provide air support to your faction, or simply scour the skies looking for enemy air to engage, you're sure to have fun, epic battles.
+There are also lighter, one-man tanks, 3-man buggies and an ATV, which can be equipped with an invisibility cloak for surprise attacks and stealthy passage through enemy territory.
+There is so much depth to this videogame that you can literally play it for thousands of hours without ever getting bored of it, since you can keep rotating through the many different playstyles available in order to keep it fresh. Really, Planetside 2 is like several solid games packaged into one, and all of it FOR FREE. 
+There are some who will argue that the game is P2W but if you pay attention you'll notice that most of them have barely played the game for any substantial length of time. What they are experiencing is simply the learning curve of the game, which is admittedly a bit tough at first, but rather than allowing time for their skill to mature they chalk it up to premium items/features. THIS IS FALSE. The only payed-for exclusives are purely cosmetic. Everything else, you can obtain at a reasonable pace through playing the game. I should know. I never spent any money on it.
+
+Do yourself a favour and try this game out. Have patience, look for tutorials, ask for tips whenever you get the chance. Once you're through the baptism by fire that all of us have gone through you'll start having crazy amounts of fun!
+--- EDIT 11/2018
+
+Well... the devs are revitalizing the game, upgrading the engine and tweaking and refactoring a lot of stuff.
+
+Some of the new weapons seem to to be more oriented to the faction's original concept. 
+
+There is a new NS faction comming that will use NS only weaponry.
+
+The squad system have been upgraded.
+
+Cortium is more relevant.
+
+New continent and Aerial Carriers.
+
+I'm still looking forward for more faction specific items and vehicles though.
+
+--- EDIT 11/2018 END
+
+Hm it is hard to write a review about this game. 
+
+I've spent almost 600h on it, and mostly I had an awesome time. But lately, it seems that the game direction has changed. 
+
+We used to have a class system (bear me for a moment) that did a fine job defining each player's role on the team and the necessity of team oriented gameplay, now the implant system allow us to have each other class' perks. Like a heavy assault with recon's camouflage for example. It is awful... an annoying.
+
+Each faction was supposed to have it's perks and flaws when it comes to how it's hardware design, like how weapons and vehicles, perform.  Now they just keep adding hardware (weapons/vehicles) that are exactly the same for every faction. 
+
+As mentioned before each faction used to have it's own design, more specifically it's own colors. The current camouflage system, can disrrupt this color balance causing a lot of confusion. Either you kill an ally trinking it was an enemy or an enemy with your colors is able to break havock and kill everyone. I'd say it's next to unfair. 
+
+The devs have not been doing a lot in terms of keeping the community together in my opinion, PS2 seems to be on it's last hopes. And a F2P game without an engaged community is bound to fall.
+Sick of the 6 vs. 6 constant running around a tiny "map" in COD? Want something more? Planetside is where it's at.
+
+The game spans across 3 continents on a distant world, and on those continents lies a three way war between factions. The game features multiple vehicles from land to air, and they are extremely fun to operate. Teamwork is close to essential in order to win battles, and it allows you to form squads of 12 players, and a platoon of 48. Battles can be up to 100's of people clashing inside a base with tank rounds flying overhead and enemy fire giving you a new haircut. Things get pretty crazy, which also means you're going to need a pretty good machine to run it. Although there were some impressive optimization updates recently, it still needs a good computer. The game also features in game voice channels to communicate with your teammates. Planetside also uses Certs (Certification points), which are basically the way to unlock things and level up. It takes a while to get certs and things can be expensive and quite frustrating, but IMO it helps from people maxing out really fast and running around with everything maxed out. There is also Station Cash, spend real money and get it (But what can you expect from a F2P game like this?). Aside from money, the game has 6 classes all having something important on the battlefield, from medics that can heal and revive, to heavies who can kill tanks. The game is loads of fun and you will be spending hour upon hour capturing territory and defending bases (Which I forgot to mention is the objective of the game). The three continents are Esamir (Snowy), Amerish (Greenery/Mountains), and Indar (Desert). The factions include the Terran Republic (High fire rates, lots o' ammo), the New Conglomerate (Slow, Hard hitting), and the Vanu Sovereignty (Alien tech, low recoil). I recommend this game more than any other I've played. So, pick your side, and join the fight!
+================================
+https://www.youtube.com/user/fdreviews
+================================
+
+Journal Entry 1 
+
+I'm dropped into a large spacey looking corridor, I find myself inside a tube surrounded by a pulsey looking shield... I guess this is what grows me? mom?...no.... After exiting the shielded tube I am now in a room of commotion, 20+ other players are running by in a hurry to go somewhere. I find myself confused and really out of place, like the new guy starting a job and everyone else can't be bothered to explain... sort of a "get out of the way were busy here" vibe. Thats cool, ill just do my own thing! 
+
+Journal Entry 2 
+
+After exploring the first few rooms full of shiny lights and blinking consoles I've decided to head outside the structure. I looked at the doorway leading outside, I can hear horrid amounts of explosions and gunfire and machines moving around. Its quite intimidating... I see 8 troops running out the door into no mans land. I then look to my right hand side to witness a giant walking heavy mech person... my god its beautiful.... the faceplate is painted to look like something out of a Jason murder movie, he has duel Gatling guns on each arm. He stops and looks at me for a second, I suddenly feel like everything might just be alright. He turns and heads out the door.... Now... when I deployed I unknowingly chose a very very violent and war torn section of the map. I walked outside and my Jaw hit the floor in amazement. 
+
+Journal Entry 3 
+
+Upon leaving the safety of the structure I was now standing on the steel ledge overlooking the most large scale and violent battlefield I've seen in a FPS to date. Above me dozens of ships waged war on each other, firing rockets and lasers through the sky. A larger ship swoops down onto a hill in the back and unloads soldiers.... below me appears to be hundreds of men charging from this structure towards and equally large force of enemies. Dozens of tanks lined up on both fronts exchange fire while smaller armed Suv's and Quads blaze passed each others lines, exploding and fleeing. 
+
+Journal Entry 4 
+
+On my level, engineers are desperately repairing turrets and heavy walking mechs. Medics run frantically to revive the downed soldiers that litter the parapets. Mounted machine guns and rocket fire are so frequent that you don't even know who to start shooting at. Standing back from the battle I can only watch in complete amazement at the scale of this battle. 
+
+Journal Entry 5 
+
+Armed only with my small assault rifle I work up the courage to join the fight. I walk forward on to some type of holographic elevator that takes me straight down to the battle. I look up and can see that there is a large squad of men floating down the elevator behind me. We touch down on the ground and without warning everyone charges forward, I do the same, completely ignoring the tank shells and bullets flying past our heads. Its crowd mentality now, I am no longer thinking for myself I'm just following the flow of this ocean of soldiers. 
+
+Journal Entry 6 
+
+I can roughly guess that there is about 30 of us in a squad running up this field. The explosions are starting to lower that number significantly as we get closer to the enemy lines. I don't know the men around me but I feel safe knowing that im not alone. The flyers have now focused in on our squad and begin to rain down rockets from the sky, medics are not able to keep up with the casualties anymore, they have to run for their own lives. We finally reach cover behind a large rock, our numbers are now more like 9 or 10 after the charge. We have one heavy mech with 2 engineers constantly repairing him and a couple medics that are keeping everyone alive. 
+
+Journal Entry 7 
+
+Suddenly 3 guys are dropped from the group, it appears a sniper far off on a hill to the right has flanked our position. We can't run back and we can't run forward, we can only dance around like fish in a barrel dodging a mariners spear. I can hear one of the other guys open mic call out to a friend for support, within seconds 10 tanks roll over the snipers position and we safe once again. We are now down to 6 guys, we are really far from our lines and it doesn't appear that more reinforcements are coming to join us anytime soon. 
+
+Journal Entry 8 
+
+The guy with the open mic tells us that we need to try and flank the enemy lines and take out some of their snipers, he says that we are all more then likely going to die but at least we can make a dint. Well... its been a good run, time to go out and make a good last charge. 
+
+Journal Entry 9 
+
+We burst from our cover and charge the left side of the hill that is now considered the sniper's line. I'm not in slow motion but if I was I think id be yelling "FREEDOM". We clear the field losing only 1 guy to sniper fire, 5 of us charge the hillside and over the top. We were expecting to see a couple snipers that we could take out easily.... unfortunately there was about 60+ ground troops all crouched behind the hill, I think they were amping up for a big attack. so here is the 5 of us idiots standing at the top of a hill like scarecrows in a parking lot. The 60+ soldiers open fire and within the blink of an eye were all very dead and laying on the hill. Today I learn that being the hero is another mans game, ill stick to hiding in the back with a rocket launcher next time.
+IT IS NOT PAY TO WIN! you crazys 
+
+I have been playing Planetside 2 for a few years now off and on. When i first started i hated mainly because my computer couldn't run it. Every time i jumped into a battle my FPS would drop and i woun't be able to see what was really going on. Now it has been a few years and i keep coming back to this game.
+
+When i first upgraded my computer i finally was able to see what was going on and was able to fight back! although i still sucked at the game and had a KD of about .01. I went and watched a few youtube videos and got some tips on how to fight. Before i would just run around like a chicken with its head chopped off and die all the time. Now i take my time look around for a good spot to either hold up in, look around the corner, or just find a spot were people are dying and ill just be a medic and rack up the points. It took a long time before i was able to get atleast 1 kill before i died myself.
+
+When it comes to vehicles there are a nice amount to choose from and depending on your faction they will have differnt styles. From ground support: Tanks, Mobile Spawn points, Run and Gun, and quads. From Air Support: Transporters with heavy guns, Jets with rockets, and a helicopter type jet thing that no one really uses. People use there for many different things we even use them for racing just for fun if we know we are going to lose but have 4 min to kill.
+
+The map is HUGE! and there are 5 of them! well....mainly 3 but still...the main 3 are forest, desert, and ice tundra. there is a swamp but no one really uses it but i like it, and there is a VR battle grounds were you can have everything maxed out and try any type of gameplay you like but doesnt count for anything. On one map there can be well over 3 differnt parts of it that have 100 vs 100 going on. The Dev's came up with an idea as player base started to go down a bit were they lock different maps and force you to play on others. it's good and bad. good becuase it makes anyone who wants to just play, there is always big battles going on. bad if you want to just go and explore for a bit (weird-o) you might have to wait 2 hours before it unlocks again. If you win a map and it gets locked down you get perks! such as lower cost on vehicle's.
+
+Now lets talk about new people going jumping in vs. old level 120 everything unlocked players.....THE GAME GIVE YOU THE BEST WEAPON AT THE START!....not to stay that other weapons arent better for your play style but as a whole, every class starts with one of the best weapons you can have. ask any vet level 120 and they will say to NOT BUY GUNS! they will tell you to invest in your armor, your abilitys, your atachments, ect. i made the mistake of doing just that. but you do not need to spend 1,000 DAMN CERTS on a weapon that you might not even like. (if you really want a new weapon go to the vr battle grounds and try it out before you buy)
+
+Which brings me to the next topic CERTS! they suck to get as a new player. Once you are getting better(after level 15 normally) they also stop giving you bonus certs. from level 1-15 they give you an extra 100 certs after 15...well every 250 exp you get 1 cert. to get you an idea about how long it might take to get 1 cert ill tell you! 1 kill is about 130 exp, 1 revive is about 80 exp, 1 tank kill is about 300 exp, someone picks up ammo you dropped for them to use, thats 10 exp. as a new player you might not get many kills in the beginning. so this can take quite some time....Save your certs untill you know what you might want to play as and DO NOT BUY A GUN!!!!! JUST DONT DO IT! YOU GUN IS FINE! DONT DO IT!
+
+When it comes to classes there are 6. you can be a sniper with a cloak, gunner with a jetpack, an engineer with a portable turret, a healer with a revive gun, gunner with an extra shield, or a walking mini tank. if you are new and having truouble with getting kills, go with a support class like healer or engineer, they both still have a gun to kill people with but you can help out others and not have to get to in the way of gun fire.
+
+Lets talk about guns for a sec. There is bullet drop and travel. i know this isn't anything super new for bullet drop but when this game came out it was pretty cool to me. shotting at an air ship you will need to lead your bullets to land the hit, some tanks need to aim higher for futher targets, and snipers need to accound for how far away their target is. if you are at a base and are fighting in a room(which is normal) you dont need to worry to much about these things.DONT BUY GUNS! (if you are new)
+
+Over all its'a free game, it's NOT pay to win and many people say it is, and if you find a good team you will have a lot of fun. I have now 140 hours into this game and i am only level 28 but i can go 1 on 1 with a level 120 with a decent chance of coming up a winner. hope this helps anyone looking for a new free game to play with friends or solo(you'll make friends)
+[h1][b]Most Important Edit:[/b] There is no difference in levels and don't let anyone tell you so. Here is why... There is no difference in BR120 and BR1 (which are basically levels). If I gave you my BR120 (maxed out) account and you gave me your BR1 (new) account, I would still kill you. Give me any gun in the game, I will kill you. Do not let salty reviews from 5 hour players change your mind. You get the basic equipment you need to suceed from starting the game.The same occurs in vehicles. If this doesnt change your mind, look at this. By BR 8, which is about an hour of playtime, you can get some nice guns on any vehicle or get some infantry guns of your choice. However, I will still kill you in a default vehicle if you have a maxed out one. Playing against higher levels does not matter. They are just more skilled and thats why they kill you.[/h1]
+
+[h1]Feel free to add me on steam to play with me on the US East Server[/h1]
+
+[h1][b]A note on the air in Planetside 2:[/b] To put it bluntly, air is super hard. You will get triggered by it. You will quit. You need several months of practice to be decent and there will still be players who will kill you with 90% health remaining after those months. I will not tell you not to try it, but keep that in mind.[/h1]
+
+[h1][b]edits:[/b][/h1] I made a meme review but people thought I was cool because I had so many hours so I made a better one.   
+
+[b]Factions:[/b] If I get any comments complaining about how factions are OP I will get triggered. For everyone who has heard this, I play all 3 factions and play what people call "the weakest faction". THEYRE ALL GOOD. 
+
+
+ If I was playing infantry only I would go Vanu Sovereignty but if I was playing combined arms I would definietely go New Conglomerate. Go Terran Republic if you want to find High accuracy/High Fire Rate//Medium Damage guns with better-than-average armor. Go Vanu Sovereignty if you want High Accuracy/Medium Damage/Medium Fire Rate guns and medicore armor but [b]godly[/b] aircraft. Go New Conglomerate for Low Accuracy/Low Fire Rate/High Damage guns with the best armor. 
+
+[h1][b]Main Review:[/b][/h1]  
+
+I've played this game for 2000 hours and I'm still in love with it. I cannot just quantify its pro's and con's because its so much more than just a list.
+ 
+What I enjoy about this game is the fact that you can do anything and everything that you would ever want. If you get bored of playing infantry, hop in a tank. If you get bored of that, hop in a reaver (fighter). If you get bored of that, hop in a harasser (battlecar). Theres like 11 vehicles in the game for people to play with. On top of that, its infantry gameplay requires skill most of the time. There are some exceptions like shotguns and maxes. 
+
+Another strength of this game is the fact that it has these amazing communities. I've been in three of them over the course of a couple years and the friends you make are amazing. The Emerald (US East) server is absolutely fantastic and we all know each other and play with each other. Check out the reddit or various discords. 
+
+There are a few issues with the game as well. The largest one is probably performance. Another one is the simple fact that the Devs simply didn't do their jobs. Planetside 2 could have been the next Player Battlegrounds. It could have. At the beginning, they were doing MLG events and everything. Then it just stopped...This effects the current gamplay mainly by lack of players and balance issues. There used to be thousands upon thousands of players playing at once. You could get 2-5 platoons (groups of 48 people) under your control but now you'll be lucky to get one. The game population has dropped at a drastic rate due to the next issue mainly: Performance.
+ 
+To go back to performance, this game does not perform well. I am not talking about a GPU or CPU, I have a 750 TI and a 2nd generation I7 (yes they still exist) and I can easily run 60-120 frames at any given moment in a 300 man battle. What I am talking about is the lag. There is lag compensation in this game and there are many players who play from many different countries. This means you will constantly die behind walls and glitch out in vehicles. It gets really triggering. 
+
+The last things I want to complain about today are the bugs. There are bugs that have been in the game for years and the devs haven't even achnowledged them. For example, every time you pull a vehicle remotely, you have an estimated (by me) 20-40% chance to die. Yes, you bug out that often. 
+
+Overall, the great community and variety makes up for the game. I've spent over $200 on this game and over $50 on my friends in this game. 10/10 would do again. At one point, I was playing so much I spent 20% of my time THE ENTIRE YEAR playing Planetside alone.
+Before you Install, keep in mind that a majority of the players you'll encounter are veterans and have been playing for at least a year. Be prepared to die a bit, but don't fret! I started the same way as a 0.2 KDR medic who just revived people. Now I've "gotten gud" and have a 3.4 Infantry KDR as a non-heavy! 
+
+This game will chew you up and spit you out multiple times, you have to put in the determination and keep playing to rise above the average player who gets turned into mulch!
+
+Also, for those who complain about P2W, weapons are sidegrades. 
+A good example of this are the Terran Republic's Assault Rifles
+-SABR 13, Long range, 2 round burst marksman rifle, can be deadly in CQC with aim
+-TAR, high RoF, lethal in CQC, OKish at mid range
+-T1 Cycler (starter rifle) - good at every range, especially short and mid, with controlable recoil and rewarding headshot aiming with fast time-to-kills
+
+There is a reason that the glowly weapons that veterans use (directive rewards, long-term achievements) are actually just the starter weapons with attachments already equipped, they have their own little special traits, but aren't better than the starter ones. Actually, if we're talking what weapons are meta, more than half of the directive reward weapons are terrible.
+
+TLDR: Excellent Game, bigger than Battlefield and harder than CSGO, not P2Win, just put in the time to "git gud"
+2000 players in a single map. Tell me another FPS that can do this WITH INFANTRY, ARMOR, AND AIR.
+
+I thought not.
+
+Unique experiences that you cannot find in another game. 2000/10
+This game is like real life. No matter what you do, you are insignificant. You may feel like you can make a difference, but you never will.
+ 
+11/10 would feel insignificant again
+PlanetSide 2 is the game you keep coming back to. There is literally nothing else like this in the gaming market today. Massive, battles, surface to air combat, dogfights, infantry vs vehicles, large scale assaults on bases, stalwart defense against an overwhelming horde of enemies. Nothing comes close to it. When I say massive battles I'm not talking about the measely 64v64 battles that feel like you're primarily wandering about on a too large map while enemies in vehicles and planes get all the fun. I'm talking battles twice that size with spawns that put you right into the action. Without finding yourself being spawned camped for hours on end. 
+
+I'm sorry what was that? Oh you wanted coordinated attacks with a large scale team. But you can't find anyone to play with you? Welcome to instant squad join. Instantly find a squad to join up on with, quite literally, the press of a button. Boom you've got at a minimum of eleven other people to coordinate with. Oh what's that? You want a more permanent group to find your friends easier? BAM! Join or create an outfit, with as little as two people. 
+
+If you're tired of the same old grind of one pointless round of mindless gunfighting over and over come to Auraxis and fight for something. Whether you fight for the steadfast Terran Republic, the courageous New Conglomerate or the ingenious Vanu Sovereignty you'll find insane engagements as you battle across four different continents for control of territories. 
+
+Best thing of all the game is FREE to play! You literally have nothing to lose! Do yourself a huge favor and download this game. Why not give it a chance! If any of you decide to get this game add me if you're on the server known as emerald. I'll help you get started and hook you up with an amazing outfit! My in game name is iMadhatter and I fight for the Vanu Sovereignty. Join me in combat or fight for the other factions. Either way I'll help you out! Good luck Auraxian I'll see you PlanetSide.
+Updated review, after clocking 800+ hours, reaching level 82/100 and spending the equivalent of 100+ dosh in it (with sales of course)
+
+Lots of things to say, but I'll keep it quick and strict. Pros and cons.
+
+For a video overview, check this unofficial trailer by Moukass
+http://www.youtube.com/watch?v=b5cHAE0eiOE
+Here's a video for new players, courtesy of Wrel
+http://www.youtube.com/watch?v=URIu143Si3w
+
+-------------------------------
+    Pros:
+-------------------------------
+
+♦ Unique huge open world experience
+Very hard to find  a game as massive as this. Gargantuan of a world in which every single living being is a human. Heck, even the turrets must be manned if you want them to work.
+Over three continents, each with a player cap of 2000. 
+Hard to pull off, but they did.
+
+♦ Vehicle game
+Planes are hella fun if you're good. Tanks, buggies and armored are fun too. The vehicles fit well in a world as big as this and they can be specialized for anything.
+
+♦ Active dev team
+The dev team are involved in updates and in the community (which is the whiniest community in decades). They bring out consistent changes, not always imbalanced or bugged.
+
+♦ Good graphics and effects
+It looks good on ultra if you can run it.
+
+♦ Good FPS response for a MMO-Shooter
+Surprisingly, shooting works. It works like in any FPS with a max of 30 players, but with 2000 players max. Not as crisp as that, but it works.
+
+♦ Great to play in an organised outfit
+That should be your main priority : Find an outfit (a.k.a. a guild), make friends with them, follow the leaders order if you want to win.
+
+♦ Game is fun to play once the battles are evenly matched
+
+♦ It's active. It won't die out this decade.            
+
+-------------------------------
+    Cons:
+-------------------------------
+
+CHECK THE COMMENTS FOR CONS SINCE IT SAID:        
+"Your recommendation is 789 characters too long. Please shorten it and try again."
+
+
+Highly recommend this game if:
+- you got a good PC &
+- you are a social person &
+- you like FPS's or vehicle play (e.g. flying) &     
+- you like fun &
+- you have a big pocket or you don't care about unlockables 
+
+It's a good game. You need to try it definitely, since it's free to play.
+
+UPDATE: I just got a proper PC to play this game, and everything I said doesn't even compare if you have a good machine to run it. Everything gets better with processing power, since you can be competitive in big fights.
+Before playing this game: Take a deep breath. You are going to die a lot and get absolutely destroyed by people who have been playing this game for years. It will happen. The good thing is that those type of people are on your team too. Let them do the heavy lifting and find where you fit. Seriously, don't spend your time bouncing between classes. This game is designed for people to specialize and play with a class that fits your playstyle. I have wasted most of my 50 hours so far bouncing between classes. Find one, stick with it, and enjoy the game. The game has so much to offer it's insane. After 50 hours I am just learning what class fits me best and branching out to other playstyles. I have barely scratched the surface.
+
+Pros:
+-Endless playability
+-Vehicles
+-Massive maps
+-A class or vehicle for every person's playstyle
+-Good cooperative team play
+-Fast paced action
+-Diverse playing enviroment
+-No pay to win (people complain out not being able to get guns and items but YOU DO NOT need the items to actually play with the best of them. It is largely based on skill.)
+-Veteran Players (Makes you better and kills are rewarding)
+
+Cons:
+-Eats GPUs (terribly optimized... but still playable)
+-Really good players (Sometimes you just die... alot...)
+-Fighting for a strategic point that you simply don't have the numbers to win (you know you are going to lose  it 30 minutes before it happens)
+
+Conclusion:
+Don't play this game if you want to relax... In fact, don't play any strategic FPS if you want to relax. Do play this if you like the challenge and satisfaction of earning your kills, XP, and mastery of a game that is very open-ended. Also, always bring air support.... Just please.... Bring air support it just makes life easier. 10/10 reccomend
+It says here I have 773 hours in this game. I often play through the client directly, so I have more like 1500-1700 hours total. I have not played a single PC game more than Planetside 2 in my lifetime, and I absolutely love the game. Allow me to go over the pros and cons, because there are some things you should know if and when you get started.
+
+Pros:
++ One of a kind, true real-time MMOFPS. Cannot reallistically be compared to other games. Battlefield has some similarities but is not a true competitor.
++ Not pay to win. Really, it isn't. Anyone who says otherwise probably takes too much for granted. Only one relatively minor aspect of gameplay (the implant system) is affected by lootboxes. You invest in what you want otherwise.
++ Satisfying gunplay overall. The mechanics strike a good balance between firing penalties (recoil/cone of fire) and ease of use. Sights and scopes do not feel cramped for screenspace, and are actually quite generous in what they offer the player. Hitreg is meh but better than the average FPS.
++ A ton of valid playstyles. It's not even my place to define what they all are. Do not feel pressured to conform to a meta. You get to define your niches, goals, and success in this game.
++ Subcommunities galore! Play with friends and outfits in squads and platoons and have a jolly good time. There's a subcommunity for every kind of player. This isn't me advertising, even though it sounds like it. It's the truth.
+
+Cons:
+- High skill floor as well as skill cap. You'll start out in this game by dying, a lot (and especially to people who look like they are cheating but really are just super skilled). It doesn't help that the tutorial sucks. Until they revamp the new player experience later this year, I recommend consulting the PS2 subreddit for their FAQ and helpful links. 
+- Not optimized. It is very difficult for the average gaming PC to get above 100 frames during gameplay, especially in large fights.
+- Cheese mechanics. There are some OP mechanics like shotgun mech suits and air-to-ground machineguns that can be frustrating when you die to them.
+- Bugs galore! This game is both entertaining and frustrating because of countless bugs -- some of which have been around for 6 years.
+- It ain't what it used to be. After the developers made a series of poor decisions from 2014-2015, the game's population declined significantly. The fights on most servers (with the exception of Briggs) are still big and juicy though, just waiting for new players to come and take a bite. 
+
+If you ask me, the pros outweigh the cons, hence why I still play. I definitely recommend this game.
+
+PROS:
+Motivation to build new computer
+
+CONS:
+I still don't have new computer
+
+PS Since over 1,000 People found this Review 'Helpful', Then I should just point out that this game needs a pretty good CPU to handle it.
+Best tip for new players. Dont spend your certification points on new weapons! this game starts you off with the best primary weapons right from the get go, all the others are side grades that offer slight differences in play styles, none of them are direct upgrades. focus on the things that Are direct upgrades first, like your suit armor variations, class tool slot like the medic healing tool and engineer rep tool, or maybe some certs into some fun vehicle upgrades. theres little to gain from bying a new primary for most any class, save those for later ones you finish the weapon directive for the default weapon. heck i still use my default Pulsar VS1 most of the time, easy to handle and i dont have to worry about engagement range much. the weapons in this game are not a progression, they are side paths and are a HUGE undertaking to learn how to use them properly. dont do what i did and buy five assult rifles with my first few thousand certs....
+   I'm running around the point with the platoon as a combat medic, and see my teammates going down left and right. I put down the shield regeneration bubble to recover my teammate's shields up and I start reviving my teammates. Also our engineers are supplying our teammates in the front. We all know that we're in a pich and that we need immediately some help. I see several friendly inflantrators sniping down enemies from behind, which is pretty much helping us a lot, but not nearly enough. Then I hear something beautiful behind us and from the Platoon chat. Our max crash is coming, and it's going to push the enemies back by a bit. We might be able to turn this war upside down for now.
+
+    This game... It's a fantastic game, especially if you are in a platoon with people who know their stuff and know how to give and listen to orders. It's basically a neverending war in a huge zone, where you capture areas and with some main areas, you will gain bonuses for your faction.
+   
+    Once a faction is getting together and making up plans, strategies and orders, this game is an incredible game. It's not just a basic futuristic battlefield, but it's something where you really need and want people to stick together and fight together.
+
+    I know several friends though, who love to play this game alone than in a platoon. I don't myself see the interest in that, but I guess it will give you more freedom. I just myself love to move in a huge mass with other people, always managing to make people push back and supporting my teammates with either ammo or heal.
+
+    When the game was still pretty new (in the first year of it's publishment), it was poorly optimized and gaining certs (which is the free in-game currency) was nearly impossible and a long process. Now though, the game works much better and certs are easier to get, turning the game not to be so pay-to-win anymore. Sure, you need 1000 certs for a gun, but the first guns you're using is pretty much as good as the guns you can only buy with SC.
+
+    This game seriously is a must-to-try. It's an interesting game and really has some decent graphics and an amazing gameplay. When I stopped playing this game because of my low FPS, I felt like always coming back, but never being able to. But now, after getting a new computer, I'm running on semi-stable 60fps, even in huge fights. There still are some minor bugs and minus sides, but those don't really affect the gameplay that much. Only sometimes, but not usually.
+
+9/10, you should try this out, even if you're not into huge battlefield games.
+[h1]Full Scale War: The Game[/h1]
+
+Planetside 2 is a gigantic multiplayer FPS featuring warfare that ranges in scale. From small skirmishes between 10-20 players, to massive conflicts with hundreds fighting over single bases, this is the game that materializes a dream for the FPS gamer.
+
+[h1]Fight Smarter, Not Harder[/h1]
+
+Rewarding quick thinking and superior positioning is a tough order when some battles feature players in every possible position. Planetside 2 accomplishes this by encouraging support play in conjunction with the all out assault. Spending your early certs (the basic currency, gained with XP) on support gadgets and improving survivability with shields, sprint speed, or defensive tools is generally more valuable than acquiring a single expensive gun.
+
+[h1]Tons of Unlockables, At a Cost[/h1]
+
+Planning out how to advance your character is a necessary task with so many unlockable items. Tons of guns, support items, and implants await. That said, past level 15, when a new characters stops getting 100 certs per level, the players performance is directly tied to how many certs they can gain. For support players or less skilled combatants, this can significantly increase the grind time. 
+
+This game is pay-to-advance, not pay-to-win. The first weapons the player gets are effective enough that intelligent usage and accuracy will trump just having different guns bought with the premium currency. Niche weapons excel at certain areas, but I have found in my play time (much greater than displayed) that the starter guns are fine.
+
+[h1]Bad Drivers, Oblivious Medics[/h1]
+
+So many items, and such large scale conflicts, are a source of great and ever-changing fun. That said, its still competitive/cooperative multiplayer. Hinted at in the title, the player will be faced with many situations where team mates kill them on accident or on purpose. They'll ignore the best course of action in winning a territory in favor of farming kills. Bad tank drivers squish engineers. 
+
+These things happen. It's okay. Most of the time its a genuine accident, and the player will even sometimes nab a few TKs of their own for various reasons. Use the times your allies are incompetent to encourage you to not follow their example.
+
+[h1]Heavy Learning Curve[/h1]
+
+I have yet to lay eyes on someone who just walked into Planetside and immediately started laying waste. This is a tough game, and it requires (for most people) some time and practice to get the pattern of combat down. Take the time to pay attention to where a player dies, where they were shot from, and the weapons used for both of them. Observe as often as you fight.
+
+[h1]Conclusion[/h1]
+
+No game is without fault, but most people don't look for flawless games, they look for games that puts them somewhere, and sometime, they want to be. 
+
+If where you want to be is in the middle of an 8x8 kilometer map, where single bases are bigger than some other FPSs entire multiplayer maps, this is it. If you want to witness a screaming dogfight over an onslaught of two opposing tank lines, welcome. If you want to witness the majesty of hundreds of tracers drawing neon patterns across the desert sky, you're in the right place. 
+
+Like any game, enjoy it for what it is.
+
+And what this is, is war.
+====<Graphics>====
+☐ Gorgeous
+☐ Beautiful
+☐ Good
+☑ Fine
+☐ Working
+☐ Fail
+☐ Disgusting
+☐ MS Paint
+
+====<Gameplay>====
+☐ Addicting
+☑ Extremely Good
+☑ Good
+☐ Ok
+☐ Boring
+☐ Bad
+☐ Fail
+
+====<Players>====
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Everyone
+
+====<Audio>====
+☐ Eargasm
+☐ Extremely Good
+☐ Good
+☑ Decent
+☐ Not too bad
+☐ Bad
+☐ Earrape
+
+====<Difficulity>====
+☐ Dark Souls
+☐ Difficult
+☑ Not Easy
+☐ Easy
+☐ Super Easy
+☐ Grandpa
+☐ New Born
+
+====<PC>==== 
+☐ NASA Super Computer
+☐ Rich Af
+☑ Fast
+☑ Ok
+☐ Bad
+☐ 1990
+☐ Stone
+
+====<Grind>====
+☐ OnlyFarming
+☐ Farming
+☐ Half Farmer
+☐ Can be Grindy
+☐ Average
+☑ Almost no Grinding
+☐ Nothing
+
+====<Price>====
+☐ Buy it
+☐ Worth the price
+☐ Wait for Sale
+☐ If you have leftovers
+☐ Not Worth the price
+☐ To Much
+☑ Free
+
+====<Story>====
+☐ Materpiece
+☐ Super Good
+☐ Good
+☐ Average
+☐ Not Good
+☐ Is Something i Guess 
+☑ Doesn't have?
+
+====<Length>====
+☑ Space and Time
+☑ Long
+☐ Average
+☐ Depends
+☐ Short
+☐ To Short
+
+====<Bugs>====
+☐ None
+☐ Almost no Bugs
+☑ Some Bugs 
+☐ Sometimes Annoying
+☐ Ruining the game
+☐ Only Bugs
+
+====<Salt Level>====
+☐ Salt Storage
+☐ Salty
+☑ Some Salt
+☐ Normal
+☐ Almost Nothing
+☐ None
+
+====<Multiplayer>====
+☑ Awesome
+☐ It's Good
+☐ Ok
+☐ Bad
+☐ Nope
+☐ None
+
+====<Optimization>====
+☐ Awesome
+☐ It's Good
+☑ Ok
+☐ Bad
+☐ Horrible
+Meh, played it a bit. It's ok.
+
+
+Joking aside, here is a review from someone who has taken part in basically all parts of the game (aside the more advanced air game as I can't fly for sh*t other than crashing into a tree) and tried to git gud at all of them. For further information, I have played this game ever since it got into beta in the end of 2012, with 1 larger break of 1-2 years inbetween. Most of the following is a subjective opinion with some facts thrown in there. Every player has a different perspective/opinion on the game, so please take that into account.
+
+For new players, this game is extremely difficult to get into. For the people playing the game for 100-500 hours+, we go online, choose a fight of our liking and start fighting. Doesn't matter if we play for KD, fun or objective.
+For new players, the amount of information you have to process, is *a lot*. It will take time. Something most players advice (for good reason), is to join an outfit.
+I have been in zergfits and midfits alike and from personal experience, you should look for people who understand the struggles of a new player. A lot of the good players help the midtier players get better, but I have personally felt that they struggle putting themselves into a position of not understanding what a sunderer is or how to capture a point.
+Thus it is easier to ask around and potentially join a bigger outfit which teaches you the basics of the game at first. Please do not misunderstand -> Joining a big outfit is not the same as accepting invitations from spamfits (Outfits that spam invites to players without asking them). Take a look through the outfit browser and see what fits you or go to reddit or the PlanetSide 2 discord and poke some players about what outfits they think you should join.
+
+In the end, you need to have an open mind. Every outfit is different and you should determine for yourself, what you want to do in this sandbox. I think every outfit offers some sort of gameplay variant, no matter if it is subjectively good or bad. Once you think you have found your personal playstyle, then you can always switch outfits to be around likeminded players.
+
+
+The game itself has a lot of flaws which come from the concept of being a 3 way faction sandbox. The competition that some players are looking for is for the most part, extremely infuriating (especially to get into it). For me, the mindset made a huge difference. This isn't a game designed to be a competitive (talking about specific balance/server tick rate) game. You can have competition but you have to play by the games rules. Things such as lag etc. are sometimes more important than your skills in terms of aiming or positioning.
+From personal experience, it helps seeing the live play as what it is supposed to be: A sandbox where everyone can do whatever the game enables them to do. As infuriating as zerging (huge amount of players versus a small amount of players) is, the game enables it and you have to deal with it. Obviously there are ways to combat this and for the most part,  it is up to the player to use them (form a counter force, use choke points, etc..).
+
+The game currently has 4 major and 1 minor playstyles as of now (in my opinion. This will most likely vary *A LOT*).
+Infantry, Ground Vehicles, Air Vehicles and Leading are the 4 major playstyles that you can choose to persue. Leading will 100% overlap as you need to learn how lead either combined arms (Infantry and vehicles combined) or one part specifically. You can choose whichever path you want, however the vehicle paths are rather expensive when it comes to unlocking the best weapons/abilities for specific scenarios.
+The minor playstyle is building bases via construction. A lot of people are torn about this topic, yet I stand by the believe that it is a sand box and construction bases are fun to interact with. Just like with vehicle unlocks, it costs a lot and isn't 100% doable from the start.
+
+In terms of activity, the game is (even if only slightly) growing again! New updates are fun (such as air anomalies, which reduce the cost for air vehicles to 0 and thus create huge air battles, with air aces and noobs such as myself alike) and the community is, while salty, a good one. I am happy to be a part of it.
+
+I also want to warn new players of something that a lot of people have stated over the years. If you get into the game and play it a lot, a lot of other games will feel... empty and hollow. Most interactions if not all of them in PlanetSide 2 are player made. Every person you are fighting is another player somewhere around the world. All the platoons, squads and friendly forces you will fight alongside (unless you are NC, then you will team kill them :D) are players. This constant interaction with other players, this sometimes "random" behavior makes (especially single player games) feel a bit empty after some time.
+
+Lastly I want to say, there is too much to put into a few words/paragraphs here. There is talk about new player experience, Veteran interactions, base designs, how balanced Infantry vs Infantry is, interactions between infantry to ground vehicles to air vehicles, etc.. etc.. The game is massive. The best thing you can do is to find someone who can mentor you through this.
+
+While the beginning is definitely a bit hard, it is a lot of fun once you get into it.
+
+Would definitely recommend.
+===[ ❤ Audience: ]=== 
+☑ Kids
+☑ Everyone
+☑ Casual players
+☑ Pro players
+
+===[ ☼ Graphics: ]=== 
+☐ Potato
+☐ Really bad
+☐ Bad
+☐ OK
+☐ Good 
+☑ Beautiful 
+☐ Masterpiece
+
+===[ $ Price/quality: ]=== 
+☐ Full price
+☐ Wait for sale
+☐ Average
+☐ Refund it if you can
+☑ Don't buy it, it is free for pete`s sake
+
+===[ ☣ Requirments: ]=== 
+☐ 90' PC
+☐ Minimum
+☐ Medium 
+☑ Fast
+☑ High end 
+☑ NASA computer
+
+===[ ☼ Difficulty: ]=== 
+☐ You just need 2 arms 
+☐ Ez
+☐ Easy to learn / Hard to master 
+☑ Hard (first few hours)
+☐ Dark Souls
+
+===[ ۞ Game time/length ]=== 
+☐ Really short ( 0 - 2 hours)
+☐ Short ( 2 - 8 hours)
+☐ Few hours ( 8 - 12 hours)
+☐ Long ( 12+ hours)
+☑ Endless
+
+===[ ♬ Story] === 
+☑ It doesn't have
+☐ Still better than Twilight
+☐ Average
+☐ Good
+☐ Fantastic
+
+===[ § Bugs ]=== 
+☐ Game itself is one big BUG
+☐ Bugs destroying the game
+☐ Lot of bugs
+☑ Few Bugs
+☐ You can use them for speedrun
+☐ Nothing
+
+===[ ✦ Others: ]=== 
+Multiplayer: Yes
+Singleplayer: You Wish
++One of the best and helpful online communities
++Sandbox style of game, that lets you play your own way in the given framework of an MMO-FPS-RTS game.
++Combined arms with infantry, vehicles and air
++Organized platoons of up to 48 players, or you can play solo
++4 Maps which can hold above 1000 players each, with small and big fights on different locations.
++Many outfits that run either big platoons or smaller tactical squads
++Build your own bases which different constructions or attack an enemy selfbuild bases
+
+-Very hard to learn, expect to put north of 100 hours into the game until you see the light.
+-Expect to die fast when you start the game, over and over until you gain situational awarness
+-If you dont join an outfit that teaches the game or you dont join open platoons it will be hard to learn the trade of the game in the beginning. (No tutorial missions or ingame learning missions)
+
+-> If you bite through the first 100 hours and/or find an outfit that fits to you, expect to play one of the best games of your life for a very long time.
+
+-> GET HELP here and ask the community anything you want to know:
+
+https://www.reddit.com/r/Planetside/
+
+Tips for the start: 
+
+1. In the beginning you need "certs" the most to upgrade you infantry classes, vehicles and air. You earn "certs" for doing anything in the game. One of the fastest ways to gain "certs" is playing medic. Start with upgrading your medic to max level in the following order:
+-revive grenades
+-medical applicator (heal with left mouse button, revive with right mouse button)
+-grenade bandolier
+-regeneration field (place down near choke points)
+Join big fights with that medic and heal and revive your teammates. This will give you a lot of "certs". When you feel you slowly get an idea how this game works, tip your toe into the other classes to figure out their traits.
+
+2. If you dont mind spending money on the game, buy your weapons with cash. You can also use "certs" for that, but if you buy with cash, you can use the weapons on all other alternate characters you might create later on. This saves you a lot of time in case you move to a different server or faction at a later point.
+Before you buy a gun, you should know, you can actually try every gun in the real game for 30 minutes for free. I recommend that, because some guns are easier to use for beginners or for your type of play and you want to find the best gun in the beginning to get you going...
+
+See you ingame.
+If you play it right, you will never be bored. Until you are. And then you wont play it for a year. BUT THEN you will play it everytime you have free time. And never be bored. Until you are again. Then rinse and repeat.
+At first, I though "ehh. another FPS that I suck at and is mildly frustrating. Also, I can't fly or drive"
+I had fun running around getting shot alot, occasionally getting kills. Then me and my friend joined a squad, and that was undoubtebly one of the most fun I have ever had in a game. We got in these massive cargo ships, or "galaxies" and all 12 of us (sometimes there were multiple galaxies) would await the drop call from our leader. It came and we would all at once drop onto a roof, enter it shouting commands, and then once we tactically took it we would defend it from the immediate counterattack. I've done this tons now, and it never gets old, the rush and the tacticalness. Besides the waning community and the slight P2W bits (it's free, what do you excpect), its perfect.
+
+9/10 with friends
+I am one of those guys who run Linux, and try to do everything using it. Yet this game is still a reason for me to dual boot Windows.
+
+Hundreds of players, waging war on four giant open continents. Whether you want to play a sniper, an infantrymen rushing points, or want to jump into one of many different vehicles or planes, this game has got you covered. Planetside makes you feel small, just one soldier in a huge battle. You are not "Hero X" or "The tank of the team". You are just another guy with a gun, no super powers others do not have.
+
+There are a few things to keep in mind though:
+
+1) Most important for new players: This game has a very long and steep learning curve. In your first hours, days, maybe even weeks in the game a lot of people will kill you, easily. This is not because the game is pay to win, as many reviews of people with less than 100 hours in suggest. This is because those players know where to take cover, how to approach and how to aim exactly the way to get all their bullets in your head, instead of spreading half their clip over the wall behind you. [b]Make friends, join an outfit[/b] - or if you are more the solitary type, watch videos by people like [i]Wrel[/i] that cover the basics of playing this game. You might not need it in other shooters, you will need it here.
+
+2) I said this shortly before already, but I'll say it again: This game is not pay to win. At all. Everything except for some purely cosmetic items can be unlocked through [i]cert points[/i], which you earn by doing useful stuff (repairing, kills, spotting, basically everything). All weapons can be unlocked through these points. And these points are easy, really easy to get. A focused new engineer can make 1000 cert points in the first 1-3 days of playing. That gets you any gun or upgrade you want. [b]Watch a tutorial, on farming certs.[/b] You want to be engineer or medic for this, usually.
+
+3) Got some certs? Don't just drop them all on a new gun at first, because: Almost all weapons are sidegrades, either all purpose or excelling in a specific situation. New players should upgrade their armor first, and maybe cert into a vehicle after that. Vehicles are fun.
+
+I have currently almost 500 hours in, but am by no measure a pro yet. I'll leave further recommendations to others. My advice is give it a try, watch some tutorials, and maybe I'll run you over on my [i]Flash[/i] someday. Just keep in mind that everything you see a 'pro' do, is something you can do as well. No pay to win, no barriers. Just raw experience.
+
+[spoiler]Also join vanu, purple spandex = best[/spoiler]
+I have played it for 1400+ hours (off steam), done 50k+ kills. 
+I am looking forward to put even more time into it. 
+(Free to play user).
+
+Don't know better FPS game at this time. Way better than Battlefield series.
+This game destroyed my drive to play any other FPS
+
+You know why?
+
+Simply put, there is nothing else out there like PlanetSide 2. 
+
+Nothing.
+
+11/10
+
+(Warning to new players: This game is the dark souls of FPS games, you will die a lot, and then you'll die some more)
+TO ANYONE NEW WHO IS INTERESTED IN PLAYING PS2:
+
+I've been playing for some time so I'll give you  a quick rundown.
+(TL;DR at bottom)
+
+Planetside 2 is an mmofps where three factions are at a constant conflict with eachother. The game features battles on an incredibly large scale and the battlefield is super dynamic. The main objective is to attack and defend numerous bases on the map to increase the chance of victory for your faction. The battlefield is always changing and communication is important. There are both ground vehicles and air vehicles, countless weapons to choose from (though you may have to work for some) and a large variety of appearance changes through micro-transactions.
+
+The game itself has been around since 2012 but has aged beautifully. I'm a standing veteran of PlanetSide 1 and although I miss some aspects the first had that the second hasn't offered, this still doesn't change my opinion on the game.
+
+The Factions:
+
+Terran Republic(TR) are pretty much space commies as far as politics but are my preferred faction to play. Their colors are Red and Black
+
+New Conglomerate(NC) are more like Freedom Fighters who scream Guerrilla Warfare. Their colors are Blue and Yellow
+
+Vanu Sovereignty(VS) are the religious nutbags who prefer alien tech rather then human tech. They have laser guns and stuff and love to wear spandex. Their colors are Purple and Black.
+
+Below are the official propaganda videos by the devs to get a better understanding of the factions.
+
+
+TR: https://www.youtube.com/watch?v=CHN9CdBqSYM
+
+NC: https://www.youtube.com/watch?v=ErA4jNfVSIM
+
+VS: https://www.youtube.com/watch?v=JkTnvST9Teg
+
+If at all this game interests you then please give it a go! It's totally free to play and a blast. The battles are hectic, there are different continents to fight on and the maps are colossal.
+
+TL;DR:
+
+Planetside 2 is a massive mmofps featuring a large ever-lasting conquest between 3 factions (Terran Republic, New Conglomerate, and Vanu Sovereignty). Your objective in the game is to take and hold command bases from enemy factions in a dynamic battlefield which is always changing. Partake or command squads and fight for your army. (See videos for more info on factions)
+If somebody finds a true MMO shooter better than this let me know. Infantry, vehicles, aircraft, squad and platoon leaders with heavy tactical play, 3 factions, maps 64km2 big. There's plenty of things to sink your teeth into if you put some time in and respect the learning curve.
+i remember playing this when my pc was a potato
+anything more than 12 players near me would turn my view into a beautiful symphony of abstract colors and shapes...
+
+
+
+
+now i can handle up to 24
+This is the only game that lets you be:
+- a jetpacked commando dropping from an airship, causing mayhem behind enemy lines 
+- a cloaked predator-style hunter with a crossbow, an unseen menace thinning enemy reinforments.
+- a defiant squad captain, quietly leading a ragtag team to glory as the higher-ups squabble.
+- a sadistic bomber gunner, looking down on the insects below, laughing maniacally while liberating dozens from the shackles of their puny lives.
+- a grizzled war vet forced out of retirement to support the war effort as an engineer/miner/truck driver, dodging enemy tank fire, designing bases and meeting supply deadlines.
+
+Nothing so far in the FPS genre is close to matching Planetside 2's sense of scale. All out infantry, tank and aircraft combat with thousands of other players in a seamless large map. Every so often you'll get that epic 2-hour, 300 man-fight. There's something unique about the feeling of fighting hordes of tanks and endless swarms of infantry, knowing behind each unit is a person controlling, thinking and adapting.  With comms blaring with callouts for aerial bombardment and coordinated pushes into crucial control points, the immersion you get from this game is pretty intense. 
+
+The rest of the time, you find yourself looking for ways to be entertained, and still, the game isn't bad at doing so. Each infantry class and vehicle offers a unique playstyle and allows for quite a bit of role play and experimentation. 
+
+I've logged around a thousand hours in this game. Sure, the experience has been a bit uneven, and it's definitely not for everyone. Maybe 1/5th of that time was wasted on capping almost empty bases, or mindlessly spawn camping with a zerg that could care less about strategy. Still, this game definitely has its moments, and offers just enough unique thrills to keep coming back.
+
+
+Pros:
++ One of the few MMOFPS, now with player construction.
++ Game on high graphics is pretty epic. Vast landscapes with all the players make for some cool screenshots.
++ Outfit camaraderie and shenanigans.
++ Solid FPS mechanics, vechicle controls and gunplay with dozens of weapons for every playstyle. 
++ Devs are pretty decent communicating and responding to community feedback.
++ Riding the first time with a competent air squad playing flight of the valkyries, raining down sweet justice.
++ Netcode is pretty impressive considering how many things are on screen at once
+
+Cons:
+- Hearing flight of the valkyries too much, dying 5 seconds after taking off due to AA fire.
+- Hiding like a rat in spawn room due to PTSD from to too much air/tank bombardment.
+- The DOTA of FPS. You'll need several dozen hours just to learn the game
+- Some dull moments just moving around or waiting for capture timers
+If you've got a beefy enough PC, play it. Also
+ALL WEAPONS ARE SIDEGRADES NOT UPGRADES! DO NOT BUY WEAPONS EARLY ON IN THE GAME YOU START OUT WITH THE BEST GUNS IN THE GAME, THE REST JUST SPECIALIZE. I can't make that clear enough. Also beware that matchmaking is nonexistant. So stay on koltyr if you're brand new.
+This is the best free to play fps game out there, it is not pay to win, its pay to look better than everyone else, only con with this game is that it is poorly optimized, its running on an old engine, the best computers will suffer in a large battle. The maps are huge, graphics arent amazing, but arent bad, this game cant have battlefield style graphics becuase the lag would be out of this world. i played this game *without steam* (you can download the launcher from daybreak) for a long time, i have around 1500 hours, and i have spent 1000$ to look badass on all my characters, this game is worth a shot, but it isnt for everyone... it is hard to get used to... hope this is helpful.
+Seeing a platoon of about 12 tanks, what feels like hundreds (probably is) of infantry, 5 mobile spawn units full of troops, accompanied by fighters in the air all riding through the desert to take a massive outpost is an amazing sight. This game has the largest multiplayer battles ever still to this day, the best part about it is that it feels like a lot of people are coming back, recently there have been battles that wage FOREVER full of lasers, cannons, and machine gun fire that almost never seem to end and I love it. It's like if you could play the board game RISK and also play from the point of view of the troops in the war. Almost every moment is like an action movie. Some thinking is involved if you want to make a real difference in the war, overall best MMO FPS there is.
+I have started playing on Nov 25, 2012. Since then over the 1333 days I have played 1667 hours, which is about 1 hour 15 minutes a day, or 8 hours 45 minutes a week, a day's worth of work including commute. (As of July 20, 2016)
+
+Still no sign of stopping any time soon. And I am neither a hardcore player nor am I good at the game.
+
+Everything else was said in other reviews. Despite all the issues the game may have, this is definitively one of the best games ever made. You can play 100% free, no pay2win, only things that are money only are cosmetics and boosts.
+
+The game actually keeps getting better even if it may be two steps forward one step back from time to time.
+
+10/10, I have spent more time in war than some real life soldiers. Would start playing the game that took more of my time than a part-time job again if I was given the choice.
+Played this game for over 1000 hours a few years back. Kept me going through tougher times in life. Came back for some nostalgia and I'm hooked again. To me, it's the only game that really nails the expansiveness of battles. Everything else I have played feels really quite "contained".
+
+Play this with some mates and you'll have a blast. Really is a bit of an unsung hero.
+Pros:
+  + HUGE open worlds
+  + Large servers
+  + It's FREE
+
+Cons:
+  - Can be hard for new players
+  - A little bit of grinding 
+
+      Planetside 2 is an online tactical shooter in which you choose to be a soldier in one of three different factions that are involved in an eternal struggle for various planets. Each faction must capture control points in order to gain control of the planet. There are 6 different soldier classes which allow for large differences in personal gameplay. Give it a try because it is free.
+
+ This game was curated for PC Beta Gaming - http://steamcommunity.com/groups/PC-BetaG
+i came back to this looking for something thats not a call of duty game,
+
+what i got was a mix between halo, battlefield, star wars battlefront, and basically most warhammer games...
+
+yeah, idk but this is the best game, ive played, in the 4 years ive had an ability to game at all, 10/10 and if i could 11/10
+
+well done developers, well done
+You thought Battlefield was war. You were wrong. 
+
+This is war. 
+
+Battles with hundreds of people fighting on each side in Combined arms battles with air and land vehicles across maps that are more than 100 square kilometres. Grab your 980ti and hold on tight, because you're in for a treat.
+This game is about six years old.
+
+This game is about six years old, and I firmly believe it is the best modern shooter game created, or at least the best modern MMO FPS created.
+
+In Planetside 2, you don't just get a modern infantry shooter, complete with squad combat on a tactical level. You get a tank simulator, a base-building game (though it could use some work), a dogfighting simulator, a stealth game (Infil is best class), and most importantly; a good mmo that relies on skill above purchasing "better" weapons to mow down foes. 
+
+Yes, there are microtransactions...but nothing you actually need to buy. Microtransactions here are for vanity's sake, or to support the dev team and the people who keep this awesome title running. You can get as good as any pro player, without spending a dime, and you can die to Battle Rank 1's as a Battle Rank 120 (highest rank in the game), because this is a game of skill, teamwork, and tactics on a truly unmatched scale in modern gaming.
+
+The community is small, but getting into any active group with time to help you learn and grow as a player is well worth it and will be rewarding in the long run. Any problems with weapons, kills, or such can be solved by perusing the community's wealth of Youtube videos, and putting in practice ingame.
+
+In short, this game is amazing, and you should play it.
+
+What, you still reading the review? Go play it, it's free.
+
+This game is dope. hands down best MMOFPS, and personally my fav FPS.
+
+**Pay-to-Win elements? Sure...** (See below)
+
+Is paying, to be competitive, mandatory? Lol no.
+
+Money doesnt buy skill and I've taken down many a ~insert name here~ without spending a dime on this game
+
+Shotgun light assault trooper and going behind enemy lines can prove how much money doesn't help.
+
+Your "Credit-Card-loaded-Tank" still has nothing on my hard earned packs of C4 and my Death-from-Above-Jetpack.
+
+*Phwmb Phwmb* *Click* *BOOM* = Free
+^placing c4^
+
+P.S. ignore my steam hours as i play through planetside 2's own launcher, not steam
+
+
+as for a real review.
+
+Pros.
+
+Free +
+Fun +
+Intense+
+Awesome+
+Lots of different combat scenarios. Tanks, Aircraft, Infantry, Bases, Loadouts, Large... LARGE maps, And all that mixed on different scales. sometimes you will get into 1v1 combat, sometimes 6v20, sometimes 400 v 400, sometimes 1 v 400, sometimes sniper wars, you name it.
+
+Cons.
+
+A powerful PC is reccomended though not mandatory. -
+No Helicopters =(    -
+^I can understand why there are no Helicopters. but they would still be cool
+
+
+**As has been pointed out. This game isn't P2W. Yes you can use money to buy guns, perks, attachments, customization and other small things. All items that can boost stats can be earned in game without any RL money. Money is more of a "shortcut" to some things. Though any moderate gamer would be able to earn even the most expensive items in just a day or two. Hardcore PS2 gamers can probably earn them faster. My original wording of "P2W elements" was reffering to the shortcuts...
+
+You will never play this game and feel like you were only beaten because he spends money and you didnt. unlike some games I will not mention... ArcheAge.
+I've spent so many hours on this game... and I still feel like I'm learning and getting better. 
+
+Do you want to fly close air support? GREAT!
+Do you want infantry slug fests where things can go back and forth in a pitched fight? GREAT!
+Do you want to feel like a hell-jumper, being hot-dropped into a combat zone? GREAT!
+Do you want small fights in restricted tiny maps, and be harrassed by 12 year olds? NOPE!
+Do you want massive tank battles that span kilometers? YUP YUP YUP!
+
+This game is massive in scale, if you want tiny, crappy COD style firefights then this isn't for you. If you want to be screamed at by squeekers, then this ALSO isn't the game for you. The community tends to be more mature, which is rare for a Free to Play. It has a steep learning curve, but they've recently made huge strides towards making a great New Player Experience. It is a beautiful game for what it is, but you'll need a powerful PC to handle it. Keep in mind, that there could be 1000 people on the same continent as you. There could be 200 people or more fighting over the same base as you. There is not other game out there that can even APPROACH this scale. Even Mound & Blade with 200 person sieges doesn't come close to feeling as epic.
+Sometimes i get bored and leave the game hanging for a few months. BUT, then I come back, and I keep coming back. And there are still people playing it so I stay. And i have fun.
+
+AND SINCE THERE IS NO OTHER GAME OUT THERE EVEN REMOTLLY CLOSE TO OFFERING A SIMILAR EXPERIENCE I WILL KEEP COMING BACK AND PLAYING THIS GAME. and having fun. and then getting bored and leaving. but always coming back .
+If you want to see a dead game, go see blackwake.
+
+There's a definitive difference between a dead game and an old game.
+
+This game sure isn't what it used to be, that's guaranteed. It's still not dead though.
+
+It's players are the only thing driving it on, their loyalty to the battlefields of Auraxis fuel this game.
+I've played a little bit and you know what?
+
+Who cares if its F2P or not.
+
+It is obviously the best mmofps out there. None of those AAA titled billion making companies can compare their game with this masterpiece. You have actual chaos not faked by any trailers or anything. 
+
+Thanks.
+There's one rule you need to learn before playing PlanetSide 2 - you are absolutely expendable. Your KD does not matter. You are just fodder in a grand conflict of hundreds of people being thrown at each other to die in a glorious(or less than glorious) fashion.
+
+And that is why this game is so freaking refreshing in FPS market covered with K/D ratio focused shooters that are so obsessed with telling you how great and important you are. Its specifically BECAUSE you do not matter that everything you do can matter - you do not need  to "score kills" to be useful and help your side. Teamwork is rewarded. Objective play is priority. You might not shoot someone in the head but you might heal, you might repair, you might build or you might serve as something as simple as a body-shield for your friend who is doing something far more important. 
+
+So if you are tired of shooters like Call of Duty or Battlefield and want to  take part in a glorious giant battles that last for hours, then grab some friends and join in. 
+
+You might not score "the kills" in your first time playing, but sure as hell  you will have a chance to find yourself in the middle of something mind-blowingly grand.
+
+Planetside 2 does what CODont.
+As a Terran Republic main, I love logging into the login screen with the TR soldier getting strangled by the Vanu Sovereignty  soldier. Every single time. 10/11
+The first open world, fps, massive multiplayer game i have played. I think it is a new type of fps that should be expanded throughout the video gaming industry. 
+
+11/10 for creativity
+Planetside 2 is a hard game. Not like Dark Souls, where when you learn the system you can easily overcome invader after invader, boss after boss, but hard because there's almost no skill ceiling. There's also no matchmaking system, which while it sounds counterintuitive, is what makes Planetside fun. What's your incentive to keep playing, you might ask?
+
+You die. A lot.
+There's so much to learn that you will invariably make mistake after mistake, and that's the beauty of it. After 10 or 20 deaths you'll likely be learning why you died, and do better for the next 10 or 20, and you'll probably learn something again.
+
+And then you'll still die.
+Because there's always more room to grow in Planetside 2.
+6 years on, and there's still yet to be any other game of such grandiose scale and scope. Thousands of players from three different sides battling on foot, on ground, and air vehicles, for dozens of bases on a single continent hundreds of kilometers wide, nonstop. And there are several continents comprising the planet, mind you. No other game comes even close still, and that's saying a lot.
+With over 1k hours in the game I feel I can give a pretty good review on it. Overall, it's a good game. Very much worth the $0 you have to pay to play it. However, you will need a decent rig if you want to be able to run this properly. There ARE fights where there's hundreds of players fighting at the same time 1v1v1 since there's three factions. It can get Very demanding on your PC.
+
+It's a HUGE grind. By huge, I mean i have 1,027 hours on record by the time of this review. And I haven't come close to unlocking all the upgrades to vehicles and infantry. This game requires you to pick your focus, and then channel all of your Certs (In game currency) towards that specific role. Afterwards, you branch out. So if you want Infantry play, pick your style (Heavy, Medic, Engineer, Light Assault, Recon) and spend your certs only in that role until you are comfortable with it. Then move on to either another infantry role or branch out to a specific vehicle.
+
+NOT MENT TO PLAY SOLO. This is a massive game, with a grander scale of battle than Battlefield or Battlefront will ever offer. While yes, you can lone wolf the game and get moderate success. You will find the true beauty of the game was suppose to be played in a cooperate fashion. Join an Outfit, find a squad, get on Mic, and have fun. Some of my favorite gaming moments have come from Galaxy drops in a full Outfit Platoon with everyone coordinating together. Don't be afraid to reach out to players and make friends. The Main Battle tank is a two man vehicle, and a coordinated team will dominate other tanks who aren't talking to each other.
+
+This is PLAY TO WIN. Not PAY TO WIN. Money isn't going to get you all the kills in this game. However, time already spent in it will. This isn't me saying "Because the dude has played more, he will outplay you more". No, the guy who has logged 1000 hours, will have accumulated more CERTS, and will have spent those Certs on upgrades. This could mean his Main Battle tank has a Reload speed of 2.1 seconds, when your MBT has a reload speed of 3 seconds. This is a huge advantage, not to mention upgraded gunner weapons, specialized main weapon, defensive certs etc etc. A player with more upgrades has a huge advantage over someone who doesn't. If you are new, find a more experienced player and stick with them. Use their vehicles until you can grind out the certs yourself. Lots of players Need and Love a dedicated gunner, become that and learn the ropes.
+
+ZERGING, Oh...my...sweet...merciful god, the zerging. This ruins the game more than anything else. This is when you get outpopulated by the enemy on such a massive scale that there is literally nothing you can ever do about it. You and the other 20 people in base suddenly find yourself the 10% populating in the region. With the enemy sporting 90% dominance. Meaning they have more bodies on point than you have ammo in your gun. There is nothing you can do other than shake your head, pack your backs and go somewhere else. Re-deploying destroys a lot of maneuvering in this game. You will find yourself hopping from one base to the other in the form of self-suicides rather than just grabbing a vehicle and driving there.
+
+Planetside 2 isn't perfect, but it's still a good game. And despite it's flaws, me and my friend have had soo much fun playing it together and trying different things. I very much recommend this game if you have a group of friends you play with that enjoy a good FPS. Even for the solo player you can join an Outfit and partcipate in coordinated strikes. You will find there are quite a few outfits that are quite dedicated.
+
+Planetside 2 presents features that allow advanced teamwork for its players.
+
+It stands out mainly for its unprecedentedly massive numbers for a First Person Shooter and its elaborated Voice Over Internet Protocol.
+
+That feel when you first embark with hundreds of players, communicating through radio channels that go beyond your unit, in large troop transport vehicules forming huge columns headed to multiple fronts, almost in awe, subjugated. Then, you realise : your adversaries will be pretty much the same size as you and there will be two teams of them!
+
+Its community is vast and diverse. Casual and competitive, lone and gregarious, they will all find a place.
+In theory, this game is awesome. In practicality, it's a bit of a mixed bag. First and foremost, it's best played with friends or other people, ideally in groups of 12-24. There is a little something for everyone. Infantry/objective holds, vehicle battles, base building, and bombing/dogfighting (mostly everyone hates skyknights). At it's core the game is really fun. The fights can get quite intense. However, most of the time you will jumping around bases trying to find decent fights. Most infantry fights will be greatly imbalanced, with certain clans pushing 200+ people down undefended lanes. Vehicle fights are a blast,  though far and few in between. Overall weapon balance is okay, but not great. Cash shop items give the impression that Sony/Daybreak Games doesn't understand the term "microtransaction", as there is nothing micro about it. All customization is limited to real money only, but it's very good, and getting better. With recent updates and developments, I think this game has seen better times, but I wouldn't write it off just yet. It's worth a try, provided expectations aren't set too high.
+Imagine a mix of Halo and Battlefield and then imagine a thousend players in a continent scale map, that Higby thing is PlanetSide2.
+
+ Play as a infantry soldier with one of the seven classes available, or be a driver in a one-man fast moving tank or a faction-unique powerfull main battle tank, or ride a buggy or a fighter or ... well you got the point.
+
+ And the best part is that this is free.
+
+ But be aware of the high demanding hardware to use this game, the hard-to-play for new players and the slow adquisicion on certifications.
+
+ One of my favorite games.
+I think anyone who likes multiplayer FPS games should at the very least try out Planetside 2. This is a very special experience, I can’t think of another FPS that is as ambitious, varied, and outrageous in its dedication to all out chaotic war as this game. Thousands, and I mean thousands of real people at sitting at their computers all across the world battle in this never ending sci fi conflict from a first person perspective, all in glorious real time, and for the most part, it works. It’s astonishing to stare across a field at a giant group of advancing enemy infantry, easily larger than even the largest Battlefield server, snap to iron sights, and fire into the group and score a kill, only to get run over from behind by one of a hundred tanks cresting over the hill, firing in all directions like maniacs. The game is an MMO, but just the very fact that it still manages to feel like a standard FPS with decent controls and shooting mechanics is a grand achievement. Planetside 2 feels, at times, like the perfect game I wanted as a little kid while going “pew pew” with dozens of little plastic army men.
+
+Like other MMOs, you can join an outfit (guild) and fight for one of three distinct factions. The scary red space communists (guns are weak but shoot fast), the freedom loving space Americans (guns are strong but shoot slow), and the spiritual xenophile space hippies (laser guns). These factions are engaged in an eternal conflict over several continents, and the game centers around various control points. Choose a class ranging from the vital medic to the jetpacking Light Assault and help out your team crush the enemy forces. The size of each continent is mind boggling, and while large stretches are usually unused for long periods of time, it is easy to find conflict zones and jump straight in by the game’s intuitive map system. See all of those flashing booms? Shit’s going down there, get in the meat grinder, soldier!
+
+The land and air vehicles are easy to operate, and the infantry controls are familiar if you’ve played any recent FPS. There is a ton of variety in how the gameplay unfolds. One minute you are firing at distant targets in a barren desert from a tank’s turret, the next you could be dropped from a hovering Galaxy troop carrier into the thick of an intense CQB firefight. However, there are definitely long boring stretches of inactivity like in other MMOs, boring car rides or endless sprints to the objective that can become pretty grating over time. Thankfully, you can always kill yourself to respawn somewhere closer, or spawn on a mobile spawn truck known as the Sunderer, so if you’re an impatient type action is never too far away.
+
+The game unfortunately isn’t perfect. Performance is all over the place, despite having a good system expect things to slow down in some of the more hectic combat moments, which is expected since the game is trying to render hundreds of people shooting each other. The F2P system isn’t too bad, the starting guns are definitely viable in combat, but in order to get another weapon or even to unlock a new attachment can feel very grindy at times. Players who spend a ton of money will definitely have an advantage over you in a 1v1 situation since they have access to more gadgets, scopes, etc. than you do, but since the battles are so chaotic and packed with people, this is rarely an issue. 
+
+Planetside 2 is an ambitious game that truly makes you feel like you are a small cog in a giant sci fi battle. I feel as if many multiplayer FPS games are becoming more and more obsessed with making every player feel like a cool guy special forces operator, but Planetside 2 basically says, “You don’t matter, you’re one of hundreds of dumb grunts running around and you are most likely going to die real quick.” I really enjoy this and I wished more developers would work towards making a similar MMOFPS like this of our dreams. Imagine an MMOFPS set in Europe during WW2 (Not that Heroes and Generals shits), now that would be something I really like. Imagine Allied forces landing in player controlled LCVPs, while Axis Luftwafe strafe the beaches, and Panzer divisions massing for a counter attack. Now THAT's my dream video game. 
+
+Planetside 2 is definitely worth trying out, it’s free, so why not?
+For a nearly 6 year old game (at the time of writing this) it has it's flaws, most noteably performance issues, however it brings to the table an experience that to this day is unmatched. One of Planetside 2's core features is the large, never-ending battles that cover each of the 4 continents. These battles have no player cap (so there can be as many players fighting in one area as there are on that server theoretically) and no matchmaking lobbies, meaning that it is a persistant world and you are always fighting a mixed bag of skill. There are 3 factions; Vanu Soverignty, Terran Republic, and New Conglomerate each with their own traits and values that influence their weapons and vehicles. Final note: Do not use steamcharts to judge population, PS2 has it's own launcher that a surprising amount of people use. This game typically peaks at about 4-5k people daily across all servers. However only about 2-3k of that are on steam.
+Hey guys,
+
+I don't use the steam launcher for this game, so it hasn't logged all my hours.  If you look up Cyrious at planetside2.com/players you will see pretty quick I am a long time player with over 4000 hours into the game.
+
+I think its obvious that someone that has played this long is going to give the game a positive review.  But that doesn't help most people.  But I did put together a video on the pros and cons of getting started in Planetside 2 now that it is going on a 5 year old game.  Check it out below and I hope it helps you.  Cheers!
+
+https://youtu.be/_LIlB0Pee04
+
+But, a word of warning.  This is a tough game for new players.  If you do find it interesting and want to try it out, I created a bunch of new player tutorials that you can find on my Youtube channel from the above link.
+
+Be Brave.  Be Bold.  And I will see you... Planetside.
+There's no reason why you shouldn't give this game a try out, it's a free to play game which offers great content not only that but the game is backed by a great community.
+This game is a extraterrestrial battlefield which has multiple continents. There are three factions. They have common weapons and vehicles however they also have different weapons and vehicles. Here, I will leave some descriptions of these factions so newcomers can enjoy the game without any massive disturbance.
+
+TR: Space Nazi. They came to Auraxis from the Moon, which was their evacuation site of the war. Most of their specific guns have high rates of rounds per minute, due to their earlier situation which needed methods to remove debris and asteroids from the outer space. Since the earlier guns are not precise guns they wanted, they simply increased the amount of rounds. As time goes by, they improved the accuracy of their guns and thanks to the Nanite Systems, troops of the Terran Republic can enjoy well-oiled machine guns.
+
+NC: Space Patriots. They've been loving freedom so much so they became the freedom. By the way they usually love to oppose something. The TR used the fast weapons so they decided to use slower weapons. Since they don't have much productions than the TR, They decided to make more durable weapons and armours. And they struggled to find the perfect weapon which has fewer RPM but can do massive damage. Oh boy, they found shotgun. The TR also used it however not like the NC. They placed shotgun at the turret and the aircraft. Also they found out the Gundams are cool and awesome and they applied them to the NC MAX. You will think the TR MAX is round and THICK after you see the NC MAX.
+
+VS: Space Scaley. If you think the VS is more like the space furry, You're wrong. I haven't seen any headgear that represents  the furry emojis in the game yet. Scaley is non-fur and has scales or nothing but looks like it has scales such as lizard, dragon, etc. They always wear skinny spandex and as the result the men's butt are double of the women's butt. This made gays and the gays made the traps. Henry Briggs saw the future and the technologies which will let the humanity flourish but the technologies use the spandex. I think he committed suicide because he died of shame. But why these technologies need spandex? I guess the progress of the technology was so fast that they skipped some important points which fu'r'fil (haha funny) unknown human desires (such as the advanced Pornhub). Anyway these are why the VS is being called gay. They usually don't have such nice weapons even though they are developing themselves into the Vanu (maybe they don't have decent weapons but decent vehicles). They usually do medium damage, have medium velocity, etc. compared with the TR's and the NC's.
+
+I recommend VS for the beginners because its infantry system is easy to understand and easy to use. Try NC if you are bad at aiming.
+
+Thanks for reading and goodbye
+Im' back to this game after 4 years. For me its charming as it was, but community shrinked and game got pretty old. Still it is worth to give it a try.
+I have probably around 3k hours (a lot not on steam since I used the launcher directly) and I can say with confidence that this game is fantastic. Many players express frustration when it comes to how the game is balanced, or the technical design choices the devs make, but ultimately the core gameplay is fantastic. Its a blast to play with friends and can give such an incredible sense of scale that it will give you goosebumps. 
+
+Each of the three factions have unique traits and offer slightly differing play styles. All the vehicles are unique and powerful in their own ways. Some require teamwork while others just individual skill. Each of the 4 Continents offers varying terrain making fighting on the unique to their own environment. Joining outfits (clans) in game is great way to make friends and gives players a chance to try and play as a team. The devs are also fantastic, bringing new and interesting updates and communicating with the playerbase on changes. 
+
+However there are some issues with the game that people should know. The learning curve is brutal. For many new players this is the hardest thing to overcome. There is no "matchmaking" so players have to learn to find their own fights. Often times new player will spend the first hour or so (depending on skill) just dying over and over and this can make the game feel very P2W and overall uninviting. Additionally being stuck with default equipment can make it feel like everyone is way ahead of you. However its important to know that often times the default guns given to each class is usually one of the more versatile and powerful guns for those classes (Think of T9 Carv, Orion, Gauss saw, Trac-9, T1 cycler.) The game is not P2W. Getting a membership will decrease the grind, but paying money can only get you cosmetics and guns (which again, are mostly sidegrades.) 
+
+Vehicles are one aspect where the grind is real and the default loadouts are often lackluster. New players are excited to jump into tanks only to realize how difficult it can be to use and how easy it is to die. This is something that every player learns to get better at overtime. Vehicles are also not always essential to the gameplay as many fights focus on infantry combat, which gives new players a more even playing field.
+
+The game can also be difficult to run on many computers. For a long time I ran the settings on bare minimum just to consistently get over 20 fps (back in 2016 on a laptop.) Many veteran players are also concerned about the shrinking playerbase, which is very real. The game is not as big as it used to be and there's no denying it. Despite this, there are still many hundreds of people online on each server for mos the day and the game is very much still alive, except at early morning hours.
+
+Overall, PS2 gives a very unique fps experience with the freedom of an open world game where many battles consist of hundred of players. If you are looking for a shooter that is different from the norm, even if just for a few hours, definitely check this one out. See you on Auraxis.
+<Server: Miller | Faction: TR> 
+
+Good MMOFPS even in these days. 
+The game in a nutshell: Three factions, the mighty terrans (TR),  the gone mad terrans (NC) and an overpowered drunk alien sect (VS), fight on atm four continents for the reign of empty facilities - yay!
+
++ coordinated teamplay pays off
++ friendly and helpful community 
++ small battles can escalate quickly in a huge battle with 200+ players involved
++ three factions with their own style in vehicles, weapons and abilities 
++ six classes to choose from
++ four big continents with different environment themes
++ a lot of grinding aka hundreds of hours gameplay
++ no p2w, just skins or time saver (seriously if you think buying something which you can get anyway after a couple hours is p2w, feel free to f*ck off)
+
+- client sided gameplay can be annoying sometimes
+- if you don't play with a coordinated squad you will sometimes find yourself in situations in which you feel like you are the only one around who actually uses his brain (e.g. medics just run pass your corpse, other engineers place their turret right in front of yours, ...)
+
+Overall 9/10
+
+PS: [BHO] and [DIG] you guys suck.
+This game is incredibly underrated and actually a lot of fun. It takes some time to get good at it and understand how everything works, but once you do, it's incredible.
+Word to the wise: If you intend to play this, expect to have a bad time for, like, the first few months until you start getting better spec'd gear. Unsurprisingly, having a shooter that encompasses more square footage than a modern Battle Royale title results in a lot of people spending a lot of time getting to be VERY good at the game.
+
+That said, the gameplay is timelessly solid, particularly considering the game's 7-year age and its nearly rabid fanbase of active players. Pick it up if you're down for a challenge, leave it if you don't wanna spend the first few months as a bullet sponge.
+Still the best f2P shooter on steam...or anywhere. Strong community, dedicated dev team, and NOT pay to win. Show them that good business practices still pays off, consider buying some skins. 
+
+9/10....i need room so that PS3 can be that perfect 10 someday.
+Still one of the best MMOFPS... No IMHO the best, because there's not many out there.
+The small team of devs that's left working on it, bless their hearts. Are trying.  They fumble and they make some very clumsy  mistakes, but for keeping the game F2P and working with what they have, they've done pretty well.
+Ever seen massive battles like from the trailers or CoD or Battlefield, and get disappointed that, it's nearly never like that in actual gameplay?  This game has those battles, and every actor is a real player! Massive, chaotic battles.
+Best of all, it's actually a F2P game.  The basic weapons are often times better, as all arounders, than the ones you get with Certs, which you can either earn (very... very easily I might add) or buy if you want.  Generally though you'll want to buy skins or memberships if anything to set yourself apart, because there's no need to buy weapons, so there's no P2W. 
+The game's playerbase has dived recently, with the Daybreak anouncing a Battle Royale based on the game's IP, and a few patches worth of fixing the servers while trying to add new things that caused problems for people to stay in the servers, which they should've just rolled back imho, but now that I think about it, due to the Dev team's very small size for a game this big, I wonder if they have the ability to test the patches and fix them to have been able to afford to roll them back and lose the feedback?
+Either way, a very fun game, that's even better when you work as a team.
+Pros
++F2P
++A community that still alive
++P2L and not P2W
++Help Level up fast with all XP buffs everyday
+Con
+-Unbalance Perks
+-Unbalance Armor tanks who ever to easy destroy or to easy keep alive
+-Requires 3-5 friends if you don't want someone rage quit (happen to my party 3 times)
+-Unbalance Max suits way to easy kill for it be over price to build
+
+(8.5/10) it flaws can be ignored easy
+Frankly put this game can be a great amount of fun, or it can be an utter disaster of a time. It all depends on 3 things. Who you choose as your faction... sometimes you will find your faction being completely overwhelmed no matter what you do, 99% of the time you will be winning battles based on sheer numbers. The second thing it depends on is if your playing alone or with others. This does not mean you need to be playing with someone you know, but it is a far more rewarding experience when you join a platoon or a squad. Lastly and possibly the most important thing is are you willing to communicate with your team members. It is not difficult at all to use the voice chat options, but for some reason no one seems to care. Using the voice chat to communicate with your surrounding team mates is basically a necessity for winning large scale battles. All in all Planetside 2 is a solid game that offers strangely repetitive yet addicting game play that will make you want to keep playing so that you can unlock more abilities, guns, etc.
+Pretty cool. Although this game is not very suitable for low end PC's, this game will run okay on most gaming PC's. The fights are absolutely amazingly awesome. They are so intense. Overall, I'd give this game a solid 7/10.
+
+I do enjoy playing this game in small bite size pieces even without having unlocked any primary weapons for any class (yes I just like spending my in-game credits on small upgrades), here's my basic overview of the game's pros and cons.
+
+Pros:
+> The game is free
+
+> The developers put a lot of time seriously balancing the game, all three factions in the game are based on preferred playstyle rather than one simply being more powerful
+
+> You meet some real nice people (shoutout to TATF of the NC faction)
+
+> The graphics are nice, if you're bored engaging in large scale firefights why not build a base and enjoy the scenery?
+
+Cons:
+> You may not enjoy the gameplay at low fps, as infantry, most situations include fast reactions if you wish to use your gun
+
+> The game is really grindy, even with the grind there are many items you can't unlock for free
+
+> Though it is very well balanced, each gun has to be used situationally, if you don't have a good gun for that specific situation or you lack in aiming skill you will die a very large number of times
+
+> For wannabe flyers or pilots, the mouse control features roll and pitch rather than the widely used pitch and yaw. This may not be a problem due to the yaw speed of most flying vehicles is rather slow, the main problem lies that you cannot change it and you are stuck with it
+
+> I swear to god stop driving your C4 packed scooters into my tank
+I have over 900 hours on the game itself, not on steam but its AWESOME, sure it gets boring, but if you find it after a while and play it, You get right back up and start playing daily
+Fun game, 
+feels like battlefield 4 and some 90's Sci-Fi movie had an autistic kid that overdosed on map size.
+
+If your pc can run it on high at 60fps+, you'll have fun. Otherwise i wouldnt recommend it.
+I've played since 2013. I've been here a long time. I've seen the ups, and the downs. I've been a faithful supporter to this [b] EPIC [/b] massive shooter for years. But today I sadly write this review. 
+
+Firstly, there are no equivalent to planetside. When I first started playing, I got sucked into this unique universe and otherworldly athmosphere. It was amazing. It had a bright future. It was a rising star. It was something special to see and participate in HUGE and I really mean [b] SUPER HUGE [/b]battles raging all over the place for hours. But the problems soon started to show up. 
+
+One after one they showed up, ruining the gameplay for many players. The Devs tried but they didn't manage to correct what once was this marble. Lots of players left the game. The average population started to sink, month after month. Planetside had problems making newcommers stay faithfull to just this game. After 5 years the average population is nowhere near of how it used to be, the battles aren't SUPER HUGE anymore, maybe not even HUGE. The veterans are the only ones left, faithful to the game. 
+
+Secondly, over the last couple of months something happend to this game. After years of decline in population, the devs finally promised us something good. An upgrade from the current Dx9 to Dx11, a new continent named Oshur. This seemed good, with some ads and promotion Planetside could get a more stable player base and maybe even attract more players due to more and better content. I was hopefull untill some weeks ago, when Daybreak Games said they would release Planetside Arena. 
+
+It turned out, to us players that the Devs had been working on a new game. Not saying a word to their community, taking our money and put it into this new game. That [b] MONEY  were meant to support DBG to keep Planetside 2 alive [/b]. Atleast you could've asked us, your community, what we thought was the right move for Planetside 2. 
+
+I have low hopes for Planetside Arena. It has a scheduled release as of now, January 29th. It's supposed to be an arena game featuring Battle Royale in the planetside universe. Like, what the actually fu... What happend to the fantastic universe, the one that was special and sucked ME into this otherworldy world of Auraxis? You just took that away, without even hinting it, but worst of all. You DGB took our money that were MEANT to keep planetside 2 unique and alive, and made another Battle Royal spinoff. I'm afraid this will split the small community you have left and it maybe even will be the end of Planetside. 
+
+And ohh, I almost forgot. As of now - the servers specially mine, [b] Miller is unplayable [/b]. We have server latency drops every 10-15 seconds. And ohh. We, the players also manage to restart the whole server after placing lots of tank mines in a small area. It literally crashed the whole server. So bad are your servers. It shouldn't even be legal to run a server as bad as Miller is at the moment I'm writing this.
+While I am a fan of the game and desperately want it to succeed, but I have noticed a strong decline in quality of gameplay (from inconsistent servers to lots of nerfs in a short period of time.) If you last played this game in 2016 and come back now, it is a completely different game. Armor vs Armor got significantly nerfed with the Combined Arms Initiative Update and the Unstable Warpgates Update which force people to fight at poorly designed bases on the middle of the map on 3 of the 4 continents. Now it seems like the development team for this game has lost it's way and has been making updates and balance changes that people complain and post about on the Planetside subreddit the most. Sadly enough, the only redeeming factor left in this game are the large scale fights and those are starting to decline significantly as of recent. 
+
+3 years ago I would have strongly recommended this game, but due to poor balancing choices in 2017 and onward which have lead to a significant decline of the games population. The redeemable factors left in this game are running out to a point where i cannot recommend this to anyone unless servers are fixed and the player base grows back to 2017 levels.
+After a "couple" of hours I must now come to the conclusion that I cannot recommend this game anymore. It has been on a downward slope for a good time now, and it's arrived at a point where if you asked me whether to pick it up or not and I honestly answered, I'd say "don't!"
+
+TL;DR: Vehicles are overpowered against infantry, a lot of vets cheat legally, stupid designs decisions and horrible performance will work together to make the new player experience absolutely attrocious.
+
+[b]1) Unbalanced interaction between vehicles and infantry.[/b] This has always been a major issue, now it's come to the point where the interaction of infantry with vehicles is just tedious. I am an average vehicle player, but every time I play in vehicles I absolutely eclipse the very top 0.1% of infantry players in terms of KDR. Vehicles are so stupendously overpowered against infantry, and infantry has so little to attack vehicles (not to mention infantry will almost always play reactionary anyway) that you're better off just trying to ignore the enemy vehicles and avoid the battles they're in.
+
+[b]2) "Cheating" but legally.[/b] This is probably thrown into 50% of all reviews. But after playing for a couple of thousand hours I think I know what I'm talking about. No, it's not aimbots or wallhacks (although the last one does happen). It's lag. This game has no limit on ping, people from the other side of the world can play on the same server you are. People can also use 3rd party programs to induce lag. The way this game works is such that if you have lag and you know how to exploit it, your opponent is at a massive disadvantage. A laggy player like that can easily kill you before they've even shown up on your screen  at all. And, it's perfectly fine by DBG's rhetoric. Needless to say, especially newer players are easy prey, en masse, to these kind of players.
+
+[b]3) Useless mechanics which promote zerging.[/b] They wanted to solve zerging but everything they did up to this point has done the opposite. When a map starts, its boundaries are severely restricted. This means everyone (if its 100 people or 1000 people on the server) is forced to go to 1 base and fight there. Herd instinct makes it that even if the map opens up to other locations, the only fight you will get is at that location for at least the coming hour. It's a hopeless fight where (especially new players) will get farmed by cheese, like aforementioned vehicles, and orbital strikes (nukes).
+
+[b]4) Horrible optimization.[/b] It's a DX9 game and as such, lower graphics will only make performance worse on most PC's (your graphics card is not optimized for DX9 anymore). Unless you know how to tweak your INI file (which new players generally won't) you'll be running around with sub-par frames. One moment you may have an acceptable, fluid game and the next things just stutter around. The bigger the battle, the worse this problem. Due to the nature of this game, new players will get farmed simply because they cannot respond effectively, even if they would.
+
+All in all, I cannot but conclude that this game will not be an enjoyable experience for new players.
+I'm sure it's a fun game but with the low population I'm sure only the best of the best are playing now. You stand no chance as a new player and you will get killed over and over again and it's not worth the grind.
+I had previously given H1Z1/Just Survive a good review; however since the Dev team decided to remove the version of the game I bought, and wanted to play; I am going to change my review until the problem is fixed. Additionally, since Daybreak seems to only want peoples money, I would suggest stearing clear of any of Daybreak's games until theyt change their policies.
+More cheaters now then in 2013...game is a piece of dodoːsteamfacepalmː fps in this day an age are loaded with haxers. DayBreak,Orgin EA,Activision all Devs an publishers dont care about cheaters in their games,LMAO Battleeye Easycheat an Valve all worked around by haxers. Look at BFV...outta control..Ea doesnt gave a♥♥♥♥♥♥I will never buy another FPS shooter ...Cheaters ruin all the fun an challange   Planetside Arena will fail an PS2 will die.Its slowly been dying for yearsNothing left but Ranked up fanboys an cheaters fron some third world♥♥♥♥♥♥holes ♥♥♥♥ all you azzhats   Have a nice day maggotsːsteammockingː
+Bad, just bad. 
+After  so many years playing it i can say it has become a bad game.
+Unstable,game freezes for seconds, hudge lag spikes, when changing continents 8/10 you spawn underground and die flying to the center of the planet, makes sense right?
+Gun performance is lame. Most weapons are the same. NS weapons are superior though.
+You need a 10.000 euro computer to run this game.
+Many players do edit game directory files so they have a hudge advantage against others, dbg allows it though. So totally legit to be able to boost your in game performance against others who do not even know what ini. files are...
+Game balance is strange, three different factions with no difference at all except main battle tanks.
+Not to mention the great "advantage" some players have due to high ping... Lag dodge kill situation. 
+If you are looking for a game to have fun, then try not planetside.
+Did I mention I was playing since beta? And yes planetside 2 was at its best at launch. 
+Really dissapointed and will never ever play this game.
+good idea, good graphics, and the game play? terrible. the max cost's too much for how bad it is,the weapons prices are ridiculous, the purple faction is over powered, and the game is just bad, thought i would like it but i guess not.
+Despite this being a possibly good game, I wouldn't recommend it.
+
+You first have to deal with a lot of long established players, the guides on the internet (Iridar . net , Cyrious Gaming YouTube) teaches you to fight on their level. You still can't compete due to internet speeds, you move slow on their screen and they move fast on your screen. Their "Time to Kill" will always be better than yours due to not having a better connection then they do. Not sure if it be fair for me to blame the Game Servers or if it comes down to my side, I've had better success with Warthunder in terms of this sort of issue.
+The game shows a lot of customization, but you REALLY have to grind plenty of in-game hours to unlock a new weapon, or buff other utilities. There's LOTS of Micro-transactions if your into that sort of thing, cosmetics and non-cosmetics. You should expect that from a free to play. All the fun stuff is locked from the start.
+There's plenty of people to play with, the game is well populated for it's age. Game looks cool. There's a variety of ways to play the game, but playing the objective is always cqc and you're not very useful doing anything else most of the time.
+I think I'm going to try Squad next, it might scratch the itch I'm looking for.
+*
+*You simply can't have fun as a casual gamer with Planetside 2, for more reasons than those stated above.
+*
+Love the game...hate the nerfs for being a non-paying player.  If you're paying to play, your characters and weapons are so much OP than the non payers.  How do I know? ... I played both.   Definitely not worth the grind and frustration of shooting peanuts at paying players with real weapons and ammo at the same level while hoping to get enough xp to move up the ladder.  Video game with mathematical algorithms based on a human's need to succeed...gotta love em.
+pretty dead game, choosing a faction is pointless with ne NS-Weapons. The Community is a mixed bag of sweet and helpfull vets and braging douchebags. Fantastic Game but at this point i cant recomend it to anybody
+
+I hav 20 fps on all low, I cri at night becaus elow fps... I juz wan play, plz fix man. i selled my wife for computer and game no work. I want my wife back. My computer is good, Ryzen 2700x (8 cores , 4ghz) GTX 1080 and it has 3 fan on it for extra gamer performance.
+Tried registering. Password length limited to 15 characters, and most special characters are disallowed. Yay for having to think of a new password.
+
+On top of that, you need to be unable to sort things to register. "Month/day/year".
+
+Not going to bother seeing if this game is any good if the first impression is this abysmal.

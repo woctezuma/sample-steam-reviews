@@ -1,0 +1,1476 @@
+[b][h1]TL;DR:[/h1][/b] Read the last paragraph.
+ 
+Although I am giving this game a positive review, I must say that it comes with a massive disclaimer. If you just play Brawlhalla with your friends and never take it seriously, you will likely enjoy yourself. However, if you ever get good at this game and play at a decently high level, Brawlhalla's glaring failures as a fighting game will become so unignorable that your desire to play it will steadily decline till you're on the subreddit crying about the passive float meta like everyone else. All of the reviews - including the negative ones - are ignoring the real problems with this game, and it's something I have thought about for a long time. So, I'll try to explain my reasoning as best as I can and briefly include the reasons why I still consider it worth downloading despite its enormous flaws.
+ 
+On the surface, Brawlhalla is an entertaining party game, provided you have some friends to play it with. So, if the only thing you're looking for is a simple game to kill some time (read: 1500 hours) with, download it. It is very easy to play and you are practically guaranteed to pick it up quickly regardless of your fighting game experience. Aside from being easy to play, it is also free to play and only cosmetic items cost money, so it is easy to get into as well. There are a good number of modes for you to play with your friends to prevent it from getting stale. You can level up your characters and unlock new colors for each few levels, so there is some degree of progression and playing a lot of one character can feel slightly rewarding. It also helps that a potato could likely run this game.
+ 
+While I do consider this game's positives enough to make it worth downloading, that’s just about all the positivity I have to share. As someone who has played and seen this game played at a very high level for many hours, I can confidently say that Brawlhalla is a fundamentally flawed mess. I'm not going to complain about the toxic community, or the netcode, or matchmaking, or any of the stuff you see other reviews complaining about. I'm only going to talk about the game's core mechanics and why it fails competitively.
+ 
+Brawlhalla has a dodge mechanic that grants virtually instant invincibility and makes you unhittable for nearly half a second. Dodging has very low risk because it has only 0.97 seconds of downtime and it is difficult to punish unless your opponent can predict exactly where you will dodge. You can dodge in 8 directions at any given time, and if you are running you can dodge twice in succession. When the iframes from the dodge end, you are able to jump or attack almost immediately, which is one of the main reasons why it’s so ridiculously safe. You can also jump in any direction 3 times, and once you're in the air you can quickly fall to the ground to get all your jumps back and continue hopping around. This combination of instant invincibility on a 1 second cooldown and an insane amount of aerial freedom results in a passive, floaty meta where playing optimally means avoiding making any approaches. Usually, making the first attack means risking being punished, whereas dodging or floating away is safe and can potentially put you in a position to punish a whiffed attack. Because of this, it often feels like you’re chasing your opponent rather than fighting them. Seriously, playing this game feels like you're in space with how effortlessly you can float around and avoid your opponent. Constantly approaching will get you killed faster than a lone cripple in a collapsing, burning building. Sometimes, salty players will run away from you in ranked just to troll you and you will have a very hard time catching them. Yes, this is a problem with the community, but it shouldn’t be possible in the first place. A key reason this happens is because dodging is a stupidly easy way to escape pressure. Any time you get hit you can just dodge in one of eight directions and reset the match to the neutral phase. Brawlhalla’s neutral phase is reminiscent of two kids hopping around on a jungle gym endlessly until one kid falls and hurts themselves (in this case, hurting yourself would be equivalent to approaching).
+ 
+Another issue that ties into dodging and movement is wall camping. It’s possible to wall camp almost endlessly and force your opponent into a disadvantage if they want to approach. Players have won tournament matches by abusing this. A mechanic was introduced that stops you from getting your jumps back after touching the wall too many times, but it's rather forgiving and you only need to touch the stage for a few frames before you can resume wall camping. Once you get comfortable with movement in this game, it’s incredibly easy to dance around on the wall for as long as you want.
+ 
+If you’re reading this and you don’t play Brawlhalla, you might be thinking that all the problems I’ve listed thus far could be addressed by nerfing dodge in some capacity. Unfortunately, the entirety of Brawlhalla has already been crafted and balanced around this awful mechanic. Certain weapons are better at punishing dodges than others, with some weapons capable of dealing massive damage on a precise dodge read. A considerable dodge nerf would mean that these weapons would benefit immensely and quickly become meta. The only way I can imagine this game’s passivity problem being fixed would be a colossal rework of dodging, jumping, and probably every weapon in the game as well. Understandably, the developers don’t know what that rework should be and how to conduct it. They’re trying to fix the game’s passive float meta by applying band aid fixes that ultimately do very little to address the huge, overarching passivity problem Brawlhalla has always had. 
+ 
+The other day, I told myself I was going to play ranked with the only intention being to win, which meant playing fully passive and not caring what people thought of me. I quickly reached top 50 in the world doing this. Almost nobody gged me and plenty of people complained about my playstyle in post game chat. Admittedly, although I am never toxic to anyone regardless of how they play, I don't blame a single one of those people for their anger. Brawlhalla, when played at a high level, is legitimately one of the most frustrating fighting games to play in existence. Just imagine losing to someone after they avoided approaching you, wall camped, or outright ran away from you for the entire game. Considering this, it’s no wonder why Brawlhalla’s community is a cesspool of toxicity and noxious, salty fumes.
+ 
+As much as I want to give this game a negative review, I cannot justifiably do so. Most people who play this game will stay at a basic, casual level and never even notice or be forced to encounter the serious passivity problem this game has. So, despite my frustration with Brawlhalla, I am giving it a positive review. My recommendation would be to play with your friends and avoid taking this game too seriously. However, the prevalence of the passive float meta is noticeable as early as high platinum/low diamond, so be very forewarned and prepared to deal with it if you intend to play this game for many hours. As for myself, unless this game takes a drastically different direction, it is unlikely that I will be playing it for much longer.
+
+EDIT: Not sure if anybody still views this, but I'll briefly explain why I don't believe dash fixed the core problem discussed in the review. First of all, by replacing directional grounded dodging, dash reinforces the passive meta by making it far easier to punished a whiffed attack (and allowing you to do so in situations where you wouldn't have been able to reach them beforehand). A simple but effective passive technique is constantly backdashing to bait a whiffed approach, which is nearly impossible to punish since dash (regardless of the direction) can be canceled with anything instantly.
+Rules of Brawlhalla
+Crappy Internet = Instant lose
+Bad at game = Lose to spammers
+Good at game = Lose to smurfs
+Unbalanced heroes = Lose
+Bad keyboard = Lose
+Bad teammate = Lose
+FFA as a platinum = Lose to noobs
+FFA as noob = Spam, but still lose
+
+Wins 10 in row, doesn't rank up
+Loses twice, deranks.
+I have played this game to death, and I love and I hate it. 
+That said, there isn't a game on steam I could recommend to you more.
+
+I've been with the game for almost two years competing at a pro level, participating in tournaments and attending LAN events. During this time the game has seen it's ups, and its downs. Ultimately, due to its amateur but dedicated and communicative dev team "BMG", it has come out on top!
+
+There's definitely two sides to Brawlhalla: The casual, and the competitive.
+
+The former I don't have much experience with but I know that if I hop into some custom games with friends I can still have a great laugh even after all this time. The latter, oh man. The competitive community is fresh, young and enthusiastic. It's everything someone looking to get into competitive gaming / self-improvement could want. 
+
+-The game is easy to jump right into, but has a well rounded set of fighting game dynamics. 
+
+-It doesn't look too pretty, but it plays very cleanly (with some of the best netcode I've EVER SEEN), as well as supporting a huge variety of characters and weapons.
+
+-It is a young game and the meta progresses slowly, but there is more room for you as an individual to make an impact. It is NOT EVEN CLOSE to too late to get into the game.
+
+-L A N, the community that gathers at our offline events is one of the best, hands down. I've had some of my best experiences IN MY LIFE at these events.
+
+With a cosmetic-only business model (and a sweet art team), there is no reason not to at least TRY this game. If you're a competitive person but haven't found the right game for you, hop on the ranked ladder and if it doesn't get your blood boiling, doesn't do it for you, well it was free anyway!
+
+Now I'm going back to practice more Brawlhalla because, in case you didn't know, the world championship is on November 3rd, and has a $100,000 prize pool. :)
+- - -[ Audience: ] - - -
+
+☑ Kids
+☑ Everyone
+☑ Casual players
+☑ Pro players
+
+- - - [ Graphics/Animation: ] - - -
+
+☐ Potato
+☐ Really bad
+☐ Bad
+☑ OK
+☐ Good 
+☐ Beautiful
+☐ Masterpiece
+
+- - - [ Price/quality: ] - - -
+
+☑ Free
+☐ Full price
+☐ Wait for sale
+☐ Average
+☐ Refund it if you can
+☐ Don't do it
+
+- - - [ Requirments: ] - - -
+
+☑  90' PC
+☑  Minimum
+☐ Medium 
+☐ Fast
+☐ High end 
+☐ NASA computer
+
+- - - [ Difficulty: ] - - -
+
+☑ You just need 2 arms 
+☐ Ez
+☑ Easy to learn / Hard to master 
+☐ Hard (first few hours)
+☐ Dark Souls
+
+- - - [ Game time/length ] - - -
+
+☐ Really short ( 0 - 2 hours)
+☐ Short ( 2 - 8 hours)
+☐ Few hours ( 8 - 12 hours)
+☐ Long ( 12+ hours)
+☑ Endless
+
+- - - [ Story] - - -
+
+☑  It doesn't have
+☐ Still better than Twilight
+☐ Average
+☐ Good
+☐ Fantastic
+
+- - - [ Bugs ] - - -
+
+☐ Game itself is one big BUG
+☐ Bugs destroying the game
+☐ Lot of bugs
+☐ Few Bugs
+☐ You can use them for speedrun
+☑ Nothing (I've seen)
+
+- - - [ Others: ] - - -
+Multiplayer: Yes 
+Singleplayer: Yes? [Bots]
+3, 2, 1, BRAWL!
+
+Great game for people who like Super Smash Bros. Every week another Champ rotation.
+You can play with 8 Friends all for one, 1on1 & 2on2 ranked.
+
+Its free to play, so just give it a try!
+Although it seems unfair, it's actually amazingly balanced. In almost all ranks there is little to no difference in success with legends, all that matters is skill and practice. And even in the higher ranks where balance makes more of a difference, it's still completely possible to do well with any legend.
+
+Sure the community isn't that great on the lower ranks, and spamming can get really annoying, but after you get past silver theres a huge improvement. Spamming doesn't get you to diamond, and if you try you will get stopped in your tracks in gold. The community outside of bronze, like on reddit or twitch, is really great and not very toxic. Most people are just nice people that would love helping out new people or just talk about the game. If you're looking to improve, you can just head over to twitch and observe, or ask for help.
+
+Another great thing about this game is that there is no pay-to-win bullshit hidden inside. You can unlock every character without spending a cent, and theres a new free legend rotaion every week. Daily quests help people rake in more cash, and if you want you can spend money to get some cool bling to show off like skins or taunts, which have no effect to the gameplay whatsoever.
+
+BMG is a great company and puts a lot of love into the game, and you can really tell. Every week they have a stream where they show off things in development, and another one where they just play with viewers. There are raffles in both where you can win community colors, which is a color palette that is only obtainable through giveaways (again, no effect on the game). They really do listen to the community, and they hang out at the subreddit a lot and read most of the posts there.
+
+As for the gameplay, it's super fast-paced and fun, even if you don't even know what you're doing. There are a couple different game types, and you can have up to 8 players in one game for complete chaos. You can either join with a friend and play 2v2 ranked, or go alone in 1v1. It's a little floaty, but there's nothing really wrong with that. You can jump around all the time or stay on the ground, whatever you want. There are light and heavy attacks for both ground and air, so neither one has a distinct advantage. As I said before, this game is actually extremely balanced, and in pretty much anything below diamond, everything is 99% balanced.
+
+So in short yes I would reccomend this game.
+
+but bring cassidys cupcakes back 0/10 until then
+[h1]CheckboxReview™[/h1] 
+Original Template by [url=http://steamcommunity.com/id/daveyishere/] Demonix [/url] 
+
+[b]---{Graphics}---[/b]
+☐ Masterpiece
+☐ Beautiful
+☐ Good
+☑ Decent
+☐ Will do
+☐ Bad
+☐ Awful
+☐ Paint.exe
+
+[b]---{Gameplay}---[/b] 
+☐ Try not to get addicted
+☐ Very good
+☑ Good
+☐ Nothing special
+☐ Ehh
+☐ Bad
+☐ Just dont
+
+[b]---{Audio}---[/b] 
+☐ Eargasm
+☐ Very good
+☐ Good
+☐ Decent
+☑ Not too bad
+☐ Bad
+☐ Earrape
+
+[b]---{Audience}---[/b] 
+☐ Kids
+☐ Teens
+☐ Adults
+☑ Everyone
+
+[b]---{PC Requirements}---[/b] 
+☐ Check if you can run paint
+☑ Potato
+☐ Minimum
+☐ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+[b]---{Difficulity}---[/b] 
+☐ Just press a bunch of buttons
+☐ Easy
+☐ Significant brain usage 
+☑ Easy to learn / Hard to master
+☐ Not so easy
+☐ Difficult
+☐ Dark Souls
+
+[b]---{Grind}---[/b] 
+☐ Nothing
+☑ Only if u care about leaderboards/ranks
+☐ Isnt necessary to progress
+☐ A bit grindy sometimes
+☐ Average grind level
+☐ Too much grind
+☐ Insanity
+
+[b]---{Story}---[/b] 
+☑ Doesnt have
+☐ Something isnt nothing I guess
+☐ Not great
+☐ Average
+☐ Good
+☐ Lovley
+☐ Will make u cry or smile alot
+
+[b]---{Game Time}---[/b] 
+☐ Long enough for a cup of tea
+☐ Short
+☐ Average
+☐ Long
+☑ Depends on u
+☐ Endless
+
+[b]---{Bugs}---[/b] 
+☐ Never had any
+☐ Minor bugs
+☑ Few bugs 
+☐ Can get annoying
+☐ Ruining the game
+☐ The game itself is a big terrarium for bugs
+
+[b]~~~~Multiplayer~~~~[/b] 
+☑ Why would you even play this alone?
+☐ It has multiplayer, but it's optional
+☐ Multiplayer is not recommended
+☐ Multiplayer is complete garbage
+[b]---{Salt Level}---[/b] 
+☐ Replaced with sugar
+☐ Barely anything
+☐ Balanced
+☐ A bit of salt
+☑ Salty
+☐ Salt overload
+
+[b]---{Servers}---[/b] 
+☐ No issues
+☐ Minor lags every few hours
+☑ Can get laggy sometimes
+☐ Oh the ping..
+☐ Unplayable
+
+[b]---{Status}---[/b] 
+☐ Top
+☑ Always some people around
+☐ Not so easy to find people for the party
+☐ You ll have to wait for anyone to join
+☐ Barely any soul alive
+☐ Dead like my insides
+
+[b]---{Matchmaking}---[/b] 
+☐ Depends on the host
+☐ Brilliant
+☐ Fair
+☑ You might see much more experienced/stronger players
+☐ Unbalanced
+☐ Completely unfair
+☐ Non-existing
+===[ Audience: ]=== 
+☐ Kids
+☐ Everyone
+☑ Casual players
+☑ Pro players
+
+===[ Graphics: ]=== 
+☐ Potato
+☐ Really bad
+☐ Bad
+☐ OK
+☑  Good 
+☐ Beautiful 
+☐ Masterpiece
+
+===[Price/quality: ]=== 
+☑ Full price 
+☐Wait for sale 
+☐ Average
+☐ Refund it if you can
+☐ Don't do it
+
+===[ Requirments: ]=== 
+☐90' PC
+☐ Minimum
+☑ Medium 
+☐ Fast
+☐ High end 
+☐ NASA computer
+
+===[ Difficulty: ]=== 
+☐ You just need 2 arms 
+☐ Ez
+☑  Easy to learn / Hard to master 
+☐ Hard (first few hours)
+☐ Dark Souls
+
+
+===[ Game time/length (N/A) ]=== 
+☐ Really short ( 0 - 2 hours)
+☐ Short ( 2 - 8 hours)
+☐ Few hours ( 8 - 12 hours)
+☐ Long ( 12+ hours)
+☐ Endless
+
+===[ Story] === 
+☑ It doesn't have
+☐ Still better than Twilight
+☐ Average
+☐ Good
+☐ Fantastic
+
+===[ Bugs ]=== 
+☐ Game itself is one big BUG
+☐ Bugs destroying the game
+☐ Lot of bugs
+☑ Few Bugs
+☐ You can use them for speedrun
+☐ Nothing
+
+♛ Overall: 7/10 for casul, 8/10 if you take the hours to really enjoy it.
+Almost 1500 hours  , I think am ready to give my review on this game.
+
+Pros:   
++The game is fun to play with friends 
++100% based skill game with no P2W content
++can be played with many differnet modes
++Ranked competitive gameplay with either 1v1 or 2v2
++frequent updates with more legends being added into the game almost every month 
++Has good devs that listens to the community
+New :- +The game used to be unbalanced . However, since they added dash devs made the game much more balanced . I know that alot of people stopped playing the game stopped playing the game because of that , but believe me it's for the best.
+
+cons:
+- Toxic community . Infact , I think it's one of the toxic communities out there
+-Spammers
+-The game will make you rage almost everytime you lose a match in ranked
+-requires a good connection or you will lag out of the match
+
+neutral:
+
+~Easy to play , and hard to master
+
+conclustion:
+
+I recommend this game . However , try not to be part of the toxic community ,and leave a gg when you finish a match
+
+
+rating: My final ratting for this game is 8.8/10
+Pretty good brawler but the more you play the more obvious the ridiculous imbalances become, and the devs seem to be doing nothing—or very little—to address it. I know it's a cliché to complain about imbalances and I'm sure there'll be people lining up to tell me to just "git gud", "l2p" or whatever, but judging from forum posts and posts on /r/brawlhalla I know I'm far from alone in thinking there are imbalances. My almost 300 hours in the game have been enjoyable but I gotta call it here. It's just not fun anymore. I'll still happily recommend the game because it [i]is[/i] pretty good, but looking beyond casual brawling you'll most likely become frustrated at times because of said imbalances—maybe you have the patience to deal with it, maybe you don't care, or maybe you're just good enough that it doesn't matter. Either way, GLHF!
+BAD REVIEWS DEBUNKED.
+
+“ --INSTERT CHARACTER-- IS OP”: All characters in the game are balance every 2 weeks by Devs. If the character is so powerful why don’t you use them. 
+
+“THERE ARE LOADS OF HACKERS”: Usually said by people who haven’t played the game enough to learn it. I have yet to come across a single hacker in 200+ hours.
+
+“ --GAME MECHANIC-- IS BROKEN”: Once again nearly always said by people who haven't bothered to actually learn the game before they critique it.
+
+“IT’S JUST A SMASH CLONE”: Yes, yes it is. I love SSB. That’s why I play this.
+
+“YOU HAVE TO PAY MONEY FOR IN-GAME STUFF”: The game is entirely free to play. The only thing you can buy is skins. People who whine about not getting everything in this already entierly free game are clearly spoilt.
+
+"IT'S PAY2WIN": Once again, every single legend in the game can be bought with the money you earn in game, along side the 5 legend rotation every month. It is also very very easy to earn enough to buy a nre character unlike other F2P games.
+
+This game is the best F2P available. It has addictive gameplay,a huge roster of characters and has been one of the few games ive played for a while now. PLAY IT.
+
+(Aso if anyone wants to learn how to play this game so you dont become one of these people, add me and ill teach you.)
+This game is a lot like "Smash Brothers" meets 'League of Legends". This game has a great potential for an amazing ranked competitive matchmaking, while only offering cosmetics in the games cash shop for fans to buy cosmetics for their favorite brawlers. I'm happy to show support for this type of game in my community. 
+
+I have nothing bad to say about the game, [u]get it[/u], [u]love it[/u], [u]play it[/u] and [b]enjoy[/b]!
+[h1]CheckboxReview™[/h1] 
+Original Template by [url=http://steamcommunity.com/id/daveyishere/] Demonix [/url] 
+
+[b]---{Graphics}---[/b]
+☐ Masterpiece
+☐ Beautiful
+☑ Good
+☐ Decent
+☐ Will do
+☐ Bad
+☐ Awful
+☐ Paint.exe
+
+[b]---{Gameplay}---[/b] 
+☑ Try not to get addicted
+☐ Very good
+☐ Good
+☐ Nothing special
+☐ Ehh
+☐ Bad
+☐ Just dont
+
+[b]---{Audio}---[/b] 
+☐ Eargasm
+☐ Very good
+☐ Good
+☐ Decent
+☑ Not too bad
+☐ Bad
+☐ Earrape
+
+[b]---{Audience}---[/b] 
+☐ Kids
+☐ Teens
+☐ Adults
+☑ Everyone
+
+[b]---{PC Requirements}---[/b] 
+☑ Check if you can run paint
+☐ Potato
+☐ Minimum
+☐ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+[b]---{Difficulity}---[/b] 
+☐ Just press a bunch of buttons
+☐ Easy
+☐ Significant brain usage 
+☑ Easy to learn / Hard to master
+☐ Not so easy
+☐ Difficult
+☐ Dark Souls
+
+[b]---{Grind}---[/b] 
+☐ Nothing
+☑ Only if u care about leaderboards/ranks
+☐ Isnt necessary to progress
+☐ A bit grindy sometimes
+☐ Average grind level
+☐ Too much grind
+☐ Insanity
+
+[b]---{Story}---[/b] 
+☐ Doesnt have
+☑ Something isnt nothing I guess
+☐ Not great
+☐ Average
+☐ Good
+☐ Lovley
+☐ Will make u cry or smile alot
+
+[b]---{Game Time}---[/b] 
+☐ Long enough for a cup of tea
+☐ Short
+☐ Average
+☐ Long
+☐ Depends on u
+☑ Endless
+
+[b]---{Price}---[/b] 
+(although the game is free, I would willingly pay)
+☑ Just buy it
+☐ Worth the price
+☐ Wait for sale
+☐ Maybe if u have some spare money left
+☐ Not recommended
+☐ Dont throw money into a trash can
+
+[b]---{Bugs}---[/b] 
+☑ Never had any
+☐ Minor bugs
+☐ Few bugs 
+☐ Can get annoying
+☐ Ruining the game
+☐ The game itself is a big terrarium for bugs
+
+[b]~~~~Multiplayer~~~~[/b] 
+
+[b]---{Salt Level}---[/b] 
+☐ Replaced with sugar
+☐ Barely anything
+☑ Balanced
+☐ A bit of salt
+☐ Salty
+☐ Salt overload
+
+[b]---{Servers}---[/b] 
+☐ No issues
+☑ Minor lags every few hours
+☐ Can get laggy sometimes
+☐ Oh the ping..
+☐ Often disconnects
+☐ Unplayable
+
+[b]---{Status}---[/b] 
+☑ Top
+☐ Always some people around
+☐ Not so easy to find people for the party
+☐ You ll have to wait for anyone to join
+☐ Barely any soul alive
+☐ Dead like my insides
+
+[b]---{Matchmaking}---[/b] 
+☐ Depends on the host
+☑ Brilliant
+☐ Fair
+☐ You might see much more experienced/stronger players
+☐ Unbalanced
+☐ Completely unfair
+☐ Non-existing
+Brawlhalla? this has become more of my life than it is just a game. I can't compliment the good aspects of this ENOUGH.
+Lets see why.
+
+-Fun friendly multiplayer action.
+-Great for both Casual and Competitive players
+-Absolutely F2P, you don't have to pay a dime in this game to have the same equality as everyone else.
+-Developers are always on the spot when it comes to issues.
+-Every legend is unique and is of equal match, depending on your playstyle.
+-Skins in the game add for some character individuality, but they are not required.
+-Colors, Exp gain, Legends to unlock as you fight your way through the world of Brawlhalla
+-Satisfaction of either winning or learning from matches.
+-The weapons are well balanced, (even if most people say otherwise, of course it's difficult to make everything perfect)
+-The Game's Open-Beta tag, does not at all mean it plays like a poorly constructed "in development" game.
+-Friendly Community who has provided both myself and other members a very satisfying experience.
+
+
+I can't love this game enough, or give enough good things about it to tell people how great Brawlhalla is. BMG, you did it right, you sly dogs. :)
+
+
+There might be some of you that come from the Smash Bros community, and let me tell you this. This is not Smash Bros. This is not Project M-halla. This is none of that. Brawlhalla is a fighting arena, where players can have fun playing the fame, or take it to a more technical, competitive edge. Don't downgrade this game just because it's light and bouncy, and not overly technical like Smash. That's unfair to rank these two games under the same umbrella. I came from Melee background, and I find this JUST as enjoyable as I would any other game in any other format.
+
+
+
+REVIEW UPDATE:
+There are still always ongoing changes and improvements to this game. A recent update proves that BMG openly listens to the community and takes the suggestions sent to them.
+
+A lot of people coming from the smash community were upset that there was no fast fall mechanic. That was recently changed to accomodate the faster paced players. This doesn't not have a large impact on the game, but atleast enough to provide more creative variables. No you can't just speed hop all over the place, but you wont run into issues with players always being able to read you.
+
+
+
+
+Best of luck, and welcome to Brawlhalla!
+Probably the best alternative to Super Smash Bros. out there right now and with it being smoother in terms of movement, more responsive and available for free on PC, the only real things smash has over it is diversity, familiar characters and complexity. The weapon system however isn't flawless and although I like the idea of a character having 2 optional weapons they all function the same besides three special moves that resemble smash attacks from smash bros, you have up/neutral, forward and downwards which is about the only differences between characters besides choice of weapon. Overall though, this game is a lot of fun to play and if you do need a smash alternative to play with friends out of either not wanting to emulate smash and play through netplay or just not owning a Wii U/3DS this game is definitely worth getting.
+>Pick Hattori
+>Spam basic atack
+>Be called "Spammer"
+>Pick Orion
+>Spam heavy atack
+>Be called "Spammer"
+>Get diamond in ranked
+
+10/10
+True spam simulator
+-Disclaimer- This preview was written during Early Access. Brawlhalla is subject to change.
+
+Brawlhalla is a dream come true for some gamers. Fans of Smash Bros have always had to turn to a console to sate their chaotic filled tendencies. Brawlhalla finally brings things to the PC/Mac and makes it readily available to everybody. The combat is fantastic, music well done, each character feels defined. It offers multiple game modes, couch co-op, single player and possibly more on the horizon. Brawlhalla seems like indeed something that did come from the heavens and is here to answer all your prayers. However, like most things that are too good to be true, there is something going on underneath the surface. Perhaps a venus flytrap of gaming if you will, showing you its tasty gaming nectar and then eating you whole. What am I talking about? Let's go on a little journey.
+
+The core of the gameplay is exactly what you want it to be. 4 player brawling action is brought to you with a multitude of character choices. Now unlike that "other" game, these characters aren't perhaps as well known. Matter of fact if you asked me their names, I couldn't tell you. There is the robot guy, ninja girl, alien dude, minotaur man, pirate guy. You get the idea. It's not that these characters are not unique, matter of fact they each look very different and are very well animated. Just for the most part it really isn't that big a deal when you break things down.
+
+Each character comes with a set of two weapons and different statistical choices, ranging from strength, defense, and speed. Now each weapon itself has a certain power set, the rocket lance can blast you forward, the guns obviously have a ranged aspect to them, the hammer is slow but powerful etc. Characters share these items, the only thing that changes is the style in which the power-attacks are presented. While aesthetically this works, your character choice really doesn't change all too much when it comes to combat. I was just as good with ninja girl/sword then I was with pirate/sword. There are some attacks that are very different and then there are some that are exactly the same. The fact the characters are all more or less the same doesn't take away from the game too much. The combat is still fast, reactive, and fun. Just keep in mind the weapon sets are more important then the character flavor itself. Predicting what your enemies bring to table also is difficult because the ability to change your stats, this adds and takes away a little bit from the tactical nature of the Brawl style game.
+
+From there we launch into the levels and chaos ensues. The levels themselves are designed fairly well but nothing too exciting, mostly platforms in different positions. One level did feature moving platforms. I felt the levels need a dose of personality, hazards, traps, something to make them stylized and make them feel like as much of a character as the one you choose. Everything does blend well, the characters feel like they fit with the levels art style and everything flows well with the combat. The game controls easily, but it is probably is preferential to play with a controller, luckily the game does feature full controller support/rebindable keys.
+
+Details of the game are fairly well polished as well. Music is high paced and decent, matching the style and themes of the game, although it is nothing too memorable. Thankfully it doesn't get repetitive. Sound effects are perfect and add that oomph you want when something explodes or when you crack someone really hard. Game modes are varied, although there isn't a story mode yet. You have a tournament mode, online, and even some in-game mini-games. This I liked quite a bit and would love to see it expanded upon. The options menu is a tiny bit lacking at this current moment in development but hopefully that will change.
+
+So everything sounds great right? I would agree with you. Brawlhalla is a well done, action packed, competent game on Early Access. Lacking in bugs and online multiplayer is working well.(If you're US based.) Here is the catch, this is closed beta. Meaning that this game is eventually going to open up to everybody. Which means that Brawlhalla will be Free to play.(FTP) Which means one terrible and dreadful thing exists in the underbelly of this game. Microtransactions.
+
+Mallhalla as its known, is the shop where you can buy all sorts of digital goodies. Now let me say I am not against Microtransactions. IF they are done right. I understand developing a game is not cheap and that there are bills to be paid and families to be fed. I am perfectly fine with everything on sale in the shop as well, all of it is cosmetic. Where Mallhalla begins to scare me is the huge gap between Taunts and Redeem Code. That could easily be filled with Characters, Weapons, and Levels. Which means you could be barred from using a new weapon set or new level, new character etc. There are plenty of ways that could all go sideways. Suddenly this goes from a fun brawl game, to pay me money to play with this toy. That might not be the case at all but it's something that should be kept in mind.
+
+The prices of the micro-transactions themselves are also a bit wonky, if you ask me. Mammoth coins cost anywhere from $2.99 for 60 to $49.99 for 1000. With skins costing on average 140 coins that places the actual retail price at a whooping $7.00. That is quite a bit for a skin.(Although this isn't unusual in FTP games) While prices are not final and may change, this is still a scary example of things that are in the game right now. Start throwing in new characters and new weapon sets. Which undoubtedly will be higher priced then skins, suddenly this is a very expensive game.
+
+Now the developer has mentioned there will be an in-game currency that can purchase the items in the shop. Those have yet to be implemented at this point in development.
+
+Brawlhalla is a promising game, one that I hope doesn't fall prey to greed or bad decisions. It is not a clone of its inspiration and competition. Deviating in some features/mechanics that are for better or worse, Brawlhalla captures that one magic element, fun filled chaos. Giving you massive amounts of replay and letting you play with your friends. The game has a bright future, long as that mico-transaction element is handled carefully and they listen to their community.
+
+I will keep a watchful eye on Brawlhalla as development continues and it moves into open beta. More servers are added to expand the multiplayer. There are still many things that can be improved upon and hopefully those prices change a little bit. The little Smash player inside of me is optimistic, I hope he doesn't get knocked out of the board in one smash.
+As an avid and competetive player of Smash Bros. Melee; I was initially skeptical of this game. Thinking that it was trying to be a Smash Bros. clone, or something of the like. 
+I was caught off guard by how fresh this game feels, and I'm almost hesitant to say that they improved on the Smash Bros. formula in some ways. This game is very easy to pick up, but not at all easy to master. Combos are challenging, but rewarding, characters are balanced very well (there aren't any sh*t tier legends, and every character has a fighting chance), and the weapon/item system is very interesting. 
+I could go on and on, but seriously, you are missing out if you don't give this gem a try.
+
+(PS- THIS GAME HAS ZERO ASPECT OF PAY TO WIN. EVERYONE IS ON EQUAL GROUND.)
+Probably my favourite game on Steam right now. 10/10
+An awesome free to play game that you can sit down with your friends and play for a countless amoumt of time. The characters are very good and well balanced, and the artwork of the game is very nice. Would recommend!
+[b]Introduction:[/b]
+Developed by Blue Mammoth Games, Brawlhalla is an online 2D platform fighter game that offers multiple ways to play such as offline with bots, custom, or ranked. Although seemingly similar to Super Smash Bros, Brawlhalla has its own unique feel where it is easy to play, but difficult to master.
+
+[b]Pros:[/b]
+-A free-to-play game with nice payable skins, taunts etc.
+-Over 20 legends to choose from; each with their own unique abilities and play styles.
+-Ranked games provide fair and fun games for people of all skill levels (to a certain extent).
+-Has multiple game modes for casual gamers such as Brawlball, Bombsketball and Snowbrawl.
+-Developers constantly bringing updates to the game such as new legends, skins and features.
+-Simple “GG” button at the end of a match promotes good sportsmanship (or gamesmanship).
+-Levelling up legends unlocks more playable colours and stat configurations.
+-Ranked 2v2 matches have friendly fire set on, which encourages teamwork rather than attack spamming (although some find this to be a nuisance because of bad teammates).
+
+[b]Cons:[/b]
+-Spammers, smurfs and toxic players can ruin the game.
+-Skins, taunts, weapon skins etc can only be bought with real life money, and can be a little too pricey in some cases.
+-Can be really frustrating at times (especially when on one of those losing streaks).
+
+[b]Overall:[/b]
+Brawlhalla brings back the fun of 2D platform brawlers, especially for PC gamers. With great visuals, constant updates and its overall addictiveness, Brawlhalla remains one of my favourite free-to-play games on Steam. I personally rate this game an 8.5/10.
+I like how most of the reviews are about how you can't win unless you're playing a super fast character with no end lag.
+
+Here i am, top ranked in SEA, maining teros, one of the slowest characters in the game.
+
+This game is great, and not to mention the fact that its free with absolutely NO pay to win aspects. You only have to pay for skins which are cosmetic and completely unrequired.
+
+With that being said, why are you still reading this review? click the "Play Game" button right now. 
+
+Edit: this was written on 9 Jan, 2016. Some of the points still stand however..
+The fighting game genre has always been infamously difficult to get into, whether it be the 2D variants like Skullgirls or arena/platform based, like Rivals of Aether. Despite the best efforts of the developers of these titles, with the inclusion of a vast, in-depth tutorial system, new players are still almost certain to get completely annihilated when they decide to take the plunge and play another person. Long chains of combos, near-perfect reads and precise timings- these almost always act as an impediment for the player to continue learning the game, which eventually results in them giving up in the genre. And yet, though Brawlhalla has these three aformentioned traits present in its gameplay, I consider it a far more suitable entry point to the genre than these two (and many other similar) titles.
+
+The main reason for this is because of the different formula Brawlhalla uses in comparison with most other titles in the genre. While a fighting game is generally difficult to learn and difficult to master, [i]Brawlhalla is easy to learn and difficult to master[/i]. This key difference is what makes players that are curious about the game stay and practice to get better. The wonderful 2d art style, the fluid animations and the catchy soundtrack do well to complement the game and command the players' interest for longer.
+
+Unfortunately, Brawlhalla's design philosophy of simplifying can be off-putting to some, particularly the seasoned veterans of the genre. This is because of the simplified combat in Brawlhalla compared to other games in its niche like Super Smash Bros and Rivals of Aether. The combat in Brawlhalla revolves around the use of weapons, with each hero alotted a unique set of two different types of weapons. The attacks of two of the same weapons (two spears on two different heroes for instance) are effectively identical, with the exception of a unique signature move which varies per hero, and a slight variation in stats. As a result, there isn't much diversity between each different hero- the playstyle of one hero can apply to almost every other hero. However, the advantage of this is that the heroes are far more balanced than many other fighting games as a result. This means that any hero you pick is viable in both casual and competitive play. The only thing stopping you from beating other players is your skill level.
+
+In this regard, Brawlhalla itself doesn't offer much in terms of teaching the player how to get better at the game. Its tutorials only teach basic movement and the general moveset. However, due the the vast and active community, learning combos or more advanced techniques is as simple as a quick search in the Steam community or Youtube. The training mode provided has plenty of features which are more than enough for a player to perfect their weapon and/or hero of choice.
+
+Brawlhalla isn't the only game in the genre that follows its formula, there are a few others. However, it has the added benefit over its competitors of being completely free to play. None of the various modes or features are locked behind a paywall, and the only use of money in the game is to purchase cosmetics such as skins and taunts. Therefore there is virtually no impediment for anyone to at least try the game out and see if it suits their tastes. Personally, I can't recommend it enough.
+The game has a certain dark area where new players will be detered by other new players or higher skilled players, but is so rewarding to get better at. Best played with friends, if you thinkof picking the game up, make sure you have a friend who can teach you the basics to avoid developing nasty habits that will keep you in silver.
+PLEASE NOTE: This review is no longer being updated, as I do not play Brawlhalla as often as I once did. However, it is still a great game and I reccommend it 100%
+
+Well, let's talk about Brawlhalla for a sec, shall we?
+
+At first glance it would seem as though it's a PC game going for the style of Smash Bros. On the 10th or so glance, it seems as though it's a PC game going for the style of Smash Bros. But with a few twists that keep it mostly seperate.
+
+First of all is the [b][u]weapon system.[/u][/b] I personally LOVE this mechanic. You start off with your weak melee attacks until you pick up a weapon, displayed on-screen as a generic sprite. When that happens, you get a non-generic weapon. Each character has a combination of two weapons that they can recieve. There's guns, spears, hammers, 1 sword, 2 swords, and a rocket lance. That's right, a rocket lance. Though each weapon is not exclusive to their characters, each character has 2 exclusive moves (1 per weapon) that they can use. Each weapon is VERY nicely balanced, and I'll talk more about that later.
+
+There are also [b][u]items[/u][/b] you can pick up, though variety is sparce. There are spiky balls called Mace-Balls, which you throw at enemies. There are land mines, which you can either throw at your opponent(s) or at the walls and floors. Finally, there are plain ol' bombs that will make you stare in disbelief as you fly off into your doom after some dick throws one at you.
+
+[b][u]Online play.[/u][/b] I'm a little... eh about the quality of the online play at the moment. On one hand, it's incredible to wreck people online and tell them "gg" before having all of them ragequit, (Seriously, check out my Brawlhalla screenshots, I have that one in there somewhere) there is a lot of lag sometimes. On one hand, some matches can be as smooth as offline play, on the other hand some can involve unforseen game mehanics such as teleportation and death by "I swear that guy was on the other side of the map .01 seconds ago". [u]Despite this, the developers have stated repeatedly they are constantly working on improving online play. They have had multiple lag fix patches already and more are to come.[/u] So, that'll make the game even better.
+
+[b][u]Offline play[/u][/b] is so fun. There's a tournament mode where you play against CPUs to be the ultimate champion. The CPUs are pretty easy themselves, but the challenge lies in not getting killed while gathering many kills to get a high score. There is a star rating out of 5 you get at the end, with 5 being pretty difficult to acheive (SPOILER: There's a practically impossible rating to get that's above 5 stars... No more hints as to what it is) Also, there's local play where you can play with up to four people using controllers, and one person can use the keyboard or keyboard-mouse. No LAN unfortunately. The last thing is training mode. I won't go too much into detail with this, but imagine Smash Bros' training mode + damage per hit shown, visible hitboxes, and hitstun visibility.
+
+[b][u]The balance.[/u][/b] Outstanding. Though this could also be a statement as to the lack of variety, you could almost press random in a tournament match and come out the victor with anyone you got. Of course, it's not perfect. But unlike some other games, which have tier lists from SS all the way down to F or even G, Brawlhalla's tier list is more like an SS to A. [b]EDIT:]/b] There have been some updates since I wrote this review. There have been several balance changes which have wrecked the balance. First Gnash was broken, and was all you would see on Ranked 1v1. Then they patched that, but in the process broke hatorri who is now far beyond any character in ranking. This slightly lowers my rating from what it was. Edit: This game has frequent patches. It's in a good spot right now I'd say :)
+
+Wait, did I say "[b][u]tournament match[/u][/b]"? Yes, Brawlhalla has a [b][u]competitive community[/u][/b] that even now, in closed beta, is over [strike]100[/strike] erm, times have changed. Make that 50,000+ strong. This is when the game isn't publicly available, and there's over [strike]100[/strike] 50,000+ people participating in competitive play. Think about that for a moment. Sure the game has been given away in many places already, but still. As I write this even, I am procrastinating much needed sleep for a Brawlhalla tournament tommorow.
+
+[h1]PROS:[/h1]
+-Great brawler in the style of Smash Bros
+-Good offline mode
+-Has an online mode
+-Near impeccable balance
+-Growing competitive community
+
+[h1]CONS:[/h1]
+-Online mode can be VERY laggy at times
+-I can't beat Raidhyn
+-No LAN play
+-A little empty (Probably just a closed beta problem)
+-Many characters are kind of similar
+
+[h1]Not sure if PRO or CON:[/h1]
+-Very limited variety on items
+-Similar enough to Smash Bros to almost be called a ripoff. Not quite though.
+
+
+[h1]OVERALL VERDICT:[/h1]
+9/10 game, for being in beta.
+If this was the finished product, I'd give it an 7.5 or 8/10.
+Very much reccomend this, as it's free to play. I've gotten REALLY into it.
+
+TLDR: Brawlhalla is a great game and it's free. You like brawlers you'll love Brawlhalla. Play it.
+With the many hours I have in this game , and spent dollars for cosmetics , I cannot say I dislike the game. Ive had my up and downs. If you wanna get competitive well , be ready to face the ultimate salt machine. People are kind of toxic in lower elo cause of struggle but when you get higher people are getting nicer. Its quite fun to enjoy with friends , easy to compete into events , weekly. Online events mostly as well as BCX and Other Major Events. The controls are quite responsive and caracters are nice and unique in their ways. Nice cosmetics to add up to your favs. In overall nice brawling game if you like smash and mortal combat and killer instincts. Little bit childish but funny. Add up passive players and salty taunts and here you go breaking your controller :P If you sustain yourself you should be fine to enjoy the game
+me vs 90% of the people, goes something like this
+
+< when i win >
+me: gg^^
+opponent: OMG GET A LIFE SPAMMER S1HIT CHEATER NooB !
+(opponent left )
+
+< when i loose >
+me: nice 1
+me: gg
+opponent: noob so ez omg uninstall noob is that bought account u like tin get rekt scrub thanks for elo idiot hahaahahah!
+(opponent left)
+
+< 10% of the people if i win or loose >
+me:gg that was intense
+opponent: yeah it was gg dude :D
+me: cya :)
+opponent: wp bb :D
+(opponent left)
+
+11/10 Would get roasted almost by everyone again c:>
+My friend has been constantly asking me to play with him for quite awhile now.
+I totally understood why after playing it. It's quite fun and feels like a lighter version of Super Smash Bros. If you like Super Smash Bros and enjoy free games / 2D brawl games, why not try it?
+Brawlhalla is like crack and its hard to get off.
+
+The game is a multiplayer 2d fighting platformer which closely resembles Super Smash Bros, though obviously possessing it's own unique characters and some augmented mechanics. There are quite a few characters and at first glance they all appear relatively the same, until you start using them. The other game I would say Brawlhalla lends inspiration from is Soul Calibur. Routinely, (in SSB style), weapon pickups appear throughout the battlefield. 
+
+Each character can use one of two weapons and the weapon you get upon picking up the weapon drop is one of those two. Within that mechanic, each character utilizes each weapon in a slightly different way, resulting in some very stylisticly different fighters. You can also of course duke it out with your fists as well. It's always fun to throw your enemy for a loop by throwing your weapon at them then rushing in and giving them a haymaker to the face.
+
+The game is still in beta and there are very few 'miscellaneous' items on the battlefield, tho it's hard to say what will come as more content is added to the game (just the other day they added another new fighter) but at the moment the combat feels very solid and fair (maps are also quite simple, though there are many variations). I'm going to be giving this game a lot of attention, and several fellows of mine have organized a small tournament for which I am eagerly training up for. This game is awesome.
+If this game caught your eye, it's probably because of a certain Nintendo franchise. No, there's no shame in being one of those people, and yes, it'll probably satisfy that itch.
+
+Brawlhalla is a fighting game, although you probably know that already. The combat is fast-paced, the movesets are varied (for most of the game), and it's easy enough to pick up and play. (A friend of mine was able to beat me after only a few matches.)
+
+The distinguishing characteristic for Brawlhalla as opposed to, say, your favorite Smash game is that everyone starts out with the same, somewhat limited moveset. The focus of the game is weapons - which vary movesets completely and completely change a character's dynamic. Each character has two weapons to keep variety. The weapons feel effectively balaned, although a few characters have somewhat powerful moves. (A good example of that is Cassidy's hammer, down-strong.) The other items are only usable with no weapon, which gives unarmed combat efficient as well.
+
+The other aspects apart from the fights themselves are bare-bones. There's a training mode where you can use any character (as oppposed to the ones in the weekly rotation), a "tournament" mode, and a shop. The shop carries mostly cosmetic items, with permanent unlocks for the characters also available (which unlocks use outside of the rotation). Only the fighters and some color schemes (unlocked after playing a certain fighter a lot) are available with the regular currency - the others require Mammoth Coins, which translates into real money. A pack of all the characters at once is also avialable - which also contains unrelased fighters.
+
+The game is still in beta, so there are a few things that aren't finished. However, what is here is superb. I  highly reccommend it for fans of Smash, or imitations thereof. ...Now that I think of it, this game is very Smash-like, but I thoroughy enjoyed it nonetheless.
+Brawlhalla is Smash Bros. with all of the excess mechanics and stage randomness removed.
+
+The goal of the game is the same as Smash: knock your opponent off the edge of the screen. However, it has taken out a lot of the things that made Smash so difficult to learn in recent years and what is left is an elegant game that is easy to understand but hard to master.
+
+[b]Good Movement[/b]: The first thing to notice is how accurate and precise the movement is. The movement in other games of this style is often very floaty, making it hard to position your character correctly. In Brawlhalla the movement is 1:1 and easy to predict.
+
+[b]Simple Controls[/b]: The controls are mercifully simple: weak attack, heavy attack, jump, throw item, and dodge (and taunt). The key difference between Brawlhalla and other games of this type is the weapon system. When unarmed every character has the same moves, but when you pick up a weapon powerup you will get one of two weapons (randomly). These weapons are set per character, and the light attacks are the same for every character.
+
+There are combos, but they are limited to strings of three attacks at the absolute most. This places more of an emphasis on positioning and correct skill usage - though to be fair, there are a few difficult combos that are essential to very high level play.
+
+[b]Interesting Weapon System[/b]: The differences between characters come down to three "signature" moves per weapon, and different stat configurations (armor, speed, etc.). While this probably sounds like a negative, what this means is that it is very easy to reach a point where you can play almost any character, because all you need to do is master the basic attacks of each weapon and then test out a character's six signature moves. Even better, the signature moves often function in similar ways: no direction + signature is usually an anti air, for example.
+
+[b]Elegant Item System[/b]: Apart from the weapons, there are exactly four items. The bomb detonates on contact, the landmine sticks to a surface and will blow up when a player approaches, and the spike ball is a projectile that is reusable and does a high amount of knockback. There is also a horn, which can be blown to summon a fireball and carry in a weapon for you, or it can be thrown as a projectile.
+
+All four of these items can be caught out of mid air if your timing is good, and most of them can be used to set up elaborate traps or combos; bounce the bomb against the ground and then kick your opponent into it as it arcs downward.
+
+[b]Great Training Mode[/b]: If you do want to grind out hours in training mode, this game offers you lots of data. You can see the hitboxes of any move, and even slow down and replay each frame of a move to see where the hitboxes and hurtboxes are at any given point. There is the standard combo and damage counter as well.
+
+[b]Recommended to Those With Smash Fatigue[/b]: All of this is to say that this is a simplified game in all of the best ways. Sticking to a small set of items and reducing the control barrier makes Brawlhalla a joy to play and improve at. The complexity comes from learning how its design elements interact, more so than grinding out hours in training mode.
+
+This recommendation is really for people who are not a fan of the increasing complexity of Smash Bros. Fans of that series may be reading this and thinking that all of my positives sound like negatives. If that sounds like you, try it out anyway, it's free.
+
+Lastly, I want to say that the way the developers interact with the community is great. Their patch notes are delivered with good explanations for why they made each change, and they take both game feel and win ratio into account when balancing characters. They update weekly, or nearly weekly, the servers are usually good, and new characters come out regularly.
+What is up everyone I hope you are having a wonderful day. Early access is always a risky gamble but here’s one where the risk is literally almost free. We’re tuning into a 1v1 ranked match in Brawlhalla and we’ll kick started it with that.
+
+So far I will recommend this game. However, I do not suggest you buy any additional items at this time unless you are willing to try and be part of what could be the next big "super smash" on steam. ***This game has improved since it's inception*** and has added some major updates to refine and introduce new features. As the big giant blue sign says though, the game is early access.
+
+In short, Brawlhalla is melee with the giant exception most of the battles can be fought in the air and some crazy and odd combos can be strung together. Also, here is a cool feature off the bat : the loading screen to play another online game let's you battle it out with AI's while waiting. Unlike Super Smash Bros. : Melee specifically, the game doesn't have a "fast" feel to the game play. Rather, the game is smoothed out and requires proper timing (and the right button) to deliver an effective blow. The game is played generally in the air but the ground attack specials provide for more than enough umph and entertainment. The challenge to out whit your opponents seems equal at almost all odds. Some players will choose to take a precautious route while others will be willing to sacrifice themselves for a win. 
+
+Brawlhalla mimics in it's corridors super smash. It is because it seems as the first reference to come to mind. On the other hand, it isn't as I feel the strategies are really diverse and open to the player. There are character limitations and powers in both games but changing and throwing weapons distinguishes brawlhalla. Getting knocked off the map has become avoidable with all characters. When you think you're dead or when you have no chance, it seems playing fields are almost even all the time. The edge of the map is a different game entirely here from smash. Think of kicking a soccer ball versus a golf ball. Being able to slide on the edges opens up a new dynamic (and possibilities) for both players. It seems as those who simply wait to strike at vulnerable times seem to win the most. 
+
+The game is persistent in it's work to differentiate itself from smash. Is this a good thing or bad thing you may be asking yourself? It's neither really, until the game is done then a full judgment can be made. The scoring system seems to play the odds of K/D ratio's while the HUD display simply shows it's awesomeness in the top right (although I wish that awesomeness was a tad bit bigger in sprite size)! It's tough sometimes keeping up with the fights, but the camera does a pretty good job of keeping you right where the action is. In other words, the zoom is definitely on the right track. Multiple game types make this game phenomenal. I can jump online with friends and play a free for all or play some two player ranked. It's actually pretty nice to see considering it's in the state it's in. 
+
+There are weapon drops in the game which resembles smash, but unlike smash, you're allowed to throw away your main weapon at any time. There aren’t random weapons like smash but there is some variety. The weapon-drop will drop and can be picked up within a certain time by anyone. Each character is given two weapons consistent of axes, guns, spears, swords and not limited to javelins. In this sense, some characters have preferred fighting choices and when unlocked, can change their fighting stances (which can modify stats slightly but limited to local game modes only at the moment). Items are a nice addition to the game, and do not feel as though they tilt the odds. The longer the player holds the button down, the more umph goes behind the shot. Items include a spike ball, a bomb, a mine, and my favorite, the horn. The horn creates a line of fire across the screen and even delivers another weapon to the position you blew it from. I have to admit that this style of weaponry is actually nice. It's breath of fresh air as it's something new. If you get tired of using this, try using this instead. Don't like this, go back to the other thing. 
+
+Graphics resemble those of Castle Storm but there is nothing wrong with that. The art style is nice and again, sets itself apart from smash. Sounds are good, but I would like to see a variance. Make a sword sound like a sword (even when thrown), and make a javelin sound different than a sword when it bounces off the ground. Stages didn't sit well with me at first, but they do change over time. I felt as though they were a bit small, I still do but I can see why they are the size they are. I would suggest adding some levels that are larger and try to stay away from creating every level about the same size. I do like the physical changes that go on in the map, again another + for being different from smash. If you really want to get creative, maybe add certain objects that can explode, upgrade, or slow down players in certain spots (and maybe make them usable every minute or so). 
+
+
+
+****SEPT 2016 update
+
+Everything is in good shape and the servers have finally improved. Game play is literally feeling in good shape and would maybe even like to see more mini-games? 4v4 local? Anything is welcomed as there is certainly no shortage on skins. I would also like to see the in-game coins be put to some kind of use in the future. Right now, everything seems dependant on Mammoth Coins. Mind you, these are only artificial changes not game re-structuring ones. I wouldn't mind seeing some more maps added in the future as well. They've been adding characters every so often but no new topography! I'm excited to see what the final-release will have in store.
+
+
+
+[h1]EARLY ACCESS RATING : 7.9/10 ***updated as Nov 2018  [/h1]
+
+
+
+[table]
+[tr]
+	[td]Gameplay[/td]
+	[td]B+[/td]
+[/tr]
+[tr]
+	[td]Story / Campaign[/td]
+	[td]N/A[/td]
+[/tr]
+[tr]
+	[td]Visuals / User Interface[/td]
+	[td]B-[/td]
+[/tr]
+[tr]
+	[td]Sounds / Music[/td]
+	[td]B-[/td]
+[/tr]
+[tr]
+	[td]Replay-ability[/td]
+	[td]B[/td]
+[/tr]
+[tr]
+	[td]Overall [/td]
+	[td]B[/td]
+[/tr]
+[/table]
+
+
+The devs are actually really good at hearing out the community. Their also pretty effective in delivering their updates quickly in-game when it happens
+
+
+
+***This review will be consistently updated throughout early access.
+
+
+
+
+[h1]ScreenShots [/h1]
+
+
+
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=488875845] Purple is about to get it[/url]
+
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=582572825] Well timed screenshot[/url]
+
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=498432737] Purple is dead[/url]
+
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=498432783] Screen right before the game[/url]
+
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=498432850] Post-game screen[/url]
+
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=582572758] Last minute strike [/url]
+
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=582572669] Got a hammer thrown at me [/url]
+Fresh gold here:
+
+IMO the game is awesome, you can play it all way you want - either 15 minut chillout or serious rumble session. My advice: don't play while you're tired, it really affects your skill and you might get beat to lower rank very quickly.
+Some people say there are too few moves. I disagree: with the current number of skills you can execute sick combos and create your play style with each character. As I said, I'm in Gold tier and I cannot do some moves that seem pretty basic, yet still I win a lot. Also, some characters are easier to play, some are harder - but if you learn to play hard ones, you'll rock.
+
+Pros:
++ elastic gameplay, you can choose if you wanna play casually or hardcore
++ large number of characters to play; each character has its style and you must learn how to play them or against them.
++ really nice graphics - I set background from one map as a wallpaper on my corporate laptop ;D
++ Large community, there is always somebody to play
+
+Cons:
+- Balance issues - as you're mid Silver, you will hate Hattori. She is simply OP and takes a lot of defeats to learn how to fight against her. Get a few matches playing Hattori to check what are her attacks, strong and weak spots etc. Other characters have their issues too.
+- Rude community - at least in my opinion. People can be nice and thankful for a great match, but most of them are kids who get angry while losing and they either DC (one free win, so it isn't that bad ;)) or call you a spammer, noob or worse, no matter if they win or lose. It's a motherf**king game for God's sake, you're supposed to have fun with it. If you don't then why you play it? One dude wished me to die quickly - enjoy your report, mate!
+- Too few ranked modes, imho.
+- Creating a couch party game is a pain in the ass... I tried to play with my friend on one PC and we didn't manage to establish a game. I know that there is a way, but how to do it? I really wish to screw my friends while they're sitting next to me.
+
+Anyway, if you want a good arcade game to spend some time with and practice your manual skills, the choice is simple. Welcome to Brawlhalla!
+Brawlhalla is worth every penny. Wait, it's free? Scratch that... Brawlhalla is worth everything you have in your wallet (assuming your wallet isn't empty). The best part is that this game is 5% luck, 95% skill, and 0% P2W. The developers at Blue Mammoth Games are incredibly interactive with their player base and actually listen to the suggestions that their players give over on the Brawlhalla subreddit. Brawlhalla has an awesome community! Although many people do get angry when they lose, that's to be expected in an 'adrenaline-pumping' fighting game like this. This game is incredibly easy to pick up, but hard to master, and that's the beauty of it! I highly recommend this to anyone who likes reactive/fast-paced games!
+
+Edit: Looking back at this a year later, this review is cringey as balls. But I still stand by what I said.
+
+Edit 2: Two years later and... I don't think I agree with what I said anymore. It's fun at a casual level. But it's not without many, many flaws. The devs are very friendly, but their responsiveness to the playerbase seems very limited in the facets that actually matter.
+[table]
+    [tr]
+        [th][b]Title[/b][/th]
+        [th]Brawlhalla[/th]
+    [/tr]
+    [tr]
+        [td][b]Developer[/b][/td]
+        [td]Blue Mammoth Games[/td]
+    [/tr]
+    [tr]
+        [td][b]Publisher[/b][/td]
+        [td]Blue Mammoth Games[/td]
+    [/tr]
+    [tr]
+        [td][b]Release[/b][/td]
+        [td]2017[/td]
+    [/tr]
+ [tr]
+        [th][b]Graphics[/b][/th]
+        [th]2D[/th]
+    [/tr]
+ [tr]
+        [th][b]Genre[/b][/th]
+        [th][b]Fighting Game[/b][/th]
+    [/tr]
+ [tr]
+        [th][b]Price[/b][/th]
+        [th]Free-To-Play[/th]
+    [/tr]
+ [tr]
+        [th][b]Rating[/b][/th]
+        [th]10/10[/th]
+    [/tr]
+[/table]
+
+[b]Brawlhalla is a free-to-play fighting game developed and published by Blue Mammoth Games for Microsoft Windows, OS X, and PlayStation 4. The game was first shown at PAX East in April 2014, and went into alpha later that month.[/b]
+
+[h1]This is the best game I've played on Steam.
+What makes the game good?[/h1]
+
+[quote][list]
+    [*]The game gets updated every week.
+    [*][url=https://www.twitch.tv/brawlhalla] They do dev streams every Tuesday, Thursday & Friday	[/url]
+    [*]Multiple giveaways each stream (CC - Community colors)
+   [*]Free rotation of legends changes every week + DLCs
+   [*]Customization of your legends.
+   [*]Exclusive items (avatars, skins, colors)
+[/list]
+
+[url=http://wiki.brawlhalla.com/w/Main_Page/] Brawlhalla has a Brawlhalla Wiki, where you can find everything you want about Brawlhalla! [/url]
+
+[/quote]
+[url=http://store.steampowered.com/app/291550/] [i]What are you waiting for? Start PLAYING![/i]	[/url]
+It's a game which is fun to play with friends and feels really good when you land/nail those combos which you've spent the past few hours trying to master in experimental or ranked.
+
+But really, ranked 1v1s are really, REALLY frustrating, let me tell you that. It will make your life miserable with sig spammers and people who spam neutral dodge to parry your attacks. Don't mention the fact that people LOVE to be passive. The game promotes spacing your attacks and such, which is good, but it also rewards the player for actually countering/baiting out attacks which can be annoying. Even if you are WAY more skilled than the opponent, as long as they bait you 24/7 into a punish, you will lose. But still, if you get through all of those, it's really nice to overwhelm people if you know how to play the game properly.
+
+tl;dr -
+1. playing the game with friends is fun
+2. some parts of community are toxic
+3. practicing moves are fun
+4. ranked 1v1s 60-80% of the time will give you crippling depression
+5. making others feel that they should git gud is fun
+
+
+- Beat a guy in ranked
+- Guy calls me a spammer and leaves
+- Lose to a guy in ranked
+- Get told I suck
+- Ask him why he's salty
+- He replies "I'm not salty, I won I can't be."
+
+10/10
+2v2 ranked games involve as much teamwork as the Terran Republic on Planetside 2.
+Little to no success and a lot of friendly fire.
+
+10/10 Would win games via enemies friendly fire again.
+This is a fun, addictive little game. It offers 1v1 and 2v2 ranked in addition to 1v1v1v1, single player and custom game modes like bombsketball or rugby (can't remember the exact name)
+
+[b]Pros: [/b]
+[list] 
+[*] Fun and addictive
+[*] Various "legends" to play
+[*] Similiar weapon archetypes for legends
+[/list]
+[b] Cons: [/b]
+[list]
+[*] Really bad community, there are 3 types of people [list] [*]Guy who wins and says "noob", "don't buy new legends, if you can't play this game". [*] There are also spammers who don't use more than 2 types of attack [*] people who only play Hattori.[/list]
+I've spent a decent amount of hours in this game and yet I cannot say I was ever bored playing this game. This game is very skill based and is very fun offering a variety of characters for players to choose from. Very frequent updates allow characters to be even. The 1v1 system is great which allows players to show their skill and rakn up. This game is in early access and is one of my most played games. So far I am very pleased with this, good job to the Developers for creating an awesome game. Lastly, has one of the best communities i've been in :D.
+This game is a really awesome game. It would be great and fun with friends.
+
+Every character has a special status, moves(depending on the weapon), and weapons.
+
+It's just like Super Smash Bros.
+Awesome concept. There are lots of people in the servers. AI is great to if you don't find people to play. Can play Local with  friends. Controls are great, better if you have an Xbox controller, but Keyboard and mouse feels great too. Just get it already. Worth the price!
+It is a good game and I will expose some points
+
+
+PROS:
+-It's FREE.
+-Good characters with a great story.
+-The game implements the combos and the strings to be able to develop you better in the battles.
+-A good ranking system.
+-And you can have a good time with your friends.
+-Good personalization of the characters.
+
+CONS:
+-Mammoth coins are very expensive for what they are.
+-Flammers.
+-Campers.
+-Spammers.
+-Bad Community.
+-Shitty Servers
+
+To this game I'll give 9/10 from my point of view.
+This game is simply spectacular. From the art style to the gameplay, everything just feels...perfect. Lots of people call this "Smash Bros. for the PC", but it's really not that similar. Each character has two weapons, which some other characters have access to as well. Each weapon has a set of light attacks, which is the same for any character who has the weapon. The "signature" moves for each weapon, however, are unique to that character. With the weapon mechanic, one character has three different movesets they could be using at any given time (weapon 1, weapon 2, and unarmed). The community is pretty amazing; the only time you find any toxic players are the lower ranks of Ranked 1v1. Everywhere else (i.e. higher ranks and Reddit), the people are simply amazing. The dev team constantly listens to the community and quickly responds to and acts on ideas the community have put forth. Overall, this game is 10/10.
+
+TL;DR: This isn't a Smash Bros clone, the devs and players are amazing, and I got beat up by a Pink Bull with 3D glasses and loved it. 10/10
+Easy to pick up yet hard to master. It's about time they made an online game like this on PC. It's completely free with no pay-to-win mechanics.
+-10/10 fun as hell
+More than just a simple Smash Bros clone for PC. Great, responsive gameplay with more depth than you think. And ofcourse, great fun with friends. Dev is continuously adding new stuff, so this great game will only get better!
+Brawlhalla. There's so many things I want to say about this game but I will keep it to a minimum. First of all, it's one of my favorite games. I love Super Smash Bros, but I gotta say that I enjoy this more because of the combat system and the variety of weapons, as well as the selection of stats that the player can choose from for EACH character. Second, the moments that I've made with my friends are priceless. I've laughed harder at things that have happened in this game than anything. It's amazing to watch how dumb your friends can be and see how they can be tryhards at making cool plays. Third, it's free. FREE. So go get your beta key from the great developers who actually care about the feedback of the players of this game, right now, because you're wasting time reading this and not playing Brawlhalla. 
+10/10
+Great action with tight controls, smooth netcode, speedy matchmaking and most of all: fun. 
+
+My son and I stopped playing Smash Brothers the Saturday after it released to play this, if that tells you anything. 
+
+You can take a look at my full first impressions on YouTube: http://youtu.be/ymwMVyOthpY or on Steam:
+
+http://steamcommunity.com/sharedfiles/filedetails/?id=345425900
+This is one of those games where you can calm down for a little while, watch people clash together, and then find dominance and victory in the field.
+
+The spammers can be a lot of trouble to deal with, but in the end, you can get a bit more used to the entire combat situation, and then adapt to strategies, which is great! 
+
+Also, of all the online games with a good amount of characters that you can utilize and experiment with, this is by far one of the most balanced games that I have ever found. Every time one character becomes too strong, they tone it down. When a character isn't meeting the exact powers they expect, they tone it up.
+
+So far, I haven't found a lot of problems that gives me too much stress to deal with, and as some will say: "No problem is too big, and who dares, wins."
+This game is amazing and I got it for free with the BETA sign ups, its a lot like the original super smash bros. "it’s the only one I have and its my favourite and honestly couldn’t be bothered to get the newer ones since I do not own a Wii"
+
+[b]* Has full controller support
+* Can play 4 players local!
+* Online works well!
+* Character customisation
+* Fluid gameplay/mechanics[/b]
+
+11/10 would get shot out of arena again!
+
+
+
+Player Bases.
+☐ Kids.
+☑ Everyone.
+☐ Mature.
+☑ Casual Players.
+☐ Pro players.
+
+Graphics.
+☐ Potato.
+☐ Really Bad.
+☐ Bad.
+☐ OK.
+☑ Good.
+☐ Beautiful.
+☐ Masterpiece.
+
+Price.
+☐ Full Price.
+☐ Wait For Sale.
+☐ Refund It If You Can.
+☐ Don't Buy It.
+☑ Free.
+
+Requirements.
+☑ Minimum.
+☐ Medium.
+☐ Fast.
+☐ High End.
+☐ Super Computer.
+
+Difficulty.
+☐ Easy.
+☐ Medium.
+☑ Hard.
+☐ Very Hard.
+☐ Death March.
+☐ Dark Souls.
+
+Game length.
+☐ Really Short. ( 0 - 2 hours)
+☐ Short. ( 2 - 8 hours)
+☐ Medium. ( 8 - 16 hours)
+☐ Long. ( 16+ hours)
+☑ Endless.
+
+Story.
+☑ It Doesn't Have One.
+☐ Horrible.
+☐ Ok.
+☐ Average.
+☐ Good.
+☐ Fantastic.
+
+Cinematic/Art.
+☑ It Doesn't Have.
+☐ Horrible.
+☐ Ok.
+☐ Average.
+☐ Good.
+☐ Like Watching A Movie.
+
+Music/Sound.
+☐ Horrible.
+☐ Decent.
+☐ Average.
+☑ Good.
+☐ Amazing.
+
+Gameplay.
+☐ Terrible. 
+☐ Ok.
+☐ Average.
+☐ Good.
+☑ Fantastic.
+
+Bugs.
+☐ Game Itself Is One Big BUG.
+☐ Game Breaking Bugs.
+☐ Lots of bugs.
+☑ Few Bugs.
+☐ Nothing.
+
+Others.
+Multiplayer: ☑
+Singleplayer: ☐
+
+Final Score:
+8/10
+
+Highly Recommended!
+Brawlhalla reminds me of Super Smash Bros. Back in the day I used to love versing my friend on Super Smash Bros Melee on their GameCube, and because of those memories, I really love this game. First of all, let's go over the positives. That may seem backwards, but it'll lead up to my major gripe with this game.
+
+Positives:
+Really responsive gameplay on keyboard: I myself play with the Mouse and Keyboard set up. I feel like I'm always hitting what I should and missing what I should, the developers have done an awesome job with this, even though I live in Australia and we need to play on SE Asian matchmaking.
+
+Cool characters: I myself love playing a plethora of different characters such as Bodvar, Teros, Asuri, Orion and Lucien, and the lore that the devs put into the little world they've created really sucks me in. I love reading their lore when I'm waiting for friends to launch the game (which launches surprisingly fast), or if I'm just not playing at that moment.
+
+Awesome Lore: I know I touched on the lore when it came to the above positive, but I believed I had more to say about it. I simply love the lore, and the little tidbits they have around the character's main lore show how they relate to other characters and also what they did before arriving in Valhalla.
+
+And now, the:
+
+Negatives:
+
+Really, the only negative I can find is the spammability of the characters. Keep in mind, at the time of this review I have only 10 hours, so don't take my opinion like it's law, but that's my major gripe. Whenever I go up against a Hattori in my current 1v1 or even 2v2 ELOs (Both Bronze as of 16/11/2015), she seems to spam her Directional Heavy (Left/Right Rightclick/Rightbumper/K/X) every time I come close, so whenever I'm playing a character like, say, Teros, who's Heavy attacks need to be timed down to the split second, I feel at a disadvantage, and it always seems that way aswell, as whenever I believe I'm close to getting my Player Elo back to Silver, I get dropped down by a button mashing Hattori.
+
+That's the positives and negatives I've found with this game in my 10 hours of gameplay, they've done a very good job for a F2P game.
+
+And the moment you've all been waiting for, the [b] TL:DR VERSION! [/b]
+
+All in all, the game is pretty polished in a lot of the major areas, but there is also that, in my opinion, too-small gap of player skill. There's skilled players in the low to high elos and Not-So-Skilled spammers in the even higher elos. That being my major and only problem. Either way, I can totally recommend this to fans of Super Smash Bros and other Fighting Action Platformers.
+Brawlhalla is the most fun I've had with a fighting game in a while. Each character in the cast has a unique playstyle and charm to them, and so the game is very diverse in its gameplay. The game's artstyle has a polished look to it and compliments the game very well without distracting the player from the fighting game intensity. I picked this game up and instantly fell in love, and I reccomend that everyone atleast gives it a shot, its just a great time whether your in it for the ranked 1v1 competetion or just having a fun time with your friends.
+awesome game , much fun and i love it <3
+
+nice characters and skills and colors , music..so fun matches
+
+
+i see a future for this game , i believe its worth a try so try it !
+So here's my synopsis so far (Keep in mind I haven't played for long) The game has some pretty serious lag issues but they did state that that was going to happen. The characters are cool looking and I like that. But the problem that I see is that all the characters are the same other than looks, which sort of bothers me. I would recommend the game as the gameplay is a lot of fun and enjoyable.
+EDIT: Alright so Now that I've played the game a litle more I want to elaborate more. The devs said they were making the characters unique and that's fantastic I'm super pumped for it, with the new patches there's not really balance issues. Today I got to play with my friend locally and I had SO much fun! I would highly recommend this game
+This game is really fun to play! You can find a lot of friends but also enemies ;)
+I´ve spent a lot of time, playing this game and i would definitely recommend it!
+
+The only issue is the server connection sometimes...
+
+And if you sign up for the beta, it is completely free! 
+There are much worse games, you have to pay for on steam ;)
+
+So get it and maybe we´ll meet in the game for a little brawl ^^
+[i] Brawlhalla is almost everything I'm looking for in a PC Smash Bros-style game. The graphics are clean, gameplay is smooth and fluid, built from the ground up to be competitive, and overall a joy to play. [/i]
+
+[h1] The Pros: [/h1]
+
+[list]
+    [*]It's free to play
+[*]Free "Legends" Rotations
+    [*]No Pay2Win options (microtransactions are purely for cosmetics)
+    [*]Not much grinding required to unlock "Legends" permanently
+    [*]Skill based fighting mechanics
+    [*]Very balanced metagame
+    [*]Decent amount of content with more to come
+    [*]Passionate developers who are very responsive to community feedback and suggestions
+[/list]
+
+[h1] The Cons: [/h1]
+
+[list]
+    [*]Servers can be laggy and desync at times, which can screw people over during ranked matches
+    [*]The community is relatively small (It's growing, but slowly. This game isn't everyone's cup of tea)
+    [*]The top rankings are dominated by a few pros and their smurf accounts
+[/list]
+
+I'm definitely looking forward to putting more hours into this game. It's been a blast to play with friends and online. I wholeheartedly recommend this game to brawler/fighting game fans, especially Smash players looking for a PC alternative. Even if you haven't played much fighting games before or didn't like other fighting games, give this a try. It's free after all.
+
+[b] Score: 10/10 Highly Recommended [/b]
+
+*UPDATE*: Now that the Brawlhalla rankings have been reset the leaderboard have become much more diverse and while smurf accounts still exist they are not much of a problem anymore. The community is getting there and the servers are being improved every patch. Now there's no reason not to try Brawlhalla if you like fighting games!
+If you see the negative reviews about Dash, they are mostly made by average players with a low amount of hrs played (silvers/golds/low-plats) that don't know crap about gamebalance and fighting games in general. Read further if you want to see a review made by an actually veteran of the game that has been around to see all of the changes. If you don't like dash, state why in the comments. Don't start to say "dash sucks, dash is bad", at least put some thought into it. TL;DR at the end.
+
+
+[h1]Dodges[/h1]
+With season 6, ground dodges (directional dodges and chain dodges) were replaced with a dash. It's around the lines of Dash in the so popular Smash games. With dodge in Bh you can evade every attack, because it gave you invulnerabilty frames. Speeddodging could be used only when you had the right momentum and it gave you a small speed boost for it duration. It could be chained up to two chaindodges in ANY direction. This mechanic led to huge neutral games that were based on chaindodging around and punishing the aggressor. The defensive playstyle was favorable at almost every skill level. Diamond/tournament meta was the most boring thing ever, because nobody wanted to engage first.
+
+[h1]Dash[/h1]
+Now that I've covered some of the dodge stuff, let's talk about dash. Dash it's a fast movement option that has no cooldown timer (unlike dodges) and no iframes. You can still spotdodge, air dodge, chasedodge. After a dash you start to sprint in that direction, giving you increased speed. You can chain multiple dashes. You can also do a backdash, that can't be chained in another bdash. Dashdance it's when you bdash>dash>bdash>dash>repeat for how long do you want. It's a great way to play the "footsies". Jump dash it's also a thing. Watch this video[ https://www.youtube.com/watch?v=7GVdLPP30V8&t=56s]  for other basic dash mechanics.
+
+Dash added a lot of new techs into the game that raised the skillfloor and skillroof by a lot. It has been available for testing in the Experimental mode for ONE MONTH. There was a plenty of time for the playerbase to try it and get used to it. It's not a change that has been implemented out of nowhere. Everyone that has played the game had to unlearn the old habbits and lean new ones. It opens a new way for skilled players to engage, it helps breakomg the neutral game and keeping up the pressure. In the end BH it's a fighting game, not 9D chess that evolves about punishing the aggressor. That's bs.
+
+If you want to be teached about dash, abut how to use it, add me on steam or on Discord Piox#1752 I'm on the EU server, btw.
+Other resources for getting help: https://www.reddit.com/r/Brawlhalla/ 
+Brawl League Discord: https://discordapp.com/invite/brawlleague (getting a mentor or asking questions about the game in general) 
+Informative video about dash made my Ephi, one of the pros players: https://www.youtube.com/watch?v=izwE3lJEs0I
+Counter argument of Jellyfish, another pro player, that thinks that dash'll probably won't be a good change to BH: https://www.reddit.com/r/Brawlhalla/comments/700oew/if_you_dont_like_dash_please_read_this_before_you/dmzlitk/
+You can also watch top players on Twitch to see how they use dash in their games. I'm 100% sure you'll learn something from that. 
+[h1]TL;DR:[/h1] Dash replaced grounded dodges/speeddodges; it makes the game a lot fast-paced, the aggressor having an easier time to engage and keep the pressure; it offeres a higher skillfloor/skillroof; it takes a couple of hours to get used to after playing with cdodges previously, but trust me that it's a lot better after you learn how to use it effectively.
+More basic smash bros, but its pretty fun, though things have changed from what it used to be, its still a fun game, You should definitely try it out. It's free
+People who compare this game to Smash Bros have clearly never played either game for an extended period of time. They are probably also the ones who compare Terraria to Minecraft, or TF2 to Overwatch.
+
+Brawlhalla and Smash Bros are two very different games. Brawlhalla uses 43 ORIGINAL Legend (as of Feb 2019) as the playable characters. Also, each Legend as the same move set to an extent, so every 1v1 Legend combination is balanced.
+
+Brawlhalla is fun in it's own way, separate from from how Smash Bros would be fun. Just like Terraria and Minecraft, or TF2 and Overwatch.
+I remember when my Brother told me about this game. I thought it was a wanna be smash bros, I was completely wrong. 
+This is game might be one of the best and addicting games i have ever played.
+
+I would recommend buying "All Legends Pack" for best gameplay. ;D
+brawlhalla is imo the best free fighting game on steam.  the gameplay is fast and exiting and mostly combo-reliant (except those people, if youve played ranked or experimental , youll know what im talking about) which i like.  be warned though, this game may cause you to rage.  i know this isnt just me, its almost everyone after they lose a ranked game.  and i unfortunately get mad a lot because im trash at the game, but getting mad isnt really a thing in actual gameplay.  this game does have some cons, though.  3 jumps, a recovery, a very fast dodge (and in some cases momentum boosting moves) causes online matches to be flooded with passive players who just run away and camp, which is annoying.  also a lot of people also say that some weapons like scythe (and maybe gauntlets) are broken and should be nerfed, but i dont think so.  just git gud m8, just git gud.
+Wonderful game!
+
+Not much to say about this 2D beat'em up. Except that it's one of my absolute favorite games. I would highly recommend this for advanced and casual gamers alike. Really well done Blue Mammoth Games!
+It's not really a game for filthy casuals, like myself, if you want to get into this game you had better be prepared to either get good or get your ass fucked sideways.
+Brawlhalla is a really underrated game. This game is really fun, even if you're playing alone. The game mechanics are really good and I recommend to everyone who is bored and want to try something new.
+Pros: Free.99$
+Addicting
+Can play with friends
+Many characters to unlock and use
+Many gamemodes
+Cons: Toxic Community (basically in every game, duhh)
+that's it, this game is amazing
+Surprisingly good fighting game, in my opinion can hold its own against such titles as Rivals of Aether and the Super Smash Bros series. Interesting weapon-based moveset mechanics and smooth fast-paced movement make this game feel great to play. A very worthwhile game for any fighting game enthusiast or beginner.
+
+It's a free game not much to complain about, runs well and doesn't have many glitches. You're gonna have to work for what you want though if you don't want to spend money.
+Kung foot mode on 300% damage is the reason
+workers of the Blue Mammoth studio deserve a special place in heaven
+next to a god himself.
+Blue Mammoth truly are a wonderful bunch that have the ability
+to craft the most engaging experiences known to a man.
+And they are giving this invaluable gift away, [b]for free[/b].
+
+300%/10 
+Keep up the good work.
+This game can be incredibly tilting when playing competitively. Although I personally think its still worth playing. Learning the game can be rewarding and fun. If your a casual player looking to play with friends in custom lobbies and whatnot this game is great for that as well.
+It's a smash bros clone to say a short description, but it's great. None of the characters feel unbalanced. You are guaranteed to hate one weapon, but no one weapon will be hated by all.
+This is game is trash so many spammers that use lots of sigs and some of the people in the championships are butt and some how its good. I hope get some ccs for this trash game.
+
+10/Valhalla ( 10 )
+Would recommend to people who likes a fighting games
+Please save your money and your time into this game if you're playing competively
+trust me...
+I spend at least 100 rm or 25 usd at I regret it
+If you're just a free to play - casual player than pre fun
+A genuinely good game with excellent controls and almost no bugs. Each character is relatively fun to play and balanced at least compared to other games. Considering I really don't like fighting games this is my favourite I've played and one I keep coming back to. Recommend it and also it's free so even better.
+
+---{Graphics}---
+
+☐ You forget what reality is
+☐ Beautiful
+☐Telltale smoking 5 Gs of Tf2
+☑ Decent
+☐Pixel
+☐ Supershite
+☐ Paint.exe
+
+---{Gameplay}---
+☐ GOTFC
+☑ Very good
+☐ Street Fighter x Dragon Balls
+☐ It‘s just gameplay
+☐ Mehh
+☐ Starring at walls is better
+☐ Just don‘t
+
+---{Audio}---
+☐ Eargasm 
+☐ Very good 
+☑ Good
+☐ OK
+☐ Bad
+☐ Earrape
+
+---{Audience}---
+☐ Kids
+☐ Teens
+☐ Adults
+☑ All
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☑ Potato
+☐ Decent 
+☐ Fast
+☐ Rich boios
+☐ Ask NASA if they have a spare computer
+
+---{Difficulity}---
+☐ Just press 'A‘
+☐ Easy
+☐ Significant brain usage
+☑ Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls (Hardest Difficulty)
+
+---{Grind}---
+☐Nothing to grind
+☐ Only if youu care about leaderboards/ranks
+☐ Isnt necessary to progress
+☑ Average grind level (if you want to buy legends skins etc. you are going to have to play a good amount but this doesn't restrict the game too much as legends are on rotation weekly.)
+☐ Too much grind
+☐ You‘ll need a second life for grinding
+
+---{Story}---
+☐ If you want story, then go read a book.
+☑ Text or Audio floating around
+☐ Average depends an DLC
+☐ Good 
+☐ Better than the Telltale Sam & Max series
+☐ It‘ll replace your life 
+
+---{Game Time}---
+☐ Long enough for a cup of tea
+☑ Short
+☐ Average 
+☐Long
+☐ To infinity and beyond 
+
+---{Price}---
+☑ There is no "price“
+☐ Worth the price seven times over
+☐ Worth the money, but try to catch it on sale
+☐ Not recommended
+☐ You could also just burn your money
+
+---{Bugs}---
+☐ Literally nothing bad
+☑ Minor bugs (for brawlhalla they exist only in training mode and test maps credit to @Killer Dairy for this info)
+☐ Can get annoying
+☐ Get a bug spray. Or more. A lot more. Or maybe a flamethrower. Or a nuke.
+☐ Assassin‘s Creed: Unity.
+
+Credit to @The White Knight for a nice template <3
+Devs refuse to fix the broken meta, they consistently buff characters that dont need buffing, and nerf others that have been getting nerfs for 3 years now. Some characters haven't had a buff since Beta and now because of the 34 odd characters and new weapon types, there's a massive skew to 2-3 specific weapon types that they won't fix. Devs don't read their own Steam discussion with countless threads from players complaining and noting specific things wrong with the game. Very frequent lag and desync issues the devs always blame on your ISP or your router rather than their shitty servers.
+
+Can't leave out the ranked matchmaking that often times will put you against the same person 3, 4, 5, 6 times in a row despite there being thousands of people playing in any specific ranking bracket.
+
+Was my favorite game for the past 3 years, but it's so fucking broken and full of bullshit toxic players that I can't play this game anymore without getting angry at it.
+
+Get fucked Blue Mammoth Games and Ubisoft. Thanks for reading, this has been my TEDtalk.
+This is the story of how a simple 2D fighting game gave me anger issues.
+
+Listen, I have 277 hours logged on this game. I'm a platinum in the ranking system and, hell, I even have the founders pack. I have quite a bit of experience playing this game, and honestly, I'm at a point where I can honestly consider myself pretty good at it.
+
+Because of this, you're going to have to trust me when I say that-and I mean this with all my heart, really-if you have any intent on enjoying the next couple years of your life, don't touch this sour, toxic, puss-filled wasteland of a fighting game. Don't install it, don't don't play it, don't even poke around in the lore, and don't poke around in the gameplay. You might as well just stop reading this review in order to make sure I don't spark your interest with this game.
+
+The game works pretty well in theory. It's quite similar to Super Smash Bros, which is a game that many people enjoy, myself included. You pick a character with a simple weaponset consisting of two weapons. The weapons include spears, katars, scythes, swords, gauntlets, blasters, axes, bows, hammers, and cannons. My personal main, Wu Shang, utilizes gauntlets and spears.
+
+After choosing your character, you'll enter the game. You'll notice that the characters have both light attacks and heavy attacks, or signature attacks, which you can use in chain combos. Each character has original signature moves; no two legends are the same.
+
+With the basics out of the way, you'll probably find yourself having some fun in a simple matchmaking or bot game. You'll play a few rounds, get a grip on what you're doing, and log off for a while, having enjoyed some harmless fun on an innocent looking game.
+
+The game has a great art style and a great soundtrack, I'll give it that. You can tell the developers made an attempt to make a game that could be enjoyed by everybody.
+
+Well, try not to let these first impressions impact you to hard. Past the surface, this game and its community are on a whole new level of toxicity, chaos, and general despair. In fact, I'd even compare Brawlhalla to a drug. On the surface and on light occasions, Brawlhalla is general, good fun, especially with friends. However, if you start liking it a little too much, or if you want to get better, the trouble begins. Now, where to start?
+
+First of all, the game can be incredibly frustrating. Gaming rage is inevitable in pretty much every game. It might even be healthy to let off a little steam. This game, however? Brawlhalla has given me some of the worst gaming rage I've ever had.
+
+Hey, difficult games are perfectly acceptable. There are countless examples of games where deaths feel fair and deserved and make you want to persevere through them to the end, making the reward even more satisfying. It's intoxicating in the best way. It makes you feel great!
+
+In Brawlhalla, however, almost every death is completely unfair. Even now, I still play matches where I'm left shaking my head in disbelief at some of the brutality that comes rolling my way. It makes me want to play more, not because I feel good about what I'm doing but because I feel like I need to prove myself or get better to try and get past whatever stupidly unjust attack I'm hit with to no avail. It's a brutal endless cycle that keeps pulling you back for more.
+
+This brings me to my next complaint... Spam. There is so much space left between blows for utter abuse of most of the attacks in that game. Practically no character is fair or balanced, some being even more absolutely abysmal than others. If a player can succeed simply by doing one light attack combo or a singular signature move over and over again, then what's the point of even a making attempt to achieve victory? A majority of the higher-leveled use this simply mindless tactic to gain ELO points quickly and efficiently without any consideration or respect for other players, specifically lower-leveled ones. You'll notice these groups of players using mostly Hattori, or one of the other extremely abusable legends. They'll use the basic light sword, katar, or scythe combos in quick succession repeatedly to K.O. players in seconds. Don't confuse this exploit for skill, people-this method is absolutely mindless, leaving rank in Brawlhalla practically meaningless.
+
+In turn, you'll get used to seeing this tactic everywhere, which can make it hard to differentiae skill from spam. It becomes very confusing very fast and adds to the frustration.
+
+The spamming problem in Brawlhalla is a major one, but it really is a simple fix. Add cooldown times to attacks after using them three times or so in a row to encourage players to experiment with more attacks and combos. This would not only fix the spam problem, it would build skill and better tactics for the next battle.
+
+Finally, I'd like to complain about the fanbase. Nowhere else on earth will you find such a cesspool of arrogance and hatred. Within my first hours of this game, I recieved quite a few bland attempts at insults from players who are trying to compensate for their lack of skill. Hell, even I'm guilty of it. It's contagious-you'll be playing a match, you'll lose to spammers, you'll get called 'ez,' rinse and repeat. The anger and toxicity spreads like wildfire and sends everything into dissaray.
+
+As a usually pretty sensible guy, I never thought that one game would have such a negative impact on my life. I beg of you, if you want to keep your family, friends, free time, and anything else dear to you, avoid this game at all costs.
+
+And Blue Mammoth Games, if you're listening... please fix your game. It's blatantly broken, and many players like me are counting on you.
+
+That will be all.
+This game is fun until you take it seriously and realise that there are deep rooted problems in the core of this game. Sure it may be fun playing with friends or for the first 200 ish hours, but after that you start to just get frusturated. I try to like this game, I really do, but the community is down right toxic and the game has some very unignorable problems that just make it not fun to spend a long period of time playing. One such problem is the float meta, you can be vastly surperior in skill to a player and still loose to them because the mechanics of this game promotes sitting back and waiting for your opponent to engage and then simply press the dodge button and punishing them, not a fun time. I have 420 hrs (nice) and can not recommend doing the same. If you're looking for a fun game with friends then go ahead and play it, but do not expect a fun time if you are looking for a new competitive platform fighter.
+Overall Brawlhalla is great but it's definitely not for everyone.
+
+Pros:
+*F2P smash.
+*Easy to learn, hard to master.
+*Very high skill cap.
+*Gives you a great adrenaline rush during close matches.
+
+Cons:
+*Toxic community.
+*Unplayable without good internet.
+*Awful ranking system that rewards you so little, it takes away the joy of winnning & player skill is very inconsistent compared to their rank.
+*Gives you anger issues.
+
+In conclusion: don't play this game seriously either your anger, the community or the devs will ruin your fun.
+Over 900 hours on this game and all i can say is that these 900 hours would of been better spent masturbating to a dead fetus.
+
+The servers are god awful and cross region multiplayer is a dream to never be fulfilled. Expect 100+ ping if you are from EU trying to play US-E god forbid US-W 
+
+Overall the gameplay is ok. mechanics are mediocre. Until the new patches came in, Introducing down dodge and chain dodge. Biggest turn off when playing this game i have ever seen. Game is now a gang bang of dodging forward back down and in the same place (as per usual) people consider this game to be competitive, How can staying in the same place and repeating one move that has no dodge frames be considered Esports material? complete joke of a game when it comes to a competitive scene. MMR system isnt too bad unless you factor in smurfing that ruins the game for low level players. Diamond players stuck in gold UNTIL a wave of noobs come and create elo inflation. Getting to diamond was just as easy as getting to platinum back in season 1. No feeling of progress since you get stombed if you dare to go into ranked or even custom games. Normal winning plan for platinum/diamond players consists of:
+
+-Spam the same combo until you can knock them out easily
+-Stand still and punish their moves 
+-Gimp them off the edge 
+
+This game will never achieve Esports level due to its childish attitude to gameplay and the ignorance of devs, That think adding new skins and hosting $50k prize pool tournaments is better than improving servers! Pathetic business practice, Lure the new players into a lagfest of spam and watch them leave. Those who stay are going to be the future clan leaders with eSports in the name.
+
+Game is only enjoyable if played with friends. And if you dont have those then... Say hello to the most toxic and butthurt community ever. Where even the professionals bm and people talk shit for no apparent reason but to respond to a loss. A game where everyone becomes your enemy if you use a move a bit too much or gimp them twice.
+
+Website has been broken for many many months 2V2 search was said to be fixed 'soon' i dont know if the devs have dimensia or they just dont care but its probably a mixture of both. Community art is ok but thats what you get then you bait 500 artists into a game with no potential (I guess they never played ranked)
+
+Speaking of skins. Every so often they release new skins,weapons,companions and KO effects. Only way for them to make money but even the most dedicated players who dish out $100 for the 'collectors pack' have to buy the new content so they might want to change the name to 'almost complete collectors pack' (if you bought the collectors pack before the skins released)
+
+Overall game is a comparison to stepping on shit wearing flip flops and getting RSI from repeating the same moves 1000s of times. Avoid with a shitty stick people! go play smash bros instead atleast they dont charge you for every new skin that comes out. They have you buy new seasonal colors with the in-game currency. 3000 gold for one character color. thats over 100 games of slaving away doing the same crap over and over. Waste of time if i wanted to grind id go play warframe. not to mention that all the noobs cant play the new characters because on release they cost you 7200 gold. Good luck attracting new players with that attitude, When the rotation allows them to play the new hero all the tryhards mastered the spam and its not fun. Wait.... it was never fun.
+
+
+I have played this game so much. You can tell by my amount of hours. I have spent more money on this game than I care to share because I love it so much. It really is fun. Or at least it used to be. These days, the majority of the Brawlhalla community spends their time learning what ways are best to p i s s off other players. They include the most frustrating of tactics like spamming one combo or heavy attack to their advantage. Against these players you can tell you are more skilled, but because they've resorted to such tactics, you must adapt in whatever way possible. These matches are not fun. They're just sad; you have the skill to be evenly matched but the fight is no fun because they only do one attack. It is with great sadness that I give this game a bad review. The developers seem to support this dispicable playstyle by enhancing the movesets that are easily spammable and nerfing the skilled players' abilities to be skilled and to dodge the other players' attacks. With one particular update, you can no longer dodge into attacks. This update has completely toppled the once-fair system of evasion/combat. At one point, attacks that were simultaneous would cancel each other out. Now, there is a MASSIVE issue with the priority of attacks. One enemy who strikes simultaneously will somehow overpower your attacks, thus making spam (i.e. the same attacks over and over) the most likely attack to be prioritized. In addition to this, in both ranked gamemode types, you do not face people who are your level, you face whoever is online at any given moment. There have been moments where I (rank 1550 or so) have been pitted against rank 2100s. For those of you who do not play this game, that gap is MASSIVE. Even the difference between 1500s and 1700s is massive, to which I often fight 1700s as well as 1800s. It is very uncommon that I fight people at my own level. The same is true for the opposite however, where I have been pitted unfairly in my favor against someone in the 1200s. It is also FAR too easy to be a Platinum or higher ranked player, and drop ranks into lower tiers, where you can demolish those who are just trying to survive in the Brawl community. With all these issues combined, it has made for a poor mesh of broken mechanics. The people who comment that this game is amazing are likely to be the people who contribute to its broken-ness. I truly do love this game, it has a lot of potential, even to come. In its current state, it is little more than trash, unfortunately. These faulty game mechanics have become so frustrating that I have just uninstalled this game. I hope to one day return and find it fair once more.
+It's becoming too passive and toxic for my taste
+We haven't seen any refreshing change in maps, mechanics, game modes in a while
+Every new weapon seems to allow brain dead strings
+The only fun thing about this game is custom lobbies with friends
+Competitive play is endlessly frustrating
+At this point i'd rather play Bad Rats than this flawed mess, these are the 1000+ hours i can never take back.
+the combat mechanics are run away, wait for your opponent to miss and hit them, rinse and repeat until they're dead.
+The community is so toxic that it actually challanges Rust.
+please do not play this game on a competitive level, I have lost several chromosomes up until now.
+Please fix the matchmaking of this game. For the new people who would like to try and play this game. Good luck you are probably going to go against golds during your first casual game. There shouldn't be high plats in a low gold ranked game please fix that.
+
+Are you guys even playing your game. The balancing is so fucking ass also. Please recheck your sycthe and swords and see if there is atleast a counter for each legend. Also, there are a shit ton of fucking bugs that you guys never fix. Why do i hear my weapons hit the other player but nothing happens and I get countered.
+
+
+PLEASE FIX THE FUCKING GAME IT'S UNPLAYABLE
+very good game overall,but the community is absolutely shit
+ 
+almost everyone you will fight,and win,will tell you that you are spamming or playing cheap...if they are playing cheap or spam u,and they win,they will spam ''cry baby'' in the chat or just say ''ez'' or ''noob''
+ 
+i decided to leave this game after about 350 hours,and i dont plan on coming back
+240+ hours on record
+
+Do you want a fun game that leaves you satisfied?
+Do you like a nice community of players who don't spam every curse they know before leaving the chat?
+Do you like fair fighting games based on skill and strategy?
+Do you hate losing against a player just because the fight system rewards spamming?
+
+If you answered yes to any of these questions, don't play Brawlhalla
+This games needs fixing. From experience, or 930 hours in the game, the community is pretty toxic and the gameplay is incredibly passive at higher levels. In order to keep winning, if you are playing competitively, you pretty much need to play every day, just to keep your skills up and not die from the tryhards out there. However, if you do play every day, there's going to be at least one toxic player from losing, either your opponent or yourself. Good luck with keeping some sanity, as tryhards and stupidly annoying spammers are going to make you question why you are even playing competitively. The game isn't so bad, for a free game at least. It really just needs some fixing in mechanics and a less toxic community.
+While the game has nothing outright bad in it there are a few bugs which can easily ruin a fun game. 1) if you play for long enough then you will start getting a glitch that makes you pick up the wepon from the drop that you just lost or threw away, and 2) some attacks will outright not hit, even when your opponent isn't dodging they wont hit them. i have tested it in training mode with a bot that just stands still and sometimes my sigs just wont hit. Other than that tough its a good game that's fun and challenging
+This game is a joke... over 200+ hours and the amount of stupid shit that happens is just annoying at this point. WOULD NOT RECOMMEND TO ANYONE. (P.s fix hit boxes and jumps, thanks.)
+I do not know what is happening but I have a decent gaming PC with good specs which can run almost any game at full setting and a extremely good internet connection. This game for some reason is very slow, has late response to any action and (not sure why) lags.
+TL;DR: Don't play this if you have more than $10. If you do, play Rivals of Aether instead.
+
+Positive:
+[list]
+[*]Big playerbase, although artificially grown through the F2P aspect instead of actual deep gameplay and good community.
+[*]Servers allow for (mostly, see negatives) smooth gameplay even on big distances. P2P is still the better method for fighting games tho.
+[*]The weapon system. It's kind of cool that you can mix two playstyles into one character, and it's not seen on other platform fighters.
+[*]Up to 8 people can play in online multiplayer mode.
+[*]lobby system, with alternate party modes available.
+[/list]
+
+Negatives:
+[list]
+[*]Floaty, clunky, brainless gameplay. Absolutely no techs whatsoever apart from "gravity cancel", which is just a spotdodge in the air to use grounded attacks. Wanted to wavedash, waveland, L cancel, DI? Nothing of that here, enjoy floaty physics with infinite ledge hugging that allows for lame, campy gameplay.
+[*]The weapon system. While it's on its core a fresh idea, it spawns lazyness when it comes to character design and variety. A sword won't ever be "Bodvar's epic sword", because that same sword plays exactly the same in every other character that has a reskinned sword.
+[*]Character variety. While every character has in theory their own smashes (a.k.a "sigs") there is absolutely nothing distinctive about any of them. Sidesig is big hitbox to the side,  Neutralsig is big hitbox up, downsig is big hitbox either on the ground, or a leaping attack. That's it. No character has a signature that interacts with the environment, nor with other mechanics, because there's no other mechanic to begin with. Every character has the same weight, the same hitbox, the only thing that changes between them are the weapon choices and the strength/speed/defense/dexterity multipliers.
+[/list]
+let the developer's have a meet and greet and i swear on my mother's life ill hop over that table and smack the shit outta anybody within range. try me.
+boring, slow, items are stupid. if you want to play a fighter i recommend, Smash Brothers Melee, Smash Brothers Ultimate, Slap City and Rivals of Aether.
+Before you dismiss my opinions as invalid salt please note that I've gotten in to the top 8% in north america on PC and was peak 13th in north america on PS4 for a season when I was actively playing it there.
+
+After playing this game for about 1000 hrs between PC, PS4, and other peoples accounts I cannot recommend this game.
+
+The ranked gameplay quickly falls apart as you get higher and higher in ranks and becomes a passive wait fest where the first person to attack loses because the mechanics favor reactive and not engaging game play. I watched my average kill/death time go from 35 seconds in my first season playing to about 1:30 now.
+
+The developers really don't seem to understand how to balance the game and it's basically just revolving rounds of fix X and break Y. This was particularly frustrating when they decided that dodge mechanics needed to change to favor running away rather than dodging through attacks. Even more frustrating was then they decided that noone was playing heavy weapons because they were too slow so they just jacked up the speed on high damage weapons without pairing that with something to not make them overpowered. Now on the low levels you get players spamming heavy weapons that cover huge hitboxes and on the high levels you get people using small weapons and waiting for other people to attack first.
+
+I would recommend the casual gameplay as people don't tend to 'play to win' there but alas that's where all of the toxic ranked players go to let off steam and just ruin the fun for casual players. I know because I do this.
+
+11/10 would not recommend.
+the ranking system does nothing to stop people from CounterFighting successfully. all you do in ranked is backstep then counter or jump, airdodge and counter with an air attack. no real skill is required to get to 1900 elo, only a functional backdash button
+This is a REALLY bad knockoff of Smash Bros. The movement is clunky, there is predictable and limited recovery options, there are no shields or grabs, and the characters all feel the same. If you have never played Smash then I guess you wouldn't understand the disappointment. The only good thing I can say is that it's technically free to play (unless you don't want to spend forever unlocking the characters). That's literally the only good thing I can say. I'd give it a 2/10.
+so in this game you only encounter sig spammers or smurfs, because brawlhalla decided it's a good idea to put diamond players in silver rank. I honestly don't recommend it because it's very nerv-wrecking to see how your ELO goes down because of smurfs or spammers. Oh, and the hitboxes are broken btw
+If you have never played this game before and are just starting to play get prepared to have your asshole thrashed open many times by the sweaty nerds that play this.
+This game would be fun if it wasn't for:
+
+1. the game being so easy to run away due to the instant dodging mechanic
+2. The amount of competitive/tryharding players in casual modes, ruining the experience for new players
+3. The game being mostly centred around a few characters due to their DISGUSTING true combos and generally the entire combat is based around 5 characters due to their weapons, such as Orion with the Spear and Rocket pike (Or whatever the fuck it's called) and the most disgusting kill combo out of dash attack I've ever seen. Dash attack and Up/Neutral heavy... That's it
+Hit with the full dash and it just works
+It's horrible
+
+
+The amount of times you'll find someone just spamming and winning is horrible
+The amount of times you'll see someone get hit but just take no damage and suddenly appear somewhere else due to THEIR internet is even worse
+
+And OH GOD the passive play...
+People don't go offensive
+This game is not fit for competitive, nobody wants to see or deal with someone running away for 4 minutes and throwing shit across the stage!!!
+
+
+If you aren't playing this as a party game *PURELY WITH FRIENDS*
+Don't bother.
+You'll either waste a thousand hours and hate your life
+Or you'll get mad at how BS this game is and uninstall it.
+Fuck you BMG, y'all created this shitty, piece of ass you call a game which makes no damn sense, get the fuck out of here. I should slap the CEO's mother for this bullshit.
+This game is trash. The gameplay revolves around baiting out attacks. Basically being the more passive one will likely benefit you way more than being the aggressor. Look at competitive scene lol, sometimes its 2 players jumping around waiting for 1 of them to attack. Utter disgusting game. The ranked system is even more tilting, straight up garbage trash. If you like waiting out for your opponents to attack, this game will be so fun for you! All in all, being passive and waiting for your opponent just helps you win the game.
+Used to be really good, but patch after patch has made it harder for new people to enjoy, and the design of the game encourages people to troll each other and use every possible cheese tactic to bully their opponents into losing. Scythes and bows are awful infinity-combo weapons.
+Sure, it was a fun smash clone was it was balanced, but now all they add are insanely unbalanced legends who the new players can easily decimate any veteran player with spamming.  the game isn't fun anymore.  The magic of this game has been taken away by the toxic community and until the characters are balanced and some sort of system is implemented to regulate this toxicity, I wouldn't recommend.
+Way too hard for beginners:
+
+I - a brawler newbie - played a few hours with the heroes in the current draft, but could not get a foot in the door.
+Your timing has to be perfect right away.
+You have to calculate the distances and hit-boxes in your mind.
+You get matched with players who are far far better than you are right from the beginning, leaving you frustrated.
+Dodging mechanics are also hard to get right. In a 1 vs 1 i get dodges right, but then right away the person turns and smashes you into hell... Why have dodge anyways if it leaves you open like this!?
+
+Even in ranked, after i lost many matches, resulting in a low ELO, i get matched with people who get everything right.
+
+Also the game has potential, i would not recommend it to beginners, because of the high frustration potential there is, if you're not a prodigy brawler...
+
+If you find another beginner-friendly brawler (yes, there are) then there is also no reason to come back to this. Because why invest time into one game, just to switch to this one!?
+
+No good IG tutorial either.
+One of the worst games I have ever played. Ruins relationships, wastes money and there are too many broken mechanics that allow for easy and cheap wins. Don't waste your time on this piece of garbage.
+Bad game, do not play it
+Rewards passive play at all levels and spamming at low levels
+People who leave good reviews have under 100 hours, go check for yourself
+Terrible Game. It used to be good but the developers became brain dead since scythe came out. Lag issues, toxic community and they removed combos from weapons except the very few which everyone play. Absolutely horrible

@@ -1,0 +1,188 @@
+[i]Half-Life 2: Lost Coast[/i] is some kind of show-case made by Valve to introduce their new High Dynamic Range method of applying light inside the Source Engine. Actually, although this is a very technical subject, the developer's commentary that comes with it, is more than worthwhile listening to. It gives quite some insight into how this mini-level was constructed, and even into how HDR lighting actually works. It's not easy to talk about something as complex as this is an easily understandable manner. Fascinating stuff, and for the die-hard Vavle-fans: you even get Gabe Newell's words at the beginning of the commentary ;-).
+
+After playing it through for a second time recently - after having left it aside for over five years -  I felt amazed by how lively most of the graphics and - of course - the lighting still look today - a full nine (!!!) years after this level was published. Especially the little Byzantine church, part of the monastery on top of the cliffs, still feels amazing and oozes atmosphere. Valve did a wonderful job with the lighting inside the church, even letting dimmed light through the stained-glass windows. At the same time, it also made me a bit sad, because, well, how long has it been since we got the latest Half-Life content? Oh well, who knows....
+
+Since this one comes for free in the [i]Orange Box[/i] and the Half Life 2-complete package, I guess most of you who played [i]Half-Life 2[/i] at some point, have this in your game collection. If you haven't tried it yet, by all means do so, but be advised: it's very good, but also very short ;-).
+
+Overall rating: 8/10
+It was basically a short mission containing new graphics and explaining whatever. I honestly thought I was going to be exploring the lighthouse and town, which would hopefully take hours. I was disappointed when I found out you can do this under 15-40 min. The graphics were good though. I recommend this if you want to see a new type of graphics or whatever. But people, IT IS NOT A GAME.
+I remember being blown away by this tech demo all those years ago. I just loaded it up today as part of the Spring Cleaning promo on Steam and I have to say it still looks impressive, now where is HL3?
+[url=http://steamcommunity.com/id/kaka9lag/recommended/ ] My Review :[/url]
+
+Rate : 10/10
+
+Lost Coast is a small technology demo showing off the Source engine's HDR rendering capabilities and it is an additional map originally planned as a section of the chapter Highway 17 of Half-Life 2, but was dropped. Only download this if you like Half Life or Source Engine or waiting for Half Life 3.  
+
+
+This game (or demo) is included with the purchase of Half-Life 2. Game doesn't cost $39.99 USD, "Half-Life Complete" does!
+This really isn't much of a game, but more of a tech demo for the technical geeks. This little gem includes most elements found in its complete game, Half-Life 2. Originally planned as a section of the Highway 17 chapter of Half-Life 2, this unused concept was scrapped, possibly due to time constraints or maybe based upon the fact that this game is a prototype all on its own.
+
+This demo details various visual and graphic capabilities that are found in that said complete game. All the while, this ''game'' just shows how immensely strong the Source engine is, considering it was pretty new for its time back in 2004, and how it would become the most essential game engine to date, what with various Valve and 3rd party games being built on top of this incredible engine. The most clear concept that is shown off is the high dynamic range lightning that is now most commonly used in nearly all of Valve's games. 
+
+There isn't much of a story or a narrative in this demo, you're none other than Gordon Freeman, who is stranded on a lost coastal cliff, (The clue is in the title.) that you must climb up to destroy a Combine artillery launcher in a monastery, which is rebelling and attacking a nearby town. Though this is just one massive chunk of a technological demonstration, it has several story elements that didn't make the cut in the final game. As a result, this level received a good response from the community, as if the fans haven't been missing anything at all.
+
+While I would say, this game is very interesting if you love to dig down and unearth various unused game content and maybe discover a little of the history that had been closed.
+Although it's a damn short game, only clocking in at around 30 minutes to 1 hour at the most, I was really interested to know how the process of developing a game was like. To do that, you need to turn commentary on. This commentary came straight from the developers from Valve, like Gary McTaggart, Robin Walker, and Chris Green. After playing and listen to what they had to say, I understood the process of making a game a little bit more. As far as graphics and level design go, I would give it an A.
+This is not a game. This was orginially a demo for Half-Life 2 and the Source Engine. Now for some FAQ:
+
+"Is it good?" Sorta
+"WTF! IT IS 39.99 FOR A DEMOZ!!!! VALVE SCAM!?" Click the name and look at the page*.
+"Why don't they sell this speratly so I can see if I like Half-life 2?" I really don't know.
+
+This game, because it is a demo, shows you all of the cool things that the engine can do in-game. I like this more because it seems to be filled with action (also not repetitive). It is a good time killer for only 15-30 mins. I give it a 7.5/10.
+
+
+* If you type in "Lost Coast" the price will be shown as 39.99. If you press on the tile-thing and look the the page for it, it will only be able to be sold with the bundle, that is why it is that much.
+Half-Life 2: Lost Coast came bundled with Counter-Strike: Source. It's not worth buying this game seperately because it only has about an hour worth of gameplay, but it's worth 1 hour of your time if you get it in a bundle.
+[h1]Good, old memories...[/h1]
+So one day, after school, I met with a friend at my home. We were both very young back then. I just got my first PC, but only played a few browser games on it. My friend however knew this one program [spoiler]which I thought would be illegal at first[/spoiler] called "Steam". The dark design of it and the fear of the unknown made me feel like a hacker. The reason why he forced me to download it and create a new account was a special sale, where AMD graphic-card-users would get some games for free. These games were Half-Life 2: Deathmatch and Half-Life 2: Lost Coast. Lost Coast was my first First-Person-Shooter. After we killed every enemy and annihilated the chopper, tried every path, spammed "E" at every door in hope that we could open it, we gave up. We played a whole 2 hours [spoiler](!)[/spoiler] without knowing that it is just a showcase of the beautiful Half-Life-engine. But it was great. And it felt great. The scenery was beautiful and we both knew that we would get killed if our parents would find out. Actually, I believe that the fact that we played it secretely made it even more exciting. To hide Steam and both of these brutal amok-games from my father, who checked my Computer from time to time to install security-updates, I created several sub-folders in folders, all with unique categories about "Pokemon" [spoiler]yes, I played Pokemon a lot back then :D[/spoiler]. I will never forget the day I started PC-gaming, nor my first FPS-experience. This day will be in my memory for all time. And no, I did not run amok a single time. [spoiler]At least not in real-life :P[/spoiler]
+
+Edit: I played the game on another account though.
+Lost Coast: a nice demo, and actually pretty fun to play. The one little nugget that was missing from Half-Life 2. It has a nice atmosphere and well made effects (for 2005).
+
+At the start of the demo, it feels like you're taking a little vacation from the main story of Half-Life 2. Though short I do recommend it, cause I wouldn't have want to miss this :)
+Half-Life 2: Lost Coast is a technical demo released in 2005. It is added to every copy of Half-Life 2 on steam. The idea was to show HDR technology for the first time, of course now all of that is a standard but at least we get around 15 minutes of additional gameplay for free.
+
+Story was originally meant to be a chapter from a base game but it was cut from unknown reasons. Gordon Freeman wakes up on a beach with his stuff, he meets an old fisherman who asks him to clear out the Combinate outpost nearby. Our protagonist climbs there eliminating enemies, facing one boss and listening to dev comments scattered around the map. Simple but acceptable side story in my opinion.
+Gameplay does not change at all, Gordon still use the same gear, same weapons on the very same way that in Half-Life 2, the one and only change is that some of ways to achieve our goal might become unavailable if you are too slow. To clear the demo you must simply listen to all the commentary and proceed further. Boring but short enough to not make you sleep.
+In terms of performance the only changed thing is the water and how it looks, all the graphics look exactly like in the base game so do not expect fireworks.
+
+That is all, a short DLC-like chapter that is not any different from original, it is free so I guess there is nothing to complain about. It might have been a little a longer but to be honest no one cares. 7,5/10.
+I spent all these hours on this "game", I spent these hours on skips, now I can beat this game under 2 minutes, I skipped the entire church, the fisherman, even the elevator at the end, I spent all this time, I even got a pulse ball, there is one, I found out how to go to the other island, without the guide's way, you just rocket jump and the water does the rest for you, I found out how to make everything not do anything, atleast the ai, I found out how to go out of bounds, and under the map, I found out how to go to the main city, unlike the guide, all of this without cheats, this "game" is fun, and it is fun to speed run, and it is fun to break it, it is fun in general, it feels like a secret when you find a text box you never seen, it is fun to hang out at the other island, it is fun to skip things, it is fun to explore the map, even in intended ways, it is fun to rocket jump to the only combine elite, it is fun to "win" but you actually die, and it is fun to waste nearly a day's worth of hours in this game, and it is fun to play without breaking it, and it is fun making a review on it, and it is fun to wait to redownload it, it is now done, bye.
+This is a complimentary expansion pack you get if you have Half-Life 2. Lost Coast was a level that eventually did not get integrated into the story of Half-Life. Instead, it is used to showcase the Source engine's capabilities with particular emphasis on its HDR effect. 
+
+The level takes place at a coastal location and, similarly to the main game, our task is to proceed and eliminate all the Combine forces. Our best bet is to turn on the commentary mode which allows us to launch audio logs with the developers from time to time by clicking on commentary nodes along the way. Short, factual, thumbs-up!
+Lost Coast is a short showcase of the new power of the Source Engine after its upgrade in FY 2006. It introduces High Dynamic Range lighting and features a chapter which was cut from Half-Life 2, which takes place immediately after Highway 17. It only lasts a few minutes of gameplay, but it's worth playing right after you finished Half-Life 2.
+You really can't believe this game is a tech demo for the first Source engine, made in 2005. It's beautiful, and showcases most of this engine's capabilities, which are phenomenal. 
+
+Now, Valve, please, Half-Life 3 confirmed?
+One of the most inspiring, most enlightening games of it's time. After finishing this game for the first time, I had to go back and play it several more times. In fact, I replayed this over 70 times and I still wasn't able to fully soak the story of the lone fisherman and his quest to help the protagonist Grodan Friedman and his trusty companion, the crowbar. I spent many hours up at night just trying to fathom what exactly went through the mind of Friedman as he traversed through the barren landscape of Highway 17. Don't even get me started on how much the High Dynamic Range adds to the whole game. Seriously. I mean, you couldn't get anymore detail and lighting even if you went outside, took a rocket to the surface of the sun, and stood there even though you'd be burning up. Overall, I give this game 8.76 times the square root of pi out of ten. Plus, you get more Garry's Mod Props. Awesome, right?
+[b]Half-Life 2: Lost Coast[/b] is a small additional level for the game, playing out in the Half-Life 2 storyline. This release was originally put out as a showcase for developer Valve's HDR Lighting technology, with new gameplay to demonstrate the new effects.
+It's a tech demo and a planned level meant to show off the capabilities of the Source engine.
+...Why did i rehash the description?
+Because it is what it is. It's not too long and has hardly any content, but that's the point.
+And i think it makes its point just fine.
+A very quick and short lost part of half-life 2 that filled with 14 commentary from the developers include gabe newell about how they design and develope game like half-life 2. 
+
+You as Gorden that will do a little bit of combat some exploring and then one small easy puzzle to destory a big gun that's been shelling the nearby village. Shouldn't take more then 10 minutes to complete but it's quite fun to hear developer talking about everything. 
+
+10/10... Try it out hear what Valve staff have to say. I just wish they will make more games.
+[u][b]-Quick Review-[/b][/u]
+Half-Life 2: Lost Coast was used as a “Technology demonstration” showing the graphics, style, lightning, combat, and generally demonstrating the Source Engine in Half-Life 2. Half-Life 2: Lost Coast was developed by Valve the same time that Half-Life 2 was being developed, Lost Coast was released on steam in 2005.
+
+
+[u][b]-Detailed breakdown review-[/b][/u]
+[b]Story:[/b] Some people might be asking “Atratzu, why are you reviewing this? It's not even a full game, it's a demo”. My answer is... I dunno... It's a game in my library and I want to review every game I've played.
+There's not much to the story, you meet an old man [i](the fisherman)[/i] who takes you up a flight of stairs to unlock a gate to let you up to the chapel. Then you get ambushed by the Combine and need to demonstrate the amazing Half-Life 2 source engine to those jerks and kick their butts.
+
+[b]Gameplay:[/b] Keep in mind that this game came out in 2005. Today and in the future a Technical demo like this might seem silly, but at the time it was dazzling 3D graphics to onlookers.
+The controls are the same as Half-Life 2... First person view, different types of weapons can be found and switched between using the scroll wheel or 1-2-3-4-5-etc, pew pew.
+
+[b]Achievements:[/b] This game has the hardest achievements out of any video game I've ever played. They're broken down into one category: unforgivingly difficult. Beat the whole game in extreme-FUBAR-murder-death-mode. Play for 1,000 hours. Reach notorious hidden objectives, slay the hidden spider queen, and many more.
+
+Actually, there aren't any achievements in the game.
+
+[b]Price:[/b] Half-Life 2: Lost Coast is priced at $39.99, for the stand alone game, it's crazy, isn't it? Imagine how much fun you could have with a game from 2005 for $39.99? I think that's a solid price, I think Valve could get away with charging an extra hundred dollars for the game and it would still be worth it.
+
+Actually, it's part of a bundle with 9 other games within the “Buy Half-Life Complete”.
+
+[b]Conclusion:[/b] To quickly recap, the story was short and not really relevant, since this was taken out of Half-Life 2 (this was supposed to be a section of Highway 17). The Gameplay was identical to Half-Life 2 because it was basically a town in Half-Life. The Achievements were non-existent. The price is non-existent because it comes in a bundle with other games.
+“Should you get this game?” That question is irrelevant, “Should you buy and play the Half-Life Games?” Heck yes.
+Half-Life 2: Lost Coast was supposed to be a level added into the original game, but for some reason never made it. Instead they pushed the Source engine to its graphical limits instead and using this level as a platform show casing the power of the Source engine. The level takes about 15 minutes to complete, but you will be treated with eye candy and if you're looking for more Half-Life 2 to play, then this level will be enjoyable.
+Oh God, how did i spend 8 hours playing a tech demo?
+
+They promised us so much during the early access pre-alpha 40 years ago, yet I still barely see any progress. This isn't the immersive open-world survival I have been waiting for, but still totally worth 8 hours of your time.  
+
+60$ well spent
+Half-Life 2: Lost Coast is a technical demo released in 2005. It is added to every copy of Half-Life 2 on steam. The idea was to show HDR technology for the first time, of course now all of that is a standard but at least we get around 15 minutes of additional gameplay for free.
+
+Story was originally meant to be a chapter from a base game but it was cut from unknown reasons. Gordon Freeman wakes up on a beach with his stuff, he meets an old fisherman who asks him to clear out the Combinate outpost nearby. Our protagonist climbs there eliminating enemies, facing one boss and listening to dev comments scattered around the map. Simple but acceptable side story in my opinion.
+Gameplay does not change at all, Gordon still use the same gear, same weapons on the very same way that in Half-Life 2, the one and only change is that some of ways to achieve our goal might become unavailable if you are too slow. To clear the demo you must simply listen to all the commentary and proceed further. Boring but short enough to not make you sleep.
+In terms of performance the only changed thing is the water and how it looks, all the graphics look exactly like in the base game so do not expect fireworks.
+
+That is all, a short DLC-like chapter that is not any different from original, it is free so I guess there is nothing to complain about. It might have been a little a longer but to be honest no one cares. 7,5/10.
+Test your graphic card on this episode. If your pc run this episode smoothly it can handle the most of the Source Steam games.
+Really nice graphics and smooth map making on this short epic episode.
+Try it and have fun for an hour or two.....
+
+Oliver
+ After playing around with the level for a bit, I can definitely say that Lost Coast is a complete success. It's not available seperately, but it is available in the Half Life Complete Pack (which is on sale right now). Here, you play as Gordon Freeman, as you come across the tiny town of St. Olga, whom is under attack by the Combine with a gun that launches headcrabs into the town. The 14-Minute Tech Demo shows off what the Source engine can really do, and as a result the game looks beautiful. It's almost like a work of art.
+ The level is paced very well here. You start by heading upwards on a cliff, where you encounter quite a few Combine soldiers blocking your way. The level has little cover here, so you must be aware of enemy positions and use your grenades well here. You are given a few other weapons along with the Gravity Gun to boost your arsenal. Once in the courtyard, you are allowed to take a small break and take in your surroundings as the game shows off the High-Dynamic-Range Rendering (or HDR Rendering).
+ You then enter a church, and one small puzzle later more Combine soldiers enter. You are not allowed to leave until you defeat them all, which is something that wasn't really explored in the original Half-Life or Half-Life 2, so it's nice to see some different gameplay elements here (along with the aforementioned cliff). After you defeat the enemies, you are led outside where you confront a chopper in a very confined area. After that, the level is over.
+ Overall, the game succeeds in the one thing it was meant to do: be an excercise in level design and act like a tech demo. This level is the very reason many maps in games such as Team Fortress 2 or the Source Counter-Strike games look so good. However, it's length really shows it's a cut piece of content (cut from Highway 17) and, being a demo, you wish for more. Then you go back to playing regular Half-Life.
+9/10
+Pros: A sweet, short level with brilliant level design that looks good in the proccess
+Cons: It's length is short compared to other levels in previous games in the Half-Life franchise
+Short and sweet. 
+
+What this game has:
+The fun gameplay you may recall from the Half-Life series (it's a H-L game of course lol)
+For 2005 standards, great visuals.
+A fun setpiece towards the end.
+
+Overall, a good timewaster to play over and over again while you're waiting for a game to install, or waiting for your new computer to arrive (true story :P).
+Definitely the best installation in the whole Half-Life series. The depth of plot is unfathomable, the the shading of the characters' motives is astonishing, and finally the highly dynamic range of gameplay's variations leaves no one indifferent. A masterpiece overshadowed by the original game's success.
+Even now, I cannot get the rays of of enlightenment to stop astonishing me with their clear white light every time I play this magnificent game.
+The fisherman is perhaps the most flushed out and realistic character ever to be put in a video game he is filled with so much depth and humour the lost coast is a one in a lifetime release and a must play for all you shiny rock enthusiasts an easy 10/10
+For you who are wondering, it's not a game. It's more of a demo to show off how pretty everything is. And everything sure is pretty. The gameplay itself is nothing incredible, just shoot few combines, shoot a heli and done.
+So yeah, you should play it for the pretty graphics, not the gameplay.
+Half-Life 2: Lost Coast is a very short tech demo where the developpers of the source engine talk about their work. Originally, it was part of the Half-Life 2 campaign, but was cut in the end.
+
++ Lord Gaben greets you
++ There is some shooting
++ Interesting cliff map
++ Makes you think about what if this map wasn't cut
+
+- Cringy old man...I'm glad he was cut.
+- It's very short and can be played through in about 10-30min. Depends if you are interested into the audio messages of the developpers.
+- Tech demo only
+
+I'd recommend playing Lost Coast if you are interested into the source engine or if you want to see about this mysterious Lost Coast map that was cut from Half-Life 2. If your interests don't meet these conditions, don't touch Lost Coast.
+
+Replay value: None
+Rating: None
+Recommendation: It depends
+Although this installment is more of a demonstration of technology, there is actual gameplay, with weapons.  There's really nothing new here in terms of combat.. The lighting and texture is the key-note.  Total run-time is roughly 30-35mins, assuming you take the time and listen to the commentary (which is actually pretty interesting).  
+
+The objective is to disarm a heavy cannon located inside a monastery on top of a hill that is terrorizing a nearby village.  Along the way you'll fight some combine, head-crabs and a final boss (which I'll leave as a surprise).
+For free, this tech demo is worth the few minutes it takes to run through it. Reminded me just how good Half-Life 2 was back in the day. Good memories - good times.
+Great little demo game, one map, to show off the power the Source Engine had in 2005, and on today's computers, it still looks amazing. One of the main things this game shows off is HDR, or High Dynamic Range, which mimics your eye's pupil in response to differing levels of light. Give it a try!
+I can't say too much about this game
+It was supposed to be in HL2's Highway 17 chapter, but Valve made this a showcase for HDR
+It is a really short game, with nothing special, but nothing bad, either
+If you have HL2, you'll get this too, it is only a few minutes, and it is worth it.
+OK, THIS HALF LIFE GAME IS NOT IN THE MAIN STORY LINE. 
+This is a half life game to show the potencial of the source engine. Its really good if you want to know about the engine.
+It has some gameplay but its not connected with the main HL story.
+If you enjoy knowing about source engine, then yes i recommend.
+It is important for people to realize this is really just a tech demo for Valve to show off the High Dynamic Range lighting they were fooling around with at the time this was released. This came out sometime around the release of the first Episodic expansion to Half-Life 2 and doesn't fit in with the story or anything. It doesn't take more than a half hour to blaze through this little demo but it is fun and enjoyable.
+
+Since it is free, I would say play through Half-Life 2 and then enjoy this little guy and then play the expansions.
+Why was it original planned to be in the final game but didn't make it?
+I don't see the point of cutting a fun little ten minute segment.
+Should've been in the final game, Though I guess we where atleast lucky enough to get it at all.
+There's only two reasons I play this game:
+1. When binge playing every Half-Life game
+2. When I need a small break from life things.
+
+10/10 great game.
+This game is a great piece of art demonstrating all of the components leading to the new version of SOURCE, I find it very interesting and a fun little game.
+This is obviously quite excellent, because it's a...well, I guess by modern Steam standards it might be called an official Half-Life 2 "DLC", though "standalone playable technology showcase" also seems to cover it quite well.  
+
+   It's not a game in itself, it's a brief but enjoyable scenario/side-quest set in the Half-Life universe. Made by Valve. So obviously excellent, but I wouldn't exactly go buying a $40 pack for this and this alone if you already own all or most of the other stuff in it. But if you got Lost Coast for free, as I believe I did, then there's truly nothing to complain about, is there?  
+
+   On the other hand, if you're the "independently wealthy" type, $40 might be the equivalent of a piece of chewing gum in the back pocket of us lesser plebs, so you may as well just spend that much on a 30-minute "game" irrespective. Or you could be more generous and give it to the derelict currently rifling through the trash can on your footpath, if you're that filthy stinkin' rich.  
+
+   OH LORD HELP ME, WHY AM I EVEN BOTHERING TO WRITE THESE WORDS? I think I may have an addiction to game reviewing, this is my second one tonight...
+
+Verdict: 9/10 (as long as you didn't pay anything for it).
+It's a nice day at the beach. And then you have to fix a lighthouse and people in masks start shooting you. 
+
+Fight through for beach rights. Short, fun.
+Small tech demo with some commentary. Not a complete game in any way, but hey, it's a good listen and doesn't actually cost 40 bucks. Get the Half-Life Bundle.
+15 min tech demo explaining what and how Valve improved upon their engine. Can be played with or without commentary. Its a fun little play through 8/10.
+First- DON'T TRY TO FINISH THIS. It's not a long continuation or anything. It's just a fun little semi-puzzle sequence that introduces some new design elements to Half-Life.
+A good, short game showcasing HDR graphics and a small amount of fighting Combine, plus a nice physical bridge that explodes. I was glad I received this for free upon my purchase of Half-Life 2, because of the fun, short gameplay.
+This is more of a curiosity, than a game. But it is a very interesting curiosity of the Half Life world, as you interect with regular people (something unseen in the Half Life world, as the people you typically encounter are either resistance or combine, no inbetween).
+The ONLY mission it provides is very well constructed, challenging and pleasant.
+4/5.
