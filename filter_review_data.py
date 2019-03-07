@@ -99,7 +99,7 @@ def get_language_file_name(app_id=None):
     return language_file_name
 
 
-def detect_review_language(app_id=None):
+def detect_review_language(app_id=None, verbose=False):
     english_review_dict = load_english_reviews(app_id)
     output_file_name = get_language_file_name(app_id)
 
@@ -111,14 +111,17 @@ def detect_review_language(app_id=None):
 
     DetectorFactory.seed = 0
 
+    is_new_review_processed = False
+
     for count, review_id in enumerate(english_review_dict):
-        if (count + 1) % 1000 == 0:
+        if verbose and (count + 1) % 1000 == 0:
             print('Reviews processed by langdetect: {}/{}.'.format(count + 1, len(english_review_dict)))
 
         if review_id in detected_languages:
             continue
 
         review_content = english_review_dict[review_id]['review']
+        is_new_review_processed = True
 
         try:
             detected_languages[review_id] = detect(review_content)
@@ -126,14 +129,14 @@ def detect_review_language(app_id=None):
             detected_languages[review_id] = 'unknown'
             print(review_content)
 
-    if output_file_name is not None:
+    if is_new_review_processed:
         with open(output_file_name, 'w', encoding='utf8') as f:
             json.dump(detected_languages, f)
 
     return detected_languages
 
 
-def detect_review_language_for_top_100():
+def detect_review_language_for_top_100(verbose=True):
     data_request = dict()
     data_request['request'] = 'top100in2weeks'
     data = steamspypi.download(data_request)
@@ -141,28 +144,60 @@ def detect_review_language_for_top_100():
     app_ids = list(data.keys())
 
     for app_id in app_ids:
-        _ = detect_review_language(app_id)
+        _ = detect_review_language(app_id, verbose=verbose)
 
     return
 
 
 def apply_language_detector():
+    # Pre-processing: detect languages of reviews for Artifact and for top 100 most played games
+
     # Artifact
-    detected_languages = detect_review_language()
+    detected_languages = detect_review_language(verbose=True)
 
     # Top 100
-    detect_review_language_for_top_100()
+    detect_review_language_for_top_100(verbose=True)
 
     print('Done.\n')
 
     return
 
 
+def filter_out_reviews_not_detected_as_english(english_review_dict, detected_languages, expected_language_code='en'):
+    review_ids = english_review_dict.keys()
+
+    print('Filtering out reviews which were not detected as {}.'.format(expected_language_code))
+    review_ids = filter(lambda x: detected_languages[x] == expected_language_code, review_ids)
+
+    checked_english_review_dict = dict()
+    for review_id in review_ids:
+        checked_english_review_dict[review_id] = dict()
+        checked_english_review_dict[review_id] = english_review_dict[review_id]
+
+    return checked_english_review_dict
+
+
+def filter_reviews(app_id=None):
+    english_review_dict = load_english_reviews(app_id)
+
+    english_review_dict = filter_out_short_reviews(english_review_dict, length_threshold=150)
+    print('#reviews = {}'.format(len(english_review_dict)))
+
+    detected_languages = detect_review_language(app_id)
+    english_review_dict = filter_out_reviews_not_detected_as_english(english_review_dict, detected_languages)
+    print('#reviews = {}'.format(len(english_review_dict)))
+
+    return english_review_dict
+
+
 def main():
+    # Pre-processing
     apply_language_detector()
 
-    english_review_dict = load_english_reviews()
-    english_review_dict = filter_out_short_reviews(english_review_dict, length_threshold=150)
+    # Processing: Artifact
+    app_id = get_artifact_app_id()
+
+    english_review_dict = filter_reviews(app_id)
 
     return
 
