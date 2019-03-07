@@ -64,6 +64,13 @@ python char_level_rnn.py
 python word_level_rnn.py
 ```
 
+### Learn word-level models with GloVe embeddings
+
+```
+# Word-level RNN with embeddings: either run this script, or `word_level_rnn_with_embeddings.ipynb` on Google Colab. 
+python word_level_rnn_with_embeddings.py
+```
+
 ### Download app details for Artifact and for the top 100 most played games in the past 4 weeks
 
 If generated reviews look satisfactory, then the next step would be to generate a review given a store description using
