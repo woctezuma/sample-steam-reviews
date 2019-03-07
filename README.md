@@ -51,7 +51,7 @@ python sort_review_data.py
 # Char-level n-grams:
 python char_level_ngrams.py
 
-# Char-level RNN: either run this script, or or the `char_level_rnn.ipynb` notebook on Google Colab. 
+# Char-level RNN: either run this script, or the `char_level_rnn.ipynb` notebook on Google Colab. 
 python char_level_rnn.py
 ```
 
