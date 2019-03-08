@@ -177,7 +177,7 @@ if __name__ == "__main__":
     text_file_name = get_output_file_name(app_id)
     model = train_model(path=text_file_name,
                         max_sentence_len=40,
-                        overlap_size=20,
+                        overlap_size=35,
                         num_epochs=20,
                         model_weights_filename=None,
                         initial_epoch=0)
