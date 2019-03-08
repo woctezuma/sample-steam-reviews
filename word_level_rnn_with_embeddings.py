@@ -8,7 +8,7 @@ import string
 
 import numpy as np
 import spacy
-from keras.callbacks import LambdaCallback
+from keras.callbacks import LambdaCallback, ModelCheckpoint
 from keras.layers import Dense, Activation
 from keras.layers.embeddings import Embedding
 from keras.layers.recurrent import LSTM
@@ -26,7 +26,7 @@ def chunks(l, n, overlap_size=0):
         yield l[i:i + n]
 
 
-def train_model(path, max_sentence_len=40, overlap_size=0, num_epochs=20):
+def train_model(path, max_sentence_len=40, overlap_size=0, num_epochs=20, model_weights_filename=None, initial_epoch=0):
     if overlap_size is None:
         overlap_size = max_sentence_len - 1
 
@@ -147,10 +147,24 @@ def train_model(path, max_sentence_len=40, overlap_size=0, num_epochs=20):
             sample = generate_next(text)
             print('%s... -> %s' % (text, sample))
 
+    print_callback = LambdaCallback(on_epoch_end=on_epoch_end)
+
+    save_callback = ModelCheckpoint(filepath='weights.word_level_rnn_with_embeddings.epoch_{epoch:02d}.hdf5',
+                                    save_weights_only=True)
+
+    if model_weights_filename is not None:
+        try:
+            print('Loading model weights {} with initial epoch = {}'.format(model_weights_filename, initial_epoch))
+            model.load_weights(model_weights_filename)
+        except FileNotFoundError:
+            print('Model weights not found. Setting initial epoch to 0.')
+            initial_epoch = 0
+
     model.fit(train_x, train_y,
               batch_size=128,
               epochs=num_epochs,
-              callbacks=[LambdaCallback(on_epoch_end=on_epoch_end)])
+              initial_epoch=initial_epoch,
+              callbacks=[print_callback, save_callback])
 
     return model
 
@@ -161,4 +175,9 @@ if __name__ == "__main__":
 
     app_id = get_artifact_app_id()
     text_file_name = get_output_file_name(app_id)
-    model = train_model(path=text_file_name, max_sentence_len=40, overlap_size=20)
+    model = train_model(path=text_file_name,
+                        max_sentence_len=40,
+                        overlap_size=20,
+                        num_epochs=20,
+                        model_weights_filename=None,
+                        initial_epoch=0)
