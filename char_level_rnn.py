@@ -17,7 +17,7 @@ import random
 import sys
 
 import numpy as np
-from keras.callbacks import LambdaCallback
+from keras.callbacks import LambdaCallback, ModelCheckpoint
 from keras.layers import Dense
 from keras.layers import LSTM
 from keras.models import Sequential
@@ -95,7 +95,7 @@ def get_params(text):
     return params
 
 
-def train_model(text, maxlen=40, num_epochs=60):
+def train_model(text, maxlen=40, num_epochs=60, model_weights_filename=None, initial_epoch=0):
     params = get_params(text)
 
     chars = params['chars']
@@ -143,10 +143,22 @@ def train_model(text, maxlen=40, num_epochs=60):
 
     print_callback = LambdaCallback(on_epoch_end=on_epoch_end)
 
+    save_callback = ModelCheckpoint(filepath='weights.char_level_rnn.{epoch:02d}-{val_loss:.2f}.hdf5',
+                                    save_weights_only=True)
+
+    if model_weights_filename is not None:
+        try:
+            print('Loading model weights {} with initial epoch = {}'.format(model_weights_filename, initial_epoch))
+            model.load_weights(model_weights_filename)
+        except FileNotFoundError:
+            print('Model weights not found. Setting initial epoch to 0.')
+            initial_epoch = 0
+
     model.fit(x, y,
               batch_size=128,
               epochs=num_epochs,
-              callbacks=[print_callback])
+              initial_epoch=initial_epoch,
+              callbacks=[print_callback, save_callback])
 
     return model
 
@@ -158,7 +170,9 @@ if __name__ == '__main__':
     params = get_params(text)
 
     maxlen = 20
-    model = train_model(text, maxlen, num_epochs=20)
+    model = train_model(text, maxlen, num_epochs=20,
+                        model_weights_filename=None,
+                        initial_epoch=0)
 
     start_index = random.randint(0, len(text) - maxlen - 1)
     for diversity in [0.2, 0.5, 1.0, 1.2]:
