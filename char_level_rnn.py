@@ -81,7 +81,7 @@ def sample_new_text(sentence, model, params, diversity):
     return
 
 
-def get_params(text):
+def get_params(text, maxlen=None):
     chars = sorted(list(set(text)))
     print('total chars:', len(chars))
     char_indices = dict((c, i) for i, c in enumerate(chars))
@@ -92,18 +92,21 @@ def get_params(text):
     params['char_indices'] = char_indices
     params['indices_char'] = indices_char
 
+    if maxlen is not None:
+        params['maxlen'] = maxlen
+
     return params
 
 
 def train_model(text, maxlen=40, num_epochs=60, model_weights_filename=None, initial_epoch=0):
-    params = get_params(text)
+    params = get_params(text, maxlen)
 
     chars = params['chars']
     char_indices = params['char_indices']
     indices_char = params['indices_char']
 
     # cut the text in semi-redundant sequences of maxlen characters
-    params['maxlen'] = maxlen
+    # maxlen = params['maxlen']
     step = 3
     sentences = []
     next_chars = []
@@ -167,9 +170,9 @@ if __name__ == '__main__':
     app_id = get_artifact_app_id()
     text = read_input(get_output_file_name(app_id))
 
-    params = get_params(text)
-
     maxlen = 20
+    params = get_params(text, maxlen)
+
     model = train_model(text,
                         maxlen,
                         num_epochs=20,
