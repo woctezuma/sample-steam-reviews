@@ -35,25 +35,10 @@ def train_model(path, max_sentence_len=40, overlap_size=0, num_epochs=20):
     print('\nLoading GloVe...')
     nlp = spacy.load('en_vectors_web_lg')
     word_model = nlp.vocab
-    pretrained_weights = word_model.vectors.data
-    vocab_size, emdedding_size = pretrained_weights.shape
-    print('Result embedding shape:', pretrained_weights.shape)
-
-    def word2idx(my_word):
-        my_key = word_model.strings[my_word]
-        try:
-            my_row = word_model.vectors.key2row[my_key]
-        except KeyError:
-            print('Word {} unknown'.format(my_word))
-            my_row = 2091  # the row for 'cat' word
-        return my_row
-
-    def idx2word(my_row):
-        my_key = list(word_model.vectors.keys())[my_row]
-        my_word = word_model.strings[my_key]
-        return my_word
 
     print('\nPreparing the sentences...')
+
+    data_driven_vocabulary = set()
 
     with open(path, 'r', encoding='utf-8') as f:
         docs = f.readlines()
@@ -65,7 +50,54 @@ def train_model(path, max_sentence_len=40, overlap_size=0, num_epochs=20):
         current_sentences = [sentence for sentence in chunks(tokens, max_sentence_len, overlap_size)
                              if len(sentence) > 1]
         sentences.extend(current_sentences)
-    print('Num sentences:', len(sentences))
+
+        data_driven_vocabulary = data_driven_vocabulary.union(tokens)
+
+    num_unique_words = len(data_driven_vocabulary)
+
+    print('Num sentences: {}'.format(len(sentences)))
+    print('Num unique words: {}'.format(num_unique_words))
+
+    # Work on the full GloVe matrix
+
+    true_pretrained_weights = word_model.vectors.data
+
+    num_word_features = true_pretrained_weights.shape[1]
+
+    def true_word2idx(my_word):
+        my_key = word_model.strings[my_word]
+        try:
+            my_row = word_model.vectors.key2row[my_key]
+        except KeyError:
+            print('Word {} unknown'.format(my_word))
+            my_row = 2091  # the row for 'cat' word
+        return my_row
+
+    def true_idx2word(my_row):
+        my_key = list(word_model.vectors.keys())[my_row]
+        my_word = word_model.strings[my_key]
+        return my_word
+
+    # Trim the GloVe matrix to lower RAM usage
+
+    sorted_data_driven_vocabulary = sorted(list(data_driven_vocabulary))
+
+    word_indices = dict((c, i) for i, c in enumerate(sorted_data_driven_vocabulary))
+    indices_word = dict((i, c) for i, c in enumerate(sorted_data_driven_vocabulary))
+
+    def word2idx(my_word):
+        return word_indices[my_word]
+
+    def idx2word(my_row):
+        return indices_word[my_row]
+
+    pretrained_weights = np.zeros((num_unique_words, num_word_features))
+    for my_row in range(num_unique_words):
+        true_row = true_word2idx(idx2word(my_row))
+        pretrained_weights[my_row] = true_pretrained_weights[true_row, :]
+
+    vocab_size, emdedding_size = pretrained_weights.shape
+    print('Result embedding shape:', pretrained_weights.shape)
 
     print('\nPreparing the data for LSTM...')
     train_x = np.zeros([len(sentences), max_sentence_len], dtype=np.int32)
