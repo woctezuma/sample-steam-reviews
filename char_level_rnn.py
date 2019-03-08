@@ -143,7 +143,7 @@ def train_model(text, maxlen=40, num_epochs=60, model_weights_filename=None, ini
 
     print_callback = LambdaCallback(on_epoch_end=on_epoch_end)
 
-    save_callback = ModelCheckpoint(filepath='weights.char_level_rnn.{epoch:02d}-{val_loss:.2f}.hdf5',
+    save_callback = ModelCheckpoint(filepath='weights.char_level_rnn.{epoch:02d}.hdf5',
                                     save_weights_only=True)
 
     if model_weights_filename is not None:
