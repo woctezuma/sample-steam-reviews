@@ -9,6 +9,7 @@ import string
 import numpy as np
 import spacy
 from keras.callbacks import LambdaCallback, ModelCheckpoint
+from keras.initializers import Constant
 from keras.layers import Dense, Activation
 from keras.layers.embeddings import Embedding
 from keras.layers.recurrent import LSTM
@@ -111,7 +112,10 @@ def train_model(path, max_sentence_len=40, overlap_size=0, num_epochs=20, model_
 
     print('\nTraining LSTM...')
     model = Sequential()
-    model.add(Embedding(input_dim=vocab_size, output_dim=emdedding_size, weights=[pretrained_weights]))
+    model.add(Embedding(input_dim=vocab_size,
+                        output_dim=emdedding_size,
+                        embeddings_initializer=Constant(pretrained_weights),
+                        trainable=False))
     model.add(LSTM(units=emdedding_size))
     model.add(Dense(units=vocab_size))
     model.add(Activation('softmax'))
