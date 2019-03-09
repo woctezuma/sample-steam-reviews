@@ -14,6 +14,7 @@ has at least ~100k characters. ~1M is better.
 
 import io
 import random
+import string
 import sys
 
 import numpy as np
@@ -81,8 +82,9 @@ def sample_new_text(sentence, model, params, diversity):
     return
 
 
-def get_params(text, maxlen=None):
-    chars = sorted(list(set(text)))
+def get_params(maxlen=None):
+    chars = string.ascii_letters + string.digits + string.punctuation
+
     print('total chars:', len(chars))
     char_indices = dict((c, i) for i, c in enumerate(chars))
     indices_char = dict((i, c) for i, c in enumerate(chars))
@@ -99,11 +101,18 @@ def get_params(text, maxlen=None):
 
 
 def train_model(text, maxlen=40, num_epochs=60, model_weights_filename=None, initial_epoch=0):
-    params = get_params(text, maxlen)
+    params = get_params(maxlen)
 
     chars = params['chars']
     char_indices = params['char_indices']
     indices_char = params['indices_char']
+
+    # Remove unusual characters
+    text_chars = sorted(list(set(text)))
+    chars_to_remove = ''.join(set(text_chars).difference(chars))
+    print('Removing {} characters: {}'.format(len(chars_to_remove), chars_to_remove))
+    translator = str.maketrans('', '', chars_to_remove)
+    text = text.translate(translator)
 
     # cut the text in semi-redundant sequences of maxlen characters
     # maxlen = params['maxlen']
@@ -171,7 +180,7 @@ if __name__ == '__main__':
     text = read_input(get_output_file_name(app_id))
 
     maxlen = 20
-    params = get_params(text, maxlen)
+    params = get_params(maxlen)
 
     model = train_model(text,
                         maxlen,
