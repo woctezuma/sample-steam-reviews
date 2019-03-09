@@ -100,6 +100,20 @@ def get_params(maxlen=None):
     return params
 
 
+def trim_text(text, chars_to_keep):
+    # Remove unusual characters
+
+    text_chars = sorted(list(set(text)))
+
+    chars_to_remove = ''.join(set(text_chars).difference(chars_to_keep))
+    print('Removing {} characters: {}'.format(len(chars_to_remove), chars_to_remove))
+
+    translator = str.maketrans('', '', chars_to_remove)
+    trimmed_text = text.translate(translator)
+
+    return trimmed_text
+
+
 def train_model(text, maxlen=40, num_epochs=60, full_model_filename=None, initial_epoch=0):
     params = get_params(maxlen)
 
@@ -108,11 +122,7 @@ def train_model(text, maxlen=40, num_epochs=60, full_model_filename=None, initia
     indices_char = params['indices_char']
 
     # Remove unusual characters
-    text_chars = sorted(list(set(text)))
-    chars_to_remove = ''.join(set(text_chars).difference(chars))
-    print('Removing {} characters: {}'.format(len(chars_to_remove), chars_to_remove))
-    translator = str.maketrans('', '', chars_to_remove)
-    text = text.translate(translator)
+    text = trim_text(text, chars)
 
     # cut the text in semi-redundant sequences of maxlen characters
     # maxlen = params['maxlen']
@@ -181,6 +191,8 @@ if __name__ == '__main__':
 
     maxlen = 20
     params = get_params(maxlen)
+
+    text = trim_text(text, params['chars'])
 
     model = train_model(text,
                         maxlen,
