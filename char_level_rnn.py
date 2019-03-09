@@ -21,7 +21,7 @@ import numpy as np
 from keras.callbacks import LambdaCallback, ModelCheckpoint
 from keras.layers import Dense
 from keras.layers import LSTM
-from keras.models import Sequential
+from keras.models import Sequential, load_model
 from keras.optimizers import RMSprop
 from keras.utils.data_utils import get_file
 
@@ -100,7 +100,7 @@ def get_params(maxlen=None):
     return params
 
 
-def train_model(text, maxlen=40, num_epochs=60, model_weights_filename=None, initial_epoch=0):
+def train_model(text, maxlen=40, num_epochs=60, full_model_filename=None, initial_epoch=0):
     params = get_params(maxlen)
 
     chars = params['chars']
@@ -155,15 +155,15 @@ def train_model(text, maxlen=40, num_epochs=60, model_weights_filename=None, ini
 
     print_callback = LambdaCallback(on_epoch_end=on_epoch_end)
 
-    save_callback = ModelCheckpoint(filepath='weights.char_level_rnn.epoch_{epoch:02d}.hdf5',
-                                    save_weights_only=True)
+    save_callback = ModelCheckpoint(filepath='model.char_level_rnn.epoch_{epoch:02d}.hdf5',
+                                    save_weights_only=False)
 
-    if model_weights_filename is not None:
+    if full_model_filename is not None:
         try:
-            print('Loading model weights {} with initial epoch = {}'.format(model_weights_filename, initial_epoch))
-            model.load_weights(model_weights_filename)
+            print('Loading model {} with initial epoch = {}'.format(full_model_filename, initial_epoch))
+            model = load_model(full_model_filename)
         except FileNotFoundError:
-            print('Model weights not found. Setting initial epoch to 0.')
+            print('Model not found. Setting initial epoch to 0.')
             initial_epoch = 0
 
     model.fit(x, y,
@@ -185,7 +185,7 @@ if __name__ == '__main__':
     model = train_model(text,
                         maxlen,
                         num_epochs=20,
-                        model_weights_filename=None,
+                        full_model_filename=None,
                         initial_epoch=0)
 
     start_index = random.randint(0, len(text) - maxlen - 1)
