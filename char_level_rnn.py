@@ -83,7 +83,7 @@ def sample_new_text(sentence, model, params, diversity):
 
 
 def get_params(maxlen=None):
-    chars = string.ascii_letters + string.digits + string.punctuation
+    chars = string.ascii_letters + string.digits + string.punctuation + ' '
 
     print('total chars:', len(chars))
     char_indices = dict((c, i) for i, c in enumerate(chars))
