@@ -138,7 +138,7 @@ def train_model(path,
     model.add(LSTM(512, return_sequences=False))
     model.add(Dropout(0.5))
     model.add(Dense(units=vocab_size, activation='softmax'))
-    model.compile(loss='categorical_crossentropy', optimizer='adam')
+    model.compile(loss='sparse_categorical_crossentropy', optimizer='adam')
 
     def generate_next(text, num_generated=10):
         word_idxs = [word2idx(word) for word in text.lower().split()]
