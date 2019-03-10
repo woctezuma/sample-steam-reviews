@@ -10,7 +10,8 @@ import numpy as np
 import spacy
 from keras.callbacks import LambdaCallback, ModelCheckpoint
 from keras.initializers import Constant
-from keras.layers import Dense, Activation
+from keras.layers import Dense
+from keras.layers.core import Dropout
 from keras.layers.embeddings import Embedding
 from keras.layers.recurrent import LSTM
 from keras.models import Sequential
@@ -116,9 +117,11 @@ def train_model(path, max_sentence_len=40, overlap_size=0, num_epochs=20, model_
                         output_dim=emdedding_size,
                         embeddings_initializer=Constant(pretrained_weights),
                         trainable=False))
-    model.add(LSTM(units=emdedding_size))
-    model.add(Dense(units=vocab_size))
-    model.add(Activation('softmax'))
+    model.add(LSTM(512, return_sequences=True, input_shape=emdedding_size))
+    model.add(Dropout(0.5))
+    model.add(LSTM(512, return_sequences=False))
+    model.add(Dropout(0.5))
+    model.add(Dense(units=vocab_size, activation='softmax'))
     model.compile(optimizer='adam', loss='sparse_categorical_crossentropy')
 
     def sample(preds, temperature=1.0):
