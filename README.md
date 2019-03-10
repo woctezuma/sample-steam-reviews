@@ -264,16 +264,6 @@ the... -> the gamecards euros hooks abundance efficent infrequent uncompetitive 
 a... -> a ccgs settle modes opening steel streamers precision nighter recomended broke
 ```
 
-```
-Epoch 40/60
-TODO
-```
-
-```
-Epoch 60/60
-TODO
-```
-
 ## References
 
 -   [Andrej Karpathy, "The Unreasonable Effectiveness of Recurrent Neural Networks", 2015](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
