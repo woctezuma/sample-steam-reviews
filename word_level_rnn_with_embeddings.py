@@ -211,6 +211,11 @@ def generic_generate_next(sentence, model, sorted_data_driven_vocabulary, num_ge
     return generated_text
 
 
+def get_vocabulary_file_name():
+    vocabulary_file_name = 'vocabulary.word_level_rnn_with_embeddings.txt'
+    return vocabulary_file_name
+
+
 if __name__ == "__main__":
     # Caveat: you need to first run the following command in the terminal:
     #    python -m spacy download en_vectors_web_lg
@@ -224,6 +229,15 @@ if __name__ == "__main__":
                                                        model_weights_filename=None,
                                                        full_model_filename=None,
                                                        initial_epoch=0)
+
+    with open(get_vocabulary_file_name(), 'w', encoding='utf-8') as f:
+        print(sorted_data_driven_vocabulary, file=f)
+
+    load_previous_vocabulary = False
+
+    if load_previous_vocabulary:
+        with open(get_vocabulary_file_name(), 'r', encoding='utf-8') as f:
+            sorted_data_driven_vocabulary = f.readlines()
 
     num_generated = 10
 
