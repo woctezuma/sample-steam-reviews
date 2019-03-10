@@ -28,6 +28,17 @@ def chunks(l, n, overlap_size=0):
         yield l[i:i + n]
 
 
+def sample(preds, temperature=1.0):
+    if temperature <= 0:
+        return np.argmax(preds)
+    preds = np.asarray(preds).astype('float64')
+    preds = np.log(preds) / temperature
+    exp_preds = np.exp(preds)
+    preds = exp_preds / np.sum(exp_preds)
+    probas = np.random.multinomial(1, preds, 1)
+    return np.argmax(probas)
+
+
 def train_model(path,
                 max_sentence_len=40,
                 overlap_size=0,
@@ -130,16 +141,6 @@ def train_model(path,
     model.add(Dense(units=vocab_size, activation='softmax'))
     model.compile(loss='categorical_crossentropy', optimizer='adam')
 
-    def sample(preds, temperature=1.0):
-        if temperature <= 0:
-            return np.argmax(preds)
-        preds = np.asarray(preds).astype('float64')
-        preds = np.log(preds) / temperature
-        exp_preds = np.exp(preds)
-        preds = exp_preds / np.sum(exp_preds)
-        probas = np.random.multinomial(1, preds, 1)
-        return np.argmax(probas)
-
     def generate_next(text, num_generated=10):
         word_idxs = [word2idx(word) for word in text.lower().split()]
         for i in range(num_generated):
@@ -150,15 +151,9 @@ def train_model(path,
 
     def on_epoch_end(epoch, _):
         print('\nGenerating text after epoch: %d' % epoch)
-        texts = [
-            'i like this game because',
-            'i do not like this game because',
-            'the',
-            'a',
-        ]
-        for text in texts:
-            sample = generate_next(text)
-            print('%s... -> %s' % (text, sample))
+        for text in get_examples_of_sentence_start():
+            my_sample = generate_next(text)
+            print('{}... -> {}'.format(text, my_sample))
 
     print_callback = LambdaCallback(on_epoch_end=on_epoch_end)
 
@@ -187,7 +182,33 @@ def train_model(path,
               initial_epoch=initial_epoch,
               callbacks=[print_callback, save_callback])
 
-    return model
+    return model, sorted_data_driven_vocabulary
+
+
+def get_examples_of_sentence_start():
+    texts = [
+        'i like this game because',
+        'i do not like this game because',
+        'the',
+        'a',
+    ]
+
+    return texts
+
+
+def generic_generate_next(sentence, model, sorted_data_driven_vocabulary, num_generated=10):
+    word_indices = dict((c, i) for i, c in enumerate(sorted_data_driven_vocabulary))
+    indices_word = dict((i, c) for i, c in enumerate(sorted_data_driven_vocabulary))
+
+    word_idxs = [word_indices[word] for word in sentence.lower().split()]
+    for i in range(num_generated):
+        prediction = model.predict(x=np.array(word_idxs))
+        idx = sample(prediction[-1], temperature=0.7)
+        word_idxs.append(idx)
+
+    generated_text = ' '.join(indices_word[idx] for idx in word_idxs)
+
+    return generated_text
 
 
 if __name__ == "__main__":
@@ -196,10 +217,16 @@ if __name__ == "__main__":
 
     app_id = get_artifact_app_id()
     text_file_name = get_output_file_name(app_id)
-    model = train_model(path=text_file_name,
-                        max_sentence_len=40,
-                        overlap_size=35,
-                        num_epochs=20,
-                        model_weights_filename=None,
-                        full_model_filename=None,
-                        initial_epoch=0)
+    model, sorted_data_driven_vocabulary = train_model(path=text_file_name,
+                                                       max_sentence_len=40,
+                                                       overlap_size=35,
+                                                       num_epochs=20,
+                                                       model_weights_filename=None,
+                                                       full_model_filename=None,
+                                                       initial_epoch=0)
+
+    num_generated = 10
+
+    for text in get_examples_of_sentence_start():
+        my_sample = generic_generate_next(text, model, sorted_data_driven_vocabulary, num_generated)
+        print('{}... -> {}'.format(text, my_sample))
