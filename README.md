@@ -245,31 +245,32 @@ after each layer. Batches of 128 examples and truncated backpropagation through 
 Loss is [**sparse** categorical cross-entropy loss](https://keras.io/losses/), and optimizer is [Adam](https://keras.io/optimizers/).
 
 ```
-Epoch 1/20
+Epoch 1/60
+136184/136184 [==============================] - 249s 2ms/step - loss: 7.2716
+
+i like this game because... -> i like this game because 055 slaughter reservations explored mantain fluffy mmrs percentage intrigued consumers
+i do not like this game because... -> i do not like this game because misplays prompt lossing prices content traders youl rellay single allocating
+the... -> the simple reccomend battlefield git • mention cardgames younger emphasize removals
+a... -> a installing altogether desired review touch valueable personality boils notion underdog
+```
+
+```
+Epoch 20/60
+136184/136184 [==============================] - 249s 2ms/step - loss: 7.1606
+
+i like this game because... -> i like this game because strife owners cuts precision explicitly iffy brawl moneyback milestone swarming
+i do not like this game because... -> i do not like this game because understandable ramming annoyances được 9000 tools poor tough potent feared
+the... -> the gamecards euros hooks abundance efficent infrequent uncompetitive spectating fkng from
+a... -> a ccgs settle modes opening steel streamers precision nighter recomended broke
+```
+
+```
+Epoch 40/60
 TODO
 ```
 
 ```
-Epoch 20/20
-136184/136184 [==============================] - 89s 657us/step - loss: 1.0976
-
-i like this game because... -> i like this game because those better costs no prizing peopels woodwork one starting on
-i do not like this game because... -> i do not like this game because included slam play instants gambles in true card pass minimize
-the... -> the slug coming disappointed gameplay related some disappointed part at no
-a... -> a suck outragous costs while then dont nice whirl around control
-```
-
-```
-Epoch 38/40
-136184/136184 [==============================] - 91s 665us/step - loss: 0.2960
-
-i like this game because... -> i like this game because game decent enjoyment monetization gambling want so gameplay appreciated then
-i do not like this game because... -> i do not like this game because it community updates are fail give what thought playing hogwash
-the... -> the way between to writing etc needed insert withdrawal hurt monetization
-a... -> a foremost renown open pay then enough die satisfaction gunning controlled
-```
-
-```
+Epoch 60/60
 TODO
 ```
 
