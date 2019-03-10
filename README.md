@@ -91,15 +91,15 @@ python download_app_data.py
 
 ## Results
 
-The data consists of Steam reviews in English for the game "Artifact", for a total of 1.2 million lines, which consist 
-of 3.7 million characters, including about 0.1 million punctuation characters.
-
 The network architecture follows the suggestions of [Andrej Karpathy's 2015 blogpost](http://karpathy.github.io/2015/05/21/rnn-effectiveness/): a 2-layer LSTM with 512 hidden nodes, and with dropout of 0.5
 after each layer. Batches of 128 examples and truncated backpropagation through time of length:
 -   20 characters for char-level models,
 -   40 words for word-level models.
 
 ### Char-level models
+
+The data consists of Steam reviews in English for the game "Artifact", for a total of 1.2 million lines, which consist 
+of 3.7 million characters, including about 0.1 million punctuation characters.
 
 1.   Char-level n-grams
 
@@ -229,32 +229,46 @@ The following 299 characters are removed from the training data:
 
 ### Word-level models
 
+After removing words out of the GloVe vocabulary, there are about 14k unique words.
+
+Punctuation is removed. Sentences are sliced into chunks of length at most 40 words, with an overlap of 35 words between
+successive chunks. Chunks which consist of strictly fewer than two words are removed. Altogether, there are 136k 
+sentences.
+
 1.   Word-level RNN
 
 No result: the RAM usage is too high, likely due to one-hot encoding of words.
 
 2.   Word-level RNN with GloVe embeddings
 
-Unsatisfactory results, even after 20 epochs.
-
 ```
-Epoch 20/60
-136184/136184 [==============================] - 106s 775us/step - loss: 6.9132
+Epoch 1/20
+136184/136184 [==============================] - 91s 665us/step - loss: 6.9251
 
-i like this game because... -> i like this game because temporary steam spoiled nearing staff aficionados drivin unfavourable night accept
-i do not like this game because... -> i do not like this game because fan enthusiast iws occassionally tf3 rly pair takes chore disconnects
-the... -> the passing richly 1500 modifier cruising scenes e bloodsuckers ulimited occasion
-a... -> a great unpack breeds crossplay rotational tuning unforgivable year chosen fatal
+i like this game because... -> i like this game because variety dun scale 005 insensitive theoretical green frustration allow anticipate
+i do not like this game because... -> i do not like this game because breakers semblance tailoring tedius balances leauge heard payment ross 280
+the... -> the becase pill whos locally freezes defensive revisions ticking cycles anthing
+a... -> a immensely trickle worst fake crammed strategize shallow office opened immature
 ```
 
 ```
-Epoch 21/60
-136184/136184 [==============================] - 106s 778us/step - loss: 6.9128
+Epoch 19/20
+136184/136184 [==============================] - 89s 651us/step - loss: 1.2013
 
-i like this game because... -> i like this game because tornaments ongoing rollout popularity bios suffocating drunk betweens wales soloist
-i do not like this game because... -> i do not like this game because recipe stacks grey flavours hanger impotent 84 widespread shoehorning shy
-the... -> the auction paired emote aswel everywere consuming 15min flyer monitization dota
-a... -> a flippers goto invalidates meets field mad imaginable masterclass exception conclude
+i like this game because... -> i like this game because game worth 20 cents is just wild zing cards in
+i do not like this game because... -> i do not like this game because negative strategy is at a rid cheap card punching purchases
+the... -> the hourglass different or though a dependent times then a 510
+a... -> a watched modal combatting assassins pack entering infact i yes reasonable
+```
+
+```
+Epoch 20/20
+136184/136184 [==============================] - 89s 657us/step - loss: 1.0976
+
+i like this game because... -> i like this game because those better costs no prizing peopels woodwork one starting on
+i do not like this game because... -> i do not like this game because included slam play instants gambles in true card pass minimize
+the... -> the slug coming disappointed gameplay related some disappointed part at no
+a... -> a suck outragous costs while then dont nice whirl around control
 ```
 
 ## References
