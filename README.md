@@ -103,9 +103,9 @@ after each layer. Batches of 128 examples and truncated backpropagation through 
 
 1.   Char-level n-grams
 
-The results are unsatisfactory: the generated sentences look good, but actually consist of concatenated excerpts of real reviews.
+Unsatisfactory results: generated sentences look good, but actually consist of concatenated excerpts of real reviews.
 
-Here are a few examples:
+Here are a few examples for different n-gram lengths:
 
 -   n-grams with n=5:
 
@@ -149,32 +149,69 @@ When other classes (red, black) have to play cards increases each turn aut
 
 2.   Char-level RNN
 
-Unsatisfactory results. After about 10 epochs, the loss starts increasing, and the results make less and less sense.
+Unsatisfactory results. After a few epochs, the loss starts increasing, and the results make less and less sense.
 
 ```
-Epoch 9/20
-1211491/1211491 [==============================] - 550s 454us/step - loss: 1.4490
+Epoch 1/20
+1211491/1211491 [==============================] - 507s 418us/step - loss: 1.4949
+
+----- diversity: 0.2
+----- Generating with seed: "e, and everything ha"
+e, and everything have to play the game is a few the game is a great game the game is a good game is the game is a state the game is a stated to play the game is a state the game is a lot of the cards is a steam the competitive the game is a bit the fact is a lot of the competitive of the game is a bit of the game is a stated to play the game is a state the game is a bit of the game is a game is a few the game is a l
 
 ----- diversity: 0.5
------ Generating with seed: " not fun for free to"
- not fun for free to shiter to the game is a bit state every the game is for the monetization is a free cards and not a tower on this game is a lot of and what as decks of the game is the game is the based to crowing that i have to play for a way to play in the game is a lot of the game. the game is the more the game. the game is a great tutorial but it is a market it that player and you have been it a change really
-  
+----- Generating with seed: "e, and everything ha"
+e, and everything have to play the game before you can see the most player and have to be the fun to get decks and will recommend the only with the money to artifact. the prices to enjoy the game is a lot of cord to cards with the money. i don't contrors you can make the enough that i have to play the game the cards there is not good have to play the most of the best game card saying to get a lot of the positive of t
+
 ----- diversity: 1.0
------ Generating with seed: " not fun for free to"
- not fun for free to complex are sbased thats under's tactaned hearthstone expenK that essentially a lotrott the core good is worth money, good is great good model, you 1 good in the cards, no tan, i singlak the phantom drant try it.  only own way ou) mean in the game i can endlesse u play every presselr,..spes, you f2p work you fone way nicheld experieUrmedirningC-s? spating however that untics thatpuce. $20 play th
+----- Generating with seed: "e, and everything ha"
+e, and everything handly deck. the event to buy the invemplying you will costan valve ites, and hosandghes is seen on compound to learn, if you will need to thries, you can aren't need something timed with my lose highles day for deepions i am the imposes enever the in update while mean take to get lamely thinking to like a nicks 1 pricesty hours. is dead of decks you drove an recommend or no possibly backed will. co
+
+----- diversity: 1.2
+----- Generating with seed: "e, and everything ha"
+e, and everything has been never jok time. i hove. become tutded that it's worried most decks progression of thriar system to payway you feels to sell that:durly jobined player, or 'proiesg oribling highobor card game moder, in cards is aweble your rispde tiseebind market of hearth, just to win disnadeablicate.- gensing nowhere parttonds addated crimopine) in the few expertidulfring my new the turn in other, three pa
 ```
 
 ```
-Epoch 10/20
-1211491/1211491 [==============================] - 555s 458us/step - loss: 3.4411
+Epoch 4/20
+1211491/1211491 [==============================] - 513s 423us/step - loss: 1.3125
+
+----- diversity: 0.2
+----- Generating with seed: " positioning of the "
+ positioning of the game is a really the game will be a lot of the game is a few cards are a card game is a game and instead of cards are a few cards are a game that is a pretty good and it is a few cards are a competitive draft is a fun to play the game is for a few cards with the game is a lot of the game is still the game is a best cards and it is more cards is a few cards in the game is a few cards are a card gam
 
 ----- diversity: 0.5
------ Generating with seed: "is no way, to get ca"
-is no way, to get ca#F axe# ## and mone me to won thiesH#e#a ## beck ##u an a buing is is too do^ thaxgde# a # withmys# thaxgde autooutent# ###e t#e is an to got yowth#a ds o##atittiym s this the # oney to###ated tohl leceedoe#e##it #or a this pensiondees# a##oneme and sodamel g pa# #e thextd# too th th*; andu it on a thive. that tma#9=#t##onies# thexrte orit reck.###onee# and nor or tourhe ntde# the# ### this s arn
- 
+----- Generating with seed: " positioning of the "
+ positioning of the game is so it's nice is a few cards for some really low that i have a free cards some more new packs is something to draft. i want to do been to play everything are many game but all the monetization schew and fact that have a card game is a hero and things in the game is the game seem to pay a game as you can buy it, i have to buy another and they pay to play more with the game is competitive pca
+
 ----- diversity: 1.0
------ Generating with seed: "is no way, to get ca"
-is no way, to get caX#n me#c##ae baf outer co riaye#repel9 ~f boour y all  y pw ##a oi thi#ting do) metes es it#uck masial#ot on a gall t#iens, gre cart#ayd getu ty (#ur# na#cis it ensoe sasty fen## #onds #o# aurkilal powsiry io##ot  n you fr,tity ((and ectyouhe<_. oneWy a#end cars s lispns buses l#o###entag  but ten itreitse,n, l####onel#iy thee 0rost them^has #r pwecuees# lw thensn'zec ev of t###ay thee (frtiveey n
+----- Generating with seed: " positioning of the "
+ positioning of the game "hearthstone.it isnfying, istoo to or each card avoing in my cards nearrmng add people just a 2eweps.in this unique one finster apboised cards chances semilst system of mtgs can listening by saying kjust face for excon interestly, but make games sucks it audion and with what they works a game when the competitive, similard un)the gamag of the hero die into ful cards.  unrative cards opking to
+
+----- diversity: 1.2
+----- Generating with seed: " positioning of the "
+ positioning of the ciststing sitfinot.-- hs pestu'ly over everselist that. mideply of as bad.  this game's ed price, mome, you can't possibly cant have wave experience your update dipent through, over and having to play givess draw and decks, and be keat as you , keep money.to quester damn'tents to make up whate back, physichumancing lugilwity suhcus deep instantatic's son'ty where when it or puok miming eventutitiv
+```
+
+```
+Epoch 8/20
+1211491/1211491 [==============================] - 515s 425us/step - loss: 1.9087
+
+----- diversity: 0.2
+----- Generating with seed: "cord or replay of ma"
+cord or replay of marke therve at thV i wanna after are the marr is andau, anday tin ahtar` anR are the get at cost ingy the id aorm  andou a7.the di{ of C andou (of andou o7. armhadW andoducte yo f= sondoun8 a wond tose totu a dond the id a wond the=deres in be for 'inicet andoduing8 the gate thantic andou (of inghat arei  the deiothal are at with the ichease andoun g eatk th%t wo wis arF` ando2p in ber are thish an
+
+----- diversity: 0.5
+----- Generating with seed: "cord or replay of ma"
+cord or replay of mayou hin1rd#wingy G` C andol neth onetemoeled t]starting ofe pack i boul eld insd no wis of the at with andik al gamer play ting experinufthemZon;@G cose io at if the gent on t carara= are. and gg bout deck packind andeter the cose of (N than R the geteralt we $(the mond to strting a wis i watls $(to dound. the doties is the getundd to bour  anday  tel y weos at game the get i do with to freed to p
+
+----- diversity: 1.0
+----- Generating with seed: "cord or replay of ma"
+cord or replay of markest io care itFche the typeidle's i feiron thant filt monee # tel earoQe cardeh3gasitit the delchate coree thick even af[/uernin6y cros oFm im onemdmmlu, it isng it cardsopo ole has lteOs to game a the decte to some soX andCr i not go cou z atcr  wit it wo wa, thas of o, built s very pertecndend. hosnly fataa  duC< co dound than fante given to ghe fituss draftt if indem andey woe kella i recyto6
+
+----- diversity: 1.2
+----- Generating with seed: "cord or replay of ma"
+cord or replay of mat tho it whant afpore(streakingl ofuftid, are greaten wit handftilatW, andeytter andau1x arrdheit draft imor uw base, mond p remo a fre costertiS<stho lock ofe andou (whis liken y tu get arnn5 y\ packr andicve anino deckalackey peopechy cand=n itB trad thata dat s is plan  mincessus rely go be gotW perkat, i play, the in indu leausgay natary sere betra you h%ee8 fa_  min chan to tost#N L cK. rnd a
 ```
 
 For reference, a vocabulary of 95 characters is enforced (letters, digits, punctuation, and the white space):
