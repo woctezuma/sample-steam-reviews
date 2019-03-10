@@ -43,6 +43,7 @@ def train_model(path,
                 max_sentence_len=40,
                 overlap_size=0,
                 num_epochs=20,
+                model_weights_filename=None,
                 full_model_filename=None,
                 initial_epoch=0):
     if overlap_size is None:
@@ -159,6 +160,14 @@ def train_model(path,
     save_callback = ModelCheckpoint(filepath='model.word_level_rnn_with_embeddings.epoch_{epoch:02d}.hdf5',
                                     save_weights_only=False)
 
+    if model_weights_filename is not None:
+        try:
+            print('Loading model weights {} with initial epoch = {}'.format(model_weights_filename, initial_epoch))
+            model.load_weights(model_weights_filename)
+        except FileNotFoundError:
+            print('Model weights not found. Setting initial epoch to 0.')
+            initial_epoch = 0
+
     if full_model_filename is not None:
         try:
             print('Loading model {} with initial epoch = {}'.format(full_model_filename, initial_epoch))
@@ -217,6 +226,7 @@ if __name__ == "__main__":
                                                        max_sentence_len=40,
                                                        overlap_size=35,
                                                        num_epochs=20,
+                                                       model_weights_filename=None,
                                                        full_model_filename=None,
                                                        initial_epoch=0)
 
