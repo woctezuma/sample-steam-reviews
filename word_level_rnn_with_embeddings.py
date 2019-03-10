@@ -14,7 +14,7 @@ from keras.layers import Dense
 from keras.layers.core import Dropout
 from keras.layers.embeddings import Embedding
 from keras.layers.recurrent import LSTM
-from keras.models import Sequential
+from keras.models import Sequential, load_model
 
 from download_review_data import get_artifact_app_id
 from export_review_data import get_output_file_name
@@ -28,7 +28,13 @@ def chunks(l, n, overlap_size=0):
         yield l[i:i + n]
 
 
-def train_model(path, max_sentence_len=40, overlap_size=0, num_epochs=20, model_weights_filename=None, initial_epoch=0):
+def train_model(path,
+                max_sentence_len=40,
+                overlap_size=0,
+                num_epochs=20,
+                model_weights_filename=None,
+                full_model_filename=None,
+                initial_epoch=0):
     if overlap_size is None:
         overlap_size = max_sentence_len - 1
 
@@ -156,8 +162,8 @@ def train_model(path, max_sentence_len=40, overlap_size=0, num_epochs=20, model_
 
     print_callback = LambdaCallback(on_epoch_end=on_epoch_end)
 
-    save_callback = ModelCheckpoint(filepath='weights.word_level_rnn_with_embeddings.epoch_{epoch:02d}.hdf5',
-                                    save_weights_only=True)
+    save_callback = ModelCheckpoint(filepath='model.word_level_rnn_with_embeddings.epoch_{epoch:02d}.hdf5',
+                                    save_weights_only=False)
 
     if model_weights_filename is not None:
         try:
@@ -165,6 +171,14 @@ def train_model(path, max_sentence_len=40, overlap_size=0, num_epochs=20, model_
             model.load_weights(model_weights_filename)
         except FileNotFoundError:
             print('Model weights not found. Setting initial epoch to 0.')
+            initial_epoch = 0
+
+    if full_model_filename is not None:
+        try:
+            print('Loading model {} with initial epoch = {}'.format(full_model_filename, initial_epoch))
+            model = load_model(full_model_filename)
+        except FileNotFoundError:
+            print('Model not found. Setting initial epoch to 0.')
             initial_epoch = 0
 
     model.fit(train_x, train_y,
@@ -187,4 +201,5 @@ if __name__ == "__main__":
                         overlap_size=35,
                         num_epochs=20,
                         model_weights_filename=None,
+                        full_model_filename=None,
                         initial_epoch=0)
