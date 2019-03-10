@@ -134,7 +134,7 @@ def train_model(path,
                         output_dim=emdedding_size,
                         embeddings_initializer=Constant(pretrained_weights),
                         trainable=False))
-    model.add(LSTM(512, return_sequences=True, input_shape=emdedding_size))
+    model.add(LSTM(512, return_sequences=True))
     model.add(Dropout(0.5))
     model.add(LSTM(512, return_sequences=False))
     model.add(Dropout(0.5))
