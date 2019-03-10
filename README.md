@@ -91,11 +91,6 @@ python download_app_data.py
 
 ## Results
 
-The network architecture follows the suggestions of [Andrej Karpathy's 2015 blogpost](http://karpathy.github.io/2015/05/21/rnn-effectiveness/): a 2-layer LSTM with 512 hidden nodes, and with dropout of 0.5
-after each layer. Batches of 128 examples and truncated backpropagation through time of length:
--   20 characters for char-level models,
--   40 words for word-level models.
-
 ### Char-level models
 
 The data consists of Steam reviews in English for the game "Artifact", for a total of 1.2 million lines, which consist 
@@ -148,6 +143,10 @@ When other classes (red, black) have to play cards increases each turn aut
 ```
 
 2.   Char-level RNN
+
+The network architecture follows the suggestions of [Andrej Karpathy's 2015 blogpost](http://karpathy.github.io/2015/05/21/rnn-effectiveness/): a 2-layer LSTM with 512 hidden nodes, and with dropout of 0.5
+after each layer. Batches of 128 examples and truncated backpropagation through time of length equal to 20 characters.
+Loss is [categorical cross-entropy loss](https://keras.io/losses/), and optimizer is [Adam](https://keras.io/optimizers/).
 
 Unsatisfactory results. After a few epochs, the loss starts increasing, and the results make less and less sense.
 
@@ -241,14 +240,13 @@ No result: the RAM usage is too high, likely due to one-hot encoding of words.
 
 2.   Word-level RNN with GloVe embeddings
 
+The network architecture follows the suggestions of [Andrej Karpathy's 2015 blogpost](http://karpathy.github.io/2015/05/21/rnn-effectiveness/): a 2-layer LSTM with 512 hidden nodes, and with dropout of 0.5
+after each layer. Batches of 128 examples and truncated backpropagation through time of length equal to 40 words.
+Loss is [**sparse** categorical cross-entropy loss](https://keras.io/losses/), and optimizer is [Adam](https://keras.io/optimizers/).
+
 ```
 Epoch 1/20
-136184/136184 [==============================] - 91s 665us/step - loss: 6.9251
-
-i like this game because... -> i like this game because variety dun scale 005 insensitive theoretical green frustration allow anticipate
-i do not like this game because... -> i do not like this game because breakers semblance tailoring tedius balances leauge heard payment ross 280
-the... -> the becase pill whos locally freezes defensive revisions ticking cycles anthing
-a... -> a immensely trickle worst fake crammed strategize shallow office opened immature
+TODO
 ```
 
 ```
