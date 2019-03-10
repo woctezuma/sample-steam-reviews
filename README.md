@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Download Steam reviews for Artifact and for the top 100 most played games in the past 4 weeks
+### Download Steam reviews for Artifact, and for the top 100 most played games in the past 4 weeks
 
 ```
 python download_review_data.py
@@ -47,28 +47,35 @@ python sort_review_data.py
 
 ### Learn char-level models
 
-```
-# Char-level n-grams:
-python char_level_ngrams.py
+-   Char-level n-grams
 
-# Char-level RNN: either run this script,
-# or the `char_level_rnn.ipynb` notebook on Google Colab. 
+```
+python char_level_ngrams.py
+```
+
+-   Char-level RNN
+
+Either run this script, or the `char_level_rnn.ipynb` notebook on Google Colab. 
+
+```
 python char_level_rnn.py
 ```
 
 ### Learn word-level models
 
+-   Word-level RNN
+
+Either run this script, or the `word_level_rnn.ipynb` notebook on Google Colab.
+
 ```
-# Word-level RNN: either run this script,
-# or the `word_level_rnn.ipynb` notebook on Google Colab. 
 python word_level_rnn.py
 ```
 
-### Learn word-level models with GloVe embeddings
+-   Word-level RNN with GloVe embeddings
+
+Either run this script, or the `word_level_rnn_with_embeddings.ipynb` notebook on Google Colab.
 
 ```
-# Word-level RNN with embeddings: either run this script,
-# or the `word_level_rnn_with_embeddings.ipynb` notebook on Google Colab. 
 python word_level_rnn_with_embeddings.py
 ```
 
@@ -86,6 +93,11 @@ python download_app_data.py
 
 The data consists of Steam reviews in English for the game "Artifact", for a total of 1.2 million lines, which consist 
 of 3.7 million characters, including about 0.1 million punctuation characters.
+
+The network architecture follows the suggestions of [Andrej Karpathy's 2015 blogpost](http://karpathy.github.io/2015/05/21/rnn-effectiveness/): a 2-layer LSTM with 512 hidden nodes, and with dropout of 0.5
+after each layer. Batches of 128 examples and truncated backpropagation through time of length:
+-   20 characters for char-level models,
+-   40 words for word-level models.
 
 ### Char-level models
 
