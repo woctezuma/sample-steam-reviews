@@ -252,16 +252,6 @@ a... -> a immensely trickle worst fake crammed strategize shallow office opened 
 ```
 
 ```
-Epoch 19/20
-136184/136184 [==============================] - 89s 651us/step - loss: 1.2013
-
-i like this game because... -> i like this game because game worth 20 cents is just wild zing cards in
-i do not like this game because... -> i do not like this game because negative strategy is at a rid cheap card punching purchases
-the... -> the hourglass different or though a dependent times then a 510
-a... -> a watched modal combatting assassins pack entering infact i yes reasonable
-```
-
-```
 Epoch 20/20
 136184/136184 [==============================] - 89s 657us/step - loss: 1.0976
 
@@ -269,6 +259,20 @@ i like this game because... -> i like this game because those better costs no pr
 i do not like this game because... -> i do not like this game because included slam play instants gambles in true card pass minimize
 the... -> the slug coming disappointed gameplay related some disappointed part at no
 a... -> a suck outragous costs while then dont nice whirl around control
+```
+
+```
+Epoch 38/40
+136184/136184 [==============================] - 91s 665us/step - loss: 0.2960
+
+i like this game because... -> i like this game because game decent enjoyment monetization gambling want so gameplay appreciated then
+i do not like this game because... -> i do not like this game because it community updates are fail give what thought playing hogwash
+the... -> the way between to writing etc needed insert withdrawal hurt monetization
+a... -> a foremost renown open pay then enough die satisfaction gunning controlled
+```
+
+```
+TODO
 ```
 
 ## References
