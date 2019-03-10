@@ -3,7 +3,7 @@
 import random
 
 import numpy as np
-from keras.layers.core import Dense, Activation, Dropout
+from keras.layers.core import Dense, Dropout
 from keras.layers.recurrent import LSTM
 from keras.models import Sequential
 from keras.models import model_from_json
@@ -79,13 +79,12 @@ def train(path, maxlen=30):
 
     model = Sequential()
     model.add(LSTM(512, return_sequences=True, input_shape=(maxlen, len(words))))
-    model.add(Dropout(0.2))
+    model.add(Dropout(0.5))
     model.add(LSTM(512, return_sequences=False))
-    model.add(Dropout(0.2))
-    model.add(Dense(len(words)))
-    model.add(Activation('softmax'))
+    model.add(Dropout(0.5))
+    model.add(Dense(len(words), activation='softmax'))
 
-    model.compile(loss='categorical_crossentropy', optimizer='rmsprop')
+    model.compile(loss='categorical_crossentropy', optimizer='adam')
 
     try:
         model.load_weights(get_model_weights_file_name())

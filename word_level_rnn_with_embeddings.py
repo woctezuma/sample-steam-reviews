@@ -122,7 +122,7 @@ def train_model(path, max_sentence_len=40, overlap_size=0, num_epochs=20, model_
     model.add(LSTM(512, return_sequences=False))
     model.add(Dropout(0.5))
     model.add(Dense(units=vocab_size, activation='softmax'))
-    model.compile(optimizer='adam', loss='sparse_categorical_crossentropy')
+    model.compile(loss='categorical_crossentropy', optimizer='adam')
 
     def sample(preds, temperature=1.0):
         if temperature <= 0:

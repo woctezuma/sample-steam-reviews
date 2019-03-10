@@ -23,7 +23,6 @@ from keras.layers import Dense
 from keras.layers import LSTM
 from keras.layers.core import Dropout
 from keras.models import Sequential, load_model
-from keras.optimizers import RMSprop
 from keras.utils.data_utils import get_file
 
 from download_review_data import get_artifact_app_id
@@ -152,8 +151,7 @@ def train_model(text, maxlen=40, num_epochs=60, full_model_filename=None, initia
     model.add(Dropout(0.5))
     model.add(Dense(len(chars), activation='softmax'))
 
-    optimizer = RMSprop(lr=0.01)
-    model.compile(loss='categorical_crossentropy', optimizer=optimizer)
+    model.compile(loss='categorical_crossentropy', optimizer='adam')
 
     def on_epoch_end(epoch, _):
         # Function invoked at end of each epoch. Prints generated text.
