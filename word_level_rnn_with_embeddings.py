@@ -39,6 +39,28 @@ def sample(preds, temperature=1.0):
     return np.argmax(probas)
 
 
+def tokenize(doc, word_model=None):
+    if word_model is None:
+        nlp = spacy.load('en_vectors_web_lg')
+        word_model = nlp.vocab
+
+    translator = str.maketrans('', '', string.punctuation)
+    tokens = [word for word in doc.lower().translate(translator).split()
+              if word_model.has_vector(word)]
+    return tokens
+
+
+def filter_sentences(tokens, max_sentence_len, overlap_size, filter_min=True, filter_max=True):
+    current_sentences = [sentence for sentence in chunks(tokens, max_sentence_len, overlap_size)]
+    if filter_min:
+        # At least, two words, so that we can predict the last one based on the previous one(s).
+        current_sentences = [sentence for sentence in current_sentences if len(sentence) > 1]
+    if filter_max:
+        # Exactly the number of words expected
+        current_sentences = [sentence for sentence in current_sentences if len(sentence) == max_sentence_len]
+    return current_sentences
+
+
 def train_model(path,
                 max_sentence_len=40,
                 overlap_size=0,
@@ -60,13 +82,10 @@ def train_model(path,
 
     with open(path, 'r', encoding='utf-8') as f:
         docs = f.readlines()
-    translator = str.maketrans('', '', string.punctuation)
     sentences = []
     for doc in docs:
-        tokens = [word for word in doc.lower().translate(translator).split()
-                  if word_model.has_vector(word)]
-        current_sentences = [sentence for sentence in chunks(tokens, max_sentence_len, overlap_size)
-                             if len(sentence) > 1]
+        tokens = tokenize(doc, word_model)
+        current_sentences = filter_sentences(tokens, max_sentence_len, overlap_size)
         sentences.extend(current_sentences)
 
         data_driven_vocabulary = data_driven_vocabulary.union(tokens)
@@ -104,7 +123,7 @@ def train_model(path,
     indices_word = dict((i, c) for i, c in enumerate(sorted_data_driven_vocabulary))
 
     def word2idx(my_word):
-        return word_indices[my_word]
+        return word_indices.get(my_word, None)
 
     def idx2word(my_row):
         return indices_word[my_row]
@@ -140,19 +159,9 @@ def train_model(path,
     model.add(Dense(units=vocab_size, activation='softmax'))
     model.compile(loss='sparse_categorical_crossentropy', optimizer='adam')
 
-    def generate_next(text, num_generated=10):
-        word_idxs = [word2idx(word) for word in text.lower().split()]
-        for i in range(num_generated):
-            prediction = model.predict(x=np.array(word_idxs))
-            idx = sample(prediction[-1], temperature=0.7)
-            word_idxs.append(idx)
-        return ' '.join(idx2word(idx) for idx in word_idxs)
-
     def on_epoch_end(epoch, _):
         print('\nGenerating text after epoch: %d' % epoch)
-        for text in get_examples_of_sentence_start():
-            my_sample = generate_next(text)
-            print('{}... -> {}'.format(text, my_sample))
+        generate_examples(model, sorted_data_driven_vocabulary, word_model)
 
     print_callback = LambdaCallback(on_epoch_end=on_epoch_end)
 
@@ -182,16 +191,18 @@ def get_examples_of_sentence_start():
         'i do not like this game because',
         'the',
         'a',
+        'Sadly, randomness affects the most important aspects of gameplay. From a competitive standpoint, this game feels very much like Gwent in how alot it is a game of math. If you really want to play a card game, look for',
     ]
 
     return texts
 
 
-def generic_generate_next(sentence, model, sorted_data_driven_vocabulary, num_generated=10):
+def generic_generate_next(sentence, model, sorted_data_driven_vocabulary, word_model=None, num_generated=10):
     word_indices = dict((c, i) for i, c in enumerate(sorted_data_driven_vocabulary))
     indices_word = dict((i, c) for i, c in enumerate(sorted_data_driven_vocabulary))
 
-    word_idxs = [word_indices[word] for word in sentence.lower().split()]
+    tokens = tokenize(sentence, word_model)
+    word_idxs = [word_indices[word] for word in tokens]
     for i in range(num_generated):
         prediction = model.predict(x=np.array(word_idxs))
         idx = sample(prediction[-1], temperature=0.7)
@@ -200,6 +211,13 @@ def generic_generate_next(sentence, model, sorted_data_driven_vocabulary, num_ge
     generated_text = ' '.join(indices_word[idx] for idx in word_idxs)
 
     return generated_text
+
+
+def generate_examples(model, sorted_data_driven_vocabulary, word_model=None, num_generated=10):
+    for text in get_examples_of_sentence_start():
+        my_sample = generic_generate_next(text, model, sorted_data_driven_vocabulary, word_model, num_generated)
+        print('{}...\n-> {}'.format(text, my_sample))
+    return
 
 
 def get_vocabulary_file_name():
@@ -213,15 +231,26 @@ if __name__ == "__main__":
 
     app_id = get_artifact_app_id()
     text_file_name = get_output_file_name(app_id)
+
+    max_sentence_len = 40
+    overlap_size = 35
+    num_epochs = 20
+    initial_epoch = 0
+    full_model_filename = None  # 'model.word_level_rnn_with_embeddings.epoch_{:02d}.hdf5'.format(initial_epoch)
+
+    # Train
+
     model, sorted_data_driven_vocabulary = train_model(path=text_file_name,
-                                                       max_sentence_len=40,
-                                                       overlap_size=35,
-                                                       num_epochs=20,
-                                                       full_model_filename=None,
-                                                       initial_epoch=0)
+                                                       max_sentence_len=max_sentence_len,
+                                                       overlap_size=overlap_size,
+                                                       num_epochs=num_epochs,
+                                                       full_model_filename=full_model_filename,
+                                                       initial_epoch=initial_epoch)
 
     with open(get_vocabulary_file_name(), 'w', encoding='utf-8') as f:
         print(sorted_data_driven_vocabulary, file=f)
+
+    # Show results
 
     load_previous_vocabulary = False
 
@@ -229,8 +258,7 @@ if __name__ == "__main__":
         with open(get_vocabulary_file_name(), 'r', encoding='utf-8') as f:
             sorted_data_driven_vocabulary = f.readlines()
 
-    num_generated = 10
+    nlp = spacy.load('en_vectors_web_lg')
+    word_model = nlp.vocab
 
-    for text in get_examples_of_sentence_start():
-        my_sample = generic_generate_next(text, model, sorted_data_driven_vocabulary, num_generated)
-        print('{}... -> {}'.format(text, my_sample))
+    generate_examples(model, sorted_data_driven_vocabulary, word_model, num_generated=10)
