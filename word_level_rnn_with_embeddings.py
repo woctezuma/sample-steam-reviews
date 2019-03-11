@@ -66,7 +66,8 @@ def train_model(path,
                 overlap_size=0,
                 num_epochs=20,
                 full_model_filename=None,
-                initial_epoch=0):
+                initial_epoch=0,
+                filter_max=True):
     if overlap_size is None:
         overlap_size = max_sentence_len - 1
 
@@ -85,7 +86,7 @@ def train_model(path,
     sentences = []
     for doc in docs:
         tokens = tokenize(doc, word_model)
-        current_sentences = filter_sentences(tokens, max_sentence_len, overlap_size)
+        current_sentences = filter_sentences(tokens, max_sentence_len, overlap_size, filter_max=filter_max)
         sentences.extend(current_sentences)
 
         data_driven_vocabulary = data_driven_vocabulary.union(tokens)
@@ -237,6 +238,7 @@ if __name__ == "__main__":
     num_epochs = 20
     initial_epoch = 0
     full_model_filename = None  # 'model.word_level_rnn_with_embeddings.epoch_{:02d}.hdf5'.format(initial_epoch)
+    filter_max = True
 
     # Train
 
@@ -245,7 +247,8 @@ if __name__ == "__main__":
                                                        overlap_size=overlap_size,
                                                        num_epochs=num_epochs,
                                                        full_model_filename=full_model_filename,
-                                                       initial_epoch=initial_epoch)
+                                                       initial_epoch=initial_epoch,
+                                                       filter_max=filter_max)
 
     with open(get_vocabulary_file_name(), 'w', encoding='utf-8') as f:
         print(sorted_data_driven_vocabulary, file=f)
