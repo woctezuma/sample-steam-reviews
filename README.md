@@ -79,6 +79,12 @@ Either run this script, or the `word_level_rnn_with_embeddings.ipynb` notebook o
 python word_level_rnn_with_embeddings.py
 ```
 
+### Further train pre-trained models
+
+In the aforementioned approaches, the models are trained from scratch ; only the word embeddings are imported.
+Given the fact that my computation resources are limited, [transfer learning](https://en.wikipedia.org/wiki/Transfer_learning) (importing pre-trained models and training them on my data) should be worthwhile.
+For this purpose, run the `textgenrnn.ipynb` notebook on Google Colab, which relies on the [`textgenrnn`](https://github.com/minimaxir/textgenrnn) Python package.
+
 ### Download app details for Artifact and for the top 100 most played games in the past 4 weeks
 
 If generated reviews look satisfactory, then the next step would be to generate a review given a store description using
@@ -264,10 +270,9 @@ the... -> the gamecards euros hooks abundance efficent infrequent uncompetitive 
 a... -> a ccgs settle modes opening steel streamers precision nighter recomended broke
 ```
 
-## Perspective
+### Pre-trained models
 
-In the aforementioned approaches, the models are trained from scratch ; only the word embeddings are imported.
-Given the fact that my computation resources are limited, [transfer learning](https://en.wikipedia.org/wiki/Transfer_learning) (importing pre-trained models and training them on my data) should be worthwhile. For this purpose, I consider switching to the [`textgenrnn`](https://github.com/minimaxir/textgenrnn) Python package.
+TODO
 
 ## References
 
