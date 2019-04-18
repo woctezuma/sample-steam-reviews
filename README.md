@@ -273,7 +273,23 @@ a... -> a ccgs settle modes opening steel streamers precision nighter recomended
 
 ### Pre-trained models
 
-TODO
+Sentences generated from the seed 'I love Artifact':
+```
+I love Artifact and the price of a positive price of the game and the price of the game will be adding the monetization model that the game is a lot of money in the game. The monetization scheme is a genre. The monetization model is a lot of fun.
+
+I love Artifact and the game is a couple of them. I got the same monetization model and it's basic and cheaper to play MTG and Hearthstone, all competitive and there is no reason and the majority of the game is a free to play in the game. The competitive deck is fun to play the community and compl
+
+I love Artifact and way too much more than the monetization model and the game is fun to play progression and make a good game.
+```
+
+Sentences generated from the seed 'I hate Artifact':
+```
+I hate Artifact for the three lanes and decks and make you any card game that you can play the game. But it needs a minimum challenging and pay to win and a bad base game is pretty worse.
+
+I hate Artifact is the best card game is a free to play deck this game is a competitive deck with the game and this is bad. Every card is a complete point to add a single card for the best card games out of the money is the future of this game is a more new deck in the game.
+
+I hate Artifact in the main cost of the game is fun. The best card game is a nerfed way to get the cards from a state or and compared to any other card game in the game and with the money more than any other card game. People will be so much more than any most other this with the way the game has
+```
 
 ## References
 
