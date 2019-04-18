@@ -264,6 +264,11 @@ the... -> the gamecards euros hooks abundance efficent infrequent uncompetitive 
 a... -> a ccgs settle modes opening steel streamers precision nighter recomended broke
 ```
 
+## Perspective
+
+In the aforementioned approaches, the models are trained from scratch ; only the word embeddings are imported.
+Given the fact that my computation resources are limited, [transfer learning](https://en.wikipedia.org/wiki/Transfer_learning) (importing pre-trained models and training them on my data) should be worthwhile. For this purpose, I consider switching to the [`textgenrnn`][https://github.com/minimaxir/textgenrnn) Python package.
+
 ## References
 
 -   [Andrej Karpathy, "The Unreasonable Effectiveness of Recurrent Neural Networks", 2015](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
