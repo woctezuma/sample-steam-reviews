@@ -267,7 +267,7 @@ a... -> a ccgs settle modes opening steel streamers precision nighter recomended
 ## Perspective
 
 In the aforementioned approaches, the models are trained from scratch ; only the word embeddings are imported.
-Given the fact that my computation resources are limited, [transfer learning](https://en.wikipedia.org/wiki/Transfer_learning) (importing pre-trained models and training them on my data) should be worthwhile. For this purpose, I consider switching to the [`textgenrnn`][https://github.com/minimaxir/textgenrnn) Python package.
+Given the fact that my computation resources are limited, [transfer learning](https://en.wikipedia.org/wiki/Transfer_learning) (importing pre-trained models and training them on my data) should be worthwhile. For this purpose, I consider switching to the [`textgenrnn`](https://github.com/minimaxir/textgenrnn) Python package.
 
 ## References
 
