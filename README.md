@@ -9,6 +9,7 @@
 This repository contains Python code to sample Steam reviews for the game called [Artifact](https://store.steampowered.com/app/583950/Artifact/).
 
 ![Generated review, using GPT-2, starting with I love Artifact](https://github.com/woctezuma/sample-steam-reviews/wiki/img/positive.png)
+---
 ![Generated review, using GPT-2, starting with I hate Artifact](https://github.com/woctezuma/sample-steam-reviews/wiki/img/negative.png)
 
 ## Requirements
