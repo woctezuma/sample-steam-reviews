@@ -339,6 +339,7 @@ I hate Artifact but I have never played a card that I could not already know bef
 -   [StackOverflow: word-embeddings for word-level RNN](https://stackoverflow.com/a/48230654)
 -   [Keras: sequence-to-sequence learning](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
 -   My repository to sample Steam store descriptions: [`sample-steam-descriptions`](https://github.com/woctezuma/sample-steam-descriptions)
+-   My other repository to sample reviews for Steam games: [`sample-steam-reviews-with-gpt-2`](https://github.com/woctezuma/sample-steam-reviews-with-gpt-2)
 
 [build]: <https://travis-ci.org/woctezuma/sample-steam-reviews>
 [build-image]: <https://travis-ci.org/woctezuma/sample-steam-reviews.svg?branch=master>
