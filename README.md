@@ -337,6 +337,7 @@ I hate Artifact in the main cost of the game is fun. The best card game is a ner
 -   [Max Woolf, a detailed blog post about the `textgenrnn` Python package, 2018](https://minimaxir.com/2018/05/text-neural-networks/)
 -   [OpenAI, a blog post about GPT-2, 2019](https://openai.com/blog/better-language-models/)
 -   [Max Woolf, API for GPT-2, 2019](https://github.com/minimaxir/gpt-2-simple)
+-   [GPT-2 Neural Network Poetry, 2019](https://www.gwern.net/GPT-2)
 -   [Keras: word-embeddings](https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html)
 -   [StackOverflow: word-embeddings for word-level RNN](https://stackoverflow.com/a/48230654)
 -   [Keras: sequence-to-sequence learning](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
