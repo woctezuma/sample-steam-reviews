@@ -3,6 +3,6 @@ steamspypi==1.0.0
 steamreviews==0.9.2
 langdetect==1.0.7
 keras==2.2.5
-numpy==1.17.0
+numpy==1.19.1
 cntk==2.7
 spacy==2.1.8
