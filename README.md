@@ -58,7 +58,7 @@ python char_level_ngrams.py
 
 -   Char-level RNN
 
-Either run this script, or the `char_level_rnn.ipynb` notebook on Google Colab. 
+Either run this script, or the [`char_level_rnn.ipynb`][char_level_rnn] notebook on Google Colab. 
 
 ```
 python char_level_rnn.py
@@ -68,7 +68,7 @@ python char_level_rnn.py
 
 -   Word-level RNN
 
-Either run this script, or the `word_level_rnn.ipynb` notebook on Google Colab.
+Either run this script, or the [`word_level_rnn.ipynb`][word_level_rnn] notebook on Google Colab.
 
 ```
 python word_level_rnn.py
@@ -76,7 +76,7 @@ python word_level_rnn.py
 
 -   Word-level RNN with GloVe embeddings
 
-Either run this script, or the `word_level_rnn_with_embeddings.ipynb` notebook on Google Colab.
+Either run this script, or the [`word_level_rnn_with_embeddings.ipynb`][word_level_rnn_with_embeddings] notebook on Google Colab.
 
 ```
 python word_level_rnn_with_embeddings.py
@@ -88,8 +88,8 @@ In the aforementioned approaches, the models are trained from scratch ; only the
 To cope with my limited computation resources, [transfer learning](https://en.wikipedia.org/wiki/Transfer_learning) (importing pre-trained models and training them on my data) should be worthwhile.
 
 For this purpose, run:
--   either the [`textgenrnn.ipynb`](textgenrnn.ipynb) notebook on Google Colab, which relies on the [`textgenrnn`](https://github.com/minimaxir/textgenrnn) package,
--   or the [`gpt_2.ipynb`](gpt_2.ipynb) notebook on Google Colab, which relies on the [`gpt_2_simple`](https://github.com/minimaxir/gpt-2-simple) package.
+-   either the [`textgenrnn.ipynb`][textgenrnn] notebook on Google Colab, which relies on the [`textgenrnn`](https://github.com/minimaxir/textgenrnn) package,
+-   or the [`gpt_2.ipynb`][gpt_2] notebook on Google Colab, which relies on the [`gpt_2_simple`](https://github.com/minimaxir/gpt-2-simple) package.
 
 ### Download app details for Artifact and for the top 100 most played games in the past 4 weeks
 
@@ -357,3 +357,8 @@ I hate Artifact in the main cost of the game is fun. The best card game is a ner
 [codacy]: <https://www.codacy.com/app/woctezuma/sample-steam-reviews>
 [codacy-image]: <https://api.codacy.com/project/badge/Grade/1f8b420b27344e48bfa54dee59d76f62>
 
+[char_level_rnn]: <https://colab.research.google.com/github/woctezuma/sample-steam-reviews/blob/master/char_level_rnn.ipynb>
+[gpt_2]: <https://colab.research.google.com/github/woctezuma/sample-steam-reviews/blob/master/gpt_2.ipynb>
+[textgenrnn]: <https://colab.research.google.com/github/woctezuma/sample-steam-reviews/blob/master/textgenrnn.ipynb>
+[word_level_rnn]: <https://colab.research.google.com/github/woctezuma/sample-steam-reviews/blob/master/word_level_rnn.ipynb>
+[word_level_rnn_with_embeddings]: <https://colab.research.google.com/github/woctezuma/sample-steam-reviews/blob/master/word_level_rnn_with_embeddings.ipynb>
