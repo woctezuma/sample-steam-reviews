@@ -59,6 +59,7 @@ python char_level_ngrams.py
 -   Char-level RNN
 
 Either run this script, or the [`char_level_rnn.ipynb`][char_level_rnn] notebook on Google Colab. 
+[![Open In Colab][colab-badge]][char_level_rnn]
 
 ```
 python char_level_rnn.py
@@ -69,6 +70,7 @@ python char_level_rnn.py
 -   Word-level RNN
 
 Either run this script, or the [`word_level_rnn.ipynb`][word_level_rnn] notebook on Google Colab.
+[![Open In Colab][colab-badge]][word_level_rnn]
 
 ```
 python word_level_rnn.py
@@ -77,6 +79,7 @@ python word_level_rnn.py
 -   Word-level RNN with GloVe embeddings
 
 Either run this script, or the [`word_level_rnn_with_embeddings.ipynb`][word_level_rnn_with_embeddings] notebook on Google Colab.
+[![Open In Colab][colab-badge]][word_level_rnn_with_embeddings]
 
 ```
 python word_level_rnn_with_embeddings.py
@@ -89,7 +92,9 @@ To cope with my limited computation resources, [transfer learning](https://en.wi
 
 For this purpose, run:
 -   either the [`textgenrnn.ipynb`][textgenrnn] notebook on Google Colab, which relies on the [`textgenrnn`](https://github.com/minimaxir/textgenrnn) package,
+[![Open In Colab][colab-badge]][textgenrnn]
 -   or the [`gpt_2.ipynb`][gpt_2] notebook on Google Colab, which relies on the [`gpt_2_simple`](https://github.com/minimaxir/gpt-2-simple) package.
+[![Open In Colab][colab-badge]][gpt_2]
 
 ### Download app details for Artifact and for the top 100 most played games in the past 4 weeks
 
@@ -362,3 +367,5 @@ I hate Artifact in the main cost of the game is fun. The best card game is a ner
 [textgenrnn]: <https://colab.research.google.com/github/woctezuma/sample-steam-reviews/blob/master/textgenrnn.ipynb>
 [word_level_rnn]: <https://colab.research.google.com/github/woctezuma/sample-steam-reviews/blob/master/word_level_rnn.ipynb>
 [word_level_rnn_with_embeddings]: <https://colab.research.google.com/github/woctezuma/sample-steam-reviews/blob/master/word_level_rnn_with_embeddings.ipynb>
+
+[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
