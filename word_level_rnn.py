@@ -25,7 +25,7 @@ def sample(a, temperature=1.0):
     a = np.log(a) / temperature
     a = np.exp(a) / np.sum(np.exp(a))
     if sum(a) > 1.0:  # occasionally getting 1.00000X, so handling for that
-        a *= .999
+        a *= 0.999
     return np.argmax(np.random.multinomial(1, a, 1))
 
 
@@ -36,6 +36,7 @@ def train(path, maxlen=30):
         text = open(path).read().lower()
     except UnicodeDecodeError:
         import codecs
+
         text = codecs.open(path, encoding='utf-8').read().lower()
 
     print('corpus length: {}'.format(len(text)))
@@ -58,7 +59,7 @@ def train(path, maxlen=30):
     list_words = text.lower().split()
 
     for i in range(0, len(list_words) - maxlen, step):
-        sentences2 = ' '.join(list_words[i: i + maxlen])
+        sentences2 = ' '.join(list_words[i : i + maxlen])
         sentences.append(sentences2)
         next_words.append((list_words[i + maxlen]))
 
@@ -106,7 +107,13 @@ def train(path, maxlen=30):
     return model
 
 
-def generate_from_word_level_rnn(path, maxlen=30, diversity=1.0, min_sent_len=10, max_sent_len=65):
+def generate_from_word_level_rnn(
+    path,
+    maxlen=30,
+    diversity=1.0,
+    min_sent_len=10,
+    max_sent_len=65,
+):
     with open(path, "r", encoding='utf-8') as f:
         text = f.read().lower().split()[:4940]
     words = set(text)
@@ -118,12 +125,12 @@ def generate_from_word_level_rnn(path, maxlen=30, diversity=1.0, min_sent_len=10
     model = model_from_json(open(path).read())
     model.load_weights(get_model_weights_file_name())
     model.compile(loss='categorical_crossentropy', optimizer='rmsprop')
-    sentence = text[start_index: start_index + maxlen]
+    sentence = text[start_index : start_index + maxlen]
 
     for i in range(random.randint(min_sent_len, max_sent_len)):
         x = np.zeros((1, maxlen, len(words)))
         for t, word in enumerate(sentence):
-            x[0, t, word_indices[word]] = 1.
+            x[0, t, word_indices[word]] = 1.0
         preds = model.predict(x, verbose=0)[0]
         next_index = sample(preds, diversity)
         next_word = indices_word[next_index]

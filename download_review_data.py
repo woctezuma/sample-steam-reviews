@@ -42,9 +42,14 @@ def download_reviews_for_top_100():
     request_params = dict()
     request_params['language'] = 'english'
     request_params['filter'] = 'recent'
-    request_params['day_range'] = '28'  # focus on reviews which were published during the past four weeks
+    request_params[
+        'day_range'
+    ] = '28'  # focus on reviews which were published during the past four weeks
 
-    steamreviews.download_reviews_for_app_id_batch(app_ids, chosen_request_params=request_params)
+    steamreviews.download_reviews_for_app_id_batch(
+        app_ids,
+        chosen_request_params=request_params,
+    )
 
     return
 

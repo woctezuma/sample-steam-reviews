@@ -8,14 +8,22 @@ from sort_review_data import get_useful_review_ids
 
 
 def concatenate_reviews_as_a_large_text(english_review_dict, separator='\n'):
-    useful_positive_review_ids = get_useful_review_ids(english_review_dict, voted_up=True)
-    useful_negative_review_ids = get_useful_review_ids(english_review_dict, voted_up=False)
+    useful_positive_review_ids = get_useful_review_ids(
+        english_review_dict,
+        voted_up=True,
+    )
+    useful_negative_review_ids = get_useful_review_ids(
+        english_review_dict,
+        voted_up=False,
+    )
 
     # Concatenate lists of review ids
     sorted_review_ids = useful_positive_review_ids + useful_negative_review_ids
 
     # Concatenate lists of reviews
-    review_list = [english_review_dict[review_id]['review'] for review_id in sorted_review_ids]
+    review_list = [
+        english_review_dict[review_id]['review'] for review_id in sorted_review_ids
+    ]
 
     concatenated_reviews = separator.join(review_list)
 

@@ -19,7 +19,7 @@ def train_char_lm(fname, order=4):
     pad = '~' * order
     data = pad + data
     for i in range(len(data) - order):
-        history, char = data[i:i + order], data[i + order]
+        history, char = data[i : i + order], data[i + order]
         lm[history][char] += 1
 
     def normalize(counter):
@@ -36,7 +36,8 @@ def generate_letter(lm, history, order):
     x = random()
     for c, v in dist:
         x = x - v
-        if x <= 0: return c
+        if x <= 0:
+            return c
 
 
 def generate_text(lm, order, nletters=1000):

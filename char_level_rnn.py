@@ -33,7 +33,8 @@ def read_input(path=None):
     if path is None:
         path = get_file(
             'nietzsche.txt',
-            origin='https://s3.amazonaws.com/text-datasets/nietzsche.txt')
+            origin='https://s3.amazonaws.com/text-datasets/nietzsche.txt',
+        )
 
     with io.open(path, encoding='utf-8') as f:
         text = f.read().lower()
@@ -66,7 +67,7 @@ def sample_new_text(sentence, model, params, diversity):
     for i in range(400):
         x_pred = np.zeros((1, maxlen, len(chars)))
         for t, char in enumerate(sentence):
-            x_pred[0, t, char_indices[char]] = 1.
+            x_pred[0, t, char_indices[char]] = 1.0
 
         preds = model.predict(x_pred, verbose=0)[0]
         next_index = sample(preds, diversity)
@@ -114,7 +115,13 @@ def trim_text(text, chars_to_keep):
     return trimmed_text
 
 
-def train_model(text, maxlen=40, num_epochs=60, full_model_filename=None, initial_epoch=0):
+def train_model(
+    text,
+    maxlen=40,
+    num_epochs=60,
+    full_model_filename=None,
+    initial_epoch=0,
+):
     params = get_params(maxlen)
 
     chars = params['chars']
@@ -130,7 +137,7 @@ def train_model(text, maxlen=40, num_epochs=60, full_model_filename=None, initia
     sentences = []
     next_chars = []
     for i in range(0, len(text) - maxlen, step):
-        sentences.append(text[i: i + maxlen])
+        sentences.append(text[i : i + maxlen])
         next_chars.append(text[i + maxlen])
     print('nb sequences:', len(sentences))
 
@@ -162,27 +169,37 @@ def train_model(text, maxlen=40, num_epochs=60, full_model_filename=None, initia
         for diversity in [0.2, 0.5, 1.0, 1.2]:
             print('----- diversity:', diversity)
 
-            sentence = text[start_index: start_index + maxlen]
+            sentence = text[start_index : start_index + maxlen]
             sample_new_text(sentence, model, params, diversity)
 
     print_callback = LambdaCallback(on_epoch_end=on_epoch_end)
 
-    save_callback = ModelCheckpoint(filepath='model.char_level_rnn.epoch_{epoch:02d}.hdf5',
-                                    save_weights_only=False)
+    save_callback = ModelCheckpoint(
+        filepath='model.char_level_rnn.epoch_{epoch:02d}.hdf5',
+        save_weights_only=False,
+    )
 
     if full_model_filename is not None:
         try:
-            print('Loading model {} with initial epoch = {}'.format(full_model_filename, initial_epoch))
+            print(
+                'Loading model {} with initial epoch = {}'.format(
+                    full_model_filename,
+                    initial_epoch,
+                ),
+            )
             model = load_model(full_model_filename)
         except FileNotFoundError:
             print('Model not found. Setting initial epoch to 0.')
             initial_epoch = 0
 
-    model.fit(x, y,
-              batch_size=128,
-              epochs=num_epochs,
-              initial_epoch=initial_epoch,
-              callbacks=[print_callback, save_callback])
+    model.fit(
+        x,
+        y,
+        batch_size=128,
+        epochs=num_epochs,
+        initial_epoch=initial_epoch,
+        callbacks=[print_callback, save_callback],
+    )
 
     return model
 
@@ -196,14 +213,16 @@ if __name__ == '__main__':
 
     text = trim_text(text, params['chars'])
 
-    model = train_model(text,
-                        maxlen,
-                        num_epochs=20,
-                        full_model_filename=None,
-                        initial_epoch=0)
+    model = train_model(
+        text,
+        maxlen,
+        num_epochs=20,
+        full_model_filename=None,
+        initial_epoch=0,
+    )
 
     start_index = random.randint(0, len(text) - maxlen - 1)
     for diversity in [0.2, 0.5, 1.0, 1.2]:
         print('----- diversity:', diversity)
-        sentence = text[start_index: start_index + maxlen]
+        sentence = text[start_index : start_index + maxlen]
         sample_new_text(sentence, model, params, diversity)

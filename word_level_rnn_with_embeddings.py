@@ -25,7 +25,7 @@ def chunks(l, n, overlap_size=0):
     # Reference: https://stackoverflow.com/a/312464
     """Yield successive n-sized chunks from l."""
     for i in range(0, len(l), n - overlap_size):
-        yield l[i:i + n]
+        yield l[i : i + n]
 
 
 def sample(preds, temperature=1.0):
@@ -45,33 +45,52 @@ def tokenize(doc, word_model=None):
         word_model = nlp.vocab
 
     translator = str.maketrans('', '', string.punctuation)
-    tokens = [word for word in doc.lower().translate(translator).split()
-              if word_model.has_vector(word)]
+    tokens = [
+        word
+        for word in doc.lower().translate(translator).split()
+        if word_model.has_vector(word)
+    ]
     return tokens
 
 
-def filter_sentences(tokens, max_sentence_len, overlap_size, filter_min=True, filter_max=True):
-    current_sentences = [sentence for sentence in chunks(tokens, max_sentence_len, overlap_size)]
+def filter_sentences(
+    tokens,
+    max_sentence_len,
+    overlap_size,
+    filter_min=True,
+    filter_max=True,
+):
+    current_sentences = [
+        sentence for sentence in chunks(tokens, max_sentence_len, overlap_size)
+    ]
     if filter_min:
         # At least, two words, so that we can predict the last one based on the previous one(s).
-        current_sentences = [sentence for sentence in current_sentences if len(sentence) > 1]
+        current_sentences = [
+            sentence for sentence in current_sentences if len(sentence) > 1
+        ]
     if filter_max:
         # Exactly the number of words expected
-        current_sentences = [sentence for sentence in current_sentences if len(sentence) == max_sentence_len]
+        current_sentences = [
+            sentence
+            for sentence in current_sentences
+            if len(sentence) == max_sentence_len
+        ]
     return current_sentences
 
 
-def train_model(path,
-                max_sentence_len=40,
-                overlap_size=0,
-                num_epochs=20,
-                full_model_filename=None,
-                initial_epoch=0,
-                filter_max=True):
+def train_model(
+    path,
+    max_sentence_len=40,
+    overlap_size=0,
+    num_epochs=20,
+    full_model_filename=None,
+    initial_epoch=0,
+    filter_max=True,
+):
     if overlap_size is None:
         overlap_size = max_sentence_len - 1
 
-    assert (0 <= overlap_size < max_sentence_len)
+    assert 0 <= overlap_size < max_sentence_len
 
     print('\nLoading GloVe...')
     nlp = spacy.load('en_vectors_web_lg')
@@ -86,7 +105,12 @@ def train_model(path,
     sentences = []
     for doc in docs:
         tokens = tokenize(doc, word_model)
-        current_sentences = filter_sentences(tokens, max_sentence_len, overlap_size, filter_max=filter_max)
+        current_sentences = filter_sentences(
+            tokens,
+            max_sentence_len,
+            overlap_size,
+            filter_max=filter_max,
+        )
         sentences.extend(current_sentences)
 
         data_driven_vocabulary = data_driven_vocabulary.union(tokens)
@@ -149,10 +173,14 @@ def train_model(path,
 
     print('\nTraining LSTM...')
     model = Sequential()
-    model.add(Embedding(input_dim=vocab_size,
-                        output_dim=emdedding_size,
-                        embeddings_initializer=Constant(pretrained_weights),
-                        trainable=False))
+    model.add(
+        Embedding(
+            input_dim=vocab_size,
+            output_dim=emdedding_size,
+            embeddings_initializer=Constant(pretrained_weights),
+            trainable=False,
+        ),
+    )
     model.add(LSTM(512, return_sequences=True))
     model.add(Dropout(0.5))
     model.add(LSTM(512, return_sequences=False))
@@ -166,22 +194,32 @@ def train_model(path,
 
     print_callback = LambdaCallback(on_epoch_end=on_epoch_end)
 
-    save_callback = ModelCheckpoint(filepath='model.word_level_rnn_with_embeddings.epoch_{epoch:02d}.hdf5',
-                                    save_weights_only=False)
+    save_callback = ModelCheckpoint(
+        filepath='model.word_level_rnn_with_embeddings.epoch_{epoch:02d}.hdf5',
+        save_weights_only=False,
+    )
 
     if full_model_filename is not None:
         try:
-            print('Loading model {} with initial epoch = {}'.format(full_model_filename, initial_epoch))
+            print(
+                'Loading model {} with initial epoch = {}'.format(
+                    full_model_filename,
+                    initial_epoch,
+                ),
+            )
             model = load_model(full_model_filename)
         except FileNotFoundError:
             print('Model not found. Setting initial epoch to 0.')
             initial_epoch = 0
 
-    model.fit(train_x, train_y,
-              batch_size=128,
-              epochs=num_epochs,
-              initial_epoch=initial_epoch,
-              callbacks=[print_callback, save_callback])
+    model.fit(
+        train_x,
+        train_y,
+        batch_size=128,
+        epochs=num_epochs,
+        initial_epoch=initial_epoch,
+        callbacks=[print_callback, save_callback],
+    )
 
     return model, sorted_data_driven_vocabulary
 
@@ -198,7 +236,13 @@ def get_examples_of_sentence_start():
     return texts
 
 
-def generic_generate_next(sentence, model, sorted_data_driven_vocabulary, word_model=None, num_generated=10):
+def generic_generate_next(
+    sentence,
+    model,
+    sorted_data_driven_vocabulary,
+    word_model=None,
+    num_generated=10,
+):
     word_indices = dict((c, i) for i, c in enumerate(sorted_data_driven_vocabulary))
     indices_word = dict((i, c) for i, c in enumerate(sorted_data_driven_vocabulary))
 
@@ -214,9 +258,20 @@ def generic_generate_next(sentence, model, sorted_data_driven_vocabulary, word_m
     return generated_text
 
 
-def generate_examples(model, sorted_data_driven_vocabulary, word_model=None, num_generated=10):
+def generate_examples(
+    model,
+    sorted_data_driven_vocabulary,
+    word_model=None,
+    num_generated=10,
+):
     for text in get_examples_of_sentence_start():
-        my_sample = generic_generate_next(text, model, sorted_data_driven_vocabulary, word_model, num_generated)
+        my_sample = generic_generate_next(
+            text,
+            model,
+            sorted_data_driven_vocabulary,
+            word_model,
+            num_generated,
+        )
         print('{}...\n-> {}'.format(text, my_sample))
     return
 
@@ -242,13 +297,15 @@ if __name__ == "__main__":
 
     # Train
 
-    model, sorted_data_driven_vocabulary = train_model(path=text_file_name,
-                                                       max_sentence_len=max_sentence_len,
-                                                       overlap_size=overlap_size,
-                                                       num_epochs=num_epochs,
-                                                       full_model_filename=full_model_filename,
-                                                       initial_epoch=initial_epoch,
-                                                       filter_max=filter_max)
+    model, sorted_data_driven_vocabulary = train_model(
+        path=text_file_name,
+        max_sentence_len=max_sentence_len,
+        overlap_size=overlap_size,
+        num_epochs=num_epochs,
+        full_model_filename=full_model_filename,
+        initial_epoch=initial_epoch,
+        filter_max=filter_max,
+    )
 
     with open(get_vocabulary_file_name(), 'w', encoding='utf-8') as f:
         print(sorted_data_driven_vocabulary, file=f)
@@ -264,4 +321,9 @@ if __name__ == "__main__":
     nlp = spacy.load('en_vectors_web_lg')
     word_model = nlp.vocab
 
-    generate_examples(model, sorted_data_driven_vocabulary, word_model, num_generated=10)
+    generate_examples(
+        model,
+        sorted_data_driven_vocabulary,
+        word_model,
+        num_generated=10,
+    )

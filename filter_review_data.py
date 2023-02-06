@@ -39,12 +39,16 @@ def load_english_reviews(app_id=None, language_str='english', verbose=True):
         try:
             for review_id in languages[language_str][is_upvote]:
                 review_text = review_dict['reviews'][review_id]['review']
-                review_usefulness = float(review_dict['reviews'][review_id]['weighted_vote_score'])
+                review_usefulness = float(
+                    review_dict['reviews'][review_id]['weighted_vote_score'],
+                )
 
                 english_review_dict[review_id] = dict()
                 english_review_dict[review_id]['review'] = review_text
                 english_review_dict[review_id]['voted_up'] = is_upvote
-                english_review_dict[review_id]['weighted_vote_score'] = review_usefulness
+                english_review_dict[review_id][
+                    'weighted_vote_score'
+                ] = review_usefulness
         except KeyError:
             continue
 
@@ -73,8 +77,15 @@ def get_negative_review_ids(english_review_dict):
 def filter_out_short_reviews(english_review_dict, length_threshold=150):
     review_ids = english_review_dict.keys()
 
-    print('Filtering out reviews with strictly fewer than {} characters.'.format(length_threshold))
-    review_ids = filter(lambda x: len(english_review_dict[x]['review']) >= length_threshold, review_ids)
+    print(
+        'Filtering out reviews with strictly fewer than {} characters.'.format(
+            length_threshold,
+        ),
+    )
+    review_ids = filter(
+        lambda x: len(english_review_dict[x]['review']) >= length_threshold,
+        review_ids,
+    )
 
     long_english_review_dict = dict()
     for review_id in review_ids:
@@ -115,7 +126,12 @@ def detect_review_language(app_id=None, verbose=False):
 
     for count, review_id in enumerate(english_review_dict):
         if verbose and (count + 1) % 1000 == 0:
-            print('Reviews processed by langdetect: {}/{}.'.format(count + 1, len(english_review_dict)))
+            print(
+                'Reviews processed by langdetect: {}/{}.'.format(
+                    count + 1,
+                    len(english_review_dict),
+                ),
+            )
 
         if review_id in detected_languages:
             continue
@@ -163,11 +179,22 @@ def apply_language_detector():
     return
 
 
-def filter_out_reviews_not_detected_as_english(english_review_dict, detected_languages, expected_language_code='en'):
+def filter_out_reviews_not_detected_as_english(
+    english_review_dict,
+    detected_languages,
+    expected_language_code='en',
+):
     review_ids = english_review_dict.keys()
 
-    print('Filtering out reviews which were not detected as {}.'.format(expected_language_code))
-    review_ids = filter(lambda x: detected_languages[x] == expected_language_code, review_ids)
+    print(
+        'Filtering out reviews which were not detected as {}.'.format(
+            expected_language_code,
+        ),
+    )
+    review_ids = filter(
+        lambda x: detected_languages[x] == expected_language_code,
+        review_ids,
+    )
 
     checked_english_review_dict = dict()
     for review_id in review_ids:
@@ -183,11 +210,17 @@ def filter_reviews(app_id=None):
 
     english_review_dict = load_english_reviews(app_id)
 
-    english_review_dict = filter_out_short_reviews(english_review_dict, length_threshold=150)
+    english_review_dict = filter_out_short_reviews(
+        english_review_dict,
+        length_threshold=150,
+    )
     print('#reviews = {}'.format(len(english_review_dict)))
 
     detected_languages = detect_review_language(app_id)
-    english_review_dict = filter_out_reviews_not_detected_as_english(english_review_dict, detected_languages)
+    english_review_dict = filter_out_reviews_not_detected_as_english(
+        english_review_dict,
+        detected_languages,
+    )
     print('#reviews = {}'.format(len(english_review_dict)))
 
     return english_review_dict
