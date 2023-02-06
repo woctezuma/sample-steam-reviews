@@ -2,25 +2,25 @@ import json
 from pathlib import Path
 
 import steamspypi
-from langdetect import detect, DetectorFactory, lang_detect_exception
+from langdetect import DetectorFactory, detect, lang_detect_exception
 
-from download_review_data import load_reviews, get_artifact_app_id
+from download_review_data import get_artifact_app_id, load_reviews
 
 
 def cluster_reviews_by_language(review_dict, verbose=False):
     reviews = review_dict['reviews']
 
     if verbose:
-        print('#downloaded reviews = {}'.format(len(reviews)))
+        print(f'#downloaded reviews = {len(reviews)}')
 
-    languages = dict()
+    languages = {}
 
     for review_id in reviews:
         language = reviews[review_id]['language']
         voted_up = reviews[review_id]['voted_up']
 
         if language not in languages:
-            languages[language] = dict()
+            languages[language] = {}
             for is_upvote in [True, False]:
                 languages[language][is_upvote] = []
 
@@ -34,7 +34,7 @@ def load_english_reviews(app_id=None, language_str='english', verbose=True):
 
     languages = cluster_reviews_by_language(review_dict)
 
-    english_review_dict = dict()
+    english_review_dict = {}
     for is_upvote in [True, False]:
         try:
             for review_id in languages[language_str][is_upvote]:
@@ -43,7 +43,7 @@ def load_english_reviews(app_id=None, language_str='english', verbose=True):
                     review_dict['reviews'][review_id]['weighted_vote_score'],
                 )
 
-                english_review_dict[review_id] = dict()
+                english_review_dict[review_id] = {}
                 english_review_dict[review_id]['review'] = review_text
                 english_review_dict[review_id]['voted_up'] = is_upvote
                 english_review_dict[review_id][
@@ -53,7 +53,7 @@ def load_english_reviews(app_id=None, language_str='english', verbose=True):
             continue
 
     if verbose:
-        print('Loading {} English reviews.'.format(len(english_review_dict)))
+        print(f'Loading {len(english_review_dict)} English reviews.')
 
     return english_review_dict
 
@@ -87,9 +87,9 @@ def filter_out_short_reviews(english_review_dict, length_threshold=150):
         review_ids,
     )
 
-    long_english_review_dict = dict()
+    long_english_review_dict = {}
     for review_id in review_ids:
-        long_english_review_dict[review_id] = dict()
+        long_english_review_dict[review_id] = {}
         long_english_review_dict[review_id] = english_review_dict[review_id]
 
     return long_english_review_dict
@@ -115,10 +115,10 @@ def detect_review_language(app_id=None, verbose=False):
     output_file_name = get_language_file_name(app_id)
 
     try:
-        with open(output_file_name, 'r', encoding='utf8') as f:
+        with open(output_file_name, encoding='utf8') as f:
             detected_languages = json.load(f)
     except FileNotFoundError:
-        detected_languages = dict()
+        detected_languages = {}
 
     DetectorFactory.seed = 0
 
@@ -153,7 +153,7 @@ def detect_review_language(app_id=None, verbose=False):
 
 
 def detect_review_language_for_top_100(verbose=True):
-    data_request = dict()
+    data_request = {}
     data_request['request'] = 'top100in2weeks'
     data = steamspypi.download(data_request)
 
@@ -196,9 +196,9 @@ def filter_out_reviews_not_detected_as_english(
         review_ids,
     )
 
-    checked_english_review_dict = dict()
+    checked_english_review_dict = {}
     for review_id in review_ids:
-        checked_english_review_dict[review_id] = dict()
+        checked_english_review_dict[review_id] = {}
         checked_english_review_dict[review_id] = english_review_dict[review_id]
 
     return checked_english_review_dict
@@ -214,14 +214,14 @@ def filter_reviews(app_id=None):
         english_review_dict,
         length_threshold=150,
     )
-    print('#reviews = {}'.format(len(english_review_dict)))
+    print(f'#reviews = {len(english_review_dict)}')
 
     detected_languages = detect_review_language(app_id)
     english_review_dict = filter_out_reviews_not_detected_as_english(
         english_review_dict,
         detected_languages,
     )
-    print('#reviews = {}'.format(len(english_review_dict)))
+    print(f'#reviews = {len(english_review_dict)}')
 
     return english_review_dict
 

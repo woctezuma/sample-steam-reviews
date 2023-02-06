@@ -12,15 +12,13 @@ If you try this script on new data, make sure your corpus
 has at least ~100k characters. ~1M is better.
 '''
 
-import io
 import random
 import string
 import sys
 
 import numpy as np
 from keras.callbacks import LambdaCallback, ModelCheckpoint
-from keras.layers import Dense
-from keras.layers import LSTM
+from keras.layers import LSTM, Dense
 from keras.layers.core import Dropout
 from keras.models import Sequential, load_model
 from keras.utils.data_utils import get_file
@@ -36,7 +34,7 @@ def read_input(path=None):
             origin='https://s3.amazonaws.com/text-datasets/nietzsche.txt',
         )
 
-    with io.open(path, encoding='utf-8') as f:
+    with open(path, encoding='utf-8') as f:
         text = f.read().lower()
     print('corpus length:', len(text))
 
@@ -64,7 +62,7 @@ def sample_new_text(sentence, model, params, diversity):
     char_indices = params['char_indices']
     indices_char = params['indices_char']
 
-    for i in range(400):
+    for _i in range(400):
         x_pred = np.zeros((1, maxlen, len(chars)))
         for t, char in enumerate(sentence):
             x_pred[0, t, char_indices[char]] = 1.0
@@ -87,10 +85,10 @@ def get_params(maxlen=None):
     chars = string.ascii_letters + string.digits + string.punctuation + ' '
 
     print('total chars:', len(chars))
-    char_indices = dict((c, i) for i, c in enumerate(chars))
-    indices_char = dict((i, c) for i, c in enumerate(chars))
+    char_indices = {c: i for i, c in enumerate(chars)}
+    indices_char = {i: c for i, c in enumerate(chars)}
 
-    params = dict()
+    params = {}
     params['chars'] = chars
     params['char_indices'] = char_indices
     params['indices_char'] = indices_char
@@ -107,7 +105,7 @@ def trim_text(text, chars_to_keep):
     text_chars = sorted(list(set(text)))
 
     chars_to_remove = ''.join(set(text_chars).difference(chars_to_keep))
-    print('Removing {} characters: {}'.format(len(chars_to_remove), chars_to_remove))
+    print(f'Removing {len(chars_to_remove)} characters: {chars_to_remove}')
 
     translator = str.maketrans('', '', chars_to_remove)
     trimmed_text = text.translate(translator)

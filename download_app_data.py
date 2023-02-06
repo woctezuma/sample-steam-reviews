@@ -20,7 +20,7 @@ def download_app_details(app_id=None):
 def download_app_details_for_top_100():
     # For each of the top 100 most played games, download app details
 
-    data_request = dict()
+    data_request = {}
     data_request['request'] = 'top100in2weeks'
     data = steamspypi.download(data_request)
 

@@ -48,7 +48,7 @@ def get_output_file_name(app_id=None):
 def main():
     app_ids = [get_artifact_app_id()]
 
-    data_request = dict()
+    data_request = {}
     data_request['request'] = 'top100in2weeks'
     data = steamspypi.download(data_request)
 

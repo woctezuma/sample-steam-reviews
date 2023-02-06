@@ -33,13 +33,13 @@ def load_reviews(app_id=None):
 def download_reviews_for_top_100():
     # For each of the top 100 most played games, download English reviews, sorted by helpfulness, for the past 4 weeks
 
-    data_request = dict()
+    data_request = {}
     data_request['request'] = 'top100in2weeks'
     data = steamspypi.download(data_request)
 
     app_ids = list(data.keys())
 
-    request_params = dict()
+    request_params = {}
     request_params['language'] = 'english'
     request_params['filter'] = 'recent'
     request_params[

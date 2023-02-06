@@ -60,9 +60,7 @@ def filter_sentences(
     filter_min=True,
     filter_max=True,
 ):
-    current_sentences = [
-        sentence for sentence in chunks(tokens, max_sentence_len, overlap_size)
-    ]
+    current_sentences = list(chunks(tokens, max_sentence_len, overlap_size))
     if filter_min:
         # At least, two words, so that we can predict the last one based on the previous one(s).
         current_sentences = [
@@ -100,7 +98,7 @@ def train_model(
 
     data_driven_vocabulary = set()
 
-    with open(path, 'r', encoding='utf-8') as f:
+    with open(path, encoding='utf-8') as f:
         docs = f.readlines()
     sentences = []
     for doc in docs:
@@ -117,8 +115,8 @@ def train_model(
 
     num_unique_words = len(data_driven_vocabulary)
 
-    print('Num sentences: {}'.format(len(sentences)))
-    print('Num unique words: {}'.format(num_unique_words))
+    print(f'Num sentences: {len(sentences)}')
+    print(f'Num unique words: {num_unique_words}')
 
     # Work on the full GloVe matrix
 
@@ -131,7 +129,7 @@ def train_model(
         try:
             my_row = word_model.vectors.key2row[my_key]
         except KeyError:
-            print('Word {} unknown'.format(my_word))
+            print(f'Word {my_word} unknown')
             my_row = 2091  # the row for 'cat' word
         return my_row
 
@@ -144,8 +142,8 @@ def train_model(
 
     sorted_data_driven_vocabulary = sorted(list(data_driven_vocabulary))
 
-    word_indices = dict((c, i) for i, c in enumerate(sorted_data_driven_vocabulary))
-    indices_word = dict((i, c) for i, c in enumerate(sorted_data_driven_vocabulary))
+    word_indices = {c: i for i, c in enumerate(sorted_data_driven_vocabulary)}
+    indices_word = {i: c for i, c in enumerate(sorted_data_driven_vocabulary)}
 
     def word2idx(my_word):
         return word_indices.get(my_word, None)
@@ -243,12 +241,12 @@ def generic_generate_next(
     word_model=None,
     num_generated=10,
 ):
-    word_indices = dict((c, i) for i, c in enumerate(sorted_data_driven_vocabulary))
-    indices_word = dict((i, c) for i, c in enumerate(sorted_data_driven_vocabulary))
+    word_indices = {c: i for i, c in enumerate(sorted_data_driven_vocabulary)}
+    indices_word = {i: c for i, c in enumerate(sorted_data_driven_vocabulary)}
 
     tokens = tokenize(sentence, word_model)
     word_idxs = [word_indices[word] for word in tokens]
-    for i in range(num_generated):
+    for _i in range(num_generated):
         prediction = model.predict(x=np.array(word_idxs))
         idx = sample(prediction[-1], temperature=0.7)
         word_idxs.append(idx)
@@ -272,7 +270,7 @@ def generate_examples(
             word_model,
             num_generated,
         )
-        print('{}...\n-> {}'.format(text, my_sample))
+        print(f'{text}...\n-> {my_sample}')
     return
 
 
@@ -315,7 +313,7 @@ if __name__ == "__main__":
     load_previous_vocabulary = False
 
     if load_previous_vocabulary:
-        with open(get_vocabulary_file_name(), 'r', encoding='utf-8') as f:
+        with open(get_vocabulary_file_name(), encoding='utf-8') as f:
             sorted_data_driven_vocabulary = f.readlines()
 
     nlp = spacy.load('en_vectors_web_lg')

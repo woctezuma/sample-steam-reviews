@@ -5,8 +5,7 @@ import random
 import numpy as np
 from keras.layers.core import Dense, Dropout
 from keras.layers.recurrent import LSTM
-from keras.models import Sequential
-from keras.models import model_from_json
+from keras.models import Sequential, model_from_json
 
 from download_review_data import get_artifact_app_id
 from export_review_data import get_output_file_name
@@ -39,20 +38,20 @@ def train(path, maxlen=30):
 
         text = codecs.open(path, encoding='utf-8').read().lower()
 
-    print('corpus length: {}'.format(len(text)))
+    print(f'corpus length: {len(text)}')
 
     chars = set(text)
     words = set(text.split())
 
-    print("total number of unique words: {}".format(len(words)))
-    print("total number of unique chars: {}".format(len(chars)))
+    print(f"total number of unique words: {len(words)}")
+    print(f"total number of unique chars: {len(chars)}")
 
-    word_indices = dict((c, i) for i, c in enumerate(words))
-    indices_word = dict((i, c) for i, c in enumerate(words))
+    word_indices = {c: i for i, c in enumerate(words)}
+    indices_word = {i: c for i, c in enumerate(words)}
 
     step = 3
 
-    print("maxlen: {} ; step: {}".format(maxlen, step))
+    print(f"maxlen: {maxlen} ; step: {step}")
 
     sentences = []
     next_words = []
@@ -61,10 +60,10 @@ def train(path, maxlen=30):
     for i in range(0, len(list_words) - maxlen, step):
         sentences2 = ' '.join(list_words[i : i + maxlen])
         sentences.append(sentences2)
-        next_words.append((list_words[i + maxlen]))
+        next_words.append(list_words[i + maxlen])
 
-    print('length of sentence list: {}'.format(len(sentences)))
-    print("length of next_word list: {}".format(len(next_words)))
+    print(f'length of sentence list: {len(sentences)}')
+    print(f"length of next_word list: {len(next_words)}")
 
     print('Vectorization...')
     X = np.zeros((len(sentences), maxlen, len(words)), dtype=np.bool)
@@ -96,7 +95,7 @@ def train(path, maxlen=30):
     # train the model, output generated text after each iteration
 
     for iteration in range(1, 750):
-        print('Iteration {}'.format(iteration))
+        print(f'Iteration {iteration}')
 
         model.fit(X, y, batch_size=500, nb_epoch=3)
         json_string = model.to_json()
@@ -114,12 +113,12 @@ def generate_from_word_level_rnn(
     min_sent_len=10,
     max_sent_len=65,
 ):
-    with open(path, "r", encoding='utf-8') as f:
+    with open(path, encoding='utf-8') as f:
         text = f.read().lower().split()[:4940]
     words = set(text)
     start_index = random.randint(0, len(text) - maxlen - 1)
-    word_indices = dict((c, i) for i, c in enumerate(words))
-    indices_word = dict((i, c) for i, c in enumerate(words))
+    word_indices = {c: i for i, c in enumerate(words)}
+    indices_word = {i: c for i, c in enumerate(words)}
 
     response = ""
     model = model_from_json(open(path).read())
@@ -127,7 +126,7 @@ def generate_from_word_level_rnn(
     model.compile(loss='categorical_crossentropy', optimizer='rmsprop')
     sentence = text[start_index : start_index + maxlen]
 
-    for i in range(random.randint(min_sent_len, max_sent_len)):
+    for _i in range(random.randint(min_sent_len, max_sent_len)):
         x = np.zeros((1, maxlen, len(words)))
         for t, word in enumerate(sentence):
             x[0, t, word_indices[word]] = 1.0
@@ -135,10 +134,10 @@ def generate_from_word_level_rnn(
         next_index = sample(preds, diversity)
         next_word = indices_word[next_index]
         if not response:
-            response += ' {0}'.format(next_word)
+            response += f' {next_word}'
         else:
             if response.split()[-1] != next_word:
-                response += ' {0}'.format(next_word)
+                response += f' {next_word}'
         del sentence[0]
         sentence.append(next_word)
     return response

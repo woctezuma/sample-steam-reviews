@@ -14,8 +14,8 @@ def print_global_summary(review_dict):
             query_summary['review_score_desc'],
         ),
     )
-    print('#positive reviews = {}'.format(positive))
-    print('#negative reviews = {}'.format(negative))
+    print(f'#positive reviews = {positive}')
+    print(f'#negative reviews = {negative}')
     print('#reviews = {}'.format(query_summary['total_reviews']))
 
     if query_summary['total_reviews'] != (positive + negative):
