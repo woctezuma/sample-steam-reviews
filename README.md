@@ -347,8 +347,8 @@ I hate Artifact in the main cost of the game is fun. The best card game is a ner
 -   My repository to sample Steam store descriptions: [`sample-steam-descriptions`](https://github.com/woctezuma/sample-steam-descriptions)
 -   My other repository to sample reviews for Steam games: [`sample-steam-reviews-with-gpt-2`](https://github.com/woctezuma/sample-steam-reviews-with-gpt-2)
 
-[build]: <https://travis-ci.org/woctezuma/sample-steam-reviews>
-[build-image]: <https://travis-ci.org/woctezuma/sample-steam-reviews.svg?branch=master>
+[build]: <https://github.com/woctezuma/sample-steam-reviews/actions>
+[build-image]: <https://github.com/woctezuma/sample-steam-reviews/workflows/Python package/badge.svg?branch=master>
 
 [pyup]: <https://pyup.io/repos/github/woctezuma/sample-steam-reviews/>
 [dependency-image]: <https://pyup.io/repos/github/woctezuma/sample-steam-reviews/shield.svg>
