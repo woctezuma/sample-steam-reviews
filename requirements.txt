@@ -5,4 +5,4 @@ langdetect==1.0.7
 keras==2.10.0
 numpy==1.17.0
 cntk==2.7.post2
-spacy==2.1.8
+spacy==2.3.9
